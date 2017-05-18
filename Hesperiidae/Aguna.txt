@@ -1,0 +1,20 @@
+{{Ficha de taxón
+  | name = Aguna
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Aguna''
+}}
+=== Especies === 
+---- 
+* ''[[Aguna albistria]]'' (Plötz, 1880)
+* ''[[Aguna asander]]'' (Hewitson, 1867)
+* ''[[Aguna aurunce]]'' (Hewitson, 1867)
+* ''[[Aguna ganna]]'' (Möschler, 1879)
+* ''[[Aguna megaeles]]'' (Mabille, 1888)
+* ''[[Aguna venezuelae]]'' Mielke, 1971
+---- 
+=== Referencias ===
+

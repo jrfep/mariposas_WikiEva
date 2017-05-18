@@ -1,0 +1,17 @@
+{{Ficha de taxón
+  | name = Rhetus
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Riodinidae]]
+  | genus = ''Rhetus''
+}}
+=== Especies === 
+---- 
+* ''[[Rhetus arcius]]'' (Linnaeus, 1763)
+* ''[[Rhetus dysonii]]'' (Saunders, 1850)
+* ''[[Rhetus periander]]'' (Cramer, 1777)
+---- 
+=== Referencias ===
+

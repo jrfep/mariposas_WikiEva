@@ -1,0 +1,16 @@
+{{Ficha de taxón
+  | name = Aeria
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Aeria''
+}}
+=== Especies === 
+---- 
+* ''[[Aeria elara]]'' (Hewitson, 1855)
+* ''[[Aeria eurimedia]]'' (Cramer, 1777)
+---- 
+=== Referencias ===
+

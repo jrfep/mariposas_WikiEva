@@ -1,0 +1,18 @@
+{{Ficha de taxón
+  | name = Lamprospilus
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Lycaenidae]]
+  | genus = ''Lamprospilus''
+}}
+=== Especies === 
+---- 
+* ''[[Lamprospilus badaca]]'' (Hewitson, 1868)
+* ''[[Lamprospilus canacha]]'' (Hewitson, 1877)
+* ''[[Lamprospilus collucia]]'' (Hewitson, 1877)
+* ''[[Lamprospilus nicetus]]'' (Felder & Felder, 1865)
+---- 
+=== Referencias ===
+

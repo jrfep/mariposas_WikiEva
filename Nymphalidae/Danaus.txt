@@ -1,0 +1,17 @@
+{{Ficha de taxón
+  | name = Danaus
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Danaus''
+}}
+=== Especies === 
+---- 
+* ''[[Danaus eresimus]]'' (Cramer, 1777)
+* ''[[Danaus gilippus]]'' (Cramer, 1775)
+* ''[[Danaus plexippus]]'' (Linnaeus, 1758)
+---- 
+=== Referencias ===
+

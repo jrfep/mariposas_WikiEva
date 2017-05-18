@@ -1,0 +1,32 @@
+{{Ficha de taxón
+  | name = Pteronymia
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Pteronymia''
+}}
+=== Especies === 
+---- 
+* ''[[Pteronymia alcmena]]'' (Godman & Salvin, 1877)
+* ''[[Pteronymia aletta]]'' (Hewitson, [1855])
+* ''[[Pteronymia alicia]]'' Neild, 2008
+* ''[[Pteronymia alida]]'' (Hewitson, 1855)
+* ''[[Pteronymia alissa]]'' (Hewitson, 1869)
+* ''[[Pteronymia alope]]'' Godman & Salvin, 1879
+* ''[[Pteronymia artena]]'' (Hewitson, [1855])
+* ''[[Pteronymia donella]]'' (Felder & Felder, 1865)
+* ''[[Pteronymia hara]]'' (Hewitson, 1877)
+* ''[[Pteronymia latilla]]'' (Hewitson, [1855])
+* ''[[Pteronymia obscuratus]]'' (Fabricius, 1793)
+* ''[[Pteronymia oneida]]'' (Hewitson, 1855)
+* ''[[Pteronymia peteri]]'' Neild, 2008
+* ''[[Pteronymia picta]]'' (Salvin, 1869)
+* ''[[Pteronymia primula]]'' (Bates, 1862)
+* ''[[Pteronymia ticida]]'' (Hewitson, 1869)
+* ''[[Pteronymia veia]]'' (Hewitson, [1853])
+* ''[[Pteronymia zerlina]]'' (Hewitson, [1856])
+---- 
+=== Referencias ===
+

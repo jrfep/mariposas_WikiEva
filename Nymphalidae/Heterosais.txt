@@ -1,0 +1,16 @@
+{{Ficha de taxón
+  | name = Heterosais
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Heterosais''
+}}
+=== Especies === 
+---- 
+* ''[[Heterosais edessa]]'' (Hewitson, [1855])
+* ''[[Heterosais giulia]]'' (Hewitson, [1855])
+---- 
+=== Referencias ===
+

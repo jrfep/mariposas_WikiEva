@@ -1,0 +1,17 @@
+{{Ficha de taxón
+  | name = Diaphanos
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Diaphanos''
+}}
+=== Especies === 
+---- 
+* ''[[Diaphanos curvignathos]]'' Viloria, 1994
+* ''[[Diaphanos fuscus]]'' Viloria, 1994
+* ''[[Diaphanos huberi]]'' Adams & Bernard, 1981
+---- 
+=== Referencias ===
+

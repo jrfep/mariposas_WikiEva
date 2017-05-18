@@ -1,0 +1,16 @@
+{{Ficha de taxón
+  | name = Neruda
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Neruda''
+}}
+=== Especies === 
+---- 
+* ''[[Neruda aoede]]'' (Hübner, [1813])
+* ''[[Neruda metharme]]'' (Erichson, [1849])
+---- 
+=== Referencias ===
+

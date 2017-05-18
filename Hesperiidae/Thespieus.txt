@@ -1,0 +1,18 @@
+{{Ficha de taxón
+  | name = Thespieus
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Thespieus''
+}}
+=== Especies === 
+---- 
+* ''[[Thespieus duidensis]]'' Bell, 1932
+* ''[[Thespieus himella]]'' (Hewitson, 1868)
+* ''[[Thespieus macareus]]'' (Herrich-Schäffer, 1869)
+* ''[[Thespieus othna]]'' (Butler, 1870)
+---- 
+=== Referencias ===
+

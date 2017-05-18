@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Dryadula
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Dryadula''
+}}
+=== Especies === 
+---- 
+* ''[[Dryadula phaetusa]]'' (Linnaeus, 1758)
+---- 
+=== Referencias ===
+

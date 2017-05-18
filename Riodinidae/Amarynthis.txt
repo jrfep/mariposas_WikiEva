@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Amarynthis
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Riodinidae]]
+  | genus = ''Amarynthis''
+}}
+=== Especies === 
+---- 
+* ''[[Amarynthis meneria]]'' (Cramer, 1776)
+---- 
+=== Referencias ===
+

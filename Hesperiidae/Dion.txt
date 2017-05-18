@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Dion
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Dion''
+}}
+=== Especies === 
+---- 
+* ''[[Dion carmenta]]'' (Hewitson, 1870)
+---- 
+=== Referencias ===
+

@@ -1,0 +1,16 @@
+{{Ficha de taxón
+  | name = Anartia
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Anartia''
+}}
+=== Especies === 
+---- 
+* ''[[Anartia amathea]]'' (Linnaeus, 1758)
+* ''[[Anartia jatrophae]]'' (Linnaeus, 1763)
+---- 
+=== Referencias ===
+

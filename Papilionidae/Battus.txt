@@ -1,0 +1,20 @@
+{{Ficha de taxón
+  | name = Battus
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Papilionidae]]
+  | genus = ''Battus''
+}}
+=== Especies === 
+---- 
+* ''[[Battus belus]]'' (Cramer, 1777)
+* ''[[Battus crassus]]'' (Cramer, 1777)
+* ''[[Battus ingenuus]]'' (Dyar, 1907)
+* ''[[Battus laodamas]]'' (Felder & Felder, 1859)
+* ''[[Battus lycidas]]'' (Cramer, 1777)
+* ''[[Battus polydamas]]'' (Linnaeus, 1758)
+---- 
+=== Referencias ===
+

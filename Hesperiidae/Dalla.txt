@@ -1,0 +1,26 @@
+{{Ficha de taxón
+  | name = Dalla
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Dalla''
+}}
+=== Especies === 
+---- 
+* ''[[Dalla agathocles]]'' (Felder & Felder, 1867)
+* ''[[Dalla caenides]]'' (Hewitson, 1868)
+* ''[[Dalla caicus]]'' (Hewitson, 1868)
+* ''[[Dalla dimidiatus]]'' (Felder & Felder, 1867)
+* ''[[Dalla epiphaneus]]'' (Felder & Felder, 1867)
+* ''[[Dalla frontinia]]'' Evans, 1955
+* ''[[Dalla hilina]]'' (Butler, 1870)
+* ''[[Dalla ibhara]]'' (Butler, 1870)
+* ''[[Dalla merida]]'' Evans, 1955
+* ''[[Dalla mesoxantha]]'' (Plötz, 1884)
+* ''[[Dalla quadristriga]]'' (Mabille, 1889)
+* ''[[Dalla superargentea]]'' Viloria, Warren & Austin, 2008
+---- 
+=== Referencias ===
+

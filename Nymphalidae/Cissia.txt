@@ -1,0 +1,19 @@
+{{Ficha de taxón
+  | name = Cissia
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Cissia''
+}}
+=== Especies === 
+---- 
+* ''[[Cissia labe]]'' (Butler, 1870)
+* ''[[Cissia myncea]]'' (Cramer, 1780)
+* ''[[Cissia penelope]]'' (Fabricius, 1775)
+* ''[[Cissia pompilia]]'' (Felder & Felder, 1867)
+* ''[[Cissia terrestris]]'' (Butler, 1867)
+---- 
+=== Referencias ===
+

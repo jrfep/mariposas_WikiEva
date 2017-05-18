@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Parcella
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Riodinidae]]
+  | genus = ''Parcella''
+}}
+=== Especies === 
+---- 
+* ''[[Parcella amarynthina]]'' (Felder & Felder, 1865)
+---- 
+=== Referencias ===
+

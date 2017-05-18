@@ -1,0 +1,17 @@
+{{Ficha de taxón
+  | name = Alesa
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Riodinidae]]
+  | genus = ''Alesa''
+}}
+=== Especies === 
+---- 
+* ''[[Alesa amesis]]'' (Cramer, 1777)
+* ''[[Alesa prema]]'' (Godart, [1824])
+* ''[[Alesa telephae]]'' (Boisduval, 1836)
+---- 
+=== Referencias ===
+

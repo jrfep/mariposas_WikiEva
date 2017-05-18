@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Caria
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Riodinidae]]
+  | genus = ''Caria''
+}}
+=== Especies === 
+---- 
+* ''[[Caria domitianus]]'' (Fabricius, 1793)
+---- 
+=== Referencias ===
+

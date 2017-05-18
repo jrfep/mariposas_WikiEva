@@ -1,0 +1,23 @@
+{{Ficha de taxón
+  | name = Corades
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Corades''
+}}
+=== Especies === 
+---- 
+* ''[[Corades chelonis]]'' Hewitson, 1863
+* ''[[Corades chirone]]'' Hewitson, 1863
+* ''[[Corades cistene]]'' Hewitson, 1863
+* ''[[Corades cybele]]'' Butler, 1866
+* ''[[Corades dymantis]]'' Thieme, 1907
+* ''[[Corades enyo]]'' Hewitson, [1849]
+* ''[[Corades medeba]]'' Hewitson, 1850
+* ''[[Corades pannonia]]'' Hewitson, 1850
+* ''[[Corades pax]]'' Watkins, 1939
+---- 
+=== Referencias ===
+

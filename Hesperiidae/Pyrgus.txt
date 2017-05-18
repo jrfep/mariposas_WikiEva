@@ -1,0 +1,18 @@
+{{Ficha de taxón
+  | name = Pyrgus
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Pyrgus''
+}}
+=== Especies === 
+---- 
+* ''[[Pyrgus communis]]'' (Grote, 1872)
+* ''[[Pyrgus notatus]]'' (Blanchard, 1852)
+* ''[[Pyrgus oileus]]'' (Linnaeus, 1767)
+* ''[[Pyrgus orcus]]'' (Stoll, 1780)
+---- 
+=== Referencias ===
+

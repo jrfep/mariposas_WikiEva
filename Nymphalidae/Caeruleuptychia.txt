@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Caeruleuptychia
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Caeruleuptychia''
+}}
+=== Especies === 
+---- 
+* ''[[Caeruleuptychia umbrosa]]'' (Butler, 1870)
+---- 
+=== Referencias ===
+

@@ -1,0 +1,16 @@
+{{Ficha de taxón
+  | name = Atlides
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Lycaenidae]]
+  | genus = ''Atlides''
+}}
+=== Especies === 
+---- 
+* ''[[Atlides atys]]'' (Cramer, 1779)
+* ''[[Atlides polybe]]'' (Linnaeus, 1763)
+---- 
+=== Referencias ===
+

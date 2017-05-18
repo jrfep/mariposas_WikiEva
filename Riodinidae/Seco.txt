@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Seco
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Riodinidae]]
+  | genus = ''Seco''
+}}
+=== Especies === 
+---- 
+* ''[[Seco ocellata]]'' (Hewitson, 1867)
+---- 
+=== Referencias ===
+

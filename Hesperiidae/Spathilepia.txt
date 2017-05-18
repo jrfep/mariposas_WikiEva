@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Spathilepia
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Spathilepia''
+}}
+=== Especies === 
+---- 
+* ''[[Spathilepia clonius]]'' (Cramer, 1775)
+---- 
+=== Referencias ===
+

@@ -1,0 +1,18 @@
+{{Ficha de taxón
+  | name = Baeotis
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Riodinidae]]
+  | genus = ''Baeotis''
+}}
+=== Especies === 
+---- 
+* ''[[Baeotis choroniensis]]'' Lichy, 1946
+* ''[[Baeotis kadenii]]'' (Felder & Felder, 1861)
+* ''[[Baeotis staudingeri]]'' D'Abrera, 1994
+* ''[[Baeotis zonata]]'' Felder, 1869
+---- 
+=== Referencias ===
+

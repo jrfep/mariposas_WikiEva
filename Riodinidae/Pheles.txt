@@ -1,0 +1,16 @@
+{{Ficha de taxón
+  | name = Pheles
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Riodinidae]]
+  | genus = ''Pheles''
+}}
+=== Especies === 
+---- 
+* ''[[Pheles ochracea]]'' (Stichel, 1910)
+* ''[[Pheles strigosa]]'' (Staudinger, 1876)
+---- 
+=== Referencias ===
+

@@ -1,0 +1,18 @@
+{{Ficha de taxón
+  | name = Mechanitis
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Mechanitis''
+}}
+=== Especies === 
+---- 
+* ''[[Mechanitis lysimnia]]'' (Fabricius, 1793)
+* ''[[Mechanitis mazaeus]]'' Hewitson, 1860
+* ''[[Mechanitis menapis]]'' Hewitson, [1856]
+* ''[[Mechanitis polymnia]]'' (Linnaeus, 1758)
+---- 
+=== Referencias ===
+

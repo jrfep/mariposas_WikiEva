@@ -1,0 +1,16 @@
+{{Ficha de taxón
+  | name = Anteros
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Riodinidae]]
+  | genus = ''Anteros''
+}}
+=== Especies === 
+---- 
+* ''[[Anteros carausius]]'' Westwood, 1851
+* ''[[Anteros kupris]]'' Hewitson, 1875
+---- 
+=== Referencias ===
+

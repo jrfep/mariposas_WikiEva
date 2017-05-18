@@ -1,0 +1,16 @@
+{{Ficha de taxón
+  | name = Siproeta
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Siproeta''
+}}
+=== Especies === 
+---- 
+* ''[[Siproeta epaphus]]'' (Latreille, [1813])
+* ''[[Siproeta stelenes]]'' (Linnaeus, 1758)
+---- 
+=== Referencias ===
+

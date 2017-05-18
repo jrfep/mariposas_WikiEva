@@ -1,0 +1,16 @@
+{{Ficha de taxón
+  | name = Antigonus
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Antigonus''
+}}
+=== Especies === 
+---- 
+* ''[[Antigonus erosus]]'' (Hübner, [1812])
+* ''[[Antigonus nearchus]]'' (Latreille, [1817])
+---- 
+=== Referencias ===
+

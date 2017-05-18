@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Ariconias
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Riodinidae]]
+  | genus = ''Ariconias''
+}}
+=== Especies === 
+---- 
+* ''[[Ariconias albinus]]'' (Felder & Felder, 1861)
+---- 
+=== Referencias ===
+

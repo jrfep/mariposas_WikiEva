@@ -1,0 +1,19 @@
+{{Ficha de taxón
+  | name = Pyrisitia
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Pieridae]]
+  | genus = ''Pyrisitia''
+}}
+=== Especies === 
+---- 
+* ''[[Pyrisitia dina]]'' (Poey, 1832)
+* ''[[Pyrisitia leuce]]'' (Boisduval, 1836)
+* ''[[Pyrisitia nise]]'' (Cramer, 1775)
+* ''[[Pyrisitia proterpia]]'' (Fabricius, 1775)
+* ''[[Pyrisitia venusta]]'' (Boisduval, 1836)
+---- 
+=== Referencias ===
+* Ferrer-Paris, José R. (2008): Patrones de distribución y abundancia en mariposas piérides (Lepidoptera: Pieridae) a diferentes escalas geográficas. Tesis Doctoral, Centro de Estudios Avanzados, Intituto Venezolano de Investigaciones Científicas. Altos de Pipe, Venezuela. Disponible a través de [dx.doi.org/10.6084/m9.figshare.1094411 figshare]

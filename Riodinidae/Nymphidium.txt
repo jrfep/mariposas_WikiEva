@@ -1,0 +1,21 @@
+{{Ficha de taxón
+  | name = Nymphidium
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Riodinidae]]
+  | genus = ''Nymphidium''
+}}
+=== Especies === 
+---- 
+* ''[[Nymphidium baeotia]]'' Hewitson, [1853]
+* ''[[Nymphidium caricae]]'' (Linnaeus, 1758)
+* ''[[Nymphidium hesperinum]]'' Stichel, 1911
+* ''[[Nymphidium mantus]]'' (Cramer, 1775)
+* ''[[Nymphidium menalcus]]'' (Stoll, 1782)
+* ''[[Nymphidium olinda]]'' Bates, 1865
+* ''[[Nymphidium onaeum]]'' Hewitson, 1869
+---- 
+=== Referencias ===
+

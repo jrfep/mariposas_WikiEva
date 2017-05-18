@@ -1,0 +1,17 @@
+{{Ficha de taxón
+  | name = Micandra
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Lycaenidae]]
+  | genus = ''Micandra''
+}}
+=== Especies === 
+---- 
+* ''[[Micandra aegides]]'' (Felder & Felder, 1865)
+* ''[[Micandra comae]]'' (Druce, 1907)
+* ''[[Micandra platyptera]]'' (Felder & Felder, 1865)
+---- 
+=== Referencias ===
+

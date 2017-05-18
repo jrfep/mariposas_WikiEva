@@ -1,0 +1,18 @@
+{{Ficha de taxón
+  | name = Melete
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Pieridae]]
+  | genus = ''Melete''
+}}
+=== Especies === 
+---- 
+* ''[[Melete leucadia]]'' (Felder & Felder, 1862)
+* ''[[Melete leucanthe]]'' (Felder & Felder, 1861)
+* ''[[Melete lycimnia]]'' (Cramer, 1777)
+* ''[[Melete polyhymnia]]'' (Felder & Felder, 1865)
+---- 
+=== Referencias ===
+* Ferrer-Paris, José R. (2008): Patrones de distribución y abundancia en mariposas piérides (Lepidoptera: Pieridae) a diferentes escalas geográficas. Tesis Doctoral, Centro de Estudios Avanzados, Intituto Venezolano de Investigaciones Científicas. Altos de Pipe, Venezuela. Disponible a través de [dx.doi.org/10.6084/m9.figshare.1094411 figshare]

@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Thestius
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Lycaenidae]]
+  | genus = ''Thestius''
+}}
+=== Especies === 
+---- 
+* ''[[Thestius pholeus]]'' (Cramer, 1777)
+---- 
+=== Referencias ===
+

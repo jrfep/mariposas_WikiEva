@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Vinius
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Vinius''
+}}
+=== Especies === 
+---- 
+* ''[[Vinius exilis]]'' (Plötz, 1883)
+---- 
+=== Referencias ===
+

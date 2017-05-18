@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Pycina
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Pycina''
+}}
+=== Especies === 
+---- 
+* ''[[Pycina zamba]]'' Doubleday, [1849]
+---- 
+=== Referencias ===
+

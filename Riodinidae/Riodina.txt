@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Riodina
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Riodinidae]]
+  | genus = ''Riodina''
+}}
+=== Especies === 
+---- 
+* ''[[Riodina lysippus]]'' (Linnaeus, 1758)
+---- 
+=== Referencias ===
+

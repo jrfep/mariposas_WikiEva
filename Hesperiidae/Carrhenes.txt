@@ -1,0 +1,16 @@
+{{Ficha de taxón
+  | name = Carrhenes
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Carrhenes''
+}}
+=== Especies === 
+---- 
+* ''[[Carrhenes leada]]'' (Butler, 1870)
+* ''[[Carrhenes meridensis]]'' Godman & Salvin, 1895
+---- 
+=== Referencias ===
+

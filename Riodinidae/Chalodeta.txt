@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Chalodeta
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Riodinidae]]
+  | genus = ''Chalodeta''
+}}
+=== Especies === 
+---- 
+* ''[[Chalodeta chitinosa]]'' Hall, 2002
+---- 
+=== Referencias ===
+

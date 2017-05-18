@@ -1,0 +1,16 @@
+{{Ficha de taxón
+  | name = Pareuptychia
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Pareuptychia''
+}}
+=== Especies === 
+---- 
+* ''[[Pareuptychia hesionides]]'' Forster, 1964
+* ''[[Pareuptychia metaleuca]]'' (Boisduval, 1870)
+---- 
+=== Referencias ===
+

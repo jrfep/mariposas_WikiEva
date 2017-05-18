@@ -1,0 +1,27 @@
+{{Ficha de taxón
+  | name = Lymanopoda
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Lymanopoda''
+}}
+=== Especies === 
+---- 
+* ''[[Lymanopoda albocincta]]'' Hewitson, 1861
+* ''[[Lymanopoda altaselva]]'' Adams & Bernard, 1979
+* ''[[Lymanopoda caucana]]'' Weymer, 1911
+* ''[[Lymanopoda dietzi]]'' Adams & Bernard, 1981
+* ''[[Lymanopoda ionius]]'' Westwood, 1851
+* ''[[Lymanopoda lebbaea]]'' Felder & Felder, 1867
+* ''[[Lymanopoda lecromi]]'' Pyrcz & Viloria, 2007
+* ''[[Lymanopoda maletera]]'' Adams & Bernard, 1979
+* ''[[Lymanopoda marianna]]'' Staudinger, 1897
+* ''[[Lymanopoda obsoleta]]'' (Westwood, 1851)
+* ''[[Lymanopoda orientalis]]'' Viloria & Camacho, 1999
+* ''[[Lymanopoda paramera]]'' Adams & Bernard, 1979
+* ''[[Lymanopoda samius]]'' Westwood, 1851
+---- 
+=== Referencias ===
+

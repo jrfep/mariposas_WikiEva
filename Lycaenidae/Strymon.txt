@@ -1,0 +1,22 @@
+{{Ficha de taxón
+  | name = Strymon
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Lycaenidae]]
+  | genus = ''Strymon''
+}}
+=== Especies === 
+---- 
+* ''[[Strymon albata]]'' (Felder & Felder, 1865)
+* ''[[Strymon bazochii]]'' (Godart, [1824])
+* ''[[Strymon bubastus]]'' (Stoll, 1780)
+* ''[[Strymon lucena]]'' (Hewitson, 1868)
+* ''[[Strymon megarus]]'' (Godart, [1824])
+* ''[[Strymon melinus]]'' (Hübner, [1813])
+* ''[[Strymon mulucha]]'' (Hewitson, 1867)
+* ''[[Strymon serapio]]'' (Godman & Salvin, 1887)
+---- 
+=== Referencias ===
+

@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Phanes
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Phanes''
+}}
+=== Especies === 
+---- 
+* ''[[Phanes abaris]]'' (Mabille, 1891)
+---- 
+=== Referencias ===
+

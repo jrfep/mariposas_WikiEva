@@ -1,0 +1,22 @@
+{{Ficha de taxón
+  | name = Philaethria
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Philaethria''
+}}
+=== Especies === 
+---- 
+* ''[[Philaethria andrei]]'' Brévignon, 2002
+* ''[[Philaethria browni]]'' Constantino & Salazar 2010
+* ''[[Philaethria dido]]'' (Linnaeus, 1763)
+* ''[[Philaethria neildi]]'' Constantino & Salazar, 2010
+* ''[[Philaethria ostara]]'' (Röber, 1906)
+* ''[[Philaethria pygmalion]]'' (Fruhstorfer, 1912)
+* ''[[Philaethria romeroi]]'' Constantino & Salazar 2010
+* ''[[Philaethria wernickei]]'' (Röber, 1906)
+---- 
+=== Referencias ===
+

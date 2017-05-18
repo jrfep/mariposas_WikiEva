@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Anisochoria
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Anisochoria''
+}}
+=== Especies === 
+---- 
+* ''[[Anisochoria pedaliodina]]'' (Butler, 1870)
+---- 
+=== Referencias ===
+

@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Pseudodebis
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Pseudodebis''
+}}
+=== Especies === 
+---- 
+* ''[[Pseudodebis valentina]]'' (Cramer, 1779)
+---- 
+=== Referencias ===
+

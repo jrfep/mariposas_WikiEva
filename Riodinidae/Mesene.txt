@@ -1,0 +1,20 @@
+{{Ficha de taxón
+  | name = Mesene
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Riodinidae]]
+  | genus = ''Mesene''
+}}
+=== Especies === 
+---- 
+* ''[[Mesene celetes]]'' Bates, 1868
+* ''[[Mesene margaretta]]'' (White, 1843)
+* ''[[Mesene monostigma]]'' (Erichson, [1849])
+* ''[[Mesene nola]]'' Herrich-Schäffer, [1853]
+* ''[[Mesene phareus]]'' (Cramer, 1777)
+* ''[[Mesene silaris]]'' Godman & Salvin, 1878
+---- 
+=== Referencias ===
+

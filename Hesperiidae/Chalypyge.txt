@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Chalypyge
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Chalypyge''
+}}
+=== Especies === 
+---- 
+* ''[[Chalypyge chalybea]]'' (Scudder, 1872)
+---- 
+=== Referencias ===
+

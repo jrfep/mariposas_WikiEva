@@ -1,0 +1,16 @@
+{{Ficha de taxón
+  | name = Astraptes
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Astraptes''
+}}
+=== Especies === 
+---- 
+* ''[[Astraptes alardus]]'' (Stoll, 1790)
+* ''[[Astraptes fulgerator]]'' (Walch, 1775)
+---- 
+=== Referencias ===
+

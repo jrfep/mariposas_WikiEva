@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Oressinoma
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Oressinoma''
+}}
+=== Especies === 
+---- 
+* ''[[Oressinoma typhla]]'' Doubleday, [1849]
+---- 
+=== Referencias ===
+

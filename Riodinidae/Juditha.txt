@@ -1,0 +1,18 @@
+{{Ficha de taxón
+  | name = Juditha
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Riodinidae]]
+  | genus = ''Juditha''
+}}
+=== Especies === 
+---- 
+* ''[[Juditha azan]]'' (Westwood, 1851)
+* ''[[Juditha dorilis]]'' (Bates, 1866)
+* ''[[Juditha molpe]]'' (Hübner, [1808])
+* ''[[Juditha odites]]'' (Cramer, 1775)
+---- 
+=== Referencias ===
+

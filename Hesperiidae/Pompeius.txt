@@ -1,0 +1,17 @@
+{{Ficha de taxón
+  | name = Pompeius
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Pompeius''
+}}
+=== Especies === 
+---- 
+* ''[[Pompeius amblyspila]]'' (Mabille, 1898)
+* ''[[Pompeius dares]]'' (Plötz, 1883)
+* ''[[Pompeius pompeius]]'' (Latreille, [1824])
+---- 
+=== Referencias ===
+

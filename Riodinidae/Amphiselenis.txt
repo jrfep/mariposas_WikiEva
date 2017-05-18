@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Amphiselenis
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Riodinidae]]
+  | genus = ''Amphiselenis''
+}}
+=== Especies === 
+---- 
+* ''[[Amphiselenis chama]]'' (Staudinger, [1887])
+---- 
+=== Referencias ===
+

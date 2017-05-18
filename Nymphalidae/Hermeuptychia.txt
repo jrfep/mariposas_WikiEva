@@ -1,0 +1,17 @@
+{{Ficha de taxón
+  | name = Hermeuptychia
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Hermeuptychia''
+}}
+=== Especies === 
+---- 
+* ''[[Hermeuptychia atalanta]]'' (Butler, 1867)
+* ''[[Hermeuptychia hermes]]'' (Fabricius, 1775)
+* ''[[Hermeuptychia pimpla]]'' (Felder & Felder, 1862)
+---- 
+=== Referencias ===
+

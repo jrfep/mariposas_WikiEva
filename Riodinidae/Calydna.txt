@@ -1,0 +1,17 @@
+{{Ficha de taxón
+  | name = Calydna
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Riodinidae]]
+  | genus = ''Calydna''
+}}
+=== Especies === 
+---- 
+* ''[[Calydna caieta]]'' Hewitson, 1854
+* ''[[Calydna catana]]'' Hewitson, 1859
+* ''[[Calydna venusta]]'' Godman & Salvin, 1886
+---- 
+=== Referencias ===
+

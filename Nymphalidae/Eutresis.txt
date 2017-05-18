@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Eutresis
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Eutresis''
+}}
+=== Especies === 
+---- 
+* ''[[Eutresis hypereia]]'' Doubleday, 1847
+---- 
+=== Referencias ===
+

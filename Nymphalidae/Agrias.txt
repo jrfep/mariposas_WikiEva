@@ -1,0 +1,18 @@
+{{Ficha de taxón
+  | name = Agrias
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Agrias''
+}}
+=== Especies === 
+---- 
+* ''[[Agrias aedon]]'' Hewitson, 1848
+* ''[[Agrias amydon]]'' Hewitson, [1854]
+* ''[[Agrias claudina]]'' (Godart, [1824])
+* ''[[Agrias narcissus]]'' Staudinger, [1885]
+---- 
+=== Referencias ===
+

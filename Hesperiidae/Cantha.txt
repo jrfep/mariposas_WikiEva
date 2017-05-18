@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Cantha
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Cantha''
+}}
+=== Especies === 
+---- 
+* ''[[Cantha roraimae]]'' (Bell, 1932)
+---- 
+=== Referencias ===
+

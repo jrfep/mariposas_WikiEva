@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Biblis
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Biblis''
+}}
+=== Especies === 
+---- 
+* ''[[Biblis hyperia]]'' (Cramer, 1779)
+---- 
+=== Referencias ===
+

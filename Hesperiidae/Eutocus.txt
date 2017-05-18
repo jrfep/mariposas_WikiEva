@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Eutocus
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Eutocus''
+}}
+=== Especies === 
+---- 
+* ''[[Eutocus paulo]]'' Bell, 1932
+---- 
+=== Referencias ===
+

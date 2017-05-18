@@ -1,0 +1,16 @@
+{{Ficha de taxón
+  | name = Celaenorrhinus
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Celaenorrhinus''
+}}
+=== Especies === 
+---- 
+* ''[[Celaenorrhinus eligius]]'' (Stoll, 1781)
+* ''[[Celaenorrhinus shema]]'' (Hewitson, 1877)
+---- 
+=== Referencias ===
+

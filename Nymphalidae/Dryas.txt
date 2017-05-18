@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Dryas
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Dryas''
+}}
+=== Especies === 
+---- 
+* ''[[Dryas iulia]]'' (Fabricius, 1775)
+---- 
+=== Referencias ===
+

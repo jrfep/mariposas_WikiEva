@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Ridens
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Ridens''
+}}
+=== Especies === 
+---- 
+* ''[[Ridens mephitis]]'' (Hewitson, 1876)
+---- 
+=== Referencias ===
+

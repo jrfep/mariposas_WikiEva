@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Chorinea
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Riodinidae]]
+  | genus = ''Chorinea''
+}}
+=== Especies === 
+---- 
+* ''[[Chorinea octauius]]'' (Fabricius, 1787)
+---- 
+=== Referencias ===
+

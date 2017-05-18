@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Lycas
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Lycas''
+}}
+=== Especies === 
+---- 
+* ''[[Lycas godart]]'' (Latreille, [1824])
+---- 
+=== Referencias ===
+

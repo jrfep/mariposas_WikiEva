@@ -1,0 +1,20 @@
+{{Ficha de taxón
+  | name = Arawacus
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Lycaenidae]]
+  | genus = ''Arawacus''
+}}
+=== Especies === 
+---- 
+* ''[[Arawacus aetolus]]'' (Sulzer, 1776)
+* ''[[Arawacus dolylas]]'' (Cramer, 1777)
+* ''[[Arawacus dumenilii]]'' (Godart, [1824])
+* ''[[Arawacus ellida]]'' (Hewitson, 1867)
+* ''[[Arawacus leucogyna]]'' (Felder & Felder, 1865)
+* ''[[Arawacus togarna]]'' (Hewitson, 1867)
+---- 
+=== Referencias ===
+

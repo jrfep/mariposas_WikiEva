@@ -1,0 +1,28 @@
+{{Ficha de taxón
+  | name = Euselasia
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Riodinidae]]
+  | genus = ''Euselasia''
+}}
+=== Especies === 
+---- 
+* ''[[Euselasia aurantiaca]]'' (Salvin & Godman, 1868)
+* ''[[Euselasia cafusa]]'' (Bates, 1868)
+* ''[[Euselasia cucuta]]'' (Schaus, 1902)
+* ''[[Euselasia euboea]]'' (Hewitson, [1853])
+* ''[[Euselasia eucrates]]'' (Hewitson, 1872)
+* ''[[Euselasia fervida]]'' (Butler, 1874)
+* ''[[Euselasia gelanor]]'' (Stoll, 1780)
+* ''[[Euselasia gradata]]'' Stichel, 1927
+* ''[[Euselasia labdacus]]'' (Stoll, 1780)
+* ''[[Euselasia orba]]'' Stichel, 1919
+* ''[[Euselasia phelina]]'' (Druce, 1878)
+* ''[[Euselasia rasonea]]'' (Schaus, 1902)
+* ''[[Euselasia uzita]]'' (Hewitson, [1853])
+* ''[[Euselasia venezolana]]'' Seitz, 1913
+---- 
+=== Referencias ===
+

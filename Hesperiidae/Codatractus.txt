@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Codatractus
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Codatractus''
+}}
+=== Especies === 
+---- 
+* ''[[Codatractus carlos]]'' Evans, 1952
+---- 
+=== Referencias ===
+

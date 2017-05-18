@@ -1,0 +1,16 @@
+{{Ficha de taxón
+  | name = Cybdelis
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Cybdelis''
+}}
+=== Especies === 
+---- 
+* ''[[Cybdelis boliviana]]'' Salvin, 1869
+* ''[[Cybdelis mnasylus]]'' Doubleday, [1848]
+---- 
+=== Referencias ===
+

@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Phaenochitonia
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Riodinidae]]
+  | genus = ''Phaenochitonia''
+}}
+=== Especies === 
+---- 
+* ''[[Phaenochitonia gallardi]]'' Hall & Willmott, 1996
+---- 
+=== Referencias ===
+

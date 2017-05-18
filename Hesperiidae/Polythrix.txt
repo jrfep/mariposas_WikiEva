@@ -1,0 +1,16 @@
+{{Ficha de taxón
+  | name = Polythrix
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Polythrix''
+}}
+=== Especies === 
+---- 
+* ''[[Polythrix gyges]]'' Evans, 1952
+* ''[[Polythrix hirtius]]'' (Butler, 1870)
+---- 
+=== Referencias ===
+

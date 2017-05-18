@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Charis
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Riodinidae]]
+  | genus = ''Charis''
+}}
+=== Especies === 
+---- 
+* ''[[Charis cadytis]]'' Hewitson, 1866
+---- 
+=== Referencias ===
+

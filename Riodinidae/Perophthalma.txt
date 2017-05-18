@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Perophthalma
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Riodinidae]]
+  | genus = ''Perophthalma''
+}}
+=== Especies === 
+---- 
+* ''[[Perophthalma tullius]]'' (Fabricius, 1787)
+---- 
+=== Referencias ===
+

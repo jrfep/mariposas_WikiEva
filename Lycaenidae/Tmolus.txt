@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Tmolus
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Lycaenidae]]
+  | genus = ''Tmolus''
+}}
+=== Especies === 
+---- 
+* ''[[Tmolus mutina]]'' (Hewitson, 1867)
+---- 
+=== Referencias ===
+

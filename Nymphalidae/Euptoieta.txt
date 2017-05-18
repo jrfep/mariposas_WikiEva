@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Euptoieta
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Euptoieta''
+}}
+=== Especies === 
+---- 
+* ''[[Euptoieta hegesia]]'' (Cramer, 1779)
+---- 
+=== Referencias ===
+

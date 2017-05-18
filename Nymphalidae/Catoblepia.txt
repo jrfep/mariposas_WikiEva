@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Catoblepia
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Catoblepia''
+}}
+=== Especies === 
+---- 
+* ''[[Catoblepia berecynthia]]'' (Cramer, 1777)
+---- 
+=== Referencias ===
+

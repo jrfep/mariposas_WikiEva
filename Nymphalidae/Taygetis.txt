@@ -1,0 +1,22 @@
+{{Ficha de taxón
+  | name = Taygetis
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Taygetis''
+}}
+=== Especies === 
+---- 
+* ''[[Taygetis acuta]]'' Weymer, 1910
+* ''[[Taygetis chrysogone]]'' Doubleday, [1849]
+* ''[[Taygetis echo]]'' (Cramer, 1775)
+* ''[[Taygetis laches]]'' Fabricius, 1793
+* ''[[Taygetis leuctra]]'' Butler, 1870
+* ''[[Taygetis rufomarginata]]'' Staudinger, 1888
+* ''[[Taygetis thamyra]]'' (Cramer, 1779)
+* ''[[Taygetis virgilia]]'' (Cramer, 1776)
+---- 
+=== Referencias ===
+

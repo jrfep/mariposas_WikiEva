@@ -1,0 +1,21 @@
+{{Ficha de taxón
+  | name = Calycopis
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Lycaenidae]]
+  | genus = ''Calycopis''
+}}
+=== Especies === 
+---- 
+* ''[[Calycopis caesaries]]'' (Druce, 1907)
+* ''[[Calycopis calus]]'' (Godart, [1824])
+* ''[[Calycopis cissusa]]'' (Hewitson, 1877)
+* ''[[Calycopis hosmeri]]'' (Weeks, 1906)
+* ''[[Calycopis isobeon]]'' (Butler & Druce, 1872)
+* ''[[Calycopis pisis]]'' (Godman & Salvin, 1887)
+* ''[[Calycopis xeneta]]'' (Hewitson, 1877)
+---- 
+=== Referencias ===
+

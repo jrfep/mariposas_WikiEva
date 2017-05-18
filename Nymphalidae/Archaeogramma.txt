@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Archaeogramma
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Archaeogramma''
+}}
+=== Especies === 
+---- 
+* ''[[Archaeogramma claritae]]'' Costa, 2014
+---- 
+=== Referencias ===
+

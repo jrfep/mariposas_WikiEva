@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Justinia
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Justinia''
+}}
+=== Especies === 
+---- 
+* ''[[Justinia justinianus]]'' (Latreille, [1824])
+---- 
+=== Referencias ===
+

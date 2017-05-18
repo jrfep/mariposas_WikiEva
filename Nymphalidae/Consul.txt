@@ -1,0 +1,16 @@
+{{Ficha de taxón
+  | name = Consul
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Consul''
+}}
+=== Especies === 
+---- 
+* ''[[Consul fabius]]'' (Cramer, 1776)
+* ''[[Consul panariste]]'' (Hewitson, 1856)
+---- 
+=== Referencias ===
+

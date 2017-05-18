@@ -1,0 +1,21 @@
+{{Ficha de taxón
+  | name = Sarota
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Riodinidae]]
+  | genus = ''Sarota''
+}}
+=== Especies === 
+---- 
+* ''[[Sarota acanthoides]]'' (Herrich-Schäffer, [1853])
+* ''[[Sarota acantus]]'' (Stoll, 1781)
+* ''[[Sarota chrysus]]'' (Stoll, 1781)
+* ''[[Sarota completa]]'' Hall, 1998
+* ''[[Sarota gamelia]]'' Godman & Salvin, 1886
+* ''[[Sarota myrtea]]'' Godman & Salvin, 1886
+* ''[[Sarota neglecta]]'' Stichel, 1910
+---- 
+=== Referencias ===
+

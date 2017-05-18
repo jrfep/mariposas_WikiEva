@@ -1,0 +1,19 @@
+{{Ficha de taxón
+  | name = Theritas
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Lycaenidae]]
+  | genus = ''Theritas''
+}}
+=== Especies === 
+---- 
+* ''[[Theritas arene]]'' (Goodson, 1945)
+* ''[[Theritas danaus]]'' (Felder & Felder, 1865)
+* ''[[Theritas mavors]]'' Hübner, 1818
+* ''[[Theritas monica]]'' (Hewitson, 1867)
+* ''[[Theritas viresco]]'' (Druce, 1907)
+---- 
+=== Referencias ===
+

@@ -1,0 +1,25 @@
+{{Ficha de taxón
+  | name = Leptophobia
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Pieridae]]
+  | genus = ''Leptophobia''
+}}
+=== Especies === 
+---- 
+* ''[[Leptophobia aripa]]'' (Boisduval, 1836)
+* ''[[Leptophobia caesia]]'' (Lucas, 1852)
+* ''[[Leptophobia eleone]]'' (Doubleday, 1847)
+* ''[[Leptophobia eleusis]]'' (Lucas, 1852)
+* ''[[Leptophobia forsteri]]'' Baumann & Reissinger, 1969
+* ''[[Leptophobia helena]]'' (Lucas, 1852)
+* ''[[Leptophobia olympia]]'' (Felder & Felder, 1861)
+* ''[[Leptophobia penthica]]'' (Kollar, 1850)
+* ''[[Leptophobia philoma]]'' (Hewitson, 1870)
+* ''[[Leptophobia pinara]]'' (Felder & Felder, 1865)
+* ''[[Leptophobia tovaria]]'' (Felder & Felder, 1861)
+---- 
+=== Referencias ===
+* Ferrer-Paris, José R. (2008): Patrones de distribución y abundancia en mariposas piérides (Lepidoptera: Pieridae) a diferentes escalas geográficas. Tesis Doctoral, Centro de Estudios Avanzados, Intituto Venezolano de Investigaciones Científicas. Altos de Pipe, Venezuela. Disponible a través de [dx.doi.org/10.6084/m9.figshare.1094411 figshare]

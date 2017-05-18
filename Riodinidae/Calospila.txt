@@ -1,0 +1,18 @@
+{{Ficha de taxón
+  | name = Calospila
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Riodinidae]]
+  | genus = ''Calospila''
+}}
+=== Especies === 
+---- 
+* ''[[Calospila emylius]]'' (Cramer, 1775)
+* ''[[Calospila gallardi]]'' Brévignon, 1995
+* ''[[Calospila latona]]'' (Hewitson, 1853)
+* ''[[Calospila lucianus]]'' (Fabricius, 1793)
+---- 
+=== Referencias ===
+

@@ -1,0 +1,18 @@
+{{Ficha de taxón
+  | name = Calephelis
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Riodinidae]]
+  | genus = ''Calephelis''
+}}
+=== Especies === 
+---- 
+* ''[[Calephelis laverna]]'' (Godman & Salvin, 1886)
+* ''[[Calephelis nilus]]'' (Felder & Felder, 1861)
+* ''[[Calephelis perditalis]]'' Barnes & McDunnough, 1918
+* ''[[Calephelis virginiensis]]'' (Guérin-Méneville, [1832])
+---- 
+=== Referencias ===
+

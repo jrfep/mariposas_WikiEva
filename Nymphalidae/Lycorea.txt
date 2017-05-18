@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Lycorea
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Lycorea''
+}}
+=== Especies === 
+---- 
+* ''[[Lycorea halia]]'' (Hübner, 1816)
+---- 
+=== Referencias ===
+

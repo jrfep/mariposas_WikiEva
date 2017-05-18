@@ -1,0 +1,24 @@
+{{Ficha de taxón
+  | name = Redonda
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Redonda''
+}}
+=== Especies === 
+---- 
+* ''[[Redonda bordoni]]'' Viloria & Pyrcz, 2003
+* ''[[Redonda empetrus]]'' (Thieme, 1905)
+* ''[[Redonda bolivari]]'' Adams & Bernard, 1981
+* ''[[Redonda castellana]]'' Viloria & Camacho, 2015
+* ''[[Redonda centenaria]]'' Viloria & Camacho, 2015
+* ''[[Redonda chiquinquirana]]'' Ferrer-Paris, 2015
+* ''[[Redonda frailejona]]'' Ferrer-Paris & Costa, 2015
+* ''[[Redonda lathraia]]'' Viloria & Camacho, 2015
+* ''[[Redonda leukasmena]]'' Viloria & Camacho, 2015
+* ''[[Redonda lossadana]]'' Ferrer-Paris, 2015
+---- 
+=== Referencias ===
+

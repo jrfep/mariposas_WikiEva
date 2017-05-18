@@ -1,0 +1,17 @@
+{{Ficha de taxón
+  | name = Achlyodes
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Achlyodes''
+}}
+=== Especies === 
+---- 
+* ''[[Achlyodes busirus]]'' (Cramer, 1779)
+* ''[[Achlyodes mithridates]]'' (Fabricius, 1793)
+* ''[[Achlyodes pallida]]'' (Felder, 1869)
+---- 
+=== Referencias ===
+

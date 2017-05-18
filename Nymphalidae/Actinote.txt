@@ -1,0 +1,22 @@
+{{Ficha de taxón
+  | name = Actinote
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Actinote''
+}}
+=== Especies === 
+---- 
+* ''[[Actinote alberti]]'' Neild & Romero, 2008
+* ''[[Actinote anteas]]'' (Doubleday, [1847])
+* ''[[Actinote ballettae]]'' Neild & Romero, 2008
+* ''[[Actinote latior]]'' Jordan, 1913
+* ''[[Actinote melampeplos]]'' Godman & Salvin, 1881
+* ''[[Actinote pellenea]]'' Hübner, [1821]
+* ''[[Actinote romeroi]]'' Neild & Costa, 2008
+* ''[[Actinote thalia]]'' (Linnaeus, 1758)
+---- 
+=== Referencias ===
+

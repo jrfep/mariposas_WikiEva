@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Styriodes
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Styriodes''
+}}
+=== Especies === 
+---- 
+* ''[[Styriodes dedecora]]'' (Plötz, 1882)
+---- 
+=== Referencias ===
+

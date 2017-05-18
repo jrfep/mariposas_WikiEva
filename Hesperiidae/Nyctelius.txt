@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Nyctelius
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Nyctelius''
+}}
+=== Especies === 
+---- 
+* ''[[Nyctelius nyctelius]]'' (Latreille, [1824])
+---- 
+=== Referencias ===
+

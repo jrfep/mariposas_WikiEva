@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Lucida
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Lucida''
+}}
+=== Especies === 
+---- 
+* ''[[Lucida lucia]]'' (Capronnier, 1874)
+---- 
+=== Referencias ===
+

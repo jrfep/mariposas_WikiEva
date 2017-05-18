@@ -1,0 +1,16 @@
+{{Ficha de taxón
+  | name = Napeogenes
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Napeogenes''
+}}
+=== Especies === 
+---- 
+* ''[[Napeogenes rhezia]]'' (Geyer, [1834])
+* ''[[Napeogenes stella]]'' (Hewitson, [1855])
+---- 
+=== Referencias ===
+

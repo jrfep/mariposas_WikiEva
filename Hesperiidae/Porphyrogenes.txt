@@ -1,0 +1,17 @@
+{{Ficha de taxón
+  | name = Porphyrogenes
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Porphyrogenes''
+}}
+=== Especies === 
+---- 
+* ''[[Porphyrogenes boliva]]'' Evans, 1952
+* ''[[Porphyrogenes passalus]]'' (Herrich-Schäffer, 1869)
+* ''[[Porphyrogenes zohra]]'' (Möschler, 1879)
+---- 
+=== Referencias ===
+

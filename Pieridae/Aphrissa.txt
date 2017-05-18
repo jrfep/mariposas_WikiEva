@@ -1,0 +1,18 @@
+{{Ficha de taxón
+  | name = Aphrissa
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Pieridae]]
+  | genus = ''Aphrissa''
+}}
+=== Especies === 
+---- 
+* ''[[Aphrissa boisduvalii]]'' (Felder & Felder, 1861)
+* ''[[Aphrissa fluminensis]]'' (d'Almeida, 1921)
+* ''[[Aphrissa statira]]'' (Cramer, 1777)
+* ''[[Aphrissa wallacei]]'' (Felder & Felder, 1862)
+---- 
+=== Referencias ===
+* Ferrer-Paris, José R. (2008): Patrones de distribución y abundancia en mariposas piérides (Lepidoptera: Pieridae) a diferentes escalas geográficas. Tesis Doctoral, Centro de Estudios Avanzados, Intituto Venezolano de Investigaciones Científicas. Altos de Pipe, Venezuela. Disponible a través de [dx.doi.org/10.6084/m9.figshare.1094411 figshare]

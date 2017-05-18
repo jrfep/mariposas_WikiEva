@@ -1,0 +1,16 @@
+{{Ficha de taxón
+  | name = Pseudomaniola
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Pseudomaniola''
+}}
+=== Especies === 
+---- 
+* ''[[Pseudomaniola loxo]]'' (Dognin, 1891)
+* ''[[Pseudomaniola phaselis]]'' (Hewitson, 1862)
+---- 
+=== Referencias ===
+

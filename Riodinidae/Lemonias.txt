@@ -1,0 +1,16 @@
+{{Ficha de taxón
+  | name = Lemonias
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Riodinidae]]
+  | genus = ''Lemonias''
+}}
+=== Especies === 
+---- 
+* ''[[Lemonias albofasciata]]'' (Godman, 1903)
+* ''[[Lemonias zygia]]'' Hübner, [1807]
+---- 
+=== Referencias ===
+

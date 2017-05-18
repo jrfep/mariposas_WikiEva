@@ -1,0 +1,17 @@
+{{Ficha de taxón
+  | name = Cynea
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Cynea''
+}}
+=== Especies === 
+---- 
+* ''[[Cynea corisana]]'' (Plötz, 1882)
+* ''[[Cynea cynea]]'' (Hewitson, 1876)
+* ''[[Cynea diluta]]'' (Herrich-Schäffer, 1869)
+---- 
+=== Referencias ===
+

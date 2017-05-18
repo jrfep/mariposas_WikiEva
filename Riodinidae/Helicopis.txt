@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Helicopis
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Riodinidae]]
+  | genus = ''Helicopis''
+}}
+=== Especies === 
+---- 
+* ''[[Helicopis cupido]]'' (Linnaeus, 1758)
+---- 
+=== Referencias ===
+

@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Haematera
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Haematera''
+}}
+=== Especies === 
+---- 
+* ''[[Haematera pyrame]]'' (Hübner, [1819])
+---- 
+=== Referencias ===
+

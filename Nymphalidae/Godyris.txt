@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Godyris
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Godyris''
+}}
+=== Especies === 
+---- 
+* ''[[Godyris kedema]]'' (Hewitson, [1855])
+---- 
+=== Referencias ===
+

@@ -1,0 +1,25 @@
+{{Ficha de taxón
+  | name = Hamadryas
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Hamadryas''
+}}
+=== Especies === 
+---- 
+* ''[[Hamadryas amphichloe]]'' (Boisduval, 1870)
+* ''[[Hamadryas amphinome]]'' (Linnaeus, 1767)
+* ''[[Hamadryas arinome]]'' (Lucas, 1853)
+* ''[[Hamadryas februa]]'' (Hübner, [1823])
+* ''[[Hamadryas feronia]]'' (Linnaeus, 1758)
+* ''[[Hamadryas fornax]]'' (Hübner, [1823])
+* ''[[Hamadryas guatemalena]]'' (Bates, 1864)
+* ''[[Hamadryas iphthime]]'' (Bates, 1864)
+* ''[[Hamadryas laodamia]]'' (Cramer, 1777)
+* ''[[Hamadryas rosandra]]'' (Fruhstorfer, 1916)
+* ''[[Hamadryas velutina]]'' (Bates, 1865)
+---- 
+=== Referencias ===
+

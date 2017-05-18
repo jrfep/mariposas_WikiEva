@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Mysoria
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Mysoria''
+}}
+=== Especies === 
+---- 
+* ''[[Mysoria barcastus]]'' (Sepp, [1851])
+---- 
+=== Referencias ===
+

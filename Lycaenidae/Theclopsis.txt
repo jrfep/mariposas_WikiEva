@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Theclopsis
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Lycaenidae]]
+  | genus = ''Theclopsis''
+}}
+=== Especies === 
+---- 
+* ''[[Theclopsis lydus]]'' (Hübner, [1819])
+---- 
+=== Referencias ===
+

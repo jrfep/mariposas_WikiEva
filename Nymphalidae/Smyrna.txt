@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Smyrna
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Smyrna''
+}}
+=== Especies === 
+---- 
+* ''[[Smyrna blomfildia]]'' (Fabricius, 1781)
+---- 
+=== Referencias ===
+

@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Tisias
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Tisias''
+}}
+=== Especies === 
+---- 
+* ''[[Tisias rinda]]'' Evans, 1955
+---- 
+=== Referencias ===
+

@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Lerema
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Lerema''
+}}
+=== Especies === 
+---- 
+* ''[[Lerema accius]]'' (Smith, 1797)
+---- 
+=== Referencias ===
+

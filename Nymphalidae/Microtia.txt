@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Microtia
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Microtia''
+}}
+=== Especies === 
+---- 
+* ''[[Microtia elva]]'' Bates, 1864
+---- 
+=== Referencias ===
+

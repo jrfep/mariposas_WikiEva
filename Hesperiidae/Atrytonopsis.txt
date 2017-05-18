@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Atrytonopsis
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Atrytonopsis''
+}}
+=== Especies === 
+---- 
+* ''[[Atrytonopsis cestus]]'' (Edwards, 1884)
+---- 
+=== Referencias ===
+

@@ -1,0 +1,16 @@
+{{Ficha de taxón
+  | name = Thisbe
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Riodinidae]]
+  | genus = ''Thisbe''
+}}
+=== Especies === 
+---- 
+* ''[[Thisbe irenea]]'' (Stoll, 1780)
+* ''[[Thisbe molela]]'' (Hewitson, 1865)
+---- 
+=== Referencias ===
+

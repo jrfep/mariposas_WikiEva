@@ -1,0 +1,21 @@
+{{Ficha de taxón
+  | name = Episcada
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Episcada''
+}}
+=== Especies === 
+---- 
+* ''[[Episcada apuleia]]'' (Hewitson, 1868)
+* ''[[Episcada carcinia]]'' Schaus, 1902
+* ''[[Episcada doto]]'' (Hübner, [1806])
+* ''[[Episcada hymen]]'' Haensch, 1905
+* ''[[Episcada hymenaea]]'' (Prittwitz, 1865)
+* ''[[Episcada polita]]'' Weymer, 1899
+* ''[[Episcada sylpha]]'' Haensch, 1905
+---- 
+=== Referencias ===
+

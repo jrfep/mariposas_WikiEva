@@ -1,0 +1,26 @@
+{{Ficha de taxón
+  | name = Morpho
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Morpho''
+}}
+=== Especies === 
+---- 
+* ''[[Morpho achilles]]'' (Linnaeus, 1758)
+* ''[[Morpho cypris]]'' Westwood, 1851
+* ''[[Morpho deidamia]]'' (Hübner, [1819])
+* ''[[Morpho epistrophus]]'' (Fabricius, 1796)
+* ''[[Morpho hecuba]]'' (Linnaeus, 1771)
+* ''[[Morpho helenor]]'' (Cramer, 1776)
+* ''[[Morpho menelaus]]'' (Linnaeus, 1758)
+* ''[[Morpho portis]]'' (Hübner, [1821])
+* ''[[Morpho rhetenor]]'' (Cramer, 1775)
+* ''[[Morpho sulkowskyi]]'' Kollar, 1850
+* ''[[Morpho telemachus]]'' (Linnaeus, 1758)
+* ''[[Morpho theseus]]'' Deyrolle, 1860
+---- 
+=== Referencias ===
+

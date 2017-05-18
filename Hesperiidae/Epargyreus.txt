@@ -1,0 +1,16 @@
+{{Ficha de taxón
+  | name = Epargyreus
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Epargyreus''
+}}
+=== Especies === 
+---- 
+* ''[[Epargyreus exadeus]]'' (Cramer, 1779)
+* ''[[Epargyreus socus]]'' (Hübner, [1825])
+---- 
+=== Referencias ===
+

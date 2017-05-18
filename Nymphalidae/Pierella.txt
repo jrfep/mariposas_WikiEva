@@ -1,0 +1,17 @@
+{{Ficha de taxón
+  | name = Pierella
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Pierella''
+}}
+=== Especies === 
+---- 
+* ''[[Pierella lamia]]'' (Sulzer, 1776)
+* ''[[Pierella lena]]'' (Linnaeus, 1767)
+* ''[[Pierella luna]]'' (Fabricius, 1793)
+---- 
+=== Referencias ===
+

@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Cabares
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Cabares''
+}}
+=== Especies === 
+---- 
+* ''[[Cabares potrillo]]'' (Lucas, 1857)
+---- 
+=== Referencias ===
+

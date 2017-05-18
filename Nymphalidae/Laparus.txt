@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Laparus
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Laparus''
+}}
+=== Especies === 
+---- 
+* ''[[Laparus doris]]'' (Linnaeus, 1771)
+---- 
+=== Referencias ===
+

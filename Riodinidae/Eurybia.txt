@@ -1,0 +1,17 @@
+{{Ficha de taxón
+  | name = Eurybia
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Riodinidae]]
+  | genus = ''Eurybia''
+}}
+=== Especies === 
+---- 
+* ''[[Eurybia caerulescens]]'' Druce, 1904
+* ''[[Eurybia cyclopia]]'' Stichel, 1910
+* ''[[Eurybia nicaeus]]'' (Fabricius, 1775)
+---- 
+=== Referencias ===
+

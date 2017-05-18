@@ -1,0 +1,16 @@
+{{Ficha de taxón
+  | name = Tithorea
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Tithorea''
+}}
+=== Especies === 
+---- 
+* ''[[Tithorea harmonia]]'' (Cramer, 1777)
+* ''[[Tithorea tarricina]]'' Hewitson, [1858]
+---- 
+=== Referencias ===
+

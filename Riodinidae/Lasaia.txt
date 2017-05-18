@@ -1,0 +1,18 @@
+{{Ficha de taxón
+  | name = Lasaia
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Riodinidae]]
+  | genus = ''Lasaia''
+}}
+=== Especies === 
+---- 
+* ''[[Lasaia agesilas]]'' (Latreille, [1809])
+* ''[[Lasaia arsis]]'' Staudinger, [1887]
+* ''[[Lasaia meris]]'' (Stoll, 1781)
+* ''[[Lasaia pseudomeris]]'' Clench, 1972
+---- 
+=== Referencias ===
+

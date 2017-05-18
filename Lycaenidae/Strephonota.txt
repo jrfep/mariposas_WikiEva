@@ -1,0 +1,19 @@
+{{Ficha de taxón
+  | name = Strephonota
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Lycaenidae]]
+  | genus = ''Strephonota''
+}}
+=== Especies === 
+---- 
+* ''[[Strephonota agrippa]]'' (Fabricius, 1793)
+* ''[[Strephonota ambrax]]'' (Westwood, 1852)
+* ''[[Strephonota syedra]]'' (Hewitson, 1867)
+* ''[[Strephonota tephraeus]]'' (Geyer, 1837)
+* ''[[Strephonota tyriam]]'' (Druce, 1907)
+---- 
+=== Referencias ===
+

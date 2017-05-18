@@ -1,0 +1,22 @@
+{{Ficha de taxón
+  | name = Manerebia
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Manerebia''
+}}
+=== Especies === 
+---- 
+* ''[[Manerebia franciscae]]'' (Adams & Bernard, 1981)
+* ''[[Manerebia interrupta]]'' (Brown, 1944)
+* ''[[Manerebia leaena]]'' (Hewitson, 1861)
+* ''[[Manerebia mycalesoides]]'' (Felder & Felder, 1867)
+* ''[[Manerebia navarrae]]'' (Adams & Bernard, 1979)
+* ''[[Manerebia pervaga]]'' Pyrcz & Viloria, 2007
+* ''[[Manerebia pluviosa]]'' Pyrcz & Viloria, 2006
+* ''[[Manerebia quinterae]]'' (Adams & Bernard, 1979)
+---- 
+=== Referencias ===
+

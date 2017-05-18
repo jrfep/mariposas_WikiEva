@@ -1,0 +1,17 @@
+{{Ficha de taxón
+  | name = Cymaenes
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Cymaenes''
+}}
+=== Especies === 
+---- 
+* ''[[Cymaenes campestris]]'' Mielke, 1980
+* ''[[Cymaenes chela]]'' Evans, 1955
+* ''[[Cymaenes odilia]]'' (Burmeister, 1878)
+---- 
+=== Referencias ===
+

@@ -1,0 +1,19 @@
+{{Ficha de taxón
+  | name = Protesilaus
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Papilionidae]]
+  | genus = ''Protesilaus''
+}}
+=== Especies === 
+---- 
+* ''[[Protesilaus glaucolaus]]'' (Bates, 1864)
+* ''[[Protesilaus macrosilaus]]'' (Gray, [1853])
+* ''[[Protesilaus molops]]'' (Rothschild & Jordan, 1906)
+* ''[[Protesilaus protesilaus]]'' (Linnaeus, 1758)
+* ''[[Protesilaus telesilaus]]'' (Felder & Felder, 1864)
+---- 
+=== Referencias ===
+

@@ -1,0 +1,19 @@
+{{Ficha de taxón
+  | name = Euptychoides
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Euptychoides''
+}}
+=== Especies === 
+---- 
+* ''[[Euptychoides eugenia]]'' (Felder & Felder, 1867)
+* ''[[Euptychoides griphe]]'' (Felder & Felder, 1867)
+* ''[[Euptychoides laccine]]'' (Felder & Felder, 1867)
+* ''[[Euptychoides nossis]]'' (Hewitson, 1862)
+* ''[[Euptychoides saturnus]]'' (Butler, 1867)
+---- 
+=== Referencias ===
+

@@ -1,0 +1,19 @@
+{{Ficha de taxón
+  | name = Dircenna
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Dircenna''
+}}
+=== Especies === 
+---- 
+* ''[[Dircenna adina]]'' (Hewitson, [1855])
+* ''[[Dircenna dero]]'' (Hübner, 1823)
+* ''[[Dircenna jemina]]'' (Geyer, 1837)
+* ''[[Dircenna klugii]]'' (Geyer, 1837)
+* ''[[Dircenna olyras]]'' (Felder & Felder, 1865)
+---- 
+=== Referencias ===
+

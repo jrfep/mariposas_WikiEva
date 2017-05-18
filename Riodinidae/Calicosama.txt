@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Calicosama
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Riodinidae]]
+  | genus = ''Calicosama''
+}}
+=== Especies === 
+---- 
+* ''[[Calicosama lilina]]'' (Butler, 1870)
+---- 
+=== Referencias ===
+

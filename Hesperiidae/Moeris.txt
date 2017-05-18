@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Moeris
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Moeris''
+}}
+=== Especies === 
+---- 
+* ''[[Moeris ekka]]'' Evans, 1955
+---- 
+=== Referencias ===
+

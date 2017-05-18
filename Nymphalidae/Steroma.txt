@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Steroma
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Steroma''
+}}
+=== Especies === 
+---- 
+* ''[[Steroma bega]]'' Westwood, [1850]
+---- 
+=== Referencias ===
+

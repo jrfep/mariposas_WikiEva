@@ -1,0 +1,18 @@
+{{Ficha de taxón
+  | name = Melanis
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Riodinidae]]
+  | genus = ''Melanis''
+}}
+=== Especies === 
+---- 
+* ''[[Melanis electron]]'' (Fabricius, 1793)
+* ''[[Melanis hodia]]'' (Butler, 1870)
+* ''[[Melanis marathon]]'' (Felder & Felder, 1865)
+* ''[[Melanis smithiae]]'' (Westwood, 1851)
+---- 
+=== Referencias ===
+

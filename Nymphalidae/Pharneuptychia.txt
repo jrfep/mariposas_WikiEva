@@ -1,0 +1,16 @@
+{{Ficha de taxón
+  | name = Pharneuptychia
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Pharneuptychia''
+}}
+=== Especies === 
+---- 
+* ''[[Pharneuptychia innocentia]]'' (Felder & Felder, 1867)
+* ''[[Pharneuptychia phares]]'' (Godart, [1824])
+---- 
+=== Referencias ===
+

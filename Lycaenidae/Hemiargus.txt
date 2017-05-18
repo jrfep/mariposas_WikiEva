@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Hemiargus
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Lycaenidae]]
+  | genus = ''Hemiargus''
+}}
+=== Especies === 
+---- 
+* ''[[Hemiargus hanno]]'' (Stoll, 1790)
+---- 
+=== Referencias ===
+

@@ -1,0 +1,17 @@
+{{Ficha de taxón
+  | name = Anteos
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Pieridae]]
+  | genus = ''Anteos''
+}}
+=== Especies === 
+---- 
+* ''[[Anteos clorinde]]'' (Godart, [1824])
+* ''[[Anteos maerula]]'' (Fabricius, 1775)
+* ''[[Anteos menippe]]'' (Hübner, [1818])
+---- 
+=== Referencias ===
+* Ferrer-Paris, José R. (2008): Patrones de distribución y abundancia en mariposas piérides (Lepidoptera: Pieridae) a diferentes escalas geográficas. Tesis Doctoral, Centro de Estudios Avanzados, Intituto Venezolano de Investigaciones Científicas. Altos de Pipe, Venezuela. Disponible a través de [dx.doi.org/10.6084/m9.figshare.1094411 figshare]

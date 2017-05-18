@@ -1,0 +1,17 @@
+{{Ficha de taxón
+  | name = Nessaea
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Nessaea''
+}}
+=== Especies === 
+---- 
+* ''[[Nessaea aglaura]]'' (Doubleday, [1848])
+* ''[[Nessaea batesii]]'' (Felder & Felder, 1860)
+* ''[[Nessaea obrinus]]'' (Linnaeus, 1758)
+---- 
+=== Referencias ===
+

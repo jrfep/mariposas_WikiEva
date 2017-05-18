@@ -1,0 +1,16 @@
+{{Ficha de taxón
+  | name = Polites
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Polites''
+}}
+=== Especies === 
+---- 
+* ''[[Polites puxillius]]'' (Mabille, 1891)
+* ''[[Polites vibex]]'' (Geyer, 1832)
+---- 
+=== Referencias ===
+

@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Paches
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Paches''
+}}
+=== Especies === 
+---- 
+* ''[[Paches loxus]]'' (Westwood, 1852)
+---- 
+=== Referencias ===
+

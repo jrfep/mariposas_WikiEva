@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Ancyluris
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Riodinidae]]
+  | genus = ''Ancyluris''
+}}
+=== Especies === 
+---- 
+* ''[[Ancyluris colubra]]'' (Saunders, 1859)
+---- 
+=== Referencias ===
+

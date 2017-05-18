@@ -1,0 +1,18 @@
+{{Ficha de taxón
+  | name = Mimoides
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Papilionidae]]
+  | genus = ''Mimoides''
+}}
+=== Especies === 
+---- 
+* ''[[Mimoides ariarathes]]'' (Esper, 1788)
+* ''[[Mimoides ilus]]'' (Fabricius, 1793)
+* ''[[Mimoides pausanias]]'' (Hewitson, 1852)
+* ''[[Mimoides phaon]]'' (Boisduval, 1836)
+---- 
+=== Referencias ===
+

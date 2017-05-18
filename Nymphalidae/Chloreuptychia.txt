@@ -1,0 +1,16 @@
+{{Ficha de taxón
+  | name = Chloreuptychia
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Chloreuptychia''
+}}
+=== Especies === 
+---- 
+* ''[[Chloreuptychia agatha]]'' (Butler, 1867)
+* ''[[Chloreuptychia arnaca]]'' (Fabricius, 1776)
+---- 
+=== Referencias ===
+

@@ -1,0 +1,17 @@
+{{Ficha de taxón
+  | name = Callithomia
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Callithomia''
+}}
+=== Especies === 
+---- 
+* ''[[Callithomia alexirrhoe]]'' Bates, 1862
+* ''[[Callithomia hezia]]'' (Hewitson, [1854])
+* ''[[Callithomia lenea]]'' (Cramer, 1779)
+---- 
+=== Referencias ===
+

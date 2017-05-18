@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Pirascca
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Riodinidae]]
+  | genus = ''Pirascca''
+}}
+=== Especies === 
+---- 
+* ''[[Pirascca suapure]]'' (Weeks, 1906)
+---- 
+=== Referencias ===
+

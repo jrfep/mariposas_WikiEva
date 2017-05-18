@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Daedalma
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Daedalma''
+}}
+=== Especies === 
+---- 
+* ''[[Daedalma drusilla]]'' Hewitson, 1858
+---- 
+=== Referencias ===
+

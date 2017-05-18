@@ -1,0 +1,24 @@
+{{Ficha de taxón
+  | name = Eresia
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Eresia''
+}}
+=== Especies === 
+---- 
+* ''[[Eresia carme]]'' Doubleday, [1847]
+* ''[[Eresia clio]]'' (Linnaeus, 1758)
+* ''[[Eresia estebana]]'' (Hall, 1929)
+* ''[[Eresia eunice]]'' (Hübner, [1807])
+* ''[[Eresia ithomioides]]'' Hewitson, [1864]
+* ''[[Eresia nauplius]]'' (Linnaeus, 1758)
+* ''[[Eresia oblita]]'' (Staudinger, 1885)
+* ''[[Eresia olivencia]]'' Bates, 1864
+* ''[[Eresia perna]]'' Hewitson, 1852
+* ''[[Eresia polina]]'' Hewitson, 1852
+---- 
+=== Referencias ===
+

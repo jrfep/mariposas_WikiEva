@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Chioides
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Chioides''
+}}
+=== Especies === 
+---- 
+* ''[[Chioides catillus]]'' (Cramer, 1779)
+---- 
+=== Referencias ===
+

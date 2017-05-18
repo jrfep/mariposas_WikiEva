@@ -1,0 +1,43 @@
+{{Ficha de taxón 
+  | name = Perlita
+  | status = LC
+  | image = Image_placeholder.svg 
+  | image_width = 240 px 
+  | regnum = [[Animalia]] 
+  | phylum = [[Arthropoda]] 
+  | classis = [[Insecta]] 
+  | ordo = [[Lepidoptera]] 
+  | familia = [[Nymphalidae]] 
+  | genus = ''[[Anartia]]'' 
+  | species = ''Anartia jatrophae'' 
+  | binomial = ''Anartia jatrophae'' 
+  | binomial_authority = ''(Linnaeus, 1763)''   
+  | range_map = Map_placeholder.svg 
+  | range_map_width = 240 px 
+  | range_map_caption = Mapa de distribución de Anartia jatrophae
+}} 
+=== Taxonomía === 
+
+==== Nombres comunes ====
+Perlita, Novia triste
+==== Notas taxonómicas ====
+
+==== Sinónimos ====
+
+=== Descripción ===
+
+=== Distribución === 
+Especie de amplia distribución en Venezuela.
+=== Situación === 
+* ''''Lista Roja Venezuela'''' 1995 No evaluado
+* ''''Lista Roja Venezuela'''' 2003 No evaluado
+* ''''Lista Roja Venezuela'''' 2008 No evaluado
+=== Amenazas === 
+
+=== Conservación === 
+
+=== Editores y Colaboradores === 
+[[Usuario:Jrfep|J.R. Ferrer Paris]]
+=== Referencias ===
+
+* Encyclopedia of Life, eol.org/pages/152983/overview

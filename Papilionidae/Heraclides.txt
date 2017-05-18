@@ -1,0 +1,25 @@
+{{Ficha de taxón
+  | name = Heraclides
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Papilionidae]]
+  | genus = ''Heraclides''
+}}
+=== Especies === 
+---- 
+* ''[[Heraclides anchisiades]]'' (Esper, 1788)
+* ''[[Heraclides androgeus]]'' (Cramer, 1775)
+* ''[[Heraclides astyalus]]'' (Godart, 1819)
+* ''[[Heraclides chiansiades]]'' (Westwood, 1872)
+* ''[[Heraclides cresphontes]]'' (Cramer, 1777)
+* ''[[Heraclides homothoas]]'' (Rothschild & Jordan, 1906)
+* ''[[Heraclides hyppason]]'' (Cramer, 1775)
+* ''[[Heraclides isidorus]]'' (Doubleday, 1846)
+* ''[[Heraclides paeon]]'' (Boisduval, 1836)
+* ''[[Heraclides thoas]]'' (Linnaeus, 1771)
+* ''[[Heraclides torquatus]]'' (Cramer, 1777)
+---- 
+=== Referencias ===
+

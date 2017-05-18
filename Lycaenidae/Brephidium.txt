@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Brephidium
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Lycaenidae]]
+  | genus = ''Brephidium''
+}}
+=== Especies === 
+---- 
+* ''[[Brephidium exilis]]'' (Boisduval, 1852)
+---- 
+=== Referencias ===
+

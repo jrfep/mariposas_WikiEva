@@ -1,0 +1,18 @@
+{{Ficha de taxón
+  | name = Pagyris
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Pagyris''
+}}
+=== Especies === 
+---- 
+* ''[[Pagyris cymothoe]]'' (Hewitson, [1855])
+* ''[[Pagyris priscilla]]'' Lamas, 1986
+* ''[[Pagyris renelichyi]]'' Neild, 2008
+* ''[[Pagyris ulla]]'' (Hewitson, [1857])
+---- 
+=== Referencias ===
+

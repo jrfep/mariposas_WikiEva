@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Lerodea
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Lerodea''
+}}
+=== Especies === 
+---- 
+* ''[[Lerodea arabus]]'' (Edwards, 1882)
+---- 
+=== Referencias ===
+

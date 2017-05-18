@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Archeuptychia
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Archeuptychia''
+}}
+=== Especies === 
+---- 
+* ''[[Archeuptychia cluena]]'' (Drury, 1782)
+---- 
+=== Referencias ===
+

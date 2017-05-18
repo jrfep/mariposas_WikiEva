@@ -1,0 +1,20 @@
+{{Ficha de taxón
+  | name = Catonephele
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Catonephele''
+}}
+=== Especies === 
+---- 
+* ''[[Catonephele acontius]]'' (Linnaeus, 1771)
+* ''[[Catonephele antinoe]]'' (Godart, [1824])
+* ''[[Catonephele chromis]]'' Doubleday, [1848]
+* ''[[Catonephele numilia]]'' (Cramer, 1775)
+* ''[[Catonephele nyctimus]]'' (Westwood, 1850)
+* ''[[Catonephele salambria]]'' (Felder & Felder, 1861)
+---- 
+=== Referencias ===
+

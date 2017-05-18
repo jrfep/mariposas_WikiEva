@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Rhinthon
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Rhinthon''
+}}
+=== Especies === 
+---- 
+* ''[[Rhinthon cubana]]'' (Herrich-Schäffer, 1865)
+---- 
+=== Referencias ===
+

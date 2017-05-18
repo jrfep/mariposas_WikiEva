@@ -1,0 +1,16 @@
+{{Ficha de taxón
+  | name = Artines
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Artines''
+}}
+=== Especies === 
+---- 
+* ''[[Artines aepitus]]'' (Geyer, 1832)
+* ''[[Artines trogon]]'' Evans, 1955
+---- 
+=== Referencias ===
+

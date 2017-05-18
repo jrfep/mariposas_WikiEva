@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Noreppa
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Noreppa''
+}}
+=== Especies === 
+---- 
+* ''[[Noreppa chromus]]'' (Guérin-Méneville, [1844])
+---- 
+=== Referencias ===
+

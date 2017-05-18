@@ -1,0 +1,18 @@
+{{Ficha de taxón
+  | name = Chlosyne
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Chlosyne''
+}}
+=== Especies === 
+---- 
+* ''[[Chlosyne erodyle]]'' (Bates, 1864)
+* ''[[Chlosyne lacinia]]'' (Geyer, 1837)
+* ''[[Chlosyne narva]]'' (Fabricius, 1793)
+* ''[[Chlosyne theona]]'' (Ménétriés, 1855)
+---- 
+=== Referencias ===
+

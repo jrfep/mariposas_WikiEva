@@ -1,0 +1,20 @@
+{{Ficha de taxón
+  | name = Eretris
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Eretris''
+}}
+=== Especies === 
+---- 
+* ''[[Eretris agata]]'' Pyrcz & Fratello, 2005
+* ''[[Eretris apuleja]]'' (Felder & Felder, 1867)
+* ''[[Eretris calisto]]'' (Felder & Felder, 1867)
+* ''[[Eretris encycla]]'' (Felder & Felder, 1867)
+* ''[[Eretris neocycla]]'' Pyrcz & Viloria, 2009
+* ''[[Eretris porphyria]]'' (Felder & Felder, 1867)
+---- 
+=== Referencias ===
+

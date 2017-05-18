@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Syrmatia
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Riodinidae]]
+  | genus = ''Syrmatia''
+}}
+=== Especies === 
+---- 
+* ''[[Syrmatia nyx]]'' (Hübner, [1817])
+---- 
+=== Referencias ===
+

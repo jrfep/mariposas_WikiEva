@@ -1,0 +1,25 @@
+{{Ficha de taxón
+  | name = Dismorphia
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Pieridae]]
+  | genus = ''Dismorphia''
+}}
+=== Especies === 
+---- 
+* ''[[Dismorphia amphione]]'' (Cramer, 1779)
+* ''[[Dismorphia arcadia]]'' (Felder & Felder, 1862)
+* ''[[Dismorphia crisia]]'' (Drury, 1782)
+* ''[[Dismorphia hyposticta]]'' (Felder & Felder, 1861)
+* ''[[Dismorphia lewyi]]'' (Lucas, 1852)
+* ''[[Dismorphia lua]]'' (Hewitson, 1869)
+* ''[[Dismorphia medora]]'' (Doubleday, 1844)
+* ''[[Dismorphia thermesia]]'' (Godart, 1819)
+* ''[[Dismorphia theucharila]]'' (Doubleday, 1848)
+* ''[[Dismorphia zathoe]]'' (Hewitson, [1858])
+* ''[[Dismorphia laja]]'' (Cramer, 1779)
+---- 
+=== Referencias ===
+* Ferrer-Paris, José R. (2008): Patrones de distribución y abundancia en mariposas piérides (Lepidoptera: Pieridae) a diferentes escalas geográficas. Tesis Doctoral, Centro de Estudios Avanzados, Intituto Venezolano de Investigaciones Científicas. Altos de Pipe, Venezuela. Disponible a través de [dx.doi.org/10.6084/m9.figshare.1094411 figshare]

@@ -1,0 +1,16 @@
+{{Ficha de taxón
+  | name = Theagenes
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Theagenes''
+}}
+=== Especies === 
+---- 
+* ''[[Theagenes aegides]]'' (Herrich-Schäffer, 1869)
+* ''[[Theagenes albiplaga]]'' (Felder & Felder, 1867)
+---- 
+=== Referencias ===
+

@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Polygonus
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Polygonus''
+}}
+=== Especies === 
+---- 
+* ''[[Polygonus leo]]'' (Gmelin, [1790])
+---- 
+=== Referencias ===
+

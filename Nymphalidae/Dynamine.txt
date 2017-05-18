@@ -1,0 +1,28 @@
+{{Ficha de taxón
+  | name = Dynamine
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Dynamine''
+}}
+=== Especies === 
+---- 
+* ''[[Dynamine aerata]]'' (Butler, 1877)
+* ''[[Dynamine agacles]]'' (Dalman, 1823)
+* ''[[Dynamine agatha]]'' (Oberthür, 1916)
+* ''[[Dynamine anubis]]'' (Hewitson, 1859)
+* ''[[Dynamine arene]]'' Hübner, [1823]
+* ''[[Dynamine artemisia]]'' (Fabricius, 1793)
+* ''[[Dynamine athemon]]'' (Linnaeus, 1758)
+* ''[[Dynamine paulina]]'' (Bates, 1865)
+* ''[[Dynamine postverta]]'' (Cramer, 1779)
+* ''[[Dynamine racidula]]'' (Hewitson, 1852)
+* ''[[Dynamine setabis]]'' (Doubleday, 1849)
+* ''[[Dynamine sosthenes]]'' (Hewitson, 1869)
+* ''[[Dynamine theseus]]'' (Felder & Felder, 1861)
+* ''[[Dynamine tithia]]'' (Hübner, 1823)
+---- 
+=== Referencias ===
+

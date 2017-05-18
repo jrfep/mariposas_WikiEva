@@ -1,0 +1,17 @@
+{{Ficha de taxón
+  | name = Pterourus
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Papilionidae]]
+  | genus = ''Pterourus''
+}}
+=== Especies === 
+---- 
+* ''[[Pterourus cacicus]]'' (Lucas, 1852)
+* ''[[Pterourus menatius]]'' (Hübner, [1819])
+* ''[[Pterourus zagreus]]'' (Doubleday, 1847)
+---- 
+=== Referencias ===
+

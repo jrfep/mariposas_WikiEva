@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Hyphilaria
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Riodinidae]]
+  | genus = ''Hyphilaria''
+}}
+=== Especies === 
+---- 
+* ''[[Hyphilaria anthias]]'' (Hewitson, 1874)
+---- 
+=== Referencias ===
+

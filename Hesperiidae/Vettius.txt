@@ -1,0 +1,18 @@
+{{Ficha de taxón
+  | name = Vettius
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Vettius''
+}}
+=== Especies === 
+---- 
+* ''[[Vettius coryna]]'' (Hewitson, 1866)
+* ''[[Vettius diana]]'' (Plötz, 1886)
+* ''[[Vettius marcus]]'' (Fabricius, 1787)
+* ''[[Vettius richardi]]'' (Weeks, 1906)
+---- 
+=== Referencias ===
+

@@ -1,0 +1,16 @@
+{{Ficha de taxón
+  | name = Anthoptus
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Anthoptus''
+}}
+=== Especies === 
+---- 
+* ''[[Anthoptus epictetus]]'' (Fabricius, 1793)
+* ''[[Anthoptus insignis]]'' (Plötz, 1882)
+---- 
+=== Referencias ===
+

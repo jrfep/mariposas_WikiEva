@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Manataria
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Manataria''
+}}
+=== Especies === 
+---- 
+* ''[[Manataria maculata]]'' (Hopffer, 1874)
+---- 
+=== Referencias ===
+

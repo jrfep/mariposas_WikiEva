@@ -1,0 +1,19 @@
+{{Ficha de taxón
+  | name = Perichares
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Perichares''
+}}
+=== Especies === 
+---- 
+* ''[[Perichares colenda]]'' (Hewitson, 1866)
+* ''[[Perichares deceptus]]'' (Butler & Druce, 1872)
+* ''[[Perichares lotus]]'' (Butler, 1870)
+* ''[[Perichares philetes]]'' (Gmelin, [1790])
+* ''[[Perichares seneca]]'' (Latreille, [1824])
+---- 
+=== Referencias ===
+

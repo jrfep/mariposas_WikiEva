@@ -1,0 +1,21 @@
+{{Ficha de taxón
+  | name = Euptychia
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Euptychia''
+}}
+=== Especies === 
+---- 
+* ''[[Euptychia enyo]]'' Butler, 1867
+* ''[[Euptychia ernestina]]'' Weymer, 1911
+* ''[[Euptychia fetna]]'' Butler, 1870
+* ''[[Euptychia insolata]]'' Butler & Druce, 1872
+* ''[[Euptychia jesia]]'' Butler, 1869
+* ''[[Euptychia mollina]]'' (Hübner, [1813])
+* ''[[Euptychia westwoodi]]'' Butler, 1867
+---- 
+=== Referencias ===
+

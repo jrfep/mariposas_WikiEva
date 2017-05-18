@@ -1,0 +1,19 @@
+{{Ficha de taxón
+  | name = Myscelus
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Myscelus''
+}}
+=== Especies === 
+---- 
+* ''[[Myscelus belti]]'' Godman & Salvin, 1879
+* ''[[Myscelus epimachia]]'' Herrich-Schäffer, 1869
+* ''[[Myscelus nobilis]]'' (Cramer, 1777)
+* ''[[Myscelus pegasus]]'' Mabille, 1903
+* ''[[Myscelus phoronis]]'' (Hewitson, 1867)
+---- 
+=== Referencias ===
+

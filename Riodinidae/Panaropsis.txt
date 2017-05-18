@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Panaropsis
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Riodinidae]]
+  | genus = ''Panaropsis''
+}}
+=== Especies === 
+---- 
+* ''[[Panaropsis thyatira]]'' (Hewitson, [1853])
+---- 
+=== Referencias ===
+

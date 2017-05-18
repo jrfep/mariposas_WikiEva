@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Timochares
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Timochares''
+}}
+=== Especies === 
+---- 
+* ''[[Timochares trifasciata]]'' (Hewitson, 1868)
+---- 
+=== Referencias ===
+

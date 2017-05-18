@@ -1,0 +1,20 @@
+{{Ficha de taxón
+  | name = Epiphile
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Epiphile''
+}}
+=== Especies === 
+---- 
+* ''[[Epiphile boliviana]]'' Röber, 1914
+* ''[[Epiphile chrysites]]'' (Latreille, [1809])
+* ''[[Epiphile dilecta]]'' Röber, 1914
+* ''[[Epiphile epimenes]]'' Hewitson, 1857
+* ''[[Epiphile iblis]]'' Felder & Felder, 1861
+* ''[[Epiphile latifasciata]]'' Röber, 1914
+---- 
+=== Referencias ===
+

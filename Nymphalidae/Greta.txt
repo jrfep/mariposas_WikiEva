@@ -1,0 +1,23 @@
+{{Ficha de taxón
+  | name = Greta
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Greta''
+}}
+=== Especies === 
+---- 
+* ''[[Greta andromica]]'' (Hewitson, [1855])
+* ''[[Greta clavijoi]]'' Neild, 2008
+* ''[[Greta cubana]]'' (Herrich-Schäffer, 1862)
+* ''[[Greta dercetis]]'' (Doubleday, 1847)
+* ''[[Greta enigma]]'' (Haensch, 1905)
+* ''[[Greta libethris]]'' (Felder & Felder, 1865)
+* ''[[Greta morgane]]'' (Geyer, 1837)
+* ''[[Greta ochretis]]'' (Haensch, 1903)
+* ''[[Greta polissena]]'' (Hewitson, 1863)
+---- 
+=== Referencias ===
+

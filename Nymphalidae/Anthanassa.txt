@@ -1,0 +1,18 @@
+{{Ficha de taxón
+  | name = Anthanassa
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Anthanassa''
+}}
+=== Especies === 
+---- 
+* ''[[Anthanassa acesas]]'' (Hewitson, 1864)
+* ''[[Anthanassa drusilla]]'' (Felder & Felder, 1861)
+* ''[[Anthanassa frisia]]'' (Poey, 1832)
+* ''[[Anthanassa ptolyca]]'' (Bates, 1864)
+---- 
+=== Referencias ===
+

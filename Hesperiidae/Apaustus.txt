@@ -1,0 +1,16 @@
+{{Ficha de taxón
+  | name = Apaustus
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Apaustus''
+}}
+=== Especies === 
+---- 
+* ''[[Apaustus gracilis]]'' (Felder & Felder, 1867)
+* ''[[Apaustus menes]]'' (Stoll, 1782)
+---- 
+=== Referencias ===
+

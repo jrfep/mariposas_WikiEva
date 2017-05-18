@@ -1,0 +1,37 @@
+{{Ficha de taxón
+  | name = Catasticta
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Pieridae]]
+  | genus = ''Catasticta''
+}}
+=== Especies === 
+---- 
+* ''[[Catasticta apaturina]]'' Butler, 1901
+* ''[[Catasticta chrysolopha]]'' (Kollar, 1850)
+* ''[[Catasticta cinerea]]'' Butler, 1897
+* ''[[Catasticta corcyra]]'' (Felder & Felder, 1859)
+* ''[[Catasticta duida]]'' Brown, 1932
+* ''[[Catasticta flisa]]'' (Herrich-Schäffer, [1858])
+* ''[[Catasticta hebra]]'' (Lucas, 1852)
+* ''[[Catasticta manco]]'' (Doubleday, 1848)
+* ''[[Catasticta notha]]'' (Doubleday, 1847)
+* ''[[Catasticta philais]]'' (Felder & Felder, 1865)
+* ''[[Catasticta philone]]'' (Felder & Felder, 1865)
+* ''[[Catasticta philoscia]]'' (Felder & Felder, 1861)
+* ''[[Catasticta prioneris]]'' (Hopffer, 1874)
+* ''[[Catasticta revancha]]'' Rey & Pyrcz, 1996
+* ''[[Catasticta scaeva]]'' Röber, 1909
+* ''[[Catasticta seitzi]]'' Lathy & Rosenberg, 1912
+* ''[[Catasticta semiramis]]'' (Lucas, 1852)
+* ''[[Catasticta sisamnus]]'' (Fabricius, 1793)
+* ''[[Catasticta tomyris]]'' (Felder & Felder, 1865)
+* ''[[Catasticta tricolor]]'' Butler, 1897
+* ''[[Catasticta troezene]]'' (Felder & Felder, 1865)
+* ''[[Catasticta truncata]]'' Lathy & Rosenberg, 1912
+* ''[[Catasticta uricoecheae]]'' (Felder & Felder, 1861)
+---- 
+=== Referencias ===
+* Ferrer-Paris, José R. (2008): Patrones de distribución y abundancia en mariposas piérides (Lepidoptera: Pieridae) a diferentes escalas geográficas. Tesis Doctoral, Centro de Estudios Avanzados, Intituto Venezolano de Investigaciones Científicas. Altos de Pipe, Venezuela. Disponible a través de [dx.doi.org/10.6084/m9.figshare.1094411 figshare]

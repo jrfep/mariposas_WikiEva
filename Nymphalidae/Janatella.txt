@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Janatella
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Janatella''
+}}
+=== Especies === 
+---- 
+* ''[[Janatella leucodesma]]'' (Felder & Felder, 1861)
+---- 
+=== Referencias ===
+

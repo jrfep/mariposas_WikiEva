@@ -1,0 +1,18 @@
+{{Ficha de taxón
+  | name = Steromapedaliodes
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Steromapedaliodes''
+}}
+=== Especies === 
+---- 
+* ''[[Steromapedaliodes albarregas]]'' (Adams & Bernard, 1981)
+* ''[[Steromapedaliodes albonotata]]'' (Godman, 1905)
+* ''[[Steromapedaliodes sanchezi]]'' Viloria & Pyrcz, 2001
+* ''[[Steromapedaliodes schuberti]]'' Viloria & Pyrcz, 2001
+---- 
+=== Referencias ===
+

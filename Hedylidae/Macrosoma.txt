@@ -1,0 +1,17 @@
+{{Ficha de taxón
+  | name = Macrosoma
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hedylidae]]
+  | genus = ''Macrosoma''
+}}
+=== Especies === 
+---- 
+* ''[[Macrosoma cascaria]]'' (Schaus, 1901)
+* ''[[Macrosoma conifera]]'' (Warren, 1897)
+* ''[[Macrosoma hedylaria]]'' (Warren, 1894)
+---- 
+=== Referencias ===
+

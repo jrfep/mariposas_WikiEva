@@ -1,0 +1,22 @@
+{{Ficha de taxón
+  | name = Caligo
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Caligo''
+}}
+=== Especies === 
+---- 
+* ''[[Caligo atreus]]'' (Kollar, 1850)
+* ''[[Caligo brasiliensis]]'' (Felder, 1862)
+* ''[[Caligo eurilochus]]'' (Cramer, 1775)
+* ''[[Caligo idomeneus]]'' (Linnaeus, 1758)
+* ''[[Caligo illioneus]]'' (Cramer, 1775)
+* ''[[Caligo oileus]]'' Felder & Felder, 1861
+* ''[[Caligo telamonius]]'' (Felder & Felder, 1862)
+* ''[[Caligo teucer]]'' (Linnaeus, 1758)
+---- 
+=== Referencias ===
+

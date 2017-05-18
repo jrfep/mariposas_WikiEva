@@ -1,0 +1,20 @@
+{{Ficha de taxón
+  | name = Vehilius
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Vehilius''
+}}
+=== Especies === 
+---- 
+* ''[[Vehilius barrosi]]'' Mielke, 1968
+* ''[[Vehilius clavicula]]'' (Plötz, 1884)
+* ''[[Vehilius inca]]'' (Scudder, 1872)
+* ''[[Vehilius seriatus]]'' (Mabille, 1891)
+* ''[[Vehilius stictomenes]]'' (Butler, 1877)
+* ''[[Vehilius vetula]]'' (Mabille, 1878)
+---- 
+=== Referencias ===
+

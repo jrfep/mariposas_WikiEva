@@ -1,0 +1,16 @@
+{{Ficha de taxón
+  | name = Colobura
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Colobura''
+}}
+=== Especies === 
+---- 
+* ''[[Colobura annulata]]'' Willmott, Constantino & Hall, 2001
+* ''[[Colobura dirce]]'' (Linnaeus, 1758)
+---- 
+=== Referencias ===
+

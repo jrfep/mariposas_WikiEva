@@ -1,0 +1,20 @@
+{{Ficha de taxón
+  | name = Hypothyris
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Hypothyris''
+}}
+=== Especies === 
+---- 
+* ''[[Hypothyris connexa]]'' (Hall, 1939)
+* ''[[Hypothyris euclea]]'' (Godart, 1819)
+* ''[[Hypothyris fluonia]]'' (Hewitson, 1854)
+* ''[[Hypothyris gemella]]'' Fox, 1971
+* ''[[Hypothyris lycaste]]'' (Fabricius, 1793)
+* ''[[Hypothyris ninonia]]'' (Hübner, [1806])
+---- 
+=== Referencias ===
+

@@ -1,0 +1,16 @@
+{{Ficha de taxón
+  | name = Chiomara
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Chiomara''
+}}
+=== Especies === 
+---- 
+* ''[[Chiomara asychis]]'' (Stoll, 1780)
+* ''[[Chiomara mithrax]]'' (Möschler, 1879)
+---- 
+=== Referencias ===
+

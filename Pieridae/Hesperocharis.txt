@@ -1,0 +1,19 @@
+{{Ficha de taxón
+  | name = Hesperocharis
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Pieridae]]
+  | genus = ''Hesperocharis''
+}}
+=== Especies === 
+---- 
+* ''[[Hesperocharis costaricensis]]'' Bates, 1866
+* ''[[Hesperocharis crocea]]'' Bates, 1866
+* ''[[Hesperocharis erota]]'' (Lucas, 1852)
+* ''[[Hesperocharis marchalii]]'' (Guérin-Méneville, [1844])
+* ''[[Hesperocharis nera]]'' (Hewitson, 1852)
+---- 
+=== Referencias ===
+* Ferrer-Paris, José R. (2008): Patrones de distribución y abundancia en mariposas piérides (Lepidoptera: Pieridae) a diferentes escalas geográficas. Tesis Doctoral, Centro de Estudios Avanzados, Intituto Venezolano de Investigaciones Científicas. Altos de Pipe, Venezuela. Disponible a través de [dx.doi.org/10.6084/m9.figshare.1094411 figshare]

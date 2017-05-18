@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Zenis
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Zenis''
+}}
+=== Especies === 
+---- 
+* ''[[Zenis minos]]'' (Latreille, [1824])
+---- 
+=== Referencias ===
+

@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Achalarus
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Achalarus''
+}}
+=== Especies === 
+---- 
+* ''[[Achalarus albociliatus]]'' (Mabille, 1877)
+---- 
+=== Referencias ===
+

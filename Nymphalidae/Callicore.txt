@@ -1,0 +1,23 @@
+{{Ficha de taxón
+  | name = Callicore
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Callicore''
+}}
+=== Especies === 
+---- 
+* ''[[Callicore astarte]]'' (Cramer, 1779)
+* ''[[Callicore atacama]]'' (Hewitson, 1852)
+* ''[[Callicore brome]]'' (Doyère, [1840])
+* ''[[Callicore cynosura]]'' (Doubleday, [1847])
+* ''[[Callicore eunomia]]'' (Hewitson, 1853)
+* ''[[Callicore maronensis]]'' (Oberthür, 1916)
+* ''[[Callicore pitheas]]'' (Latreille, [1813])
+* ''[[Callicore pygas]]'' (Godart, [1824])
+* ''[[Callicore texa]]'' (Hewitson, [1855])
+---- 
+=== Referencias ===
+

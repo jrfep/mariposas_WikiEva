@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Synargis
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Riodinidae]]
+  | genus = ''Synargis''
+}}
+=== Especies === 
+---- 
+* ''[[Synargis pittheus]]'' (Hoffmannsegg, 1818)
+---- 
+=== Referencias ===
+

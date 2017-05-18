@@ -1,0 +1,16 @@
+{{Ficha de taxón
+  | name = Ithomeis
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Riodinidae]]
+  | genus = ''Ithomeis''
+}}
+=== Especies === 
+---- 
+* ''[[Ithomeis aurantiaca]]'' Bates, 1862
+* ''[[Ithomeis eulema]]'' Hewitson, 1870
+---- 
+=== Referencias ===
+

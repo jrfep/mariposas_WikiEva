@@ -1,0 +1,19 @@
+{{Ficha de taxón
+  | name = Vanessa
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Vanessa''
+}}
+=== Especies === 
+---- 
+* ''[[Vanessa annabella]]'' (Field, 1971)
+* ''[[Vanessa braziliensis]]'' (Moore, 1883)
+* ''[[Vanessa cardui]]'' (Linnaeus, 1758)
+* ''[[Vanessa carye]]'' (Hübner, [1812])
+* ''[[Vanessa virginiensis]]'' (Drury, 1773)
+---- 
+=== Referencias ===
+

@@ -1,0 +1,24 @@
+{{Ficha de taxón
+  | name = Urbanus
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Urbanus''
+}}
+=== Especies === 
+---- 
+* ''[[Urbanus albimargo]]'' (Mabille, 1876)
+* ''[[Urbanus carmelita]]'' (Herrich-Schäffer, 1869)
+* ''[[Urbanus chalco]]'' (Hübner, 1823)
+* ''[[Urbanus chales]]'' (Godman & Salvin, 1893)
+* ''[[Urbanus dorantes]]'' (Stoll, 1790)
+* ''[[Urbanus doryssus]]'' (Swainson, 1831)
+* ''[[Urbanus proteus]]'' (Linnaeus, 1758)
+* ''[[Urbanus simplicius]]'' (Stoll, 1790)
+* ''[[Urbanus teleus]]'' (Hübner, 1821)
+* ''[[Urbanus velinus]]'' (Plötz, 1880)
+---- 
+=== Referencias ===
+

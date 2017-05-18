@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Poanes
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Poanes''
+}}
+=== Especies === 
+---- 
+* ''[[Poanes inimica]]'' (Butler & Druce, 1872)
+---- 
+=== Referencias ===
+

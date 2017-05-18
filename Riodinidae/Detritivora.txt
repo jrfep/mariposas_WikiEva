@@ -1,0 +1,20 @@
+{{Ficha de taxón
+  | name = Detritivora
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Riodinidae]]
+  | genus = ''Detritivora''
+}}
+=== Especies === 
+---- 
+* ''[[Detritivora cleonus]]'' (Stoll, 1781)
+* ''[[Detritivora hermodora]]'' (Felder & Felder, 1861)
+* ''[[Detritivora ipiranga]]'' (Harvey & Hall, 2002)
+* ''[[Detritivora ma]]'' (Harvey & Hall, 2002)
+* ''[[Detritivora negro]]'' (Harvey & Hall, 2002)
+* ''[[Detritivora zama]]'' (Bates, 1868)
+---- 
+=== Referencias ===
+

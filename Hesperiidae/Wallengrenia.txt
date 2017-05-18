@@ -1,0 +1,16 @@
+{{Ficha de taxón
+  | name = Wallengrenia
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Wallengrenia''
+}}
+=== Especies === 
+---- 
+* ''[[Wallengrenia otho]]'' (Smith, 1797)
+* ''[[Wallengrenia premnas]]'' (Wallengren, 1860)
+---- 
+=== Referencias ===
+

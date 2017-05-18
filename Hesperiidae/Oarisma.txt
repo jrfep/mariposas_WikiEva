@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Oarisma
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Oarisma''
+}}
+=== Especies === 
+---- 
+* ''[[Oarisma bruneri]]'' Bell, 1959
+---- 
+=== Referencias ===
+

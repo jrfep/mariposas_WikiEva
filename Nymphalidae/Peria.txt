@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Peria
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Peria''
+}}
+=== Especies === 
+---- 
+* ''[[Peria lamis]]'' (Cramer, 1779)
+---- 
+=== Referencias ===
+

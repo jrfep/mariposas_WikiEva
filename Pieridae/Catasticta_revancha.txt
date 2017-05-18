@@ -1,0 +1,46 @@
+{{Ficha de taxón 
+  | name = Mariposa aurinegra del Tamá 
+  | status = CR 
+| image = Image_placeholder.svg 
+  | image_width = 240 px 
+  | regnum = [[Animalia]] 
+  | phylum = [[Arthropoda]] 
+  | classis = [[Insecta]] 
+  | ordo = [[Lepidoptera]] 
+  | familia = [[Pieridae]] 
+  | genus = ''[[Catasticta]]'' 
+  | species = ''Catasticta revancha'' 
+  | binomial = ''Catasticta revancha'' 
+  | binomial_authority = Rey et Pyrcz, 1996 
+| range_map = Map_placeholder.svg 
+ | range_map_width = 240 px 
+ | range_map_caption = Mapa de distribución de Catasticta revancha 
+}} 
+=== Taxonomía === 
+==== Nombres comunes ==== 
+
+Referida en versiones anteriores del libro rojo como Mariposa catasticta amarilla del Tamá, el nombre propuesto para su amplia popularización es ''Mariposa aurinegra del Tamá''.
+
+==== Notas taxonómicas ==== 
+==== Sinónimos ==== 
+=== Descripción === 
+ 
+=== Distribución === 
+
+La localidad original de descripción es el Fundo Piedra Blanca en las afueras de la localidad de San Vicente de la Revancha. Se sospecha su presencia en localidades con condiciones ambientales similares, pero su distribución sería muy restringida y fragmentada. 
+
+=== Situación === 
+* ''''Lista Roja Venezuela'''' 2008 Datos Insuficientes 
+* ''''Lista Roja Venezuela'''' 2015 En peligro crítico
+* ''''Lista Roja internacional'''' No Evaluado 
+
+ 
+=== Amenazas === 
+ 
+=== Conservación === 
+ 
+=== Editores y Colaboradores === 
+
+
+
+=== Referencias ===

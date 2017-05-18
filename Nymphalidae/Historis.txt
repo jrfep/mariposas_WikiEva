@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Historis
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Historis''
+}}
+=== Especies === 
+---- 
+* ''[[Historis odius]]'' (Fabricius, 1775)
+---- 
+=== Referencias ===
+

@@ -1,0 +1,20 @@
+{{Ficha de taxón
+  | name = Pronophila
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Pronophila''
+}}
+=== Especies === 
+---- 
+* ''[[Pronophila cuchillaensis]]'' Viloria & Camacho, 1999
+* ''[[Pronophila epidipnis]]'' Thieme, 1907
+* ''[[Pronophila obscura]]'' Butler, 1868
+* ''[[Pronophila orcus]]'' (Latreille, [1813])
+* ''[[Pronophila thelebe]]'' Doubleday, [1849]
+* ''[[Pronophila unifasciata]]'' Lathy, 1906
+---- 
+=== Referencias ===
+

@@ -1,0 +1,16 @@
+{{Ficha de taxón
+  | name = Pseudoscada
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Pseudoscada''
+}}
+=== Especies === 
+---- 
+* ''[[Pseudoscada florula]]'' (Hewitson, [1855])
+* ''[[Pseudoscada timna]]'' (Hewitson, [1855])
+---- 
+=== Referencias ===
+

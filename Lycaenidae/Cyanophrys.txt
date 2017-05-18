@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Cyanophrys
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Lycaenidae]]
+  | genus = ''Cyanophrys''
+}}
+=== Especies === 
+---- 
+* ''[[Cyanophrys pseudolongula]]'' (Clench, 1944)
+---- 
+=== Referencias ===
+

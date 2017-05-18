@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Penaincisalia
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Lycaenidae]]
+  | genus = ''Penaincisalia''
+}}
+=== Especies === 
+---- 
+* ''[[Penaincisalia loxurina]]'' (Felder & Felder, 1865)
+---- 
+=== Referencias ===
+

@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Noctuana
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Noctuana''
+}}
+=== Especies === 
+---- 
+* ''[[Noctuana haematospila]]'' (Felder & Felder, 1867)
+---- 
+=== Referencias ===
+

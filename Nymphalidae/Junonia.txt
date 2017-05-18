@@ -1,0 +1,16 @@
+{{Ficha de taxón
+  | name = Junonia
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Junonia''
+}}
+=== Especies === 
+---- 
+* ''[[Junonia evarete]]'' (Cramer, 1779)
+* ''[[Junonia genoveva]]'' (Cramer, 1780)
+---- 
+=== Referencias ===
+

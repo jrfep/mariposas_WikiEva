@@ -1,0 +1,16 @@
+{{Ficha de taxón
+  | name = Cobalus
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Cobalus''
+}}
+=== Especies === 
+---- 
+* ''[[Cobalus calvina]]'' (Hewitson, 1866)
+* ''[[Cobalus virbius]]'' (Cramer, 1777)
+---- 
+=== Referencias ===
+

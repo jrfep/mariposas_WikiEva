@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Nerula
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Nerula''
+}}
+=== Especies === 
+---- 
+* ''[[Nerula fibrena]]'' (Hewitson, 1877)
+---- 
+=== Referencias ===
+

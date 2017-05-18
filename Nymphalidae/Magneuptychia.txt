@@ -1,0 +1,23 @@
+{{Ficha de taxón
+  | name = Magneuptychia
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Magneuptychia''
+}}
+=== Especies === 
+---- 
+* ''[[Magneuptychia alcinoe]]'' (Felder & Felder, 1867)
+* ''[[Magneuptychia divergens]]'' (Butler, 1867)
+* ''[[Magneuptychia lea]]'' (Cramer, 1777)
+* ''[[Magneuptychia libye]]'' (Linnaeus, 1767)
+* ''[[Magneuptychia mimas]]'' (Godman, 1905)
+* ''[[Magneuptychia modesta]]'' (Butler, 1867)
+* ''[[Magneuptychia nebulosa]]'' (Butler, 1867)
+* ''[[Magneuptychia newtoni]]'' (Hall, 1939)
+* ''[[Magneuptychia ocypete]]'' (Fabricius, 1776)
+---- 
+=== Referencias ===
+

@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Mcclungia
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Mcclungia''
+}}
+=== Especies === 
+---- 
+* ''[[Mcclungia cymo]]'' (Hübner, [1806])
+---- 
+=== Referencias ===
+

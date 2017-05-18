@@ -1,0 +1,21 @@
+{{Ficha de taxón
+  | name = Ithomia
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Ithomia''
+}}
+=== Especies === 
+---- 
+* ''[[Ithomia agnosia]]'' Hewitson, [1855]
+* ''[[Ithomia avella]]'' Hewitson, 1854
+* ''[[Ithomia celemia]]'' Hewitson, [1854]
+* ''[[Ithomia iphianassa]]'' Doubleday, 1847
+* ''[[Ithomia patilla]]'' Hewitson, 1852
+* ''[[Ithomia terra]]'' Hewitson, [1853]
+* ''[[Ithomia xenos]]'' (Bates, 1866)
+---- 
+=== Referencias ===
+

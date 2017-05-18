@@ -1,0 +1,16 @@
+{{Ficha de taxón
+  | name = Hypna
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Hypna''
+}}
+=== Especies === 
+---- 
+* ''[[Hypna clytemnestra]]'' (Cramer, 1777)
+* ''[[Hypna rufescens]]'' Butler, 1866
+---- 
+=== Referencias ===
+

@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Xenophanes
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Xenophanes''
+}}
+=== Especies === 
+---- 
+* ''[[Xenophanes tryxus]]'' (Stoll, 1780)
+---- 
+=== Referencias ===
+

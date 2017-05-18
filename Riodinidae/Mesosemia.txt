@@ -1,0 +1,17 @@
+{{Ficha de taxón
+  | name = Mesosemia
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Riodinidae]]
+  | genus = ''Mesosemia''
+}}
+=== Especies === 
+---- 
+* ''[[Mesosemia hesperina]]'' Butler, 1874
+* ''[[Mesosemia philocles]]'' (Linnaeus, 1758)
+* ''[[Mesosemia telegone]]'' (Boisduval, 1836)
+---- 
+=== Referencias ===
+

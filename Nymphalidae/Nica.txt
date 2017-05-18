@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Nica
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Nica''
+}}
+=== Especies === 
+---- 
+* ''[[Nica flavilla]]'' (Godart, [1824])
+---- 
+=== Referencias ===
+

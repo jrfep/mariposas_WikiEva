@@ -1,0 +1,16 @@
+{{Ficha de taxón
+  | name = Siseme
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Riodinidae]]
+  | genus = ''Siseme''
+}}
+=== Especies === 
+---- 
+* ''[[Siseme neurodes]]'' (Felder & Felder, 1861)
+* ''[[Siseme pallas]]'' (Latreille, [1809])
+---- 
+=== Referencias ===
+

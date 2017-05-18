@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Ortilia
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Ortilia''
+}}
+=== Especies === 
+---- 
+* ''[[Ortilia liriope]]'' (Cramer, 1775)
+---- 
+=== Referencias ===
+

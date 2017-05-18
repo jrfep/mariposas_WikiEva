@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Eracon
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Eracon''
+}}
+=== Especies === 
+---- 
+* ''[[Eracon paulinus]]'' (Stoll, 1782)
+---- 
+=== Referencias ===
+

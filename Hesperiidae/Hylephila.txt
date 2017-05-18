@@ -1,0 +1,17 @@
+{{Ficha de taxón
+  | name = Hylephila
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Hylephila''
+}}
+=== Especies === 
+---- 
+* ''[[Hylephila boulleti]]'' (Mabille, 1906)
+* ''[[Hylephila ignorans]]'' (Plötz, 1883)
+* ''[[Hylephila phyleus]]'' (Drury, 1773)
+---- 
+=== Referencias ===
+

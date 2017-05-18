@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Hades
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Riodinidae]]
+  | genus = ''Hades''
+}}
+=== Especies === 
+---- 
+* ''[[Hades noctula]]'' Westwood, 1851
+---- 
+=== Referencias ===
+

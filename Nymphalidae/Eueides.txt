@@ -1,0 +1,21 @@
+{{Ficha de taxón
+  | name = Eueides
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Eueides''
+}}
+=== Especies === 
+---- 
+* ''[[Eueides isabella]]'' (Stoll, 1781)
+* ''[[Eueides libitina]]'' Staudinger, 1885
+* ''[[Eueides lineata]]'' Salvin & Godman, 1868
+* ''[[Eueides lybia]]'' (Fabricius, 1775)
+* ''[[Eueides procula]]'' Doubleday, [1847]
+* ''[[Eueides tales]]'' (Cramer, 1775)
+* ''[[Eueides vibilia]]'' (Godart, 1819)
+---- 
+=== Referencias ===
+

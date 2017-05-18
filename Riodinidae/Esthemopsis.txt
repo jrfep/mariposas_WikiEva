@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Esthemopsis
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Riodinidae]]
+  | genus = ''Esthemopsis''
+}}
+=== Especies === 
+---- 
+* ''[[Esthemopsis jesse]]'' (Butler, 1870)
+---- 
+=== Referencias ===
+

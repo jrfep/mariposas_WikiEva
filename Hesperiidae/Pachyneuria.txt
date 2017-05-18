@@ -1,0 +1,17 @@
+{{Ficha de taxón
+  | name = Pachyneuria
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Pachyneuria''
+}}
+=== Especies === 
+---- 
+* ''[[Pachyneuria duidae]]'' (Bell, 1932)
+* ''[[Pachyneuria helena]]'' (Hayward, 1939)
+* ''[[Pachyneuria licisca]]'' (Plötz, 1882)
+---- 
+=== Referencias ===
+

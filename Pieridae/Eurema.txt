@@ -1,0 +1,27 @@
+{{Ficha de taxón
+  | name = Eurema
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Pieridae]]
+  | genus = ''Eurema''
+}}
+=== Especies === 
+---- 
+* ''[[Eurema agave]]'' (Cramer, 1775)
+* ''[[Eurema albula]]'' (Cramer, 1775)
+* ''[[Eurema amelia]]'' (Poey, [1852])
+* ''[[Eurema arbela]]'' Geyer, 1832
+* ''[[Eurema daira]]'' (Godart, 1819)
+* ''[[Eurema elathea]]'' (Cramer, 1777)
+* ''[[Eurema fabiola]]'' (Felder & Felder, 1861)
+* ''[[Eurema mexicana]]'' (Boisduval, 1836)
+* ''[[Eurema paulina]]'' (Bates, 1861)
+* ''[[Eurema phiale]]'' (Cramer, 1775)
+* ''[[Eurema salome]]'' (Felder & Felder, 1861)
+* ''[[Eurema tupuntenem]]'' Lichy, 1976
+* ''[[Eurema xantochlora]]'' (Kollar, 1850)
+---- 
+=== Referencias ===
+* Ferrer-Paris, José R. (2008): Patrones de distribución y abundancia en mariposas piérides (Lepidoptera: Pieridae) a diferentes escalas geográficas. Tesis Doctoral, Centro de Estudios Avanzados, Intituto Venezolano de Investigaciones Científicas. Altos de Pipe, Venezuela. Disponible a través de [dx.doi.org/10.6084/m9.figshare.1094411 figshare]

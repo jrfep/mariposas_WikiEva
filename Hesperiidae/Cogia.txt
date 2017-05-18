@@ -1,0 +1,16 @@
+{{Ficha de taxón
+  | name = Cogia
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Cogia''
+}}
+=== Especies === 
+---- 
+* ''[[Cogia calchas]]'' (Herrich-Schäffer, 1869)
+* ''[[Cogia hippalus]]'' (Edwards, 1882)
+---- 
+=== Referencias ===
+

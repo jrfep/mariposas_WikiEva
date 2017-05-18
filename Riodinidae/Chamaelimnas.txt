@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Chamaelimnas
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Riodinidae]]
+  | genus = ''Chamaelimnas''
+}}
+=== Especies === 
+---- 
+* ''[[Chamaelimnas cercides]]'' Hewitson, 1871
+---- 
+=== Referencias ===
+

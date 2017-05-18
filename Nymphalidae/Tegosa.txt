@@ -1,0 +1,17 @@
+{{Ficha de taxón
+  | name = Tegosa
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Tegosa''
+}}
+=== Especies === 
+---- 
+* ''[[Tegosa anieta]]'' (Hewitson, 1864)
+* ''[[Tegosa claudina]]'' (Eschscholtz, 1821)
+* ''[[Tegosa fragilis]]'' (Bates, 1864)
+---- 
+=== Referencias ===
+

@@ -1,0 +1,16 @@
+{{Ficha de taxón
+  | name = Adelotypa
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Riodinidae]]
+  | genus = ''Adelotypa''
+}}
+=== Especies === 
+---- 
+* ''[[Adelotypa glauca]]'' (Godman & Salvin, 1886)
+* ''[[Adelotypa penthea]]'' (Cramer, 1777)
+---- 
+=== Referencias ===
+

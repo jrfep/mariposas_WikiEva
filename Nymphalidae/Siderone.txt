@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Siderone
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Siderone''
+}}
+=== Especies === 
+---- 
+* ''[[Siderone galanthis]]'' (Cramer, 1775)
+---- 
+=== Referencias ===
+

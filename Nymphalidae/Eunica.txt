@@ -1,0 +1,26 @@
+{{Ficha de taxón
+  | name = Eunica
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Eunica''
+}}
+=== Especies === 
+---- 
+* ''[[Eunica alcmena]]'' (Doubleday, [1847])
+* ''[[Eunica alpais]]'' (Godart, [1824])
+* ''[[Eunica amelia]]'' (Cramer, 1777)
+* ''[[Eunica amycla]]'' (Godart, [1824])
+* ''[[Eunica caralis]]'' (Hewitson, [1857])
+* ''[[Eunica carias]]'' (Hewitson, [1857])
+* ''[[Eunica maja]]'' (Fabricius, 1775)
+* ''[[Eunica monima]]'' (Stoll, 1782)
+* ''[[Eunica norica]]'' (Hewitson, 1852)
+* ''[[Eunica pomona]]'' (Felder & Felder, 1867)
+* ''[[Eunica sophonisba]]'' (Cramer, 1780)
+* ''[[Eunica sydonia]]'' (Godart, [1824])
+---- 
+=== Referencias ===
+

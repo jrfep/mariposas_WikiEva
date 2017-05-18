@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Quinta
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Quinta''
+}}
+=== Especies === 
+---- 
+* ''[[Quinta cannae]]'' (Herrich-Schäffer, 1869)
+---- 
+=== Referencias ===
+

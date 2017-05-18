@@ -1,0 +1,16 @@
+{{Ficha de taxón
+  | name = Panacea
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Panacea''
+}}
+=== Especies === 
+---- 
+* ''[[Panacea procilla]]'' (Hewitson, [1854])
+* ''[[Panacea prola]]'' (Doubleday, [1848])
+---- 
+=== Referencias ===
+

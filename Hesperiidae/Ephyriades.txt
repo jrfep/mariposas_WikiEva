@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Ephyriades
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Ephyriades''
+}}
+=== Especies === 
+---- 
+* ''[[Ephyriades arcas]]'' (Drury, 1773)
+---- 
+=== Referencias ===
+

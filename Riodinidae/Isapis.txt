@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Isapis
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Riodinidae]]
+  | genus = ''Isapis''
+}}
+=== Especies === 
+---- 
+* ''[[Isapis agyrtus]]'' (Cramer, 1777)
+---- 
+=== Referencias ===
+

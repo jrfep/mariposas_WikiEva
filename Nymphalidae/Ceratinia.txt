@@ -1,0 +1,16 @@
+{{Ficha de taxón
+  | name = Ceratinia
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Ceratinia''
+}}
+=== Especies === 
+---- 
+* ''[[Ceratinia neso]]'' (Hübner, [1806])
+* ''[[Ceratinia tutia]]'' (Hewitson, 1852)
+---- 
+=== Referencias ===
+

@@ -1,0 +1,16 @@
+{{Ficha de taxón
+  | name = Ardaris
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Ardaris''
+}}
+=== Especies === 
+---- 
+* ''[[Ardaris eximia]]'' (Hewitson, 1871)
+* ''[[Ardaris hantra]]'' Evans, 1951
+---- 
+=== Referencias ===
+

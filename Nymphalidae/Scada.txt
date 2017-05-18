@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Scada
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Scada''
+}}
+=== Especies === 
+---- 
+* ''[[Scada reckia]]'' (Hübner, [1808])
+---- 
+=== Referencias ===
+

@@ -1,0 +1,16 @@
+{{Ficha de taxón
+  | name = Quadrus
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Quadrus''
+}}
+=== Especies === 
+---- 
+* ''[[Quadrus cerialis]]'' (Stoll, 1782)
+* ''[[Quadrus lugubris]]'' (Felder, 1869)
+---- 
+=== Referencias ===
+

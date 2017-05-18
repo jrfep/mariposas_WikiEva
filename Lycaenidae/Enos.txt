@@ -1,0 +1,16 @@
+{{Ficha de taxón
+  | name = Enos
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Lycaenidae]]
+  | genus = ''Enos''
+}}
+=== Especies === 
+---- 
+* ''[[Enos falerina]]'' (Hewitson, 1867)
+* ''[[Enos maculata]]'' (Lathy, 1936)
+---- 
+=== Referencias ===
+

@@ -1,0 +1,18 @@
+{{Ficha de taxón
+  | name = Mylon
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Mylon''
+}}
+=== Especies === 
+---- 
+* ''[[Mylon jason]]'' (Ehrmann, 1907)
+* ''[[Mylon lassia]]'' (Hewitson, 1868)
+* ''[[Mylon maimon]]'' (Fabricius, 1775)
+* ''[[Mylon zephus]]'' (Butler, 1870)
+---- 
+=== Referencias ===
+

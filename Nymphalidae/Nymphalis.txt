@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Nymphalis
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Nymphalis''
+}}
+=== Especies === 
+---- 
+* ''[[Nymphalis antiopa]]'' (Linnaeus, 1758)
+---- 
+=== Referencias ===
+

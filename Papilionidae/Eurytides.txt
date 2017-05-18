@@ -1,0 +1,17 @@
+{{Ficha de taxón
+  | name = Eurytides
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Papilionidae]]
+  | genus = ''Eurytides''
+}}
+=== Especies === 
+---- 
+* ''[[Eurytides callias]]'' (Rothschild & Jordan, 1906)
+* ''[[Eurytides dolicaon]]'' (Cramer, 1775)
+* ''[[Eurytides serville]]'' (Godart, [1824])
+---- 
+=== Referencias ===
+

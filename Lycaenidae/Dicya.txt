@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Dicya
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Lycaenidae]]
+  | genus = ''Dicya''
+}}
+=== Especies === 
+---- 
+* ''[[Dicya iambe]]'' (Godman & Salvin, 1887)
+---- 
+=== Referencias ===
+

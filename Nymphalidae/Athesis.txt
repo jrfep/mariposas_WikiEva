@@ -1,0 +1,16 @@
+{{Ficha de taxón
+  | name = Athesis
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Athesis''
+}}
+=== Especies === 
+---- 
+* ''[[Athesis clearista]]'' Doubleday, 1847
+* ''[[Athesis vitrala]]'' Kaye, 1918
+---- 
+=== Referencias ===
+

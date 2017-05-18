@@ -1,0 +1,17 @@
+{{Ficha de taxón
+  | name = Dione
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Dione''
+}}
+=== Especies === 
+---- 
+* ''[[Dione glycera]]'' (Felder & Felder, 1861)
+* ''[[Dione juno]]'' (Cramer, 1779)
+* ''[[Dione moneta]]'' Hübner, [1825]
+---- 
+=== Referencias ===
+

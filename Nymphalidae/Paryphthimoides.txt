@@ -1,0 +1,16 @@
+{{Ficha de taxón
+  | name = Paryphthimoides
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Paryphthimoides''
+}}
+=== Especies === 
+---- 
+* ''[[Paryphthimoides grimon]]'' (Godart, [1824])
+* ''[[Paryphthimoides poltys]]'' (Prittwitz, 1865)
+---- 
+=== Referencias ===
+

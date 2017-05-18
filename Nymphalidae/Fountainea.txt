@@ -1,0 +1,21 @@
+{{Ficha de taxón
+  | name = Fountainea
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Fountainea''
+}}
+=== Especies === 
+---- 
+* ''[[Fountainea eurypyle]]'' (Felder & Felder, 1862)
+* ''[[Fountainea glycerium]]'' (Doubleday, [1849])
+* ''[[Fountainea halice]]'' (Godart, [1824])
+* ''[[Fountainea nessus]]'' (Latreille, [1813])
+* ''[[Fountainea nobilis]]'' (Bates, 1864)
+* ''[[Fountainea ryphea]]'' (Cramer, 1775)
+* ''[[Fountainea venezuelana]]'' (Johnson & Comstock, 1941)
+---- 
+=== Referencias ===
+

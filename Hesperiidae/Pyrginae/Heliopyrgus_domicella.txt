@@ -1,0 +1,45 @@
+{{Ficha de taxón 
+  | name = Heliopyrgus domicella
+  | status = LC
+  | image = Image_placeholder.svg 
+  | image_width = 240 px 
+  | regnum = [[Animalia]] 
+  | phylum = [[Arthropoda]] 
+  | classis = [[Insecta]] 
+  | ordo = [[Lepidoptera]] 
+  | familia = [[Hesperiidae]] 
+  | genus = ''[[Heliopyrgus]]'' 
+  | species = ''Heliopyrgus domicella'' 
+  | binomial = ''Heliopyrgus domicella'' 
+  | binomial_authority = ''(Erichson, [1849])''   
+  | range_map = Map_placeholder.svg 
+  | range_map_width = 240 px 
+  | range_map_caption = Mapa de distribución de Heliopyrgus domicella
+}} 
+=== Taxonomía === 
+Única especie del género Heliopyrgus presente en Venezuela, otras 2 especies conocidas a nivel mundial. Especie descrita a principios del siglo XX. Especie descrita en el siglo XIX.
+==== Nombres comunes ====
+
+==== Notas taxonómicas ====
+
+==== Sinónimos ====
+
+=== Descripción ===
+
+=== Distribución === 
+Especie de amplia distribución en Venezuela.
+=== Situación === 
+* ''''Lista Roja Venezuela'''' 1995 No evaluado
+* ''''Lista Roja Venezuela'''' 2003 No evaluado
+* ''''Lista Roja Venezuela'''' 2008 No evaluado
+=== Amenazas === 
+
+=== Conservación === 
+
+
+=== Editores y Colaboradores === 
+[[Usuario:Jrfep|J.R. Ferrer Paris]]
+
+=== Referencias ===
+
+* Encyclopedia of Life, eol.org/pages/185566/overview

@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Xenandra
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Riodinidae]]
+  | genus = ''Xenandra''
+}}
+=== Especies === 
+---- 
+* ''[[Xenandra heliodes]]'' Felder & Felder, 1865
+---- 
+=== Referencias ===
+

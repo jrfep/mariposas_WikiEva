@@ -1,0 +1,20 @@
+{{Ficha de taxón
+  | name = Doxocopa
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Doxocopa''
+}}
+=== Especies === 
+---- 
+* ''[[Doxocopa cyane]]'' (Latreille, [1813])
+* ''[[Doxocopa elis]]'' (Felder & Felder, 1861)
+* ''[[Doxocopa laure]]'' (Drury, 1773)
+* ''[[Doxocopa laurentia]]'' (Godart, [1824])
+* ''[[Doxocopa linda]]'' (Felder & Felder, 1862)
+* ''[[Doxocopa zunilda]]'' (Godart, [1824])
+---- 
+=== Referencias ===
+

@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Libytheana
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Libytheana''
+}}
+=== Especies === 
+---- 
+* ''[[Libytheana carinenta]]'' (Cramer, 1777)
+---- 
+=== Referencias ===
+

@@ -1,0 +1,16 @@
+{{Ficha de taxón
+  | name = Remella
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Remella''
+}}
+=== Especies === 
+---- 
+* ''[[Remella remus]]'' (Fabricius, 1798)
+* ''[[Remella vopiscus]]'' (Herrich-Schäffer, 1869)
+---- 
+=== Referencias ===
+

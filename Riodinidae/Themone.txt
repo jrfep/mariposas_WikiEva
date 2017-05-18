@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Themone
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Riodinidae]]
+  | genus = ''Themone''
+}}
+=== Especies === 
+---- 
+* ''[[Themone pais]]'' (Hübner, [1820])
+---- 
+=== Referencias ===
+

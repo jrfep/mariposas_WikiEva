@@ -1,0 +1,17 @@
+{{Ficha de taxón
+  | name = Staphylus
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Staphylus''
+}}
+=== Especies === 
+---- 
+* ''[[Staphylus ascalaphus]]'' (Staudinger, 1876)
+* ''[[Staphylus mazans]]'' (Reakirt, [1867])
+* ''[[Staphylus tyro]]'' (Mabille, 1878)
+---- 
+=== Referencias ===
+

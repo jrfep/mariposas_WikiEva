@@ -1,0 +1,17 @@
+{{Ficha de taxón
+  | name = Stalachtis
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Riodinidae]]
+  | genus = ''Stalachtis''
+}}
+=== Especies === 
+---- 
+* ''[[Stalachtis calliope]]'' (Linnaeus, 1758)
+* ''[[Stalachtis euterpe]]'' (Linnaeus, 1758)
+* ''[[Stalachtis phlegia]]'' (Cramer, 1779)
+---- 
+=== Referencias ===
+

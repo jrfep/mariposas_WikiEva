@@ -1,0 +1,16 @@
+{{Ficha de taxón
+  | name = Hypoleria
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Hypoleria''
+}}
+=== Especies === 
+---- 
+* ''[[Hypoleria lavinia]]'' (Hewitson, [1855])
+* ''[[Hypoleria ocalea]]'' (Doubleday, 1847)
+---- 
+=== Referencias ===
+

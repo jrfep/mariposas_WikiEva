@@ -1,0 +1,19 @@
+{{Ficha de taxón
+  | name = Emesis
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Riodinidae]]
+  | genus = ''Emesis''
+}}
+=== Especies === 
+---- 
+* ''[[Emesis cypria]]'' Felder & Felder, 1861
+* ''[[Emesis lupina]]'' Godman & Salvin, 1886
+* ''[[Emesis mandana]]'' (Cramer, 1780)
+* ''[[Emesis tenedia]]'' Felder & Felder, 1861
+* ''[[Emesis zela]]'' Butler, 1870
+---- 
+=== Referencias ===
+

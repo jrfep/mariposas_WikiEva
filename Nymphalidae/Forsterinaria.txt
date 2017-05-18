@@ -1,0 +1,16 @@
+{{Ficha de taxón
+  | name = Forsterinaria
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Forsterinaria''
+}}
+=== Especies === 
+---- 
+* ''[[Forsterinaria hannieri]]'' Zubek & Pyrcz, 2011
+* ''[[Forsterinaria inornata]]'' (Felder & Felder, 1867)
+---- 
+=== Referencias ===
+

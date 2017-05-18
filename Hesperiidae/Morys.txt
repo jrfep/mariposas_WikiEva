@@ -1,0 +1,17 @@
+{{Ficha de taxón
+  | name = Morys
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Morys''
+}}
+=== Especies === 
+---- 
+* ''[[Morys compta]]'' (Butler, 1877)
+* ''[[Morys geisa]]'' (Möschler, 1879)
+* ''[[Morys subgrisea]]'' (Mabille, 1898)
+---- 
+=== Referencias ===
+

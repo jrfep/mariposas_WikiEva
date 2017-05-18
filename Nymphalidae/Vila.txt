@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Vila
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Vila''
+}}
+=== Especies === 
+---- 
+* ''[[Vila emilia]]'' (Cramer, 1779)
+---- 
+=== Referencias ===
+

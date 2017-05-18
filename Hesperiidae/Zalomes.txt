@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Zalomes
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Zalomes''
+}}
+=== Especies === 
+---- 
+* ''[[Zalomes merida]]'' Evans, 1955
+---- 
+=== Referencias ===
+

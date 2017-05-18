@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Ectima
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Ectima''
+}}
+=== Especies === 
+---- 
+* ''[[Ectima thecla]]'' (Fabricius, 1796)
+---- 
+=== Referencias ===
+

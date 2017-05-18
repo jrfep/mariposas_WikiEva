@@ -1,0 +1,18 @@
+{{Ficha de taxón
+  | name = Pyrrhogyra
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Pyrrhogyra''
+}}
+=== Especies === 
+---- 
+* ''[[Pyrrhogyra amphiro]]'' Bates, 1865
+* ''[[Pyrrhogyra crameri]]'' Aurivillius, 1882
+* ''[[Pyrrhogyra edocla]]'' (Doubleday, [1848])
+* ''[[Pyrrhogyra neaerea]]'' (Linnaeus, 1758)
+---- 
+=== Referencias ===
+

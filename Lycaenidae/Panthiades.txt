@@ -1,0 +1,20 @@
+{{Ficha de taxón
+  | name = Panthiades
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Lycaenidae]]
+  | genus = ''Panthiades''
+}}
+=== Especies === 
+---- 
+* ''[[Panthiades aeolus]]'' (Fabricius, 1775)
+* ''[[Panthiades bathildis]]'' (Felder & Felder, 1865)
+* ''[[Panthiades bitias]]'' (Cramer, 1777)
+* ''[[Panthiades boreas]]'' (Felder & Felder, 1865)
+* ''[[Panthiades paphlagon]]'' (Felder & Felder, 1865)
+* ''[[Panthiades phaleros]]'' (Linnaeus, 1767)
+---- 
+=== Referencias ===
+

@@ -1,0 +1,18 @@
+{{Ficha de taxón
+  | name = Anatrytone
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Anatrytone''
+}}
+=== Especies === 
+---- 
+* ''[[Anatrytone barbara]]'' (Williams & Bell, 1931)
+* ''[[Anatrytone mella]]'' (Godman, 1900)
+* ''[[Anatrytone perfida]]'' (Möschler, 1879)
+* ''[[Anatrytone sarah]]'' Burns, 1994
+---- 
+=== Referencias ===
+

@@ -1,0 +1,17 @@
+{{Ficha de taxón
+  | name = Elbella
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Elbella''
+}}
+=== Especies === 
+---- 
+* ''[[Elbella dulcinea]]'' (Plötz, 1879)
+* ''[[Elbella intersecta]]'' (Herrich-Schäffer, 1869)
+* ''[[Elbella merops]]'' (Bell, 1934)
+---- 
+=== Referencias ===
+

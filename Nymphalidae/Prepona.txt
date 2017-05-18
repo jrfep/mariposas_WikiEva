@@ -1,0 +1,16 @@
+{{Ficha de taxón
+  | name = Prepona
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Prepona''
+}}
+=== Especies === 
+---- 
+* ''[[Prepona laertes]]'' (Hübner, [1811])
+* ''[[Prepona praeneste]]'' Hewitson, 1859
+---- 
+=== Referencias ===
+

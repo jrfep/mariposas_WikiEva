@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Heliopyrgus
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Heliopyrgus''
+}}
+=== Especies === 
+---- 
+* ''[[Heliopyrgus domicella]]'' (Erichson, [1849])
+---- 
+=== Referencias ===
+

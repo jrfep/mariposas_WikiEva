@@ -1,0 +1,16 @@
+{{Ficha de taxón
+  | name = Olynthus
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Lycaenidae]]
+  | genus = ''Olynthus''
+}}
+=== Especies === 
+---- 
+* ''[[Olynthus essus]]'' (Herrich-Schäffer, [1853])
+* ''[[Olynthus narbal]]'' (Stoll, 1790)
+---- 
+=== Referencias ===
+

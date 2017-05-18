@@ -1,0 +1,31 @@
+{{Ficha de taxón
+  | name = Theope
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Riodinidae]]
+  | genus = ''Theope''
+}}
+=== Especies === 
+---- 
+* ''[[Theope acosma]]'' Stichel, 1910
+* ''[[Theope archimedes]]'' (Fabricius, 1793)
+* ''[[Theope azurea]]'' Bates, 1868
+* ''[[Theope barea]]'' Godman & Salvin, 1878
+* ''[[Theope eudocia]]'' Westwood, 1851
+* ''[[Theope excelsa]]'' Bates, 1868
+* ''[[Theope foliorum]]'' Bates, 1868
+* ''[[Theope leucanthe]]'' Bates, 1868
+* ''[[Theope lycaenina]]'' Bates, 1868
+* ''[[Theope matuta]]'' Godman & Salvin, 1897
+* ''[[Theope nycteis]]'' (Westwood, 1851)
+* ''[[Theope pedias]]'' Herrich-Schäffer, [1853]
+* ''[[Theope phaeo]]'' Prittwitz, 1865
+* ''[[Theope pieridoides]]'' Felder & Felder, 1865
+* ''[[Theope publius]]'' Felder & Felder, 1861
+* ''[[Theope sobrina]]'' Bates, 1868
+* ''[[Theope virgilius]]'' (Fabricius, 1793)
+---- 
+=== Referencias ===
+

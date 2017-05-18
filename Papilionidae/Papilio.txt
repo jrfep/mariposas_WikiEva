@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Papilio
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Papilionidae]]
+  | genus = ''Papilio''
+}}
+=== Especies === 
+---- 
+* ''[[Papilio polyxenes]]'' Fabricius, 1775
+---- 
+=== Referencias ===
+

@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Hypophylla
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Riodinidae]]
+  | genus = ''Hypophylla''
+}}
+=== Especies === 
+---- 
+* ''[[Hypophylla florus]]'' (Staudinger, [1887])
+---- 
+=== Referencias ===
+

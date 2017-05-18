@@ -1,0 +1,22 @@
+{{Ficha de taxón
+  | name = Jemadia
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Jemadia''
+}}
+=== Especies === 
+---- 
+* ''[[Jemadia demarmelsi]]'' Orellana, 2008
+* ''[[Jemadia fallax]]'' (Mabille, 1878)
+* ''[[Jemadia gnetus]]'' (Fabricius, 1781)
+* ''[[Jemadia hewitsonii]]'' (Mabille, 1878)
+* ''[[Jemadia menechmus]]'' (Mabille, 1878)
+* ''[[Jemadia pater]]'' Evans, 1951
+* ''[[Jemadia pseudognetus]]'' (Mabille, 1878)
+* ''[[Jemadia sosia]]'' (Mabille, 1878)
+---- 
+=== Referencias ===
+

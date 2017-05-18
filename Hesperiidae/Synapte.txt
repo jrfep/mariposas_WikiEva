@@ -1,0 +1,16 @@
+{{Ficha de taxón
+  | name = Synapte
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Synapte''
+}}
+=== Especies === 
+---- 
+* ''[[Synapte lutulenta]]'' (Herrich-Schäffer, 1869)
+* ''[[Synapte malitiosa]]'' (Herrich-Schäffer, 1865)
+---- 
+=== Referencias ===
+

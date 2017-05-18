@@ -1,0 +1,19 @@
+{{Ficha de taxón
+  | name = Heliopetes
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Heliopetes''
+}}
+=== Especies === 
+---- 
+* ''[[Heliopetes alana]]'' (Reakirt, 1868)
+* ''[[Heliopetes arsalte]]'' (Linnaeus, 1758)
+* ''[[Heliopetes laviana]]'' (Hewitson, 1868)
+* ''[[Heliopetes macaira]]'' (Reakirt, [1867])
+* ''[[Heliopetes petrus]]'' (Hübner, [1819])
+---- 
+=== Referencias ===
+
