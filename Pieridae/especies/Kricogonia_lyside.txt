@@ -1,0 +1,48 @@
+{{Ficha de taxón 
+  | name = Mariposa del Guayacán
+  | status = NT
+| image = Image_placeholder.svg 
+  | image_width = 240 px 
+  | regnum = [[Animalia]] 
+  | phylum = [[Arthropoda]] 
+  | classis = [[Insecta]] 
+  | ordo = [[Lepidoptera]] 
+  | familia = [[Pieridae]] 
+  | genus = ''[[Kricogonia]]'' 
+  | species = ''Kricogonia lyside'' 
+  | binomial = ''Kricogonia lyside'' 
+  | binomial_authority =  
+| range_map = Map_placeholder.svg 
+ | range_map_width = 240 px 
+ | range_map_caption = Mapa de distribución de Kricogonia lyside
+}} 
+=== Taxonomía === 
+==== Nombres comunes ==== 
+
+Mariposa del Guayacán, o Mariposa liside.
+
+==== Notas taxonómicas ==== 
+==== Sinónimos ==== 
+=== Descripción === 
+ 
+=== Distribución === 
+
+En Venezuela está restringida a zonas semi-áridas, zonas costeras e insulares, o zonas urbanas donde crezca su plata hospedera. 
+
+=== Situación === 
+* ''''Lista Roja Venezuela'''' No evaluado 
+* ''''Lista Roja Venezuela'''' 2015 Preocupación menor
+* ''''Lista Roja internacional'''' No Evaluado 
+
+ 
+=== Amenazas === 
+
+Es localmente abundante siempre y cuando se encuentre su planta hospedera el Guayacán o Palo Sano ('''Guaiacum officinale'''). Debido a su asociación exclusiva con esta planta es probable que sufra reducciones considerables de su área de distribución en sitios modificados por desarrollos urbanos, desertificación o conversión del uso de la tierra.
+ 
+=== Conservación === 
+ 
+=== Editores y Colaboradores === 
+
+JR Ferrer-Paris y A Sánchez-Mercado
+
+=== Referencias ===
