@@ -1,0 +1,49 @@
+{{Ficha de taxón 
+  | name = Ganyra josephina
+  | status = LC
+  | image = Image_placeholder.svg 
+  | image_width = 240 px 
+  | regnum = [[Animalia]] 
+  | phylum = [[Arthropoda]] 
+  | classis = [[Insecta]] 
+  | ordo = [[Lepidoptera]] 
+  | familia = [[Pieridae]] 
+  | genus = ''[[Ganyra]]'' 
+  | species = ''Ganyra josephina'' 
+  | binomial = ''Ganyra josephina'' 
+  | binomial_authority = ''(Godart, 1819)''   
+  | range_map = Map_placeholder.svg 
+  | range_map_width = 240 px 
+  | range_map_caption = Mapa de distribución de Ganyra josephina
+}} 
+=== Taxonomía === 
+El género Ganyra pertenece a la subfamilia Pierinae y está representado en Venezuela por 2 especies, y un total de 3 especies a nivel mundial. Especie descrita en el siglo XIX.
+==== Nombres comunes ====
+
+==== Notas taxonómicas ====
+
+==== Sinónimos ====
+
+=== Descripción ===
+Para esta especie hay información disponible en Encyclopedia of Life (EOL, www.eol.org).ikipedia (www.wikipedia.org), Global Biodiversity Information Facility (GBIF, www.gbif.org).
+=== Distribución === 
+Especie de amplia distribución en Venezuela.
+=== Situación === 
+Mariposa de distribución amplia, poco común pero ocasionalmente presente en hábitats intervenidos y vegetación secundaria.
+
+* ''''Lista Roja Venezuela'''' 1995 No evaluado
+* ''''Lista Roja Venezuela'''' 2003 No evaluado
+* ''''Lista Roja Venezuela'''' 2008 No evaluado
+=== Amenazas === 
+
+=== Conservación === 
+
+
+=== Editores y Colaboradores === 
+[[Usuario:Jrfep|J.R. Ferrer Paris]]
+
+=== Referencias ===
+* Ferrer-Paris, José R.; Paul Rodríguez, Jon; Y. Sánchez-Mercado, Ada; A. Rodríguez, Gustavo (2014): Informe de resultados de muestreos de NeoMapas a nivel nacional 2001 a 2010. figshare. doi:[https://dx.doi.org/10.6084/m9.figshare.1094280 10.6084/m9.figshare.1094280]. 
+* Ferrer-Paris, José R.; Jon Paul Rodríguez; Tatjana Good; Ada Y. Sánchez-Mercado; Kathryn M. Rodríguez-Clark; Gustavo A. Rodríguez; A. Solis (2013): Systematic, large-scale national biodiversity surveys: NeoMaps as a model for tropical regions. Diversity and Distributions 19(2): 215-231 doi:[http://dx.doi.org/10.1111/ddi.12012 10.1111/ddi.12012]. 
+* J. Gonzáles, A. Orellana and G. Lamas. “Adiciones, rectificacionesy actualizaciones a "Mariposas de Venezuela" por Théophile Raymond. IV.Pieridae y Hesperiidae (Lepidoptera)”. In: ''Entomotropica'' 20.3 (2005),pp. 265-269.
+* M. F. Sandoval, A. Fernandez-Badillo and J. M. González. “Mariposas(Insecta: Lepidoptera) del Parque Henri Pittier, Venezuela: Lista,distribución y algunas notas sobre su historia natural”. In: ''Alcance''70 (2007), pp. 1-140.
