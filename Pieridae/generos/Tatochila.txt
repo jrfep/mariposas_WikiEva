@@ -13,9 +13,7 @@
 ---- 
 === Referencias ===
 * Ferrer-Paris, José R. (2008): Patrones de distribución y abundancia en mariposas piérides (Lepidoptera: Pieridae) a diferentes escalas geográficas]. Tesis Doctoral, Centro de Estudios Avanzados, Intituto Venezolano de Investigaciones Científicas. Altos de Pipe, Venezuela. doi:[http://dx.doi.org/10.6084/m9.figshare.1094411 10.6084/m9.figshare.1094411]
-PieridaeTachira
-Ore04
-miza
-* Ferrer-Paris, José R.; Paul Rodríguez, Jon; Y. Sánchez-Mercado, Ada; A. Rodríguez, Gustavo (2014): Informe de resultados de muestreos de NeoMapas a nivel nacional 2001 a 2010. figshare.
-doi:[https://dx.doi.org/10.6084/m9.figshare.1094280 10.6084/m9.figshare.1094280]. 
+* Ferrer-Paris, José R.; Paul Rodríguez, Jon; Y. Sánchez-Mercado, Ada; A. Rodríguez, Gustavo (2014): Informe de resultados de muestreos de NeoMapas a nivel nacional 2001 a 2010. figshare. doi:[https://dx.doi.org/10.6084/m9.figshare.1094280 10.6084/m9.figshare.1094280]. 
 * Ferrer-Paris, José R.; Jon Paul Rodríguez; Tatjana Good; Ada Y. Sánchez-Mercado; Kathryn M. Rodríguez-Clark; Gustavo A. Rodríguez; A. Solis (2013): Systematic, large-scale national biodiversity surveys: NeoMaps as a model for tropical regions. Diversity and Distributions 19(2): 215-231 doi:[http://dx.doi.org/10.1111/ddi.12012 10.1111/ddi.12012]. 
+* A. M. Orellana B. “Mariposas de los páramos de la Sierra Nevada ySierra de La Culata (Cordillera de Mérida, Venezuela)”. In: ''Memoriasdel IV Simposio Internacional de Desarrollo Sustentable de Los Andes,la estrategia andina para el siglo XXI''. Ed. by R. Andresse and M.Monasterio. ICAE - ULA, 2004, pp. 57-71.
+* F. Rey. ''Distribución geográfica de Pieridae (Insecta: Lepidoptera)del estado Táchira''. publicado en linea, última visita en Agosto 2007.1999. <URL:http://www.unet.edu.ve/~frey/varios/entomologia/mariposas/mar/>.

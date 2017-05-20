@@ -35,21 +35,14 @@
 ---- 
 === Referencias ===
 * Ferrer-Paris, José R. (2008): Patrones de distribución y abundancia en mariposas piérides (Lepidoptera: Pieridae) a diferentes escalas geográficas]. Tesis Doctoral, Centro de Estudios Avanzados, Intituto Venezolano de Investigaciones Científicas. Altos de Pipe, Venezuela. doi:[http://dx.doi.org/10.6084/m9.figshare.1094411 10.6084/m9.figshare.1094411]
-Bro32
-SFG07
-PieridaeTachira
-GL05
-LaB04
-Ore04
-RP96
-WR99
-Lam93
-ER98
-Ray82
-Nei 92
-Aba05
-miza
-Willmott2003
-* Ferrer-Paris, José R.; Paul Rodríguez, Jon; Y. Sánchez-Mercado, Ada; A. Rodríguez, Gustavo (2014): Informe de resultados de muestreos de NeoMapas a nivel nacional 2001 a 2010. figshare.
-doi:[https://dx.doi.org/10.6084/m9.figshare.1094280 10.6084/m9.figshare.1094280]. 
+* Ferrer-Paris, José R.; Paul Rodríguez, Jon; Y. Sánchez-Mercado, Ada; A. Rodríguez, Gustavo (2014): Informe de resultados de muestreos de NeoMapas a nivel nacional 2001 a 2010. figshare. doi:[https://dx.doi.org/10.6084/m9.figshare.1094280 10.6084/m9.figshare.1094280]. 
 * Ferrer-Paris, José R.; Jon Paul Rodríguez; Tatjana Good; Ada Y. Sánchez-Mercado; Kathryn M. Rodríguez-Clark; Gustavo A. Rodríguez; A. Solis (2013): Systematic, large-scale national biodiversity surveys: NeoMaps as a model for tropical regions. Diversity and Distributions 19(2): 215-231 doi:[http://dx.doi.org/10.1111/ddi.12012 10.1111/ddi.12012]. 
+* S. Abadjiev. “An annotated catalog of types of Neotropical PierinaeLepidoptera: Pieidae in the collection of the National Museum ofNatural history, Smithsonian Institution, Washington DC”. In: ''Zootaxa''1022 (2005), pp. 1-35.
+* F. M. Brown. “Pieridae from the regions of Mt. Duida and Mt.Roraima”. In: ''American Museum Novitates'' 572 (1932), pp. 1-7.
+* U. Eitschberger and T. Racheli. “Catasticta studies (Lepidoptera:Pieridae)”. In: ''Neue Entomologiste Nachrichten'' 41 (1998), pp. 5-94.
+* J. Gonzáles, A. Orellana and G. Lamas. “Adiciones, rectificacionesy actualizaciones a "Mariposas de Venezuela" por Théophile Raymond. IV.Pieridae y Hesperiidae (Lepidoptera)”. In: ''Entomotropica'' 20.3 (2005),pp. 265-269.
+* G. Lamas. “Lista comentada de los piéridos americanos descritos porJ. Röber (Lepidoptera: Pieridae)”. In: ''SHILAP Revta. Lepid.'' 21.83(1993), pp. 139-155.
+* G. Lamas and M. Bollino. “Revisional notes on the "amastris" groupof Catasticta Butler, 1870 (Lepidoptera: Pieridae), with description ofnew species and subspecies”. In: ''Zootaxa'' (2004), pp. 1-19.
+* A. M. Orellana B. “Mariposas de los páramos de la Sierra Nevada ySierra de La Culata (Cordillera de Mérida, Venezuela)”. In: ''Memoriasdel IV Simposio Internacional de Desarrollo Sustentable de Los Andes,la estrategia andina para el siglo XXI''. Ed. by R. Andresse and M.Monasterio. ICAE - ULA, 2004, pp. 57-71.
+* T. Raymond. ''Mariposas de Venezuela''. Ediciones Corpoven, 1982.
+* F. Rey. ''Distribución geográfica de Pieridae (Insecta: Lepidoptera)del estado Táchira''. publicado en linea, última visita en Agosto 2007.1999. <URL:http://www.unet.edu.ve/~frey/varios/entomologia/mariposas/mar/>.[10] F. Rey and T. W. Pyrcz. “A perfect mimicry of two cloud forestpierids: ''Leptophobia eleone'' and ''Catasticta revancha'' new sp.(Lepidoptera: Pieridae)”. In: ''Genus'' 7.3 (1996), pp. 497-502.[11] M. F. Sandoval, A. Fernandez-Badillo and J. M. González.“Mariposas (Insecta: Lepidoptera) del Parque Henri Pittier, Venezuela:Lista, distribución y algunas notas sobre su historia natural”. In:''Alcance'' 70 (2007), pp. 1-140.[12] K. R. Willmott. ''The genus Adelpha: its systematics, biology andbiogeography (Lepidoptera: Nymphalidae: Limenitidini)''. 322 pp..Gainsville: Scientific Publishers, 2003.[13] J. Wojtusiak and F. Rey. “Forest-paramo ecotone butterflies of thegenus Catasticta in the Tama Range, Venezuela-Colombia border: ''C.uricoecheae inopa'' new subsp. and ''C. tricolor tomasi'' new subsp.(Lepidoptera: Pieridae)”. In: ''Lambillionea'' XCIX (1999), pp. 87-89.
