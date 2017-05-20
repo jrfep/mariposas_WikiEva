@@ -25,10 +25,12 @@ El género Anteos pertenece a la subfamilia Coliadinae y está representado en V
 ==== Sinónimos ====
 
 === Descripción ===
-
+Para esta especie hay información disponible en Biodiversity Heritage Library (BHL, www.biodiversitylibrary.org).
 === Distribución === 
-
+Especie de amplia distribución en Venezuela.
 === Situación === 
+Mariposa de distribución amplia, poco común pero ocasionalmente presente en hábitats intervenidos y vegetación secundaria.
+
 * ''''Lista Roja Venezuela'''' 1995 No evaluado
 * ''''Lista Roja Venezuela'''' 2003 No evaluado
 * ''''Lista Roja Venezuela'''' 2008 No evaluado
