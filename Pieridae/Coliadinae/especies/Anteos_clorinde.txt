@@ -1,0 +1,44 @@
+{{Ficha de taxón 
+  | name = Anteos clorinde
+  | status = LC
+  | image = Image_placeholder.svg 
+  | image_width = 240 px 
+  | regnum = [[Animalia]] 
+  | phylum = [[Arthropoda]] 
+  | classis = [[Insecta]] 
+  | ordo = [[Lepidoptera]] 
+  | familia = [[Pieridae]] 
+  | genus = ''[[Anteos]]'' 
+  | species = ''Anteos clorinde'' 
+  | binomial = ''Anteos clorinde'' 
+  | binomial_authority = ''(Godart, [1824])''   
+  | range_map = Map_placeholder.svg 
+  | range_map_width = 240 px 
+  | range_map_caption = Mapa de distribución de Anteos clorinde
+}} 
+=== Taxonomía === 
+El género Anteos pertenece a la subfamilia Coliadinae y está representado en Venezuela por 3 especies, y un total de 3 especies a nivel mundial. Especie descrita en el siglo XIX.
+==== Nombres comunes ====
+
+==== Notas taxonómicas ====
+
+==== Sinónimos ====
+
+=== Descripción ===
+
+=== Distribución === 
+
+=== Situación === 
+* ''''Lista Roja Venezuela'''' 1995 No evaluado
+* ''''Lista Roja Venezuela'''' 2003 No evaluado
+* ''''Lista Roja Venezuela'''' 2008 No evaluado
+=== Amenazas === 
+
+=== Conservación === 
+
+
+=== Editores y Colaboradores === 
+[[Usuario:Jrfep|J.R. Ferrer Paris]]
+
+=== Referencias ===
+
