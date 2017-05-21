@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Phothecla
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Lycaenidae]]
+  | genus = ''Phothecla''
+}}
+=== Especies === 
+---- 
+* ''[[Phothecla photismos]]'' (Druce, 1907)
+---- 
+=== Referencias ===
+list()

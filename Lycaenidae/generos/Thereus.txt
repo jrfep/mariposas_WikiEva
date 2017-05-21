@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Thereus
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Lycaenidae]]
+  | genus = ''Thereus''
+}}
+=== Especies === 
+---- 
+* ''[[Thereus guianivaga]]'' (Johnson, 1989)
+---- 
+=== Referencias ===
+list()

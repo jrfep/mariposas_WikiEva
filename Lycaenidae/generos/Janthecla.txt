@@ -1,0 +1,18 @@
+{{Ficha de taxón
+  | name = Janthecla
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Lycaenidae]]
+  | genus = ''Janthecla''
+}}
+=== Especies === 
+---- 
+* ''[[Janthecla janthina]]'' (Hewitson, 1867)
+* ''[[Janthecla leea]]'' Venables & Robbins, 1991
+* ''[[Janthecla malvina]]'' (Hewitson, 1867)
+* ''[[Janthecla sista]]'' (Hewitson, 1867)
+---- 
+=== Referencias ===
+list()

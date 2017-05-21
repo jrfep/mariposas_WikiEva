@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Zizula
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Lycaenidae]]
+  | genus = ''Zizula''
+}}
+=== Especies === 
+---- 
+* ''[[Zizula cyna]]'' (Edwards, 1881)
+---- 
+=== Referencias ===
+list()

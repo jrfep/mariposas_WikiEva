@@ -1,0 +1,18 @@
+{{Ficha de taxón
+  | name = Rekoa
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Lycaenidae]]
+  | genus = ''Rekoa''
+}}
+=== Especies === 
+---- 
+* ''[[Rekoa marius]]'' (Lucas, 1857)
+* ''[[Rekoa meton]]'' (Cramer, 1779)
+* ''[[Rekoa palegon]]'' (Cramer, 1780)
+* ''[[Rekoa stagira]]'' (Hewitson, 1867)
+---- 
+=== Referencias ===
+list()

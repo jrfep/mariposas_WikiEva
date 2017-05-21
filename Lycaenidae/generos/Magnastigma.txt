@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Magnastigma
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Lycaenidae]]
+  | genus = ''Magnastigma''
+}}
+=== Especies === 
+---- 
+* ''[[Magnastigma elsa]]'' (Hewitson, 1877)
+---- 
+=== Referencias ===
+list()

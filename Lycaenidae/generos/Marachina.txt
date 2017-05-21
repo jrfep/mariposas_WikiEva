@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Marachina
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Lycaenidae]]
+  | genus = ''Marachina''
+}}
+=== Especies === 
+---- 
+* ''[[Marachina fidelia]]'' (Hewitson, 1874)
+---- 
+=== Referencias ===
+list()

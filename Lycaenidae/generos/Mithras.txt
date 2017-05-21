@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Mithras
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Lycaenidae]]
+  | genus = ''Mithras''
+}}
+=== Especies === 
+---- 
+* ''[[Mithras elis]]'' (Cramer, 1779)
+---- 
+=== Referencias ===
+list()

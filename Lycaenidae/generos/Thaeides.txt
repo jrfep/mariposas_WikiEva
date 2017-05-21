@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Thaeides
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Lycaenidae]]
+  | genus = ''Thaeides''
+}}
+=== Especies === 
+---- 
+* ''[[Thaeides pyrczi]]'' (Johnson, Le Crom & Constantino, 1997)
+---- 
+=== Referencias ===
+list()

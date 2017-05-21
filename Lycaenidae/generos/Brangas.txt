@@ -1,0 +1,16 @@
+{{Ficha de taxón
+  | name = Brangas
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Lycaenidae]]
+  | genus = ''Brangas''
+}}
+=== Especies === 
+---- 
+* ''[[Brangas caranus]]'' (Stoll, 1780)
+---- 
+=== Referencias ===
+
+* T. Raymond. ''Mariposas de Venezuela''. Ediciones Corpoven, 1982.

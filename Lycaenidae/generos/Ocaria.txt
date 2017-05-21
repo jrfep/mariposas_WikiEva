@@ -1,0 +1,17 @@
+{{Ficha de taxón
+  | name = Ocaria
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Lycaenidae]]
+  | genus = ''Ocaria''
+}}
+=== Especies === 
+---- 
+* ''[[Ocaria aholiba]]'' (Hewitson, 1867)
+* ''[[Ocaria calesia]]'' (Hewitson, 1870)
+* ''[[Ocaria elisa]]'' Bálint & Costa, 2012
+---- 
+=== Referencias ===
+list()

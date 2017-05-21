@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Timaeta
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Lycaenidae]]
+  | genus = ''Timaeta''
+}}
+=== Especies === 
+---- 
+* ''[[Timaeta balzabamba]]'' (Goodson, 1945)
+---- 
+=== Referencias ===
+list()

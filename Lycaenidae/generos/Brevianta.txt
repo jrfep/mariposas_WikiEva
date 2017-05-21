@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Brevianta
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Lycaenidae]]
+  | genus = ''Brevianta''
+}}
+=== Especies === 
+---- 
+* ''[[Brevianta ematheon]]'' (Cramer, 1777)
+---- 
+=== Referencias ===
+list()

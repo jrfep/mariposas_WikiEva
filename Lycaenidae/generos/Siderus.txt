@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Siderus
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Lycaenidae]]
+  | genus = ''Siderus''
+}}
+=== Especies === 
+---- 
+* ''[[Siderus leucophaeus]]'' (Hübner, [1813])
+---- 
+=== Referencias ===
+list()

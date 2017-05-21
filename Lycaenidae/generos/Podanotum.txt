@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Podanotum
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Lycaenidae]]
+  | genus = ''Podanotum''
+}}
+=== Especies === 
+---- 
+* ''[[Podanotum andrewneildi]]'' Bálint, 2001
+---- 
+=== Referencias ===
+list()

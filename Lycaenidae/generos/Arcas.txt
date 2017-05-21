@@ -1,0 +1,17 @@
+{{Ficha de taxón
+  | name = Arcas
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Lycaenidae]]
+  | genus = ''Arcas''
+}}
+=== Especies === 
+---- 
+* ''[[Arcas cypria]]'' (Geyer, 1837)
+* ''[[Arcas imperialis]]'' (Cramer, 1775)
+---- 
+=== Referencias ===
+
+* T. Raymond. ''Mariposas de Venezuela''. Ediciones Corpoven, 1982.

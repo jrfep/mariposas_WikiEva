@@ -1,0 +1,17 @@
+{{Ficha de taxón
+  | name = Pseudolycaena
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Lycaenidae]]
+  | genus = ''Pseudolycaena''
+}}
+=== Especies === 
+---- 
+* ''[[Pseudolycaena marsyas]]'' (Linnaeus, 1758)
+---- 
+=== Referencias ===
+
+* J. R. Álvarez Sierra and J. R. Álvarez Corral. ''Mariposas diurnasde Venezuela. Introducción a su conocimiento''. Caracas: Editorial Arte,1984.
+* T. Raymond. ''Mariposas de Venezuela''. Ediciones Corpoven, 1982.

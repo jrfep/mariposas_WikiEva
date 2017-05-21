@@ -1,0 +1,17 @@
+{{Ficha de taxón
+  | name = Erora
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Lycaenidae]]
+  | genus = ''Erora''
+}}
+=== Especies === 
+---- 
+* ''[[Erora biblia]]'' (Hewitson, 1868)
+* ''[[Erora gabina]]'' (Godman & Salvin, 1887)
+* ''[[Erora lorina]]'' (Hewitson, 1874)
+---- 
+=== Referencias ===
+list()

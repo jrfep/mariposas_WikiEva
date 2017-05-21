@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Celmia
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Lycaenidae]]
+  | genus = ''Celmia''
+}}
+=== Especies === 
+---- 
+* ''[[Celmia celmus]]'' (Cramer, 1775)
+---- 
+=== Referencias ===
+list()

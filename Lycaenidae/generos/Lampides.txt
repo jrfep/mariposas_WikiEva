@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Lampides
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Lycaenidae]]
+  | genus = ''Lampides''
+}}
+=== Especies === 
+---- 
+* ''[[Lampides boeticus]]'' (Linnaeus, 1767)
+---- 
+=== Referencias ===
+list()

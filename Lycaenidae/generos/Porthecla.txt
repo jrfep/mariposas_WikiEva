@@ -1,0 +1,17 @@
+{{Ficha de taxón
+  | name = Porthecla
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Lycaenidae]]
+  | genus = ''Porthecla''
+}}
+=== Especies === 
+---- 
+* ''[[Porthecla gemma]]'' (Druce, 1907)
+* ''[[Porthecla melleus]]'' (Druce, 1907)
+* ''[[Porthecla minyia]]'' (Hewitson, 1867)
+---- 
+=== Referencias ===
+list()

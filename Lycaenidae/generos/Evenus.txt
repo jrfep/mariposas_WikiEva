@@ -1,0 +1,16 @@
+{{Ficha de taxón
+  | name = Evenus
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Lycaenidae]]
+  | genus = ''Evenus''
+}}
+=== Especies === 
+---- 
+* ''[[Evenus coronata]]'' (Hewitson, 1865)
+* ''[[Evenus felix]]'' Neild & Bálint, 2014
+---- 
+=== Referencias ===
+list()

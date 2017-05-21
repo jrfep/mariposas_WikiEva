@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Ostrinotes
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Lycaenidae]]
+  | genus = ''Ostrinotes''
+}}
+=== Especies === 
+---- 
+* ''[[Ostrinotes tympania]]'' (Hewitson, 1869)
+---- 
+=== Referencias ===
+list()
