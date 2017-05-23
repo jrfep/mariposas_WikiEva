@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Mnestheus
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Mnestheus''
+}}
+=== Especies === 
+---- 
+* ''[[Mnestheus ittona]]'' (Butler, 1870)
+---- 
+=== Referencias ===
+list()

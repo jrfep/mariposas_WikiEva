@@ -1,0 +1,16 @@
+{{Ficha de taxón
+  | name = Cephise
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Cephise''
+}}
+=== Especies === 
+---- 
+* ''[[Cephise callias]]'' (Mabille, 1888)
+* ''[[Cephise procerus]]'' (Plötz, 1880)
+---- 
+=== Referencias ===
+list()

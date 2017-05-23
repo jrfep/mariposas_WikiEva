@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Monca
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Monca''
+}}
+=== Especies === 
+---- 
+* ''[[Monca telata]]'' (Herrich-Schäffer, 1869)
+---- 
+=== Referencias ===
+list()

@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Mictris
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Mictris''
+}}
+=== Especies === 
+---- 
+* ''[[Mictris crispus]]'' (Herrich-Schäffer, 1870)
+---- 
+=== Referencias ===
+list()

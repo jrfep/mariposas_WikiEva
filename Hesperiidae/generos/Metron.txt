@@ -1,0 +1,17 @@
+{{Ficha de taxón
+  | name = Metron
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Metron''
+}}
+=== Especies === 
+---- 
+* ''[[Metron chrysogastra]]'' (Butler, 1870)
+* ''[[Metron leucogaster]]'' (Godman, 1900)
+* ''[[Metron zimra]]'' (Hewitson, 1877)
+---- 
+=== Referencias ===
+list()

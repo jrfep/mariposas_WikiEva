@@ -1,0 +1,16 @@
+{{Ficha de taxón
+  | name = Phanus
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Phanus''
+}}
+=== Especies === 
+---- 
+* ''[[Phanus grandis]]'' Austin, 1993
+* ''[[Phanus vitreus]]'' (Stoll, 1781)
+---- 
+=== Referencias ===
+list()

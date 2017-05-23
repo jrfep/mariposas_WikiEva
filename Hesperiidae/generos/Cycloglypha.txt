@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Cycloglypha
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Cycloglypha''
+}}
+=== Especies === 
+---- 
+* ''[[Cycloglypha thrasibulus]]'' (Fabricius, 1793)
+---- 
+=== Referencias ===
+list()

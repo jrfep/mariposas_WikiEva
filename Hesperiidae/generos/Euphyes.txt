@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Euphyes
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Euphyes''
+}}
+=== Especies === 
+---- 
+* ''[[Euphyes cherra]]'' Evans, 1955
+---- 
+=== Referencias ===
+list()

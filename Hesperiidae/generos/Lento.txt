@@ -1,0 +1,17 @@
+{{Ficha de taxón
+  | name = Lento
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Lento''
+}}
+=== Especies === 
+---- 
+* ''[[Lento hermione]]'' (Schaus, 1913)
+* ''[[Lento xanthina]]'' (Mabille, 1891)
+---- 
+=== Referencias ===
+
+* U. Eitschberger and T. Racheli. “Catasticta studies (Lepidoptera:Pieridae)”. In: ''Neue Entomologiste Nachrichten'' 41 (1998), pp. 5-94.

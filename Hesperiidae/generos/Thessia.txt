@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Thessia
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Thessia''
+}}
+=== Especies === 
+---- 
+* ''[[Thessia athesis]]'' (Hewitson, 1867)
+---- 
+=== Referencias ===
+list()

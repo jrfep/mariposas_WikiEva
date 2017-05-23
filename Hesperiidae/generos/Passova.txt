@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Passova
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Passova''
+}}
+=== Especies === 
+---- 
+* ''[[Passova passova]]'' (Hewitson, 1866)
+---- 
+=== Referencias ===
+list()

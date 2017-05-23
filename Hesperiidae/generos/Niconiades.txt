@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Niconiades
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Niconiades''
+}}
+=== Especies === 
+---- 
+* ''[[Niconiades merenda]]'' (Mabille, 1878)
+---- 
+=== Referencias ===
+list()

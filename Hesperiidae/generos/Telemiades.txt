@@ -1,0 +1,18 @@
+{{Ficha de taxón
+  | name = Telemiades
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Telemiades''
+}}
+=== Especies === 
+---- 
+* ''[[Telemiades amphion]]'' (Geyer, 1832)
+* ''[[Telemiades epicalus]]'' Hübner, [1819]
+* ''[[Telemiades penidas]]'' (Hewitson, 1867)
+* ''[[Telemiades sila]]'' Evans, 1953
+---- 
+=== Referencias ===
+list()

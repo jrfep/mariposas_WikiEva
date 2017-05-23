@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Orphe
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Orphe''
+}}
+=== Especies === 
+---- 
+* ''[[Orphe vatinius]]'' Godman, 1901
+---- 
+=== Referencias ===
+list()

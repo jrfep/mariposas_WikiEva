@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Gunayan
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Gunayan''
+}}
+=== Especies === 
+---- 
+* ''[[Gunayan rhacia]]'' (Hewitson, [1875])
+---- 
+=== Referencias ===
+list()

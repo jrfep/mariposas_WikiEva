@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Gesta
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Gesta''
+}}
+=== Especies === 
+---- 
+* ''[[Gesta heteropterus]]'' (Plötz, 1884)
+---- 
+=== Referencias ===
+list()

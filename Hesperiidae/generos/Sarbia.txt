@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Sarbia
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Sarbia''
+}}
+=== Especies === 
+---- 
+* ''[[Sarbia oneka]]'' (Hewitson, 1866)
+---- 
+=== Referencias ===
+list()

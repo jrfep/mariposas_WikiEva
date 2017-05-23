@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Chrysoplectrum
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Chrysoplectrum''
+}}
+=== Especies === 
+---- 
+* ''[[Chrysoplectrum bahiana]]'' (Herrich-Schäffer, 1869)
+---- 
+=== Referencias ===
+list()

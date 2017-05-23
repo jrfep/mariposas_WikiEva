@@ -1,0 +1,16 @@
+{{Ficha de taxón
+  | name = Decinea
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Decinea''
+}}
+=== Especies === 
+---- 
+* ''[[Decinea decinea]]'' (Hewitson, 1876)
+* ''[[Decinea neroides]]'' (Herrich-Schäffer, 1869)
+---- 
+=== Referencias ===
+list()

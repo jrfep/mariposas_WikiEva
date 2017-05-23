@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Gorgopas
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Gorgopas''
+}}
+=== Especies === 
+---- 
+* ''[[Gorgopas chlorocephala]]'' (Herrich-Schäffer, 1870)
+---- 
+=== Referencias ===
+list()

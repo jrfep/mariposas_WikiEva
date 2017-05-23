@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Arita
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Arita''
+}}
+=== Especies === 
+---- 
+* ''[[Arita arita]]'' (Schaus, 1902)
+---- 
+=== Referencias ===
+list()

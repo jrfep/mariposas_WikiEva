@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Mysarbia
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Mysarbia''
+}}
+=== Especies === 
+---- 
+* ''[[Mysarbia sejanus]]'' (Hopffer, 1874)
+---- 
+=== Referencias ===
+list()

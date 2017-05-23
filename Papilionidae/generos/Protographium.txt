@@ -1,0 +1,21 @@
+{{Ficha de taxón
+  | name = Protographium
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Papilionidae]]
+  | genus = ''Protographium''
+}}
+=== Especies === 
+---- 
+* ''[[Protographium agesilaus]]'' (Guérin-Méneville & Percheron, 1835)
+* ''[[Protographium anaxilaus]]'' (Felder & Felder, 1865)
+* ''[[Protographium dioxippus]]'' (Hewitson, [1856])
+* ''[[Protographium leucaspis]]'' (Godart, 1819)
+* ''[[Protographium philolaus]]'' (Boisduval, 1836)
+---- 
+=== Referencias ===
+
+* J. M. González and F. R. M. “Fauna del Parque Nacional HenriPittier, Aragua, Venezuela: Lista de Papilioninae (Papilionidae:Lepidoptera). Diagnosis y comentarios”. In: ''Memoria de la Fundación LaSalle de Ciencias Naturales'' 56.145 (1996), pp. 35-44.
+* T. Racheli. “An annotated check-list of Venezuelan Papilionidae(Lepidoptera)”. In: ''Lambillionea'' XCV (1995). Biblioteca Viloria(original) art\'\iculo en revista, pp. 70-80, 261-268.

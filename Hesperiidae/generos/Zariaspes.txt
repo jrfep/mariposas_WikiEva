@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Zariaspes
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Zariaspes''
+}}
+=== Especies === 
+---- 
+* ''[[Zariaspes mys]]'' (Hübner, [1808])
+---- 
+=== Referencias ===
+list()

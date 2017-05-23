@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Saliana
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Saliana''
+}}
+=== Especies === 
+---- 
+* ''[[Saliana esperi]]'' Evans, 1955
+---- 
+=== Referencias ===
+list()

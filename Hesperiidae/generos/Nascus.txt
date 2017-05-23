@@ -1,0 +1,17 @@
+{{Ficha de taxón
+  | name = Nascus
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Nascus''
+}}
+=== Especies === 
+---- 
+* ''[[Nascus broteas]]'' (Cramer, 1780)
+* ''[[Nascus paulliniae]]'' (Sepp, [1842])
+* ''[[Nascus solon]]'' (Plötz, 1882)
+---- 
+=== Referencias ===
+list()

@@ -1,0 +1,18 @@
+{{Ficha de taxón
+  | name = Autochton
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Autochton''
+}}
+=== Especies === 
+---- 
+* ''[[Autochton bipunctatus]]'' (Gmelin, [1790])
+* ''[[Autochton longipennis]]'' (Plötz, 1882)
+* ''[[Autochton neis]]'' (Geyer, 1832)
+* ''[[Autochton zarex]]'' (Hübner, 1818)
+---- 
+=== Referencias ===
+list()

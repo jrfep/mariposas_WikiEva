@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Thracides
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Thracides''
+}}
+=== Especies === 
+---- 
+* ''[[Thracides cleanthes]]'' (Latreille, [1824])
+---- 
+=== Referencias ===
+list()

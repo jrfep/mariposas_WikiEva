@@ -1,0 +1,17 @@
+{{Ficha de taxón
+  | name = Vacerra
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Vacerra''
+}}
+=== Especies === 
+---- 
+* ''[[Vacerra bonfilius]]'' (Latreille, [1824])
+* ''[[Vacerra evansi]]'' Hayward, 1938
+---- 
+=== Referencias ===
+
+* A. Orellana. “Contribución al conocimiento de los PyrrhopyginaeºdeVenezuela (Insecta: Lepidoptera: Hesperiidae)”. MA Thesis. Facultad deAgronomia, Universidad Central de Venezuela, 2006.

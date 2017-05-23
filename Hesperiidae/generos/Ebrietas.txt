@@ -1,0 +1,18 @@
+{{Ficha de taxón
+  | name = Ebrietas
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Ebrietas''
+}}
+=== Especies === 
+---- 
+* ''[[Ebrietas anacreon]]'' (Staudinger, 1876)
+* ''[[Ebrietas badia]]'' (Plötz, 1884)
+* ''[[Ebrietas elaudia]]'' (Plötz, 1884)
+* ''[[Ebrietas infanda]]'' (Butler, 1877)
+---- 
+=== Referencias ===
+list()

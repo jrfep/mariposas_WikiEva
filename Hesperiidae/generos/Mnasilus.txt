@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Mnasilus
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Mnasilus''
+}}
+=== Especies === 
+---- 
+* ''[[Mnasilus allubita]]'' (Butler, 1877)
+---- 
+=== Referencias ===
+list()

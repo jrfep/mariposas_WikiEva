@@ -1,0 +1,25 @@
+{{Ficha de taxón
+  | name = Pyrrhopyge
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Pyrrhopyge''
+}}
+=== Especies === 
+---- 
+* ''[[Pyrrhopyge amyclas]]'' (Cramer, 1779)
+* ''[[Pyrrhopyge amythaon]]'' Bell, 1931
+* ''[[Pyrrhopyge aziza]]'' (Hewitson, 1866)
+* ''[[Pyrrhopyge boulleti]]'' Le Cerf, 1922
+* ''[[Pyrrhopyge erazoae]]'' Orellana, 2008
+* ''[[Pyrrhopyge papius]]'' Hopffer, 1874
+* ''[[Pyrrhopyge phidias]]'' (Linnaeus, 1758)
+* ''[[Pyrrhopyge proculus]]'' Hopffer, 1874
+* ''[[Pyrrhopyge sergius]]'' Hopffer, 1874
+* ''[[Pyrrhopyge tatei]]'' (Bell, 1932)
+* ''[[Pyrrhopyge thericles]]'' (Mabille, 1891)
+---- 
+=== Referencias ===
+list()

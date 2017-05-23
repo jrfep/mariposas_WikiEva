@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Cobalopsis
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Cobalopsis''
+}}
+=== Especies === 
+---- 
+* ''[[Cobalopsis venias]]'' (Bell, 1942)
+---- 
+=== Referencias ===
+list()

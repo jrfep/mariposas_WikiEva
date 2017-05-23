@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Bungalotis
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Bungalotis''
+}}
+=== Especies === 
+---- 
+* ''[[Bungalotis astylos]]'' (Cramer, 1780)
+---- 
+=== Referencias ===
+list()

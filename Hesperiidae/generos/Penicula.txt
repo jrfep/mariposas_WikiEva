@@ -1,0 +1,16 @@
+{{Ficha de taxón
+  | name = Penicula
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Penicula''
+}}
+=== Especies === 
+---- 
+* ''[[Penicula bryanti]]'' (Weeks, 1906)
+* ''[[Penicula crista]]'' Evans, 1955
+---- 
+=== Referencias ===
+list()

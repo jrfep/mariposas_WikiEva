@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Mnasitheus
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Mnasitheus''
+}}
+=== Especies === 
+---- 
+* ''[[Mnasitheus simplicissima]]'' (Herrich-Schäffer, 1870)
+---- 
+=== Referencias ===
+list()
