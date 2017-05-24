@@ -1,0 +1,16 @@
+{{Ficha de taxón
+  | name = Myscelia
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Myscelia''
+}}
+=== Especies === 
+---- 
+* ''[[Myscelia cyaniris]]'' Doubleday, [1848]
+* ''[[Myscelia leucocyana]]'' Felder & Felder, 1861
+---- 
+=== Referencias ===
+list()

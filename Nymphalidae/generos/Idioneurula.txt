@@ -1,0 +1,16 @@
+{{Ficha de taxón
+  | name = Idioneurula
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Idioneurula''
+}}
+=== Especies === 
+---- 
+* ''[[Idioneurula eremita]]'' Pyrcz & Viloria, 2007
+* ''[[Idioneurula jacquelinae]]'' (Pyrcz, 1995)
+---- 
+=== Referencias ===
+list()

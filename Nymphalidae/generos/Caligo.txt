@@ -1,0 +1,23 @@
+{{Ficha de taxón
+  | name = Caligo
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Caligo''
+}}
+=== Especies === 
+---- 
+* ''[[Caligo atreus]]'' (Kollar, 1850)
+* ''[[Caligo brasiliensis]]'' (Felder, 1862)
+* ''[[Caligo eurilochus]]'' (Cramer, 1775)
+* ''[[Caligo idomeneus]]'' (Linnaeus, 1758)
+* ''[[Caligo illioneus]]'' (Cramer, 1775)
+* ''[[Caligo oileus]]'' Felder & Felder, 1861
+* ''[[Caligo telamonius]]'' (Felder & Felder, 1862)
+* ''[[Caligo teucer]]'' (Linnaeus, 1758)
+---- 
+=== Referencias ===
+* Ferrer-Paris, José R.; Paul Rodríguez, Jon; Y. Sánchez-Mercado, Ada; A. Rodríguez, Gustavo (2014): Informe de resultados de muestreos de NeoMapas a nivel nacional 2001 a 2010. figshare. doi:[https://dx.doi.org/10.6084/m9.figshare.1094280 10.6084/m9.figshare.1094280]. 
+* T. Raymond. ''Mariposas de Venezuela''. Ediciones Corpoven, 1982.

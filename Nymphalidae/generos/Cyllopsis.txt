@@ -1,0 +1,16 @@
+{{Ficha de taxón
+  | name = Cyllopsis
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Cyllopsis''
+}}
+=== Especies === 
+---- 
+* ''[[Cyllopsis jacquelineae]]'' Miller, 1974
+---- 
+=== Referencias ===
+
+* T. Pyrcz. “A new genus, Tamania, and a new species, Tamaniajacquelinae, from the Tamá range, Venezuela Colombia border, and somethoughts on the diagnosis of the tribe Pronophilini (Nymphalidae:Satyrinae)”. In: ''Lambillionea'' 95.4 (1995), pp. 519-525.

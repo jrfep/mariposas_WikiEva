@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Metamorpha
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Metamorpha''
+}}
+=== Especies === 
+---- 
+* ''[[Metamorpha elissa]]'' Hübner, [1819]
+---- 
+=== Referencias ===
+list()

@@ -1,0 +1,16 @@
+{{Ficha de taxón
+  | name = Haetera
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Haetera''
+}}
+=== Especies === 
+---- 
+* ''[[Haetera piera]]'' (Linnaeus, 1758)
+---- 
+=== Referencias ===
+
+* J. R. Álvarez Sierra and J. R. Álvarez Corral. ''Mariposas diurnasde Venezuela. Introducción a su conocimiento''. Caracas: Editorial Arte,1984.

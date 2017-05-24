@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Praepronophila
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Praepronophila''
+}}
+=== Especies === 
+---- 
+* ''[[Praepronophila perperna]]'' (Hewitson, 1862)
+---- 
+=== Referencias ===
+list()

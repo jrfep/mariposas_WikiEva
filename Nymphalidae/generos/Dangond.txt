@@ -1,0 +1,16 @@
+{{Ficha de taxón
+  | name = Dangond
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Dangond''
+}}
+=== Especies === 
+---- 
+* ''[[Dangond dangondi]]'' Adams & Bernard, 1979
+---- 
+=== Referencias ===
+
+* A. L. Viloria. “Taxonom\'\ia y distribuci\'on de los Satyridae(Lepidoptera: Rhopalocera) en la Sierra de Perij\'a, fronteracolombo-venezolana”. MA Thesis. xxxviii + 296 pp.. La Universidad delZulia, 1990.

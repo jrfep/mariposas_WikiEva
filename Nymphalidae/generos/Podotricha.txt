@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Podotricha
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Podotricha''
+}}
+=== Especies === 
+---- 
+* ''[[Podotricha judith]]'' (Guérin-Méneville, [1844])
+---- 
+=== Referencias ===
+list()

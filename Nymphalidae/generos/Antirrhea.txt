@@ -1,0 +1,18 @@
+{{Ficha de taxón
+  | name = Antirrhea
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Antirrhea''
+}}
+=== Especies === 
+---- 
+* ''[[Antirrhea adoptiva]]'' (Weymer, 1909)
+* ''[[Antirrhea phasiana]]'' (Butler, 1870)
+* ''[[Antirrhea philoctetes]]'' (Linnaeus, 1758)
+* ''[[Antirrhea ulei]]'' Strand, 1912
+---- 
+=== Referencias ===
+list()

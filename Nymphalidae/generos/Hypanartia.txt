@@ -1,0 +1,22 @@
+{{Ficha de taxón
+  | name = Hypanartia
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Hypanartia''
+}}
+=== Especies === 
+---- 
+* ''[[Hypanartia cinderella]]'' Lamas, Willmott & Hall, 2001
+* ''[[Hypanartia dione]]'' (Latreille, [1813])
+* ''[[Hypanartia godmanii]]'' (Bates, 1864)
+* ''[[Hypanartia kefersteini]]'' (Doubleday, [1847])
+* ''[[Hypanartia lethe]]'' (Fabricius, 1793)
+* ''[[Hypanartia lindigii]]'' (Felder & Felder, 1862)
+---- 
+=== Referencias ===
+* Ferrer-Paris, José R.; Paul Rodríguez, Jon; Y. Sánchez-Mercado, Ada; A. Rodríguez, Gustavo (2014): Informe de resultados de muestreos de NeoMapas a nivel nacional 2001 a 2010. figshare. doi:[https://dx.doi.org/10.6084/m9.figshare.1094280 10.6084/m9.figshare.1094280]. 
+* J. R. Álvarez Sierra and J. R. Álvarez Corral. ''Mariposas diurnasde Venezuela. Introducción a su conocimiento''. Caracas: Editorial Arte,1984.
+* T. Raymond. ''Mariposas de Venezuela''. Ediciones Corpoven, 1982.

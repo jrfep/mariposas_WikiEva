@@ -1,0 +1,18 @@
+{{Ficha de taxón
+  | name = Callithomia
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Callithomia''
+}}
+=== Especies === 
+---- 
+* ''[[Callithomia alexirrhoe]]'' Bates, 1862
+* ''[[Callithomia hezia]]'' (Hewitson, [1854])
+* ''[[Callithomia lenea]]'' (Cramer, 1779)
+---- 
+=== Referencias ===
+
+* W. T. M. Forbes. “Note on the butterflies of Venezuelan Guiana”.In: ''Boletin de Entomologia Venezolana'' 1.2 (1942), pp. 25-36.

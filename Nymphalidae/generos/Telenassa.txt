@@ -1,0 +1,16 @@
+{{Ficha de taxón
+  | name = Telenassa
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Telenassa''
+}}
+=== Especies === 
+---- 
+* ''[[Telenassa delphia]]'' (Felder & Felder, 1861)
+* ''[[Telenassa fontus]]'' (Hall, 1928)
+---- 
+=== Referencias ===
+list()

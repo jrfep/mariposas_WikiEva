@@ -1,0 +1,21 @@
+{{Ficha de taxón
+  | name = Altinote
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Altinote''
+}}
+=== Especies === 
+---- 
+* ''[[Altinote alcione]]'' (Hewitson, 1852)
+* ''[[Altinote callianthe]]'' (Felder & Felder, 1862)
+* ''[[Altinote dicaeus]]'' (Latreille, [1817])
+* ''[[Altinote neleus]]'' (Latreille, [1813])
+* ''[[Altinote ozomene]]'' (Godart, 1819)
+* ''[[Altinote stratonice]]'' (Latreille, [1813])
+* ''[[Altinote trinacria]]'' (Felder & Felder, 1862)
+---- 
+=== Referencias ===
+* Ferrer-Paris, José R.; Paul Rodríguez, Jon; Y. Sánchez-Mercado, Ada; A. Rodríguez, Gustavo (2014): Informe de resultados de muestreos de NeoMapas a nivel nacional 2001 a 2010. figshare. doi:[https://dx.doi.org/10.6084/m9.figshare.1094280 10.6084/m9.figshare.1094280]. list()

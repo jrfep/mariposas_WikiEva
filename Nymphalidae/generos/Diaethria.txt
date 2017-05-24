@@ -1,0 +1,22 @@
+{{Ficha de taxón
+  | name = Diaethria
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Diaethria''
+}}
+=== Especies === 
+---- 
+* ''[[Diaethria clymena]]'' (Cramer, 1775)
+* ''[[Diaethria eluina]]'' (Hewitson, [1855])
+* ''[[Diaethria euclides]]'' (Latreille, [1809])
+* ''[[Diaethria gabaza]]'' (Hewitson, [1855])
+* ''[[Diaethria neglecta]]'' (Salvin, 1869)
+* ''[[Diaethria nystographa]]'' (Guenée, 1872)
+* ''[[Diaethria pandama]]'' (Doubleday, [1848])
+* ''[[Diaethria panthalis]]'' (Honrath, 1884)
+---- 
+=== Referencias ===
+* Ferrer-Paris, José R.; Paul Rodríguez, Jon; Y. Sánchez-Mercado, Ada; A. Rodríguez, Gustavo (2014): Informe de resultados de muestreos de NeoMapas a nivel nacional 2001 a 2010. figshare. doi:[https://dx.doi.org/10.6084/m9.figshare.1094280 10.6084/m9.figshare.1094280]. list()

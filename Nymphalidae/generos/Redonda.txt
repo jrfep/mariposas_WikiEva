@@ -1,0 +1,26 @@
+{{Ficha de taxón
+  | name = Redonda
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Redonda''
+}}
+=== Especies === 
+---- 
+* ''[[Redonda bordoni]]'' Viloria & Pyrcz, 2003
+* ''[[Redonda empetrus]]'' (Thieme, 1905)
+* ''[[Redonda bolivari]]'' Adams & Bernard, 1981
+* ''[[Redonda castellana]]'' Viloria & Camacho, 2015
+* ''[[Redonda centenaria]]'' Viloria & Camacho, 2015
+* ''[[Redonda chiquinquirana]]'' Ferrer-Paris, 2015
+* ''[[Redonda frailejona]]'' Ferrer-Paris & Costa, 2015
+* ''[[Redonda lathraia]]'' Viloria & Camacho, 2015
+* ''[[Redonda leukasmena]]'' Viloria & Camacho, 2015
+* ''[[Redonda lossadana]]'' Ferrer-Paris, 2015
+---- 
+=== Referencias ===
+* Ferrer-Paris, José R.; Paul Rodríguez, Jon; Y. Sánchez-Mercado, Ada; A. Rodríguez, Gustavo (2014): Informe de resultados de muestreos de NeoMapas a nivel nacional 2001 a 2010. figshare. doi:[https://dx.doi.org/10.6084/m9.figshare.1094280 10.6084/m9.figshare.1094280]. 
+* B. D'Abrera. ''Butterflies of the Neotropical Region. Part VNymphalidae (Conc.) \& Satyridae''. Victoria. Australia: Hill HousePublishers, 1988, p. 877.
+* A. M. Orellana B. “Mariposas de los páramos de la Sierra Nevada ySierra de La Culata (Cordillera de Mérida, Venezuela)”. In: ''Memoriasdel IV Simposio Internacional de Desarrollo Sustentable de Los Andes,la estrategia andina para el siglo XXI''. Ed. by R. Andresse and M.Monasterio. ICAE - ULA, 2004, pp. 57-71.

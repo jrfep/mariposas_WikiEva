@@ -1,0 +1,20 @@
+{{Ficha de taxón
+  | name = Diaphanos
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Diaphanos''
+}}
+=== Especies === 
+---- 
+* ''[[Diaphanos curvignathos]]'' Viloria, 1994
+* ''[[Diaphanos fuscus]]'' Viloria, 1994
+* ''[[Diaphanos huberi]]'' Adams & Bernard, 1981
+---- 
+=== Referencias ===
+* Ferrer-Paris, José R.; Paul Rodríguez, Jon; Y. Sánchez-Mercado, Ada; A. Rodríguez, Gustavo (2014): Informe de resultados de muestreos de NeoMapas a nivel nacional 2001 a 2010. figshare. doi:[https://dx.doi.org/10.6084/m9.figshare.1094280 10.6084/m9.figshare.1094280]. 
+* B. D'Abrera. ''Butterflies of the Neotropical Region. Part VNymphalidae (Conc.) \& Satyridae''. Victoria. Australia: Hill HousePublishers, 1988, p. 877.
+* A. M. Orellana B. “Mariposas de los páramos de la Sierra Nevada ySierra de La Culata (Cordillera de Mérida, Venezuela)”. In: ''Memoriasdel IV Simposio Internacional de Desarrollo Sustentable de Los Andes,la estrategia andina para el siglo XXI''. Ed. by R. Andresse and M.Monasterio. ICAE - ULA, 2004, pp. 57-71.
+* A. L. Viloria. “High Andean Pronophilini from Venezuela: two newspecies of Diaphanos (Nymphalidae: Satyrinae)”. In: ''Journal of theLepidopterists' Society'' 48.3 (1994), pp. 180-189.

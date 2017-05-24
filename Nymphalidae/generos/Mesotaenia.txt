@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Mesotaenia
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Mesotaenia''
+}}
+=== Especies === 
+---- 
+* ''[[Mesotaenia vaninka]]'' (Hewitson, [1855])
+---- 
+=== Referencias ===
+list()

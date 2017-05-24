@@ -1,0 +1,16 @@
+{{Ficha de taxón
+  | name = Eutresis
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Eutresis''
+}}
+=== Especies === 
+---- 
+* ''[[Eutresis hypereia]]'' Doubleday, 1847
+---- 
+=== Referencias ===
+
+* J. R. Álvarez Sierra and J. R. Álvarez Corral. ''Mariposas diurnasde Venezuela. Introducción a su conocimiento''. Caracas: Editorial Arte,1984.

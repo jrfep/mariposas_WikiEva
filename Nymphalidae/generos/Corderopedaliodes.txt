@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Corderopedaliodes
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Corderopedaliodes''
+}}
+=== Especies === 
+---- 
+* ''[[Corderopedaliodes corderoi]]'' (Dognin, 1893)
+---- 
+=== Referencias ===
+list()

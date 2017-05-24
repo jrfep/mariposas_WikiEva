@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Polygrapha
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Polygrapha''
+}}
+=== Especies === 
+---- 
+* ''[[Polygrapha xenocrates]]'' (Westwood, 1850)
+---- 
+=== Referencias ===
+list()

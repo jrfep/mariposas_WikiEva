@@ -1,0 +1,22 @@
+{{Ficha de taxón
+  | name = Euptychia
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Euptychia''
+}}
+=== Especies === 
+---- 
+* ''[[Euptychia enyo]]'' Butler, 1867
+* ''[[Euptychia ernestina]]'' Weymer, 1911
+* ''[[Euptychia fetna]]'' Butler, 1870
+* ''[[Euptychia insolata]]'' Butler & Druce, 1872
+* ''[[Euptychia jesia]]'' Butler, 1869
+* ''[[Euptychia mollina]]'' (Hübner, [1813])
+* ''[[Euptychia westwoodi]]'' Butler, 1867
+---- 
+=== Referencias ===
+* Ferrer-Paris, José R.; Paul Rodríguez, Jon; Y. Sánchez-Mercado, Ada; A. Rodríguez, Gustavo (2014): Informe de resultados de muestreos de NeoMapas a nivel nacional 2001 a 2010. figshare. doi:[https://dx.doi.org/10.6084/m9.figshare.1094280 10.6084/m9.figshare.1094280]. 
+* A. L. Viloria. “Taxonom\'\ia y distribuci\'on de los Satyridae(Lepidoptera: Rhopalocera) en la Sierra de Perij\'a, fronteracolombo-venezolana”. MA Thesis. xxxviii + 296 pp.. La Universidad delZulia, 1990.

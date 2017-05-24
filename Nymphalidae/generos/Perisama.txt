@@ -1,0 +1,25 @@
+{{Ficha de taxón
+  | name = Perisama
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Perisama''
+}}
+=== Especies === 
+---- 
+* ''[[Perisama bomplandii]]'' (Guérin-Méneville, [1844])
+* ''[[Perisama canoma]]'' Druce, 1874
+* ''[[Perisama comnena]]'' (Hewitson, 1868)
+* ''[[Perisama euriclea]]'' (Doubleday, [1847])
+* ''[[Perisama goeringi]]'' Druce, 1875
+* ''[[Perisama humboldtii]]'' (Guérin-Méneville, [1844])
+* ''[[Perisama oppelii]]'' (Latreille, [1809])
+* ''[[Perisama patara]]'' (Hewitson, [1855])
+* ''[[Perisama tryphena]]'' (Hewitson, [1857])
+* ''[[Perisama yeba]]'' (Hewitson, [1857])
+* ''[[Perisama tepuiensis]]'' Attal & De Marmels, 2012
+---- 
+=== Referencias ===
+* Ferrer-Paris, José R.; Paul Rodríguez, Jon; Y. Sánchez-Mercado, Ada; A. Rodríguez, Gustavo (2014): Informe de resultados de muestreos de NeoMapas a nivel nacional 2001 a 2010. figshare. doi:[https://dx.doi.org/10.6084/m9.figshare.1094280 10.6084/m9.figshare.1094280]. list()

@@ -1,0 +1,21 @@
+{{Ficha de taxón
+  | name = Dione
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Dione''
+}}
+=== Especies === 
+---- 
+* ''[[Dione glycera]]'' (Felder & Felder, 1861)
+* ''[[Dione juno]]'' (Cramer, 1779)
+* ''[[Dione moneta]]'' Hübner, [1825]
+---- 
+=== Referencias ===
+* Ferrer-Paris, José R.; Paul Rodríguez, Jon; Y. Sánchez-Mercado, Ada; A. Rodríguez, Gustavo (2014): Informe de resultados de muestreos de NeoMapas a nivel nacional 2001 a 2010. figshare. doi:[https://dx.doi.org/10.6084/m9.figshare.1094280 10.6084/m9.figshare.1094280]. 
+* J. R. Álvarez Sierra and J. R. Álvarez Corral. ''Mariposas diurnasde Venezuela. Introducción a su conocimiento''. Caracas: Editorial Arte,1984.
+* K. S. Brown jr. and F. Fernández Yepez. “Los Heliconiini(Lepidoptera, Nymphalidae) de Venezuela”. In: ''Bolet\'\in deEntomolog\'\ia Venezolana'' 3.4 (1984), pp. 29-73.
+* A. M. Orellana B. “Mariposas de los páramos de la Sierra Nevada ySierra de La Culata (Cordillera de Mérida, Venezuela)”. In: ''Memoriasdel IV Simposio Internacional de Desarrollo Sustentable de Los Andes,la estrategia andina para el siglo XXI''. Ed. by R. Andresse and M.Monasterio. ICAE - ULA, 2004, pp. 57-71.
+* T. Raymond. ''Mariposas de Venezuela''. Ediciones Corpoven, 1982.

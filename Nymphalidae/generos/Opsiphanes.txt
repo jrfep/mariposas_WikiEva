@@ -1,0 +1,16 @@
+{{Ficha de taxón
+  | name = Opsiphanes
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Opsiphanes''
+}}
+=== Especies === 
+---- 
+* ''[[Opsiphanes sallei]]'' Doubleday, [1849]
+* ''[[Opsiphanes tamarindi]]'' Felder & Felder, 1861
+---- 
+=== Referencias ===
+list()

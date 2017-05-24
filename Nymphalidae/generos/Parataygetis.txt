@@ -1,0 +1,16 @@
+{{Ficha de taxón
+  | name = Parataygetis
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Parataygetis''
+}}
+=== Especies === 
+---- 
+* ''[[Parataygetis lineata]]'' (Godman & Salvin, 1880)
+---- 
+=== Referencias ===
+
+* A. L. Viloria. “Taxonom\'\ia y distribuci\'on de los Satyridae(Lepidoptera: Rhopalocera) en la Sierra de Perij\'a, fronteracolombo-venezolana”. MA Thesis. xxxviii + 296 pp.. La Universidad delZulia, 1990.

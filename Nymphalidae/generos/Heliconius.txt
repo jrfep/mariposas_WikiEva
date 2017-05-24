@@ -1,0 +1,41 @@
+{{Ficha de taxón
+  | name = Heliconius
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Heliconius''
+}}
+=== Especies === 
+---- 
+* ''[[Heliconius antiochus]]'' (Linnaeus, 1767)
+* ''[[Heliconius burneyi]]'' (Hübner, [1831])
+* ''[[Heliconius charithonia]]'' (Linnaeus, 1767)
+* ''[[Heliconius clysonymus]]'' Latreille, [1817]
+* ''[[Heliconius cydno]]'' (Doubleday, 1847)
+* ''[[Heliconius egeria]]'' (Cramer, 1775)
+* ''[[Heliconius elevatus]]'' Nöldner, 1901
+* ''[[Heliconius erato]]'' (Linnaeus, 1758)
+* ''[[Heliconius ethilla]]'' (Godart, 1819)
+* ''[[Heliconius hecale]]'' (Fabricius, 1776)
+* ''[[Heliconius hecalesia]]'' (Hewitson, [1854])
+* ''[[Heliconius hermathena]]'' (Hewitson, [1854])
+* ''[[Heliconius heurippa]]'' (Hewitson, [1854])
+* ''[[Heliconius ismenius]]'' Latreille, [1817]
+* ''[[Heliconius leucadia]]'' Bates, 1862
+* ''[[Heliconius luciana]]'' Lichy, 1960
+* ''[[Heliconius melpomene]]'' (Linnaeus, 1758)
+* ''[[Heliconius numata]]'' (Cramer, 1780)
+* ''[[Heliconius ricini]]'' (Linnaeus, 1758)
+* ''[[Heliconius sapho]]'' (Drury, 1782)
+* ''[[Heliconius sara]]'' (Fabricius, 1793)
+* ''[[Heliconius wallacei]]'' Reakirt, 1866
+* ''[[Heliconius xanthocles]]'' Bates, 1862
+---- 
+=== Referencias ===
+* Ferrer-Paris, José R.; Paul Rodríguez, Jon; Y. Sánchez-Mercado, Ada; A. Rodríguez, Gustavo (2014): Informe de resultados de muestreos de NeoMapas a nivel nacional 2001 a 2010. figshare. doi:[https://dx.doi.org/10.6084/m9.figshare.1094280 10.6084/m9.figshare.1094280]. 
+* J. R. Álvarez Sierra and J. R. Álvarez Corral. ''Mariposas diurnasde Venezuela. Introducción a su conocimiento''. Caracas: Editorial Arte,1984.
+* K. S. Brown jr. and F. Fernández Yepez. “Los Heliconiini(Lepidoptera, Nymphalidae) de Venezuela”. In: ''Bolet\'\in deEntomolog\'\ia Venezolana'' 3.4 (1984), pp. 29-73.
+* W. T. M. Forbes. “Note on the butterflies of Venezuelan Guiana”.In: ''Boletin de Entomologia Venezolana'' 1.2 (1942), pp. 25-36.
+* T. Raymond. ''Mariposas de Venezuela''. Ediciones Corpoven, 1982.

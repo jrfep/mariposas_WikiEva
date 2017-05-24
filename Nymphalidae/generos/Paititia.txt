@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Paititia
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Paititia''
+}}
+=== Especies === 
+---- 
+* ''[[Paititia neglecta]]'' Lamas, 1979
+---- 
+=== Referencias ===
+list()

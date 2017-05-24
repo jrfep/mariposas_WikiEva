@@ -1,0 +1,17 @@
+{{Ficha de taxón
+  | name = Thiemeia
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Thiemeia''
+}}
+=== Especies === 
+---- 
+* ''[[Thiemeia phoronea]]'' (Doubleday, [1849])
+---- 
+=== Referencias ===
+
+* B. D'Abrera. ''Butterflies of the Neotropical Region. Part VNymphalidae (Conc.) \& Satyridae''. Victoria. Australia: Hill HousePublishers, 1988, p. 877.
+* T. Raymond. ''Mariposas de Venezuela''. Ediciones Corpoven, 1982.

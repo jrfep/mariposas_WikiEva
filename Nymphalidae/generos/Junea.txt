@@ -1,0 +1,17 @@
+{{Ficha de taxón
+  | name = Junea
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Junea''
+}}
+=== Especies === 
+---- 
+* ''[[Junea dorinda]]'' (Felder & Felder, 1862)
+---- 
+=== Referencias ===
+
+* T. W. Pyrcz and Á. L. Viloria. “Erebiine and pronophilinebutterflies of the Serran\'\ia del Tam\'a, Venezuela-Colombia border(Lepidoptera: Nymphalidae: Satyrinae)”. In: ''Tropical Lepidoptera''15.1-2 (2007), pp. 18-52.
+* A. L. Viloria. “Estado actual del conocimiento taxonómico de lasmariposas (Lepidoptera: Rhopalocera) de Venezuela”. In: ''PrIBES 2000''.Ed. by F. M. Piera, J. Morrone and A. Melic. Vol. 1. 2000. Chap. Estadoactual del conocimiento taxon\'omico de las mariposas(Lepidoptera:Rhopalocera) de Venezuela, pp. 261-274.

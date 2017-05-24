@@ -1,0 +1,16 @@
+{{Ficha de taxón
+  | name = Castilia
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Castilia''
+}}
+=== Especies === 
+---- 
+* ''[[Castilia eranites]]'' (Hewitson, 1857)
+* ''[[Castilia ofella]]'' (Hewitson, [1864])
+---- 
+=== Referencias ===
+list()

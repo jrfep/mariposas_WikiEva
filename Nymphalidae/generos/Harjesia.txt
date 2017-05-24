@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Harjesia
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Harjesia''
+}}
+=== Especies === 
+---- 
+* ''[[Harjesia vrazi]]'' (Kheil, 1896)
+---- 
+=== Referencias ===
+list()

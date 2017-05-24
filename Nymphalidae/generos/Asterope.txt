@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Asterope
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Asterope''
+}}
+=== Especies === 
+---- 
+* ''[[Asterope markii]]'' (Hewitson, 1857)
+---- 
+=== Referencias ===
+list()

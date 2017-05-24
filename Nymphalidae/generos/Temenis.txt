@@ -1,0 +1,16 @@
+{{Ficha de taxón
+  | name = Temenis
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Temenis''
+}}
+=== Especies === 
+---- 
+* ''[[Temenis laothoe]]'' (Cramer, 1777)
+---- 
+=== Referencias ===
+
+* T. Raymond. ''Mariposas de Venezuela''. Ediciones Corpoven, 1982.

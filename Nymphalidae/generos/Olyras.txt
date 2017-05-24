@@ -1,0 +1,15 @@
+{{Ficha de taxón
+  | name = Olyras
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Olyras''
+}}
+=== Especies === 
+---- 
+* ''[[Olyras crathis]]'' Doubleday, 1847
+---- 
+=== Referencias ===
+list()

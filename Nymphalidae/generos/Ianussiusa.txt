@@ -1,0 +1,16 @@
+{{Ficha de taxón
+  | name = Ianussiusa
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Ianussiusa''
+}}
+=== Especies === 
+---- 
+* ''[[Ianussiusa maso]]'' (Godman, 1905)
+---- 
+=== Referencias ===
+
+* T. W. Pyrcz and Á. L. Viloria. “Erebiine and pronophilinebutterflies of the Serran\'\ia del Tam\'a, Venezuela-Colombia border(Lepidoptera: Nymphalidae: Satyrinae)”. In: ''Tropical Lepidoptera''15.1-2 (2007), pp. 18-52.
