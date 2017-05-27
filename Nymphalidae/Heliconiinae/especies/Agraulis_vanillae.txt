@@ -1,0 +1,106 @@
+{{Ficha de taxón 
+  | name = Agraulis vanillae
+  | status = LC
+  | image = Image_placeholder.svg 
+  | image_width = 240 px 
+  | regnum = [[Animalia]] 
+  | phylum = [[Arthropoda]] 
+  | classis = [[Insecta]] 
+  | ordo = [[Lepidoptera]] 
+  | familia = [[Nymphalidae]] 
+  | genus = ''[[Agraulis]]'' 
+  | species = ''Agraulis vanillae'' 
+  | binomial = ''Agraulis vanillae'' 
+  | binomial_authority = ''(Linnaeus, 1758)''   
+  | range_map = Map_placeholder.svg 
+  | range_map_width = 240 px 
+  | range_map_caption = Mapa de distribución de Agraulis vanillae
+}} 
+=== Taxonomía === 
+Especie perteneciente a un género monobásico de la subfamilia Heliconiinae. Especie descrita a principios del siglo XX.
+==== Nombres comunes ====
+ (En otros idiomas: Gulf Fritillary, Gulf fritillary butterfly)
+==== Notas taxonómicas ====
+
+==== Sinónimos ====
+
+=== Descripción ===
+Descrita originalmente en el siglo XVIII.
+Para esta especie hay información disponible en Biodiversity Heritage Library ([http://www.biodiversitylibrary.org BHL]), Wikipedia ([http://www.wikipedia.org]), Global Biodiversity Information Facility ([http://www.gbif.org GBIF]).
+=== Distribución === 
+Especie de amplia distribución en Venezuela.
+=== Situación === 
+Mariposa de distribución restringida, pero estable.
+
+* ''''Lista Roja Venezuela'''' 1995 No evaluado
+* ''''Lista Roja Venezuela'''' 2003 No evaluado
+* ''''Lista Roja Venezuela'''' 2008 No evaluado
+=== Amenazas === 
+
+=== Conservación === 
+
+
+=== Editores y Colaboradores === 
+[[Usuario:Jrfep|J.R. Ferrer Paris]]
+
+=== Referencias ===
+* Linnaeus (1760) Systema Naturae. Tomo I. Halae Magdeburgica. [http://biodiversitylibrary.org/page/52750070]
+* Merian (1705) Metamorphosis insectorum surinamensium. Amsterdam [http://biodiversitylibrary.org/page/41398774]
+* Ferrer-Paris, José R.; Paul Rodríguez, Jon; Y. Sánchez-Mercado, Ada; A. Rodríguez, Gustavo (2014): Informe de resultados de muestreos de NeoMapas a nivel nacional 2001 a 2010. figshare. doi:[https://dx.doi.org/10.6084/m9.figshare.1094280 10.6084/m9.figshare.1094280]. 
+* Encyclopedia of Life, [http://eol.org/pages/151782/overview Taxon page for Agraulis vanillae]
+* J. R. Álvarez Sierra and J. R. Álvarez Corral. ''Mariposas diurnasde Venezuela. Introducción a su conocimiento''. Caracas: Editorial Arte,1984.
+* K. S. Brown jr. and F. Fernández Yepez. “Los Heliconiini(Lepidoptera, Nymphalidae) de Venezuela”. In: ''Bolet\'\in deEntomolog\'\ia Venezolana'' 3.4 (1984), pp. 29-73.
+* T. Raymond. ''Mariposas de Venezuela''. Ediciones Corpoven, 1982.
+ {{Ficha de taxón 
+  | name = Agraulis vanillae
+  | status = LC
+  | image = Image_placeholder.svg 
+  | image_width = 240 px 
+  | regnum = [[Animalia]] 
+  | phylum = [[Arthropoda]] 
+  | classis = [[Insecta]] 
+  | ordo = [[Lepidoptera]] 
+  | familia = [[Nymphalidae]] 
+  | genus = ''[[Agraulis]]'' 
+  | species = ''Agraulis vanillae'' 
+  | binomial = ''Agraulis vanillae'' 
+  | binomial_authority = ''(Linnaeus, 1758)''   
+  | range_map = Map_placeholder.svg 
+  | range_map_width = 240 px 
+  | range_map_caption = Mapa de distribución de Agraulis vanillae
+}} 
+=== Taxonomía === 
+Especie perteneciente a un género monobásico de la subfamilia Heliconiinae. Especie descrita a principios del siglo XX.
+==== Nombres comunes ====
+ (En otros idiomas: Gulf Fritillary, Gulf fritillary butterfly)
+==== Notas taxonómicas ====
+
+==== Sinónimos ====
+
+=== Descripción ===
+Esta especie fue ilustrada por algunos de los primeros naturalistas que visitaron Sur América.
+Para esta especie hay información disponible en Biodiversity Heritage Library ([http://www.biodiversitylibrary.org BHL]), Wikipedia ([http://www.wikipedia.org]), Global Biodiversity Information Facility ([http://www.gbif.org GBIF]).
+=== Distribución === 
+Especie de amplia distribución en Venezuela.
+=== Situación === 
+Mariposa de distribución restringida, pero estable.
+
+* ''''Lista Roja Venezuela'''' 1995 No evaluado
+* ''''Lista Roja Venezuela'''' 2003 No evaluado
+* ''''Lista Roja Venezuela'''' 2008 No evaluado
+=== Amenazas === 
+
+=== Conservación === 
+
+
+=== Editores y Colaboradores === 
+[[Usuario:Jrfep|J.R. Ferrer Paris]]
+
+=== Referencias ===
+* Linnaeus (1760) Systema Naturae. Tomo I. Halae Magdeburgica. [http://biodiversitylibrary.org/page/52750070]
+* Merian (1705) Metamorphosis insectorum surinamensium. Amsterdam [http://biodiversitylibrary.org/page/41398774]
+* Ferrer-Paris, José R.; Paul Rodríguez, Jon; Y. Sánchez-Mercado, Ada; A. Rodríguez, Gustavo (2014): Informe de resultados de muestreos de NeoMapas a nivel nacional 2001 a 2010. figshare. doi:[https://dx.doi.org/10.6084/m9.figshare.1094280 10.6084/m9.figshare.1094280]. 
+* Encyclopedia of Life, [http://eol.org/pages/151782/overview Taxon page for Agraulis vanillae]
+* J. R. Álvarez Sierra and J. R. Álvarez Corral. ''Mariposas diurnasde Venezuela. Introducción a su conocimiento''. Caracas: Editorial Arte,1984.
+* K. S. Brown jr. and F. Fernández Yepez. “Los Heliconiini(Lepidoptera, Nymphalidae) de Venezuela”. In: ''Bolet\'\in deEntomolog\'\ia Venezolana'' 3.4 (1984), pp. 29-73.
+* T. Raymond. ''Mariposas de Venezuela''. Ediciones Corpoven, 1982.

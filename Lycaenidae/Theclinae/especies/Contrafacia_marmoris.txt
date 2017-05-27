@@ -1,0 +1,49 @@
+{{Ficha de taxón 
+  | name = Contrafacia marmoris
+  | status = NE
+  | image = Image_placeholder.svg 
+  | image_width = 240 px 
+  | regnum = [[Animalia]] 
+  | phylum = [[Arthropoda]] 
+  | classis = [[Insecta]] 
+  | ordo = [[Lepidoptera]] 
+  | familia = [[Lycaenidae]] 
+  | genus = ''[[Contrafacia]]'' 
+  | species = ''Contrafacia marmoris'' 
+  | binomial = ''Contrafacia marmoris'' 
+  | binomial_authority = ''(Druce, 1907)''   
+  | range_map = Map_placeholder.svg 
+  | range_map_width = 240 px 
+  | range_map_caption = Mapa de distribución de Contrafacia marmoris
+}} 
+=== Taxonomía === 
+El género [[Contrafacia]] pertenece a la subfamilia Theclinae y está representado en Venezuela por 3 especies, y un total de 6 especies a nivel mundial. Especie descrita a principios del siglo XX.
+==== Nombres comunes ====
+
+==== Notas taxonómicas ====
+
+==== Sinónimos ====
+
+=== Descripción ===
+Descrita originalmente en el XX a partir de un ejemplar procedente de Colombia..
+Para esta especie hay información disponible en , .
+=== Distribución === 
+Especie presente en Venezuela, distribución no precisada.
+=== Situación === 
+Esta especie requiere una evaluación más detallada para determinar su situación actual
+
+* ''''Lista Roja Venezuela'''' 1995 No evaluado
+* ''''Lista Roja Venezuela'''' 2003 No evaluado
+* ''''Lista Roja Venezuela'''' 2008 No evaluado
+=== Amenazas === 
+
+=== Conservación === 
+
+
+=== Editores y Colaboradores === 
+[[Usuario:Jrfep|J.R. Ferrer Paris]]
+
+=== Referencias ===
+* Druce (1907) On Neotropical Lycaenidae with descriptions of new species. Proceedings of the zoological Society of London. 1907(3): 566–632. pls 31-36. [http://archive.org/stream/proceedingsofzoo19074471121zool#page/603/mode/1up]
+* Johnson (1990) The New Hairsteak Butterfly Genus Orcya, a Revision of the Neotropical 'Thecla' orcynia Assemblage (Lepidoptera: Lycaenidae). Journal of The New York Entomological Society 98:50—87 [http://biodiversitylibrary.org/page/50823069]
+list()

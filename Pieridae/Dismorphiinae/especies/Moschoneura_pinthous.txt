@@ -1,5 +1,5 @@
 {{Ficha de taxón 
-  | name = Ganyra josephina
+  | name = Moschoneura pinthous
   | status = LC
   | image = Image_placeholder.svg 
   | image_width = 240 px 
@@ -8,25 +8,25 @@
   | classis = [[Insecta]] 
   | ordo = [[Lepidoptera]] 
   | familia = [[Pieridae]] 
-  | genus = ''[[Ganyra]]'' 
-  | species = ''Ganyra josephina'' 
-  | binomial = ''Ganyra josephina'' 
-  | binomial_authority = ''(Godart, 1819)''   
+  | genus = ''[[Moschoneura]]'' 
+  | species = ''Moschoneura pinthous'' 
+  | binomial = ''Moschoneura pinthous'' 
+  | binomial_authority = ''(Linnaeus, 1758)''   
   | range_map = Map_placeholder.svg 
   | range_map_width = 240 px 
-  | range_map_caption = Mapa de distribución de Ganyra josephina
+  | range_map_caption = Mapa de distribución de Moschoneura pinthous
 }} 
 === Taxonomía === 
-El género [[Ganyra]] pertenece a la subfamilia Pierinae y está representado en Venezuela por 2 especies, y un total de 3 especies a nivel mundial. Especie descrita en el siglo XIX.
+Especie perteneciente a un género monobásico de la subfamilia Dismorphiinae. Especie descrita a principios del siglo XX.
 ==== Nombres comunes ====
-Josefina (En otros idiomas: Giant White)
+
 ==== Notas taxonómicas ====
 
 ==== Sinónimos ====
 
 === Descripción ===
-Descrita originalmente en el siglo XIX.
-Para esta especie hay información disponible en Encyclopedia of Life ([http://www.eol.org EOL]), Wikipedia ([http://www.wikipedia.org]), Global Biodiversity Information Facility ([http://www.gbif.org GBIF]).
+''Moschoneura pinthous'' fue descrita originalmente por Linnaeus en su obra “Systema naturae” a partir de ejemplares provenientes del nuevo mundo..
+Para esta especie hay información disponible en , .
 === Distribución === 
 Especie de amplia distribución en Venezuela.
 === Situación === 
@@ -44,9 +44,8 @@ Mariposa de distribución restringida, pero estable.
 [[Usuario:Jrfep|J.R. Ferrer Paris]]
 
 === Referencias ===
-* Godart, M. (1819). Encyclopédie méthodique. Histoire Naturelle. Volume 9. Paris. [http://biodiversitylibrary.org/page/24400829]
+* Linnaeus (1758) Systema Naturae per Regna Tria Naturae, Secundum Clases, Ordines, Genera, Species, cum Characteribus, Differentiis, Symonymis, Locis. Tomis I. 10th Edition Syst. Nat. (Edn 10) 1 : 1-338, : 339-824  [http://archive.org/stream/carolilinnaeisys12linn#page/488/mode/1up]
 * Ferrer-Paris, José R.; Paul Rodríguez, Jon; Y. Sánchez-Mercado, Ada; A. Rodríguez, Gustavo (2014): Informe de resultados de muestreos de NeoMapas a nivel nacional 2001 a 2010. figshare. doi:[https://dx.doi.org/10.6084/m9.figshare.1094280 10.6084/m9.figshare.1094280]. 
 * Ferrer-Paris, José R.; Jon Paul Rodríguez; Tatjana Good; Ada Y. Sánchez-Mercado; Kathryn M. Rodríguez-Clark; Gustavo A. Rodríguez; A. Solis (2013): Systematic, large-scale national biodiversity surveys: NeoMaps as a model for tropical regions. Diversity and Distributions 19(2): 215-231 doi:[http://dx.doi.org/10.1111/ddi.12012 10.1111/ddi.12012]. 
-* Encyclopedia of Life, [http://eol.org/pages/174582/overview Taxon page for Ganyra josephina]
-* J. Gonzáles, A. Orellana and G. Lamas. “Adiciones, rectificacionesy actualizaciones a "Mariposas de Venezuela" por Théophile Raymond. IV.Pieridae y Hesperiidae (Lepidoptera)”. In: ''Entomotropica'' 20.3 (2005),pp. 265-269.
-* M. F. Sandoval, A. Fernandez-Badillo and J. M. González. “Mariposas(Insecta: Lepidoptera) del Parque Henri Pittier, Venezuela: Lista,distribución y algunas notas sobre su historia natural”. In: ''Alcance''70 (2007), pp. 1-140.
+* Encyclopedia of Life, [http://eol.org/pages/177248/overview Taxon page for Moschoneura pinthous]
+list()

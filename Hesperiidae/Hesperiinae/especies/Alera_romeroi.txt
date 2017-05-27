@@ -1,0 +1,49 @@
+{{Ficha de taxón 
+  | name = Alera romeroi
+  | status = NE
+  | image = Image_placeholder.svg 
+  | image_width = 240 px 
+  | regnum = [[Animalia]] 
+  | phylum = [[Arthropoda]] 
+  | classis = [[Insecta]] 
+  | ordo = [[Lepidoptera]] 
+  | familia = [[Hesperiidae]] 
+  | genus = ''[[Alera]]'' 
+  | species = ''Alera romeroi'' 
+  | binomial = ''Alera romeroi'' 
+  | binomial_authority = ''Mielke & Casagrande, 2004''   
+  | range_map = Map_placeholder.svg 
+  | range_map_width = 240 px 
+  | range_map_caption = Mapa de distribución de Alera romeroi
+}} 
+=== Taxonomía === 
+Pertenece a la subfamilia Hesperiinae. Única especie del género [[Alera]] presente en Venezuela, otras 5 especies conocidas a nivel mundial.
+==== Nombres comunes ====
+
+==== Notas taxonómicas ====
+
+==== Sinónimos ====
+
+=== Descripción ===
+Descrita originalmente a partir de ejemplares capturados a mediados del siglo XIX.
+Para esta especie hay información disponible en , .
+=== Distribución === 
+Especie presente en Venezuela, distribución no precisada.
+=== Situación === 
+Esta especie requiere una evaluación más detallada para determinar su situación actual
+
+* ''''Lista Roja Venezuela'''' 1995 No evaluado
+* ''''Lista Roja Venezuela'''' 2003 No evaluado
+* ''''Lista Roja Venezuela'''' 2008 No evaluado
+=== Amenazas === 
+
+=== Conservación === 
+
+
+=== Editores y Colaboradores === 
+[[Usuario:Jrfep|J.R. Ferrer Paris]]
+
+=== Referencias ===
+* Mielke & Casagrande (2004) Duas novas espécies de Alera Mabille (Lepidoptera, Hesperiidae, Hesperiinae). Revista Brasileira de Zoologia 21(4): 913-918 [http://dx.doi.org/10.1590/S0101-81752004000400028]
+* Mielke & Casagrande (2004) Duas novas espécies de Alera Mabille (Lepidoptera, Hesperiidae, Hesperiinae). Revista Brasileira de Zoologia 21(4): 913-918 [http://dx.doi.org/10.1590/S0101-81752004000400028]
+list()

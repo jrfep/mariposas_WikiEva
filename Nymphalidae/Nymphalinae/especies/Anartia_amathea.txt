@@ -1,0 +1,51 @@
+{{Ficha de taxón 
+  | name = Anartia amathea
+  | status = LC
+  | image = Image_placeholder.svg 
+  | image_width = 240 px 
+  | regnum = [[Animalia]] 
+  | phylum = [[Arthropoda]] 
+  | classis = [[Insecta]] 
+  | ordo = [[Lepidoptera]] 
+  | familia = [[Nymphalidae]] 
+  | genus = ''[[Anartia]]'' 
+  | species = ''Anartia amathea'' 
+  | binomial = ''Anartia amathea'' 
+  | binomial_authority = ''(Linnaeus, 1758)''   
+  | range_map = Map_placeholder.svg 
+  | range_map_width = 240 px 
+  | range_map_caption = Mapa de distribución de Anartia amathea
+}} 
+=== Taxonomía === 
+El género [[Anartia]] pertenece a la subfamilia Nymphalinae y está representado en Venezuela por 2 especies, y un total de 5 especies a nivel mundial. Especie descrita a principios del siglo XX.
+==== Nombres comunes ====
+
+==== Notas taxonómicas ====
+
+==== Sinónimos ====
+
+=== Descripción ===
+Descrita originalmente en el siglo XVIII.
+Para esta especie hay información disponible en Biodiversity Heritage Library ([http://www.biodiversitylibrary.org BHL]), Wikipedia ([http://www.wikipedia.org]), Global Biodiversity Information Facility ([http://www.gbif.org GBIF]).
+=== Distribución === 
+Especie de amplia distribución en Venezuela.
+=== Situación === 
+Mariposa de distribución restringida, pero estable.
+
+* ''''Lista Roja Venezuela'''' 1995 No evaluado
+* ''''Lista Roja Venezuela'''' 2003 No evaluado
+* ''''Lista Roja Venezuela'''' 2008 No evaluado
+=== Amenazas === 
+
+=== Conservación === 
+
+
+=== Editores y Colaboradores === 
+[[Usuario:Jrfep|J.R. Ferrer Paris]]
+
+=== Referencias ===
+* Linnaeus (1760) Systema Naturae. Tomo I. Halae Magdeburgica. [http://biodiversitylibrary.org/page/52750066]
+* Ferrer-Paris, José R.; Paul Rodríguez, Jon; Y. Sánchez-Mercado, Ada; A. Rodríguez, Gustavo (2014): Informe de resultados de muestreos de NeoMapas a nivel nacional 2001 a 2010. figshare. doi:[https://dx.doi.org/10.6084/m9.figshare.1094280 10.6084/m9.figshare.1094280]. 
+* Encyclopedia of Life, [http://eol.org/pages/159066/overview Taxon page for Anartia amathea]
+* J. R. Álvarez Sierra and J. R. Álvarez Corral. ''Mariposas diurnasde Venezuela. Introducción a su conocimiento''. Caracas: Editorial Arte,1984.
+* T. Raymond. ''Mariposas de Venezuela''. Ediciones Corpoven, 1982.
