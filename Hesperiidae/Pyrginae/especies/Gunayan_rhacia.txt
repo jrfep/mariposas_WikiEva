@@ -1,0 +1,47 @@
+{{Ficha de taxón 
+  | name = Gunayan rhacia
+  | status = NE
+  | image = Image_placeholder.svg 
+  | image_width = 240 px 
+  | regnum = [[Animalia]] 
+  | phylum = [[Arthropoda]] 
+  | classis = [[Insecta]] 
+  | ordo = [[Lepidoptera]] 
+  | familia = [[Hesperiidae]] 
+  | genus = ''[[Gunayan]]'' 
+  | species = ''Gunayan rhacia'' 
+  | binomial = ''Gunayan rhacia'' 
+  | binomial_authority = ''(Hewitson, [1875])''   
+  | range_map = Map_placeholder.svg 
+  | range_map_width = 240 px 
+  | range_map_caption = Mapa de distribución de Gunayan rhacia
+}} 
+=== Taxonomía === 
+Pertenece a la subfamilia Pyrginae. Única especie del género [[Gunayan]] presente en Venezuela, otras 2 especies conocidas a nivel mundial. Especie descrita en el siglo XIX.
+==== Nombres comunes ====
+
+==== Notas taxonómicas ====
+
+==== Sinónimos ====
+
+=== Descripción ===
+Para esta especie hay información disponible en , .
+=== Distribución === 
+Especie presente en Venezuela, distribución no precisada.
+=== Situación === 
+Esta especie requiere una evaluación más detallada para determinar su situación actual
+
+* ''''Lista Roja Venezuela'''' 1995 No evaluado
+* ''''Lista Roja Venezuela'''' 2003 No evaluado
+* ''''Lista Roja Venezuela'''' 2008 No evaluado
+=== Amenazas === 
+
+=== Conservación === 
+
+
+=== Editores y Colaboradores === 
+[[Usuario:Jrfep|J.R. Ferrer Paris]]
+
+=== Referencias ===
+
+list()
