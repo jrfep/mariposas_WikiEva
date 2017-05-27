@@ -1,0 +1,50 @@
+{{Ficha de taxón 
+  | name = Macrosoma conifera
+  | status = NE
+  | image = Image_placeholder.svg 
+  | image_width = 240 px 
+  | regnum = [[Animalia]] 
+  | phylum = [[Arthropoda]] 
+  | classis = [[Insecta]] 
+  | ordo = [[Lepidoptera]] 
+  | familia = [[Hedylidae]] 
+  | genus = ''[[Macrosoma]]'' 
+  | species = ''Macrosoma conifera'' 
+  | binomial = ''Macrosoma conifera'' 
+  | binomial_authority = ''(Warren, 1897)''   
+  | range_map = Map_placeholder.svg 
+  | range_map_width = 240 px 
+  | range_map_caption = Mapa de distribución de Macrosoma conifera
+}} 
+=== Taxonomía === 
+El género [[Macrosoma]] pertenece a la subfamilia Hedylidae y está representado en Venezuela por 3 especies, y un total de 34 especies a nivel mundial. Especie descrita en el siglo XIX.
+==== Nombres comunes ====
+
+==== Notas taxonómicas ====
+
+==== Sinónimos ====
+
+=== Descripción ===
+Para esta especie hay información disponible en Encyclopedia of Life ([http://www.eol.org EOL]), Wikipedia ([http://www.wikipedia.org]), Global Biodiversity Information Facility ([http://www.gbif.org GBIF]).
+=== Distribución === 
+Especie presente en Venezuela, distribución no precisada.
+=== Situación === 
+Esta especie requiere una evaluación más detallada para determinar su situación actual
+
+* ''''Lista Roja Venezuela'''' 1995 No evaluado
+* ''''Lista Roja Venezuela'''' 2003 No evaluado
+* ''''Lista Roja Venezuela'''' 2008 No evaluado
+=== Amenazas === 
+
+=== Conservación === 
+
+
+=== Editores y Colaboradores === 
+[[Usuario:Jrfep|J.R. Ferrer Paris]]
+
+=== Referencias ===
+* Prout (1910) Lepidoptera Heterocera Fam. Geometridae. En: Whytman, Genera Insectorum. Fasc. 54. Bruselas, Bélgica [http://biodiversitylibrary.org/page/33767724]
+* Cock (2014) An updated and annotated checklist of the Hedylidae and Hesperiidae (Lepidoptera) of Trinidad, West Indies. Insecta Mundi 0393: 1–40 [http://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1897&context=insectamundi]
+* Scoble (1990) A catalogue of the Hedylidae (Lepidoptera: Hedyloidea), with description of two new species. Entomologica Scandinavica 21: 113-119 [http://booksandjournals.brillonline.com/content/journals/10.1163/187631290x00094]
+* Encyclopedia of Life, [http://eol.org/pages/273389/overview Taxon page for Macrosoma conifera]
+list()
