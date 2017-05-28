@@ -1,0 +1,50 @@
+{{Ficha de taxón 
+  | name = Janthecla leea
+  | status = LC
+  | image = Image_placeholder.svg 
+  | image_width = 240 px 
+  | regnum = [[Animalia]] 
+  | phylum = [[Arthropoda]] 
+  | classis = [[Insecta]] 
+  | ordo = [[Lepidoptera]] 
+  | familia = [[Lycaenidae]] 
+  | genus = ''[[Janthecla]]'' 
+  | species = ''Janthecla leea'' 
+  | binomial = ''Janthecla leea'' 
+  | binomial_authority = ''Venables & Robbins, 1991''   
+  | range_map = Map_placeholder.svg 
+  | range_map_width = 240 px 
+  | range_map_caption = Mapa de distribución de Janthecla leea
+}} 
+=== Taxonomía === 
+El género [[Janthecla]] pertenece a la subfamilia Theclinae y está representado en Venezuela por 4 especies, y un total de 10 especies a nivel mundial.
+==== Nombres comunes ====
+
+==== Notas taxonómicas ====
+
+==== Sinónimos ====
+
+=== Descripción ===
+Descrita originalmente a partir de ejemplares colectados en diferentes países del continente sur americano.
+Para esta especie hay información disponible en Biodiversity Heritage Library ([http://www.biodiversitylibrary.org BHL]), Wikipedia ([http://www.wikipedia.org]), Global Biodiversity Information Facility ([http://www.gbif.org GBIF]).
+=== Distribución === 
+Especie presente en Venezuela, distribución no precisada.
+=== Situación === 
+Mariposa de distribución restringida, pero estable.
+
+* ''''Lista Roja Venezuela'''' 1995 No evaluado
+* ''''Lista Roja Venezuela'''' 2003 No evaluado
+* ''''Lista Roja Venezuela'''' 2008 No evaluado
+=== Amenazas === 
+
+=== Conservación === 
+
+
+=== Editores y Colaboradores === 
+[[Usuario:Jrfep|J.R. Ferrer Paris]]
+
+=== Referencias ===
+* Robbins & Venables (1991) SYNOPSIS OF A NEW NEOTROPICAL HAIRSTREAK GENUS, JANTHECLA, AND DESCRIPTION OF A NEW SPECIES (LYCAENIDAE). Journal of the Lepidopterists' Society 45(1): 11-33 [https://entomology.si.edu/StaffPages/Robbins/1991_RobbinsVenables_Synopsis.pdf]
+* Robbins & Venables (1991) SYNOPSIS OF A NEW NEOTROPICAL HAIRSTREAK GENUS, JANTHECLA, AND DESCRIPTION OF A NEW SPECIES (LYCAENIDAE). Journal of the Lepidopterists' Society 45(1): 11-33 [https://entomology.si.edu/StaffPages/Robbins/1991_RobbinsVenables_Synopsis.pdf]
+* Encyclopedia of Life, [http://eol.org/pages/4059050/overview Taxon page for Janthecla leea]
+list()
