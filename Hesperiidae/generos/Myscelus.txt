@@ -7,6 +7,8 @@
   | familia = [[Hesperiidae]]
   | genus = ''Myscelus''
 }}
+Género de Mariposas de la familia Hesperiidae con 11 especies a nivel global y 320 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Myscelus belti]]'' Godman & Salvin, 1879

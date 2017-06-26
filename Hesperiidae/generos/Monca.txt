@@ -7,6 +7,8 @@
   | familia = [[Hesperiidae]]
   | genus = ''Monca''
 }}
+Género de Mariposas de la familia Hesperiidae con 4 especies a nivel global y 320 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Monca telata]]'' (Herrich-Schäffer, 1869)

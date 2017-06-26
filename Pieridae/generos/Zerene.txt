@@ -7,6 +7,8 @@
   | familia = [[Pieridae]]
   | genus = ''Zerene''
 }}
+Género de Mariposas de la familia Pieridae con 2 especies a nivel global y 122 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Zerene cesonia]]'' (Stoll, 1790)

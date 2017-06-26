@@ -7,6 +7,8 @@
   | familia = [[Hesperiidae]]
   | genus = ''Paracarystus''
 }}
+Género de Mariposas de la familia Hesperiidae con 0 especies a nivel global y 320 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Paracarystus hypargyra]]'' (Herrich-Schäffer, 1869)

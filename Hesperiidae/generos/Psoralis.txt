@@ -7,6 +7,8 @@
   | familia = [[Hesperiidae]]
   | genus = ''Psoralis''
 }}
+Género de Mariposas de la familia Hesperiidae con 11 especies a nivel global y 320 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Psoralis rusta]]'' Evans, 1955

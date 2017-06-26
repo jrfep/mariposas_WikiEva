@@ -7,6 +7,8 @@
   | familia = [[Hesperiidae]]
   | genus = ''Callimormus''
 }}
+Género de Mariposas de la familia Hesperiidae con 9 especies a nivel global y 320 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Callimormus saturnus]]'' (Herrich-Schäffer, 1869)

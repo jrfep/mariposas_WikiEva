@@ -7,6 +7,8 @@
   | familia = [[Hesperiidae]]
   | genus = ''Trina''
 }}
+Género de Mariposas de la familia Hesperiidae con 1 especies a nivel global y 320 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Trina geometrina]]'' (Felder & Felder, 1867)

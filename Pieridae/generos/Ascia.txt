@@ -7,6 +7,8 @@
   | familia = [[Pieridae]]
   | genus = ''Ascia''
 }}
+Género de Mariposas de la familia Pieridae con 1 especies a nivel global y 122 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Ascia monuste]]'' (Linnaeus, 1764)

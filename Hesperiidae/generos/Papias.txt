@@ -7,6 +7,8 @@
   | familia = [[Hesperiidae]]
   | genus = ''Papias''
 }}
+Género de Mariposas de la familia Hesperiidae con 10 especies a nivel global y 320 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Papias quigua]]'' Evans, 1955

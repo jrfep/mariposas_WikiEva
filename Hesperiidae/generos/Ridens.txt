@@ -7,6 +7,8 @@
   | familia = [[Hesperiidae]]
   | genus = ''Ridens''
 }}
+Género de Mariposas de la familia Hesperiidae con 20 especies a nivel global y 320 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Ridens mephitis]]'' (Hewitson, 1876)

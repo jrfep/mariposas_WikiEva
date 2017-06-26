@@ -7,6 +7,8 @@
   | familia = [[Nymphalidae]]
   | genus = ''Manerebia''
 }}
+Género de Mariposas de la familia Nymphalidae con 37 especies a nivel global y 658 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Manerebia franciscae]]'' (Adams & Bernard, 1981)

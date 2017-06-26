@@ -7,6 +7,8 @@
   | familia = [[Nymphalidae]]
   | genus = ''Pagyris''
 }}
+Género de Mariposas de la familia Nymphalidae con 3 especies a nivel global y 658 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Pagyris cymothoe]]'' (Hewitson, [1855])

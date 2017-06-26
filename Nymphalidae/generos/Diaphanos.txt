@@ -7,6 +7,8 @@
   | familia = [[Nymphalidae]]
   | genus = ''Diaphanos''
 }}
+Género de Mariposas de la familia Nymphalidae con 3 especies a nivel global y 658 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Diaphanos curvignathos]]'' Viloria, 1994

@@ -7,6 +7,8 @@
   | familia = [[Nymphalidae]]
   | genus = ''Taygetis''
 }}
+Género de Mariposas de la familia Nymphalidae con 27 especies a nivel global y 658 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Taygetis acuta]]'' Weymer, 1910

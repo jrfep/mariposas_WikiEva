@@ -7,6 +7,8 @@
   | familia = [[Pieridae]]
   | genus = ''Tatochila''
 }}
+Género de Mariposas de la familia Pieridae con 12 especies a nivel global y 122 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Tatochila xanthodice]]'' (Lucas, 1852)

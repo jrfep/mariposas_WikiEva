@@ -7,6 +7,8 @@
   | familia = [[Pieridae]]
   | genus = ''Perrhybris''
 }}
+Género de Mariposas de la familia Pieridae con 3 especies a nivel global y 122 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Perrhybris lypera]]'' (Kollar, 1850)

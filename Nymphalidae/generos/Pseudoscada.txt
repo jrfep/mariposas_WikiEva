@@ -7,6 +7,8 @@
   | familia = [[Nymphalidae]]
   | genus = ''Pseudoscada''
 }}
+Género de Mariposas de la familia Nymphalidae con 4 especies a nivel global y 658 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Pseudoscada florula]]'' (Hewitson, [1855])

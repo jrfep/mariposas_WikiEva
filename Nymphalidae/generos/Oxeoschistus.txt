@@ -7,6 +7,8 @@
   | familia = [[Nymphalidae]]
   | genus = ''Oxeoschistus''
 }}
+Género de Mariposas de la familia Nymphalidae con 8 especies a nivel global y 658 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Oxeoschistus puerta]]'' (Westwood, 1851)

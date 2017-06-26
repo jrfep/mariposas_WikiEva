@@ -7,6 +7,8 @@
   | familia = [[Hesperiidae]]
   | genus = ''Passova''
 }}
+Género de Mariposas de la familia Hesperiidae con 9 especies a nivel global y 320 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Passova passova]]'' (Hewitson, 1866)

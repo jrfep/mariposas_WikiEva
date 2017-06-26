@@ -7,6 +7,8 @@
   | familia = [[Pieridae]]
   | genus = ''Dismorphia''
 }}
+Género de Mariposas de la familia Pieridae con 31 especies a nivel global y 122 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Dismorphia amphione]]'' (Cramer, 1779)

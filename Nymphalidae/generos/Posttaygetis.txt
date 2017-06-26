@@ -7,6 +7,8 @@
   | familia = [[Nymphalidae]]
   | genus = ''Posttaygetis''
 }}
+Género de Mariposas de la familia Nymphalidae con 1 especies a nivel global y 658 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Posttaygetis penelea]]'' (Cramer, 1777)

@@ -7,6 +7,8 @@
   | familia = [[Hesperiidae]]
   | genus = ''Zariaspes''
 }}
+Género de Mariposas de la familia Hesperiidae con 2 especies a nivel global y 320 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Zariaspes mys]]'' (Hübner, [1808])

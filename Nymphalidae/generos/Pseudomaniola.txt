@@ -7,6 +7,8 @@
   | familia = [[Nymphalidae]]
   | genus = ''Pseudomaniola''
 }}
+Género de Mariposas de la familia Nymphalidae con 10 especies a nivel global y 658 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Pseudomaniola loxo]]'' (Dognin, 1891)

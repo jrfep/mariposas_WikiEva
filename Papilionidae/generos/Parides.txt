@@ -7,6 +7,8 @@
   | familia = [[Papilionidae]]
   | genus = ''Parides''
 }}
+Género de Mariposas de la familia Papilionidae con 34 especies a nivel global y 52 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Parides aeneas]]'' (Linnaeus, 1758)

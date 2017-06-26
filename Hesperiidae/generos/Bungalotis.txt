@@ -7,6 +7,8 @@
   | familia = [[Hesperiidae]]
   | genus = ''Bungalotis''
 }}
+Género de Mariposas de la familia Hesperiidae con 10 especies a nivel global y 320 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Bungalotis astylos]]'' (Cramer, 1780)

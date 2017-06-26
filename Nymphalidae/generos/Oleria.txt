@@ -7,6 +7,8 @@
   | familia = [[Nymphalidae]]
   | genus = ''Oleria''
 }}
+Género de Mariposas de la familia Nymphalidae con 45 especies a nivel global y 658 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Oleria amalda]]'' (Hewitson, [1857])

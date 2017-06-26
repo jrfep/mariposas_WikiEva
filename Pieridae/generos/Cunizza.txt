@@ -7,6 +7,8 @@
   | familia = [[Pieridae]]
   | genus = ''Cunizza''
 }}
+Género de Mariposas de la familia Pieridae con 1 especies a nivel global y 122 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Cunizza hirlanda]]'' (Stoll, 1790)

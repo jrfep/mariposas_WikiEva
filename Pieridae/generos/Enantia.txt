@@ -7,6 +7,8 @@
   | familia = [[Pieridae]]
   | genus = ''Enantia''
 }}
+Género de Mariposas de la familia Pieridae con 9 especies a nivel global y 122 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Enantia citrinella]]'' (Felder & Felder, 1861)

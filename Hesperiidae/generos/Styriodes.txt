@@ -7,6 +7,8 @@
   | familia = [[Hesperiidae]]
   | genus = ''Styriodes''
 }}
+Género de Mariposas de la familia Hesperiidae con 8 especies a nivel global y 320 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Styriodes dedecora]]'' (Plötz, 1882)

@@ -7,6 +7,8 @@
   | familia = [[Hesperiidae]]
   | genus = ''Poanes''
 }}
+Género de Mariposas de la familia Hesperiidae con 16 especies a nivel global y 320 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Poanes inimica]]'' (Butler & Druce, 1872)

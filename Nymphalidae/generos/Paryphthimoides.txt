@@ -7,6 +7,8 @@
   | familia = [[Nymphalidae]]
   | genus = ''Paryphthimoides''
 }}
+Género de Mariposas de la familia Nymphalidae con 13 especies a nivel global y 658 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Paryphthimoides grimon]]'' (Godart, [1824])

@@ -7,9 +7,11 @@
   | familia = [[Hesperiidae]]
   | genus = ''Gesta''
 }}
+Género de Mariposas de la familia Hesperiidae con 5 especies a nivel global y 320 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Gesta heteropterus]]'' (Plötz, 1884)
 ---- 
 === Referencias ===
-list()
+* Weeks (1906) … Psyche 13 (2-3): 72list()

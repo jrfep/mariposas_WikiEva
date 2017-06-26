@@ -7,6 +7,8 @@
   | familia = [[Hesperiidae]]
   | genus = ''Xenophanes''
 }}
+Género de Mariposas de la familia Hesperiidae con 1 especies a nivel global y 320 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Xenophanes tryxus]]'' (Stoll, 1780)

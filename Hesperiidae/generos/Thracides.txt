@@ -7,6 +7,8 @@
   | familia = [[Hesperiidae]]
   | genus = ''Thracides''
 }}
+Género de Mariposas de la familia Hesperiidae con 7 especies a nivel global y 320 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Thracides cleanthes]]'' (Latreille, [1824])

@@ -7,6 +7,8 @@
   | familia = [[Nymphalidae]]
   | genus = ''Dircenna''
 }}
+Género de Mariposas de la familia Nymphalidae con 6 especies a nivel global y 658 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Dircenna adina]]'' (Hewitson, [1855])

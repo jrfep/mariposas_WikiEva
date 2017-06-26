@@ -7,6 +7,8 @@
   | familia = [[Nymphalidae]]
   | genus = ''Lymanopoda''
 }}
+Género de Mariposas de la familia Nymphalidae con 54 especies a nivel global y 658 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Lymanopoda albocincta]]'' Hewitson, 1861

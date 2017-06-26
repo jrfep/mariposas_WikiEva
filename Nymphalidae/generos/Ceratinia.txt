@@ -7,6 +7,8 @@
   | familia = [[Nymphalidae]]
   | genus = ''Ceratinia''
 }}
+Género de Mariposas de la familia Nymphalidae con 4 especies a nivel global y 658 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Ceratinia neso]]'' (Hübner, [1806])

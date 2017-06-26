@@ -7,6 +7,8 @@
   | familia = [[Nymphalidae]]
   | genus = ''Thyridia''
 }}
+Género de Mariposas de la familia Nymphalidae con 1 especies a nivel global y 658 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Thyridia psidii]]'' (Linnaeus, 1758)

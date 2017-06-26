@@ -7,6 +7,8 @@
   | familia = [[Nymphalidae]]
   | genus = ''Agrias''
 }}
+Género de Mariposas de la familia Nymphalidae con 5 especies a nivel global y 658 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Agrias aedon]]'' Hewitson, 1848

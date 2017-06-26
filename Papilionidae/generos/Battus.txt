@@ -7,6 +7,8 @@
   | familia = [[Papilionidae]]
   | genus = ''Battus''
 }}
+Género de Mariposas de la familia Papilionidae con 12 especies a nivel global y 52 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Battus belus]]'' (Cramer, 1777)

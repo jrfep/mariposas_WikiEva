@@ -7,6 +7,8 @@
   | familia = [[Hesperiidae]]
   | genus = ''Remella''
 }}
+Género de Mariposas de la familia Hesperiidae con 5 especies a nivel global y 320 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Remella remus]]'' (Fabricius, 1798)

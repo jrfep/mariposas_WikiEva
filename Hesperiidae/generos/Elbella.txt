@@ -7,6 +7,8 @@
   | familia = [[Hesperiidae]]
   | genus = ''Elbella''
 }}
+Género de Mariposas de la familia Hesperiidae con 22 especies a nivel global y 320 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Elbella dulcinea]]'' (Plötz, 1879)

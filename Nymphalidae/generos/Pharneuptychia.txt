@@ -7,6 +7,8 @@
   | familia = [[Nymphalidae]]
   | genus = ''Pharneuptychia''
 }}
+Género de Mariposas de la familia Nymphalidae con 6 especies a nivel global y 658 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Pharneuptychia innocentia]]'' (Felder & Felder, 1867)

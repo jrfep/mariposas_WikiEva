@@ -7,6 +7,8 @@
   | familia = [[Nymphalidae]]
   | genus = ''Magneuptychia''
 }}
+Género de Mariposas de la familia Nymphalidae con 29 especies a nivel global y 658 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Magneuptychia alcinoe]]'' (Felder & Felder, 1867)

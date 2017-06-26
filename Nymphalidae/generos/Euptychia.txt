@@ -7,6 +7,8 @@
   | familia = [[Nymphalidae]]
   | genus = ''Euptychia''
 }}
+Género de Mariposas de la familia Nymphalidae con 13 especies a nivel global y 658 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Euptychia enyo]]'' Butler, 1867

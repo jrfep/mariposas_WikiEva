@@ -7,6 +7,8 @@
   | familia = [[Hesperiidae]]
   | genus = ''Aguna''
 }}
+Género de Mariposas de la familia Hesperiidae con 26 especies a nivel global y 320 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Aguna albistria]]'' (Plötz, 1880)

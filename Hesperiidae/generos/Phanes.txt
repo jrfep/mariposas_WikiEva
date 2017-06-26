@@ -7,6 +7,8 @@
   | familia = [[Hesperiidae]]
   | genus = ''Phanes''
 }}
+Género de Mariposas de la familia Hesperiidae con 7 especies a nivel global y 320 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Phanes abaris]]'' (Mabille, 1891)

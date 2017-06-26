@@ -7,6 +7,8 @@
   | familia = [[Papilionidae]]
   | genus = ''Heraclides''
 }}
+Género de Mariposas de la familia Papilionidae con 0 especies a nivel global y 52 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Heraclides anchisiades]]'' (Esper, 1788)

@@ -7,6 +7,8 @@
   | familia = [[Nymphalidae]]
   | genus = ''Hyalyris''
 }}
+Género de Mariposas de la familia Nymphalidae con 14 especies a nivel global y 658 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Hyalyris antea]]'' (Hewitson, 1869)

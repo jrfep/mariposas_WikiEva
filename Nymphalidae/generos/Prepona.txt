@@ -7,6 +7,8 @@
   | familia = [[Nymphalidae]]
   | genus = ''Prepona''
 }}
+Género de Mariposas de la familia Nymphalidae con 8 especies a nivel global y 658 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Prepona laertes]]'' (Hübner, [1811])

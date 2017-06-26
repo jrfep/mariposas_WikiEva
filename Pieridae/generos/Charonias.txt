@@ -7,6 +7,8 @@
   | familia = [[Pieridae]]
   | genus = ''Charonias''
 }}
+Género de Mariposas de la familia Pieridae con 2 especies a nivel global y 122 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Charonias eurytele]]'' (Hewitson, [1853])

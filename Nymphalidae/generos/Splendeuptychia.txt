@@ -7,6 +7,8 @@
   | familia = [[Nymphalidae]]
   | genus = ''Splendeuptychia''
 }}
+Género de Mariposas de la familia Nymphalidae con 23 especies a nivel global y 658 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Splendeuptychia libitina]]'' (Butler, 1870)

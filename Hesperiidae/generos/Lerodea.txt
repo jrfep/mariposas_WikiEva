@@ -7,6 +7,8 @@
   | familia = [[Hesperiidae]]
   | genus = ''Lerodea''
 }}
+Género de Mariposas de la familia Hesperiidae con 10 especies a nivel global y 320 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Lerodea arabus]]'' (Edwards, 1882)

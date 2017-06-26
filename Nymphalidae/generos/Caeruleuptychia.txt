@@ -7,6 +7,8 @@
   | familia = [[Nymphalidae]]
   | genus = ''Caeruleuptychia''
 }}
+Género de Mariposas de la familia Nymphalidae con 19 especies a nivel global y 658 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Caeruleuptychia umbrosa]]'' (Butler, 1870)

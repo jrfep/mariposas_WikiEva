@@ -7,6 +7,8 @@
   | familia = [[Papilionidae]]
   | genus = ''Pterourus''
 }}
+Género de Mariposas de la familia Papilionidae con 0 especies a nivel global y 52 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Pterourus cacicus]]'' (Lucas, 1852)

@@ -7,6 +7,8 @@
   | familia = [[Papilionidae]]
   | genus = ''Papilio''
 }}
+Género de Mariposas de la familia Papilionidae con 194 especies a nivel global y 52 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Papilio polyxenes]]'' Fabricius, 1775

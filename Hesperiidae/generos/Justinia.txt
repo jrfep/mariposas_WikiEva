@@ -7,6 +7,8 @@
   | familia = [[Hesperiidae]]
   | genus = ''Justinia''
 }}
+Género de Mariposas de la familia Hesperiidae con 8 especies a nivel global y 320 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Justinia justinianus]]'' (Latreille, [1824])

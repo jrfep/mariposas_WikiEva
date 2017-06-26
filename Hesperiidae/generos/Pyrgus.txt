@@ -7,6 +7,8 @@
   | familia = [[Hesperiidae]]
   | genus = ''Pyrgus''
 }}
+Género de Mariposas de la familia Hesperiidae con 48 especies a nivel global y 320 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Pyrgus communis]]'' (Grote, 1872)

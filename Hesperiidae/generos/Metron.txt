@@ -7,6 +7,8 @@
   | familia = [[Hesperiidae]]
   | genus = ''Metron''
 }}
+Género de Mariposas de la familia Hesperiidae con 6 especies a nivel global y 320 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Metron chrysogastra]]'' (Butler, 1870)

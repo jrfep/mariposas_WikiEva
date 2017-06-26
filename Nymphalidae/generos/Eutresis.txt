@@ -7,6 +7,8 @@
   | familia = [[Nymphalidae]]
   | genus = ''Eutresis''
 }}
+Género de Mariposas de la familia Nymphalidae con 2 especies a nivel global y 658 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Eutresis hypereia]]'' Doubleday, 1847

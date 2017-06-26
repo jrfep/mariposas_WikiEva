@@ -7,6 +7,8 @@
   | familia = [[Hesperiidae]]
   | genus = ''Pyrrhopyge''
 }}
+Género de Mariposas de la familia Hesperiidae con 39 especies a nivel global y 320 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Pyrrhopyge amyclas]]'' (Cramer, 1779)

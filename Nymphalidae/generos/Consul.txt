@@ -7,6 +7,8 @@
   | familia = [[Nymphalidae]]
   | genus = ''Consul''
 }}
+Género de Mariposas de la familia Nymphalidae con 4 especies a nivel global y 658 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Consul fabius]]'' (Cramer, 1776)

@@ -7,6 +7,8 @@
   | familia = [[Hesperiidae]]
   | genus = ''Dalla''
 }}
+Género de Mariposas de la familia Hesperiidae con 95 especies a nivel global y 320 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Dalla agathocles]]'' (Felder & Felder, 1867)

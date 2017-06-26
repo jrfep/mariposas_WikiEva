@@ -7,6 +7,8 @@
   | familia = [[Pieridae]]
   | genus = ''Lieinix''
 }}
+Género de Mariposas de la familia Pieridae con 6 especies a nivel global y 122 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Lieinix christa]]'' (Reissinger, 1970)

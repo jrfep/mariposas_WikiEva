@@ -7,6 +7,8 @@
   | familia = [[Hesperiidae]]
   | genus = ''Cymaenes''
 }}
+Género de Mariposas de la familia Hesperiidae con 27 especies a nivel global y 320 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Cymaenes campestris]]'' Mielke, 1980

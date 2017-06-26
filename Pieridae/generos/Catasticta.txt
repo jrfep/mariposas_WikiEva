@@ -7,6 +7,8 @@
   | familia = [[Pieridae]]
   | genus = ''Catasticta''
 }}
+Género de Mariposas de la familia Pieridae con 96 especies a nivel global y 122 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Catasticta apaturina]]'' Butler, 1901

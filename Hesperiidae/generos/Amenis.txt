@@ -7,6 +7,8 @@
   | familia = [[Hesperiidae]]
   | genus = ''Amenis''
 }}
+Género de Mariposas de la familia Hesperiidae con 1 especies a nivel global y 320 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Amenis pionia]]'' (Hewitson, 1857)

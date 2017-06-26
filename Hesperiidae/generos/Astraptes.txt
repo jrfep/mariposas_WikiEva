@@ -7,6 +7,8 @@
   | familia = [[Hesperiidae]]
   | genus = ''Astraptes''
 }}
+Género de Mariposas de la familia Hesperiidae con 29 especies a nivel global y 320 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Astraptes alardus]]'' (Stoll, 1790)

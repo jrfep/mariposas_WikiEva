@@ -7,6 +7,8 @@
   | familia = [[Hesperiidae]]
   | genus = ''Achalarus''
 }}
+Género de Mariposas de la familia Hesperiidae con 5 especies a nivel global y 320 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Achalarus albociliatus]]'' (Mabille, 1877)

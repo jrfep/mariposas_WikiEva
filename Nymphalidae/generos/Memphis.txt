@@ -7,6 +7,8 @@
   | familia = [[Nymphalidae]]
   | genus = ''Memphis''
 }}
+Género de Mariposas de la familia Nymphalidae con 62 especies a nivel global y 658 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Memphis acidalia]]'' (Hübner, [1819])

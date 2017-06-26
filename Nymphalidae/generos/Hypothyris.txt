@@ -7,6 +7,8 @@
   | familia = [[Nymphalidae]]
   | genus = ''Hypothyris''
 }}
+Género de Mariposas de la familia Nymphalidae con 18 especies a nivel global y 658 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Hypothyris connexa]]'' (Hall, 1939)

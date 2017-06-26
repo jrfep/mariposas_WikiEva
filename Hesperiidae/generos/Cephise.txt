@@ -7,6 +7,8 @@
   | familia = [[Hesperiidae]]
   | genus = ''Cephise''
 }}
+Género de Mariposas de la familia Hesperiidae con 12 especies a nivel global y 320 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Cephise callias]]'' (Mabille, 1888)
