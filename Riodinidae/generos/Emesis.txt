@@ -7,6 +7,9 @@
   | familia = [[Riodinidae]]
   | genus = ''Emesis''
 }}
+
+Género de mariposas de la familia Riodinidae con 42 especies a nivel global y 148 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Emesis cypria]]'' Felder & Felder, 1861
@@ -16,4 +19,4 @@
 * ''[[Emesis zela]]'' Butler, 1870
 ---- 
 === Referencias ===
-list()
+

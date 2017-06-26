@@ -7,7 +7,29 @@
   | familia = [[Nymphalidae]]
   | genus = ''Callithomia''
 }}
-Género de Mariposas de la familia Nymphalidae con 3 especies a nivel global y 658 especies en Venezuela.
+
+Género de mariposas de la familia Nymphalidae con 3 especies a nivel global y 658 especies en Venezuela.
+
+=== Especies === 
+---- 
+* ''[[Callithomia alexirrhoe]]'' Bates, 1862
+* ''[[Callithomia hezia]]'' (Hewitson, [1854])
+* ''[[Callithomia lenea]]'' (Cramer, 1779)
+---- 
+=== Referencias ===
+
+* W. T. M. Forbes. “Note on the butterflies of Venezuelan Guiana”.In: ''Boletin de Entomologia Venezolana'' 1.2 (1942), pp. 25-36.
+ {{Ficha de taxón
+  | name = Callithomia
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Callithomia''
+}}
+
+Género de mariposas de la familia Nymphalidae con 3 especies a nivel global y 658 especies en Venezuela.
 
 === Especies === 
 ---- 

@@ -7,9 +7,12 @@
   | familia = [[Riodinidae]]
   | genus = ''Seco''
 }}
+
+Género de mariposas de la familia Riodinidae con 3 especies a nivel global y 148 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Seco ocellata]]'' (Hewitson, 1867)
 ---- 
 === Referencias ===
-list()
+

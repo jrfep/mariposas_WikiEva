@@ -7,9 +7,12 @@
   | familia = [[Riodinidae]]
   | genus = ''Hypophylla''
 }}
+
+Género de mariposas de la familia Riodinidae con 6 especies a nivel global y 148 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Hypophylla florus]]'' (Staudinger, [1887])
 ---- 
 === Referencias ===
-list()
+

@@ -7,10 +7,13 @@
   | familia = [[Nymphalidae]]
   | genus = ''Opsiphanes''
 }}
+
+Género de mariposas de la familia Nymphalidae con 11 especies a nivel global y 658 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Opsiphanes sallei]]'' Doubleday, [1849]
 * ''[[Opsiphanes tamarindi]]'' Felder & Felder, 1861
 ---- 
 === Referencias ===
-list()
+

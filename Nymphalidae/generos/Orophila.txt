@@ -7,9 +7,12 @@
   | familia = [[Nymphalidae]]
   | genus = ''Orophila''
 }}
+
+Género de mariposas de la familia Nymphalidae con 2 especies a nivel global y 658 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Orophila cardases]]'' (Hewitson, 1869)
 ---- 
 === Referencias ===
-list()
+

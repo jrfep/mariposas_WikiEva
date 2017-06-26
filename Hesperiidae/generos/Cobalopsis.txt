@@ -7,11 +7,12 @@
   | familia = [[Hesperiidae]]
   | genus = ''Cobalopsis''
 }}
-Género de Mariposas de la familia Hesperiidae con 16 especies a nivel global y 320 especies en Venezuela.
+
+Género de mariposas de la familia Hesperiidae con 16 especies a nivel global y 320 especies en Venezuela.
 
 === Especies === 
 ---- 
 * ''[[Cobalopsis venias]]'' (Bell, 1942)
 ---- 
 === Referencias ===
-list()
+

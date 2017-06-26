@@ -7,6 +7,9 @@
   | familia = [[Nymphalidae]]
   | genus = ''Antirrhea''
 }}
+
+Género de mariposas de la familia Nymphalidae con 11 especies a nivel global y 658 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Antirrhea adoptiva]]'' (Weymer, 1909)
@@ -15,4 +18,4 @@
 * ''[[Antirrhea ulei]]'' Strand, 1912
 ---- 
 === Referencias ===
-list()
+

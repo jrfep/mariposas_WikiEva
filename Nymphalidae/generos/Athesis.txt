@@ -7,7 +7,92 @@
   | familia = [[Nymphalidae]]
   | genus = ''Athesis''
 }}
-Género de Mariposas de la familia Nymphalidae con 3 especies a nivel global y 658 especies en Venezuela.
+
+Género de mariposas de la familia Nymphalidae con 3 especies a nivel global y 658 especies en Venezuela.
+
+=== Especies === 
+---- 
+* ''[[Athesis clearista]]'' Doubleday, 1847
+* ''[[Athesis vitrala]]'' Kaye, 1918
+---- 
+=== Referencias ===
+* Ferrer-Paris, José R.; Paul Rodríguez, Jon; Y. Sánchez-Mercado, Ada; A. Rodríguez, Gustavo (2014): Informe de resultados de muestreos de NeoMapas a nivel nacional 2001 a 2010. figshare. doi:[https://dx.doi.org/10.6084/m9.figshare.1094280 10.6084/m9.figshare.1094280]. 
+* J. R. Álvarez Sierra and J. R. Álvarez Corral. ''Mariposas diurnasde Venezuela. Introducción a su conocimiento''. Caracas: Editorial Arte,1984.
+* T. Raymond. ''Mariposas de Venezuela''. Ediciones Corpoven, 1982.
+ {{Ficha de taxón
+  | name = Athesis
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Athesis''
+}}
+
+Género de mariposas de la familia Nymphalidae con 3 especies a nivel global y 658 especies en Venezuela.
+
+=== Especies === 
+---- 
+* ''[[Athesis clearista]]'' Doubleday, 1847
+* ''[[Athesis vitrala]]'' Kaye, 1918
+---- 
+=== Referencias ===
+* Ferrer-Paris, José R.; Paul Rodríguez, Jon; Y. Sánchez-Mercado, Ada; A. Rodríguez, Gustavo (2014): Informe de resultados de muestreos de NeoMapas a nivel nacional 2001 a 2010. figshare. doi:[https://dx.doi.org/10.6084/m9.figshare.1094280 10.6084/m9.figshare.1094280]. 
+* J. R. Álvarez Sierra and J. R. Álvarez Corral. ''Mariposas diurnasde Venezuela. Introducción a su conocimiento''. Caracas: Editorial Arte,1984.
+* T. Raymond. ''Mariposas de Venezuela''. Ediciones Corpoven, 1982.
+ {{Ficha de taxón
+  | name = Athesis
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Athesis''
+}}
+
+Género de mariposas de la familia Nymphalidae con 3 especies a nivel global y 658 especies en Venezuela.
+
+=== Especies === 
+---- 
+* ''[[Athesis clearista]]'' Doubleday, 1847
+* ''[[Athesis vitrala]]'' Kaye, 1918
+---- 
+=== Referencias ===
+* Ferrer-Paris, José R.; Paul Rodríguez, Jon; Y. Sánchez-Mercado, Ada; A. Rodríguez, Gustavo (2014): Informe de resultados de muestreos de NeoMapas a nivel nacional 2001 a 2010. figshare. doi:[https://dx.doi.org/10.6084/m9.figshare.1094280 10.6084/m9.figshare.1094280]. 
+* J. R. Álvarez Sierra and J. R. Álvarez Corral. ''Mariposas diurnasde Venezuela. Introducción a su conocimiento''. Caracas: Editorial Arte,1984.
+* T. Raymond. ''Mariposas de Venezuela''. Ediciones Corpoven, 1982.
+ {{Ficha de taxón
+  | name = Athesis
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Athesis''
+}}
+
+Género de mariposas de la familia Nymphalidae con 3 especies a nivel global y 658 especies en Venezuela.
+
+=== Especies === 
+---- 
+* ''[[Athesis clearista]]'' Doubleday, 1847
+* ''[[Athesis vitrala]]'' Kaye, 1918
+---- 
+=== Referencias ===
+* Ferrer-Paris, José R.; Paul Rodríguez, Jon; Y. Sánchez-Mercado, Ada; A. Rodríguez, Gustavo (2014): Informe de resultados de muestreos de NeoMapas a nivel nacional 2001 a 2010. figshare. doi:[https://dx.doi.org/10.6084/m9.figshare.1094280 10.6084/m9.figshare.1094280]. 
+* J. R. Álvarez Sierra and J. R. Álvarez Corral. ''Mariposas diurnasde Venezuela. Introducción a su conocimiento''. Caracas: Editorial Arte,1984.
+* T. Raymond. ''Mariposas de Venezuela''. Ediciones Corpoven, 1982.
+ {{Ficha de taxón
+  | name = Athesis
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Athesis''
+}}
+
+Género de mariposas de la familia Nymphalidae con 3 especies a nivel global y 658 especies en Venezuela.
 
 === Especies === 
 ---- 

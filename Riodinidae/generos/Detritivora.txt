@@ -7,6 +7,9 @@
   | familia = [[Riodinidae]]
   | genus = ''Detritivora''
 }}
+
+Género de mariposas de la familia Riodinidae con 28 especies a nivel global y 148 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Detritivora cleonus]]'' (Stoll, 1781)
@@ -17,4 +20,4 @@
 * ''[[Detritivora zama]]'' (Bates, 1868)
 ---- 
 === Referencias ===
-list()
+

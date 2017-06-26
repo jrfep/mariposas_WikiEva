@@ -7,11 +7,12 @@
   | familia = [[Hesperiidae]]
   | genus = ''Dyscophellus''
 }}
-Género de Mariposas de la familia Hesperiidae con 9 especies a nivel global y 320 especies en Venezuela.
+
+Género de mariposas de la familia Hesperiidae con 9 especies a nivel global y 320 especies en Venezuela.
 
 === Especies === 
 ---- 
 * ''[[Dyscophellus phraxanor]]'' (Hewitson, 1876)
 ---- 
 === Referencias ===
-list()
+

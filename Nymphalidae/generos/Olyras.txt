@@ -7,11 +7,12 @@
   | familia = [[Nymphalidae]]
   | genus = ''Olyras''
 }}
-Género de Mariposas de la familia Nymphalidae con 3 especies a nivel global y 658 especies en Venezuela.
+
+Género de mariposas de la familia Nymphalidae con 3 especies a nivel global y 658 especies en Venezuela.
 
 === Especies === 
 ---- 
 * ''[[Olyras crathis]]'' Doubleday, 1847
 ---- 
 === Referencias ===
-list()
+

@@ -7,6 +7,1233 @@
   | familia = [[Nymphalidae]]
   | genus = ''Corades''
 }}
+
+Género de mariposas de la familia Nymphalidae con 19 especies a nivel global y 658 especies en Venezuela.
+
+=== Especies === 
+---- 
+* ''[[Corades chelonis]]'' Hewitson, 1863
+* ''[[Corades chirone]]'' Hewitson, 1863
+* ''[[Corades cistene]]'' Hewitson, 1863
+* ''[[Corades cybele]]'' Butler, 1866
+* ''[[Corades dymantis]]'' Thieme, 1907
+* ''[[Corades enyo]]'' Hewitson, [1849]
+* ''[[Corades medeba]]'' Hewitson, 1850
+* ''[[Corades pannonia]]'' Hewitson, 1850
+* ''[[Corades pax]]'' Watkins, 1939
+---- 
+=== Referencias ===
+* Ferrer-Paris, José R.; Paul Rodríguez, Jon; Y. Sánchez-Mercado, Ada; A. Rodríguez, Gustavo (2014): Informe de resultados de muestreos de NeoMapas a nivel nacional 2001 a 2010. figshare. doi:[https://dx.doi.org/10.6084/m9.figshare.1094280 10.6084/m9.figshare.1094280]. 
+* J. R. Álvarez Sierra and J. R. Álvarez Corral. ''Mariposas diurnasde Venezuela. Introducción a su conocimiento''. Caracas: Editorial Arte,1984.
+* B. D'Abrera. ''Butterflies of the Neotropical Region. Part VNymphalidae (Conc.) \& Satyridae''. Victoria. Australia: Hill HousePublishers, 1988, p. 877.
+* A. M. Orellana B. “Mariposas de los páramos de la Sierra Nevada ySierra de La Culata (Cordillera de Mérida, Venezuela)”. In: ''Memoriasdel IV Simposio Internacional de Desarrollo Sustentable de Los Andes,la estrategia andina para el siglo XXI''. Ed. by R. Andresse and M.Monasterio. ICAE - ULA, 2004, pp. 57-71.
+* T. W. Pyrcz and Á. L. Viloria. “Erebiine and pronophilinebutterflies of the Serran\'\ia del Tam\'a, Venezuela-Colombia border(Lepidoptera: Nymphalidae: Satyrinae)”. In: ''Tropical Lepidoptera''15.1-2 (2007), pp. 18-52.
+* T. Raymond. ''Mariposas de Venezuela''. Ediciones Corpoven, 1982.
+* A. L. Viloria. “Estado actual del conocimiento taxonómico de lasmariposas (Lepidoptera: Rhopalocera) de Venezuela”. In: ''PrIBES 2000''.Ed. by F. M. Piera, J. Morrone and A. Melic. Vol. 1. 2000. Chap. Estadoactual del conocimiento taxon\'omico de las mariposas(Lepidoptera:Rhopalocera) de Venezuela, pp. 261-274.
+* A. L. Viloria. “Taxonom\'\ia y distribuci\'on de los Satyridae(Lepidoptera: Rhopalocera) en la Sierra de Perij\'a, fronteracolombo-venezolana”. MA Thesis. xxxviii + 296 pp.. La Universidad delZulia, 1990.
+* A. L. Viloria and J. A. Camacho. “Three new pronophilinebutterflies from the Serran\'\ia del Turimiquire, eastern Venezuela,and type designation for Corades enyo enyo Hewitson (Lepidoptera:Nymphalidae, Satyrinae)”. In: ''Fragmenta Entomologica'' 31.1 (1999), pp.173-188.
+ {{Ficha de taxón
+  | name = Corades
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Corades''
+}}
+
+Género de mariposas de la familia Nymphalidae con 19 especies a nivel global y 658 especies en Venezuela.
+
+=== Especies === 
+---- 
+* ''[[Corades chelonis]]'' Hewitson, 1863
+* ''[[Corades chirone]]'' Hewitson, 1863
+* ''[[Corades cistene]]'' Hewitson, 1863
+* ''[[Corades cybele]]'' Butler, 1866
+* ''[[Corades dymantis]]'' Thieme, 1907
+* ''[[Corades enyo]]'' Hewitson, [1849]
+* ''[[Corades medeba]]'' Hewitson, 1850
+* ''[[Corades pannonia]]'' Hewitson, 1850
+* ''[[Corades pax]]'' Watkins, 1939
+---- 
+=== Referencias ===
+* Ferrer-Paris, José R.; Paul Rodríguez, Jon; Y. Sánchez-Mercado, Ada; A. Rodríguez, Gustavo (2014): Informe de resultados de muestreos de NeoMapas a nivel nacional 2001 a 2010. figshare. doi:[https://dx.doi.org/10.6084/m9.figshare.1094280 10.6084/m9.figshare.1094280]. 
+* J. R. Álvarez Sierra and J. R. Álvarez Corral. ''Mariposas diurnasde Venezuela. Introducción a su conocimiento''. Caracas: Editorial Arte,1984.
+* B. D'Abrera. ''Butterflies of the Neotropical Region. Part VNymphalidae (Conc.) \& Satyridae''. Victoria. Australia: Hill HousePublishers, 1988, p. 877.
+* A. M. Orellana B. “Mariposas de los páramos de la Sierra Nevada ySierra de La Culata (Cordillera de Mérida, Venezuela)”. In: ''Memoriasdel IV Simposio Internacional de Desarrollo Sustentable de Los Andes,la estrategia andina para el siglo XXI''. Ed. by R. Andresse and M.Monasterio. ICAE - ULA, 2004, pp. 57-71.
+* T. W. Pyrcz and Á. L. Viloria. “Erebiine and pronophilinebutterflies of the Serran\'\ia del Tam\'a, Venezuela-Colombia border(Lepidoptera: Nymphalidae: Satyrinae)”. In: ''Tropical Lepidoptera''15.1-2 (2007), pp. 18-52.
+* T. Raymond. ''Mariposas de Venezuela''. Ediciones Corpoven, 1982.
+* A. L. Viloria. “Estado actual del conocimiento taxonómico de lasmariposas (Lepidoptera: Rhopalocera) de Venezuela”. In: ''PrIBES 2000''.Ed. by F. M. Piera, J. Morrone and A. Melic. Vol. 1. 2000. Chap. Estadoactual del conocimiento taxon\'omico de las mariposas(Lepidoptera:Rhopalocera) de Venezuela, pp. 261-274.
+* A. L. Viloria. “Taxonom\'\ia y distribuci\'on de los Satyridae(Lepidoptera: Rhopalocera) en la Sierra de Perij\'a, fronteracolombo-venezolana”. MA Thesis. xxxviii + 296 pp.. La Universidad delZulia, 1990.
+* A. L. Viloria and J. A. Camacho. “Three new pronophilinebutterflies from the Serran\'\ia del Turimiquire, eastern Venezuela,and type designation for Corades enyo enyo Hewitson (Lepidoptera:Nymphalidae, Satyrinae)”. In: ''Fragmenta Entomologica'' 31.1 (1999), pp.173-188.
+ {{Ficha de taxón
+  | name = Corades
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Corades''
+}}
+
+Género de mariposas de la familia Nymphalidae con 19 especies a nivel global y 658 especies en Venezuela.
+
+=== Especies === 
+---- 
+* ''[[Corades chelonis]]'' Hewitson, 1863
+* ''[[Corades chirone]]'' Hewitson, 1863
+* ''[[Corades cistene]]'' Hewitson, 1863
+* ''[[Corades cybele]]'' Butler, 1866
+* ''[[Corades dymantis]]'' Thieme, 1907
+* ''[[Corades enyo]]'' Hewitson, [1849]
+* ''[[Corades medeba]]'' Hewitson, 1850
+* ''[[Corades pannonia]]'' Hewitson, 1850
+* ''[[Corades pax]]'' Watkins, 1939
+---- 
+=== Referencias ===
+* Ferrer-Paris, José R.; Paul Rodríguez, Jon; Y. Sánchez-Mercado, Ada; A. Rodríguez, Gustavo (2014): Informe de resultados de muestreos de NeoMapas a nivel nacional 2001 a 2010. figshare. doi:[https://dx.doi.org/10.6084/m9.figshare.1094280 10.6084/m9.figshare.1094280]. 
+* J. R. Álvarez Sierra and J. R. Álvarez Corral. ''Mariposas diurnasde Venezuela. Introducción a su conocimiento''. Caracas: Editorial Arte,1984.
+* B. D'Abrera. ''Butterflies of the Neotropical Region. Part VNymphalidae (Conc.) \& Satyridae''. Victoria. Australia: Hill HousePublishers, 1988, p. 877.
+* A. M. Orellana B. “Mariposas de los páramos de la Sierra Nevada ySierra de La Culata (Cordillera de Mérida, Venezuela)”. In: ''Memoriasdel IV Simposio Internacional de Desarrollo Sustentable de Los Andes,la estrategia andina para el siglo XXI''. Ed. by R. Andresse and M.Monasterio. ICAE - ULA, 2004, pp. 57-71.
+* T. W. Pyrcz and Á. L. Viloria. “Erebiine and pronophilinebutterflies of the Serran\'\ia del Tam\'a, Venezuela-Colombia border(Lepidoptera: Nymphalidae: Satyrinae)”. In: ''Tropical Lepidoptera''15.1-2 (2007), pp. 18-52.
+* T. Raymond. ''Mariposas de Venezuela''. Ediciones Corpoven, 1982.
+* A. L. Viloria. “Estado actual del conocimiento taxonómico de lasmariposas (Lepidoptera: Rhopalocera) de Venezuela”. In: ''PrIBES 2000''.Ed. by F. M. Piera, J. Morrone and A. Melic. Vol. 1. 2000. Chap. Estadoactual del conocimiento taxon\'omico de las mariposas(Lepidoptera:Rhopalocera) de Venezuela, pp. 261-274.
+* A. L. Viloria. “Taxonom\'\ia y distribuci\'on de los Satyridae(Lepidoptera: Rhopalocera) en la Sierra de Perij\'a, fronteracolombo-venezolana”. MA Thesis. xxxviii + 296 pp.. La Universidad delZulia, 1990.
+* A. L. Viloria and J. A. Camacho. “Three new pronophilinebutterflies from the Serran\'\ia del Turimiquire, eastern Venezuela,and type designation for Corades enyo enyo Hewitson (Lepidoptera:Nymphalidae, Satyrinae)”. In: ''Fragmenta Entomologica'' 31.1 (1999), pp.173-188.
+ {{Ficha de taxón
+  | name = Corades
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Corades''
+}}
+
+Género de mariposas de la familia Nymphalidae con 19 especies a nivel global y 658 especies en Venezuela.
+
+=== Especies === 
+---- 
+* ''[[Corades chelonis]]'' Hewitson, 1863
+* ''[[Corades chirone]]'' Hewitson, 1863
+* ''[[Corades cistene]]'' Hewitson, 1863
+* ''[[Corades cybele]]'' Butler, 1866
+* ''[[Corades dymantis]]'' Thieme, 1907
+* ''[[Corades enyo]]'' Hewitson, [1849]
+* ''[[Corades medeba]]'' Hewitson, 1850
+* ''[[Corades pannonia]]'' Hewitson, 1850
+* ''[[Corades pax]]'' Watkins, 1939
+---- 
+=== Referencias ===
+* Ferrer-Paris, José R.; Paul Rodríguez, Jon; Y. Sánchez-Mercado, Ada; A. Rodríguez, Gustavo (2014): Informe de resultados de muestreos de NeoMapas a nivel nacional 2001 a 2010. figshare. doi:[https://dx.doi.org/10.6084/m9.figshare.1094280 10.6084/m9.figshare.1094280]. 
+* J. R. Álvarez Sierra and J. R. Álvarez Corral. ''Mariposas diurnasde Venezuela. Introducción a su conocimiento''. Caracas: Editorial Arte,1984.
+* B. D'Abrera. ''Butterflies of the Neotropical Region. Part VNymphalidae (Conc.) \& Satyridae''. Victoria. Australia: Hill HousePublishers, 1988, p. 877.
+* A. M. Orellana B. “Mariposas de los páramos de la Sierra Nevada ySierra de La Culata (Cordillera de Mérida, Venezuela)”. In: ''Memoriasdel IV Simposio Internacional de Desarrollo Sustentable de Los Andes,la estrategia andina para el siglo XXI''. Ed. by R. Andresse and M.Monasterio. ICAE - ULA, 2004, pp. 57-71.
+* T. W. Pyrcz and Á. L. Viloria. “Erebiine and pronophilinebutterflies of the Serran\'\ia del Tam\'a, Venezuela-Colombia border(Lepidoptera: Nymphalidae: Satyrinae)”. In: ''Tropical Lepidoptera''15.1-2 (2007), pp. 18-52.
+* T. Raymond. ''Mariposas de Venezuela''. Ediciones Corpoven, 1982.
+* A. L. Viloria. “Estado actual del conocimiento taxonómico de lasmariposas (Lepidoptera: Rhopalocera) de Venezuela”. In: ''PrIBES 2000''.Ed. by F. M. Piera, J. Morrone and A. Melic. Vol. 1. 2000. Chap. Estadoactual del conocimiento taxon\'omico de las mariposas(Lepidoptera:Rhopalocera) de Venezuela, pp. 261-274.
+* A. L. Viloria. “Taxonom\'\ia y distribuci\'on de los Satyridae(Lepidoptera: Rhopalocera) en la Sierra de Perij\'a, fronteracolombo-venezolana”. MA Thesis. xxxviii + 296 pp.. La Universidad delZulia, 1990.
+* A. L. Viloria and J. A. Camacho. “Three new pronophilinebutterflies from the Serran\'\ia del Turimiquire, eastern Venezuela,and type designation for Corades enyo enyo Hewitson (Lepidoptera:Nymphalidae, Satyrinae)”. In: ''Fragmenta Entomologica'' 31.1 (1999), pp.173-188.
+ {{Ficha de taxón
+  | name = Corades
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Corades''
+}}
+
+Género de mariposas de la familia Nymphalidae con 19 especies a nivel global y 658 especies en Venezuela.
+
+=== Especies === 
+---- 
+* ''[[Corades chelonis]]'' Hewitson, 1863
+* ''[[Corades chirone]]'' Hewitson, 1863
+* ''[[Corades cistene]]'' Hewitson, 1863
+* ''[[Corades cybele]]'' Butler, 1866
+* ''[[Corades dymantis]]'' Thieme, 1907
+* ''[[Corades enyo]]'' Hewitson, [1849]
+* ''[[Corades medeba]]'' Hewitson, 1850
+* ''[[Corades pannonia]]'' Hewitson, 1850
+* ''[[Corades pax]]'' Watkins, 1939
+---- 
+=== Referencias ===
+* Ferrer-Paris, José R.; Paul Rodríguez, Jon; Y. Sánchez-Mercado, Ada; A. Rodríguez, Gustavo (2014): Informe de resultados de muestreos de NeoMapas a nivel nacional 2001 a 2010. figshare. doi:[https://dx.doi.org/10.6084/m9.figshare.1094280 10.6084/m9.figshare.1094280]. 
+* J. R. Álvarez Sierra and J. R. Álvarez Corral. ''Mariposas diurnasde Venezuela. Introducción a su conocimiento''. Caracas: Editorial Arte,1984.
+* B. D'Abrera. ''Butterflies of the Neotropical Region. Part VNymphalidae (Conc.) \& Satyridae''. Victoria. Australia: Hill HousePublishers, 1988, p. 877.
+* A. M. Orellana B. “Mariposas de los páramos de la Sierra Nevada ySierra de La Culata (Cordillera de Mérida, Venezuela)”. In: ''Memoriasdel IV Simposio Internacional de Desarrollo Sustentable de Los Andes,la estrategia andina para el siglo XXI''. Ed. by R. Andresse and M.Monasterio. ICAE - ULA, 2004, pp. 57-71.
+* T. W. Pyrcz and Á. L. Viloria. “Erebiine and pronophilinebutterflies of the Serran\'\ia del Tam\'a, Venezuela-Colombia border(Lepidoptera: Nymphalidae: Satyrinae)”. In: ''Tropical Lepidoptera''15.1-2 (2007), pp. 18-52.
+* T. Raymond. ''Mariposas de Venezuela''. Ediciones Corpoven, 1982.
+* A. L. Viloria. “Estado actual del conocimiento taxonómico de lasmariposas (Lepidoptera: Rhopalocera) de Venezuela”. In: ''PrIBES 2000''.Ed. by F. M. Piera, J. Morrone and A. Melic. Vol. 1. 2000. Chap. Estadoactual del conocimiento taxon\'omico de las mariposas(Lepidoptera:Rhopalocera) de Venezuela, pp. 261-274.
+* A. L. Viloria. “Taxonom\'\ia y distribuci\'on de los Satyridae(Lepidoptera: Rhopalocera) en la Sierra de Perij\'a, fronteracolombo-venezolana”. MA Thesis. xxxviii + 296 pp.. La Universidad delZulia, 1990.
+* A. L. Viloria and J. A. Camacho. “Three new pronophilinebutterflies from the Serran\'\ia del Turimiquire, eastern Venezuela,and type designation for Corades enyo enyo Hewitson (Lepidoptera:Nymphalidae, Satyrinae)”. In: ''Fragmenta Entomologica'' 31.1 (1999), pp.173-188.
+ {{Ficha de taxón
+  | name = Corades
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Corades''
+}}
+
+Género de mariposas de la familia Nymphalidae con 19 especies a nivel global y 658 especies en Venezuela.
+
+=== Especies === 
+---- 
+* ''[[Corades chelonis]]'' Hewitson, 1863
+* ''[[Corades chirone]]'' Hewitson, 1863
+* ''[[Corades cistene]]'' Hewitson, 1863
+* ''[[Corades cybele]]'' Butler, 1866
+* ''[[Corades dymantis]]'' Thieme, 1907
+* ''[[Corades enyo]]'' Hewitson, [1849]
+* ''[[Corades medeba]]'' Hewitson, 1850
+* ''[[Corades pannonia]]'' Hewitson, 1850
+* ''[[Corades pax]]'' Watkins, 1939
+---- 
+=== Referencias ===
+* Ferrer-Paris, José R.; Paul Rodríguez, Jon; Y. Sánchez-Mercado, Ada; A. Rodríguez, Gustavo (2014): Informe de resultados de muestreos de NeoMapas a nivel nacional 2001 a 2010. figshare. doi:[https://dx.doi.org/10.6084/m9.figshare.1094280 10.6084/m9.figshare.1094280]. 
+* J. R. Álvarez Sierra and J. R. Álvarez Corral. ''Mariposas diurnasde Venezuela. Introducción a su conocimiento''. Caracas: Editorial Arte,1984.
+* B. D'Abrera. ''Butterflies of the Neotropical Region. Part VNymphalidae (Conc.) \& Satyridae''. Victoria. Australia: Hill HousePublishers, 1988, p. 877.
+* A. M. Orellana B. “Mariposas de los páramos de la Sierra Nevada ySierra de La Culata (Cordillera de Mérida, Venezuela)”. In: ''Memoriasdel IV Simposio Internacional de Desarrollo Sustentable de Los Andes,la estrategia andina para el siglo XXI''. Ed. by R. Andresse and M.Monasterio. ICAE - ULA, 2004, pp. 57-71.
+* T. W. Pyrcz and Á. L. Viloria. “Erebiine and pronophilinebutterflies of the Serran\'\ia del Tam\'a, Venezuela-Colombia border(Lepidoptera: Nymphalidae: Satyrinae)”. In: ''Tropical Lepidoptera''15.1-2 (2007), pp. 18-52.
+* T. Raymond. ''Mariposas de Venezuela''. Ediciones Corpoven, 1982.
+* A. L. Viloria. “Estado actual del conocimiento taxonómico de lasmariposas (Lepidoptera: Rhopalocera) de Venezuela”. In: ''PrIBES 2000''.Ed. by F. M. Piera, J. Morrone and A. Melic. Vol. 1. 2000. Chap. Estadoactual del conocimiento taxon\'omico de las mariposas(Lepidoptera:Rhopalocera) de Venezuela, pp. 261-274.
+* A. L. Viloria. “Taxonom\'\ia y distribuci\'on de los Satyridae(Lepidoptera: Rhopalocera) en la Sierra de Perij\'a, fronteracolombo-venezolana”. MA Thesis. xxxviii + 296 pp.. La Universidad delZulia, 1990.
+* A. L. Viloria and J. A. Camacho. “Three new pronophilinebutterflies from the Serran\'\ia del Turimiquire, eastern Venezuela,and type designation for Corades enyo enyo Hewitson (Lepidoptera:Nymphalidae, Satyrinae)”. In: ''Fragmenta Entomologica'' 31.1 (1999), pp.173-188.
+ {{Ficha de taxón
+  | name = Corades
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Corades''
+}}
+
+Género de mariposas de la familia Nymphalidae con 19 especies a nivel global y 658 especies en Venezuela.
+
+=== Especies === 
+---- 
+* ''[[Corades chelonis]]'' Hewitson, 1863
+* ''[[Corades chirone]]'' Hewitson, 1863
+* ''[[Corades cistene]]'' Hewitson, 1863
+* ''[[Corades cybele]]'' Butler, 1866
+* ''[[Corades dymantis]]'' Thieme, 1907
+* ''[[Corades enyo]]'' Hewitson, [1849]
+* ''[[Corades medeba]]'' Hewitson, 1850
+* ''[[Corades pannonia]]'' Hewitson, 1850
+* ''[[Corades pax]]'' Watkins, 1939
+---- 
+=== Referencias ===
+* Ferrer-Paris, José R.; Paul Rodríguez, Jon; Y. Sánchez-Mercado, Ada; A. Rodríguez, Gustavo (2014): Informe de resultados de muestreos de NeoMapas a nivel nacional 2001 a 2010. figshare. doi:[https://dx.doi.org/10.6084/m9.figshare.1094280 10.6084/m9.figshare.1094280]. 
+* J. R. Álvarez Sierra and J. R. Álvarez Corral. ''Mariposas diurnasde Venezuela. Introducción a su conocimiento''. Caracas: Editorial Arte,1984.
+* B. D'Abrera. ''Butterflies of the Neotropical Region. Part VNymphalidae (Conc.) \& Satyridae''. Victoria. Australia: Hill HousePublishers, 1988, p. 877.
+* A. M. Orellana B. “Mariposas de los páramos de la Sierra Nevada ySierra de La Culata (Cordillera de Mérida, Venezuela)”. In: ''Memoriasdel IV Simposio Internacional de Desarrollo Sustentable de Los Andes,la estrategia andina para el siglo XXI''. Ed. by R. Andresse and M.Monasterio. ICAE - ULA, 2004, pp. 57-71.
+* T. W. Pyrcz and Á. L. Viloria. “Erebiine and pronophilinebutterflies of the Serran\'\ia del Tam\'a, Venezuela-Colombia border(Lepidoptera: Nymphalidae: Satyrinae)”. In: ''Tropical Lepidoptera''15.1-2 (2007), pp. 18-52.
+* T. Raymond. ''Mariposas de Venezuela''. Ediciones Corpoven, 1982.
+* A. L. Viloria. “Estado actual del conocimiento taxonómico de lasmariposas (Lepidoptera: Rhopalocera) de Venezuela”. In: ''PrIBES 2000''.Ed. by F. M. Piera, J. Morrone and A. Melic. Vol. 1. 2000. Chap. Estadoactual del conocimiento taxon\'omico de las mariposas(Lepidoptera:Rhopalocera) de Venezuela, pp. 261-274.
+* A. L. Viloria. “Taxonom\'\ia y distribuci\'on de los Satyridae(Lepidoptera: Rhopalocera) en la Sierra de Perij\'a, fronteracolombo-venezolana”. MA Thesis. xxxviii + 296 pp.. La Universidad delZulia, 1990.
+* A. L. Viloria and J. A. Camacho. “Three new pronophilinebutterflies from the Serran\'\ia del Turimiquire, eastern Venezuela,and type designation for Corades enyo enyo Hewitson (Lepidoptera:Nymphalidae, Satyrinae)”. In: ''Fragmenta Entomologica'' 31.1 (1999), pp.173-188.
+ {{Ficha de taxón
+  | name = Corades
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Corades''
+}}
+
+Género de mariposas de la familia Nymphalidae con 19 especies a nivel global y 658 especies en Venezuela.
+
+=== Especies === 
+---- 
+* ''[[Corades chelonis]]'' Hewitson, 1863
+* ''[[Corades chirone]]'' Hewitson, 1863
+* ''[[Corades cistene]]'' Hewitson, 1863
+* ''[[Corades cybele]]'' Butler, 1866
+* ''[[Corades dymantis]]'' Thieme, 1907
+* ''[[Corades enyo]]'' Hewitson, [1849]
+* ''[[Corades medeba]]'' Hewitson, 1850
+* ''[[Corades pannonia]]'' Hewitson, 1850
+* ''[[Corades pax]]'' Watkins, 1939
+---- 
+=== Referencias ===
+* Ferrer-Paris, José R.; Paul Rodríguez, Jon; Y. Sánchez-Mercado, Ada; A. Rodríguez, Gustavo (2014): Informe de resultados de muestreos de NeoMapas a nivel nacional 2001 a 2010. figshare. doi:[https://dx.doi.org/10.6084/m9.figshare.1094280 10.6084/m9.figshare.1094280]. 
+* J. R. Álvarez Sierra and J. R. Álvarez Corral. ''Mariposas diurnasde Venezuela. Introducción a su conocimiento''. Caracas: Editorial Arte,1984.
+* B. D'Abrera. ''Butterflies of the Neotropical Region. Part VNymphalidae (Conc.) \& Satyridae''. Victoria. Australia: Hill HousePublishers, 1988, p. 877.
+* A. M. Orellana B. “Mariposas de los páramos de la Sierra Nevada ySierra de La Culata (Cordillera de Mérida, Venezuela)”. In: ''Memoriasdel IV Simposio Internacional de Desarrollo Sustentable de Los Andes,la estrategia andina para el siglo XXI''. Ed. by R. Andresse and M.Monasterio. ICAE - ULA, 2004, pp. 57-71.
+* T. W. Pyrcz and Á. L. Viloria. “Erebiine and pronophilinebutterflies of the Serran\'\ia del Tam\'a, Venezuela-Colombia border(Lepidoptera: Nymphalidae: Satyrinae)”. In: ''Tropical Lepidoptera''15.1-2 (2007), pp. 18-52.
+* T. Raymond. ''Mariposas de Venezuela''. Ediciones Corpoven, 1982.
+* A. L. Viloria. “Estado actual del conocimiento taxonómico de lasmariposas (Lepidoptera: Rhopalocera) de Venezuela”. In: ''PrIBES 2000''.Ed. by F. M. Piera, J. Morrone and A. Melic. Vol. 1. 2000. Chap. Estadoactual del conocimiento taxon\'omico de las mariposas(Lepidoptera:Rhopalocera) de Venezuela, pp. 261-274.
+* A. L. Viloria. “Taxonom\'\ia y distribuci\'on de los Satyridae(Lepidoptera: Rhopalocera) en la Sierra de Perij\'a, fronteracolombo-venezolana”. MA Thesis. xxxviii + 296 pp.. La Universidad delZulia, 1990.
+* A. L. Viloria and J. A. Camacho. “Three new pronophilinebutterflies from the Serran\'\ia del Turimiquire, eastern Venezuela,and type designation for Corades enyo enyo Hewitson (Lepidoptera:Nymphalidae, Satyrinae)”. In: ''Fragmenta Entomologica'' 31.1 (1999), pp.173-188.
+ {{Ficha de taxón
+  | name = Corades
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Corades''
+}}
+
+Género de mariposas de la familia Nymphalidae con 19 especies a nivel global y 658 especies en Venezuela.
+
+=== Especies === 
+---- 
+* ''[[Corades chelonis]]'' Hewitson, 1863
+* ''[[Corades chirone]]'' Hewitson, 1863
+* ''[[Corades cistene]]'' Hewitson, 1863
+* ''[[Corades cybele]]'' Butler, 1866
+* ''[[Corades dymantis]]'' Thieme, 1907
+* ''[[Corades enyo]]'' Hewitson, [1849]
+* ''[[Corades medeba]]'' Hewitson, 1850
+* ''[[Corades pannonia]]'' Hewitson, 1850
+* ''[[Corades pax]]'' Watkins, 1939
+---- 
+=== Referencias ===
+* Ferrer-Paris, José R.; Paul Rodríguez, Jon; Y. Sánchez-Mercado, Ada; A. Rodríguez, Gustavo (2014): Informe de resultados de muestreos de NeoMapas a nivel nacional 2001 a 2010. figshare. doi:[https://dx.doi.org/10.6084/m9.figshare.1094280 10.6084/m9.figshare.1094280]. 
+* J. R. Álvarez Sierra and J. R. Álvarez Corral. ''Mariposas diurnasde Venezuela. Introducción a su conocimiento''. Caracas: Editorial Arte,1984.
+* B. D'Abrera. ''Butterflies of the Neotropical Region. Part VNymphalidae (Conc.) \& Satyridae''. Victoria. Australia: Hill HousePublishers, 1988, p. 877.
+* A. M. Orellana B. “Mariposas de los páramos de la Sierra Nevada ySierra de La Culata (Cordillera de Mérida, Venezuela)”. In: ''Memoriasdel IV Simposio Internacional de Desarrollo Sustentable de Los Andes,la estrategia andina para el siglo XXI''. Ed. by R. Andresse and M.Monasterio. ICAE - ULA, 2004, pp. 57-71.
+* T. W. Pyrcz and Á. L. Viloria. “Erebiine and pronophilinebutterflies of the Serran\'\ia del Tam\'a, Venezuela-Colombia border(Lepidoptera: Nymphalidae: Satyrinae)”. In: ''Tropical Lepidoptera''15.1-2 (2007), pp. 18-52.
+* T. Raymond. ''Mariposas de Venezuela''. Ediciones Corpoven, 1982.
+* A. L. Viloria. “Estado actual del conocimiento taxonómico de lasmariposas (Lepidoptera: Rhopalocera) de Venezuela”. In: ''PrIBES 2000''.Ed. by F. M. Piera, J. Morrone and A. Melic. Vol. 1. 2000. Chap. Estadoactual del conocimiento taxon\'omico de las mariposas(Lepidoptera:Rhopalocera) de Venezuela, pp. 261-274.
+* A. L. Viloria. “Taxonom\'\ia y distribuci\'on de los Satyridae(Lepidoptera: Rhopalocera) en la Sierra de Perij\'a, fronteracolombo-venezolana”. MA Thesis. xxxviii + 296 pp.. La Universidad delZulia, 1990.
+* A. L. Viloria and J. A. Camacho. “Three new pronophilinebutterflies from the Serran\'\ia del Turimiquire, eastern Venezuela,and type designation for Corades enyo enyo Hewitson (Lepidoptera:Nymphalidae, Satyrinae)”. In: ''Fragmenta Entomologica'' 31.1 (1999), pp.173-188.
+ {{Ficha de taxón
+  | name = Corades
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Corades''
+}}
+
+Género de mariposas de la familia Nymphalidae con 19 especies a nivel global y 658 especies en Venezuela.
+
+=== Especies === 
+---- 
+* ''[[Corades chelonis]]'' Hewitson, 1863
+* ''[[Corades chirone]]'' Hewitson, 1863
+* ''[[Corades cistene]]'' Hewitson, 1863
+* ''[[Corades cybele]]'' Butler, 1866
+* ''[[Corades dymantis]]'' Thieme, 1907
+* ''[[Corades enyo]]'' Hewitson, [1849]
+* ''[[Corades medeba]]'' Hewitson, 1850
+* ''[[Corades pannonia]]'' Hewitson, 1850
+* ''[[Corades pax]]'' Watkins, 1939
+---- 
+=== Referencias ===
+* Ferrer-Paris, José R.; Paul Rodríguez, Jon; Y. Sánchez-Mercado, Ada; A. Rodríguez, Gustavo (2014): Informe de resultados de muestreos de NeoMapas a nivel nacional 2001 a 2010. figshare. doi:[https://dx.doi.org/10.6084/m9.figshare.1094280 10.6084/m9.figshare.1094280]. 
+* J. R. Álvarez Sierra and J. R. Álvarez Corral. ''Mariposas diurnasde Venezuela. Introducción a su conocimiento''. Caracas: Editorial Arte,1984.
+* B. D'Abrera. ''Butterflies of the Neotropical Region. Part VNymphalidae (Conc.) \& Satyridae''. Victoria. Australia: Hill HousePublishers, 1988, p. 877.
+* A. M. Orellana B. “Mariposas de los páramos de la Sierra Nevada ySierra de La Culata (Cordillera de Mérida, Venezuela)”. In: ''Memoriasdel IV Simposio Internacional de Desarrollo Sustentable de Los Andes,la estrategia andina para el siglo XXI''. Ed. by R. Andresse and M.Monasterio. ICAE - ULA, 2004, pp. 57-71.
+* T. W. Pyrcz and Á. L. Viloria. “Erebiine and pronophilinebutterflies of the Serran\'\ia del Tam\'a, Venezuela-Colombia border(Lepidoptera: Nymphalidae: Satyrinae)”. In: ''Tropical Lepidoptera''15.1-2 (2007), pp. 18-52.
+* T. Raymond. ''Mariposas de Venezuela''. Ediciones Corpoven, 1982.
+* A. L. Viloria. “Estado actual del conocimiento taxonómico de lasmariposas (Lepidoptera: Rhopalocera) de Venezuela”. In: ''PrIBES 2000''.Ed. by F. M. Piera, J. Morrone and A. Melic. Vol. 1. 2000. Chap. Estadoactual del conocimiento taxon\'omico de las mariposas(Lepidoptera:Rhopalocera) de Venezuela, pp. 261-274.
+* A. L. Viloria. “Taxonom\'\ia y distribuci\'on de los Satyridae(Lepidoptera: Rhopalocera) en la Sierra de Perij\'a, fronteracolombo-venezolana”. MA Thesis. xxxviii + 296 pp.. La Universidad delZulia, 1990.
+* A. L. Viloria and J. A. Camacho. “Three new pronophilinebutterflies from the Serran\'\ia del Turimiquire, eastern Venezuela,and type designation for Corades enyo enyo Hewitson (Lepidoptera:Nymphalidae, Satyrinae)”. In: ''Fragmenta Entomologica'' 31.1 (1999), pp.173-188.
+ {{Ficha de taxón
+  | name = Corades
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Corades''
+}}
+
+Género de mariposas de la familia Nymphalidae con 19 especies a nivel global y 658 especies en Venezuela.
+
+=== Especies === 
+---- 
+* ''[[Corades chelonis]]'' Hewitson, 1863
+* ''[[Corades chirone]]'' Hewitson, 1863
+* ''[[Corades cistene]]'' Hewitson, 1863
+* ''[[Corades cybele]]'' Butler, 1866
+* ''[[Corades dymantis]]'' Thieme, 1907
+* ''[[Corades enyo]]'' Hewitson, [1849]
+* ''[[Corades medeba]]'' Hewitson, 1850
+* ''[[Corades pannonia]]'' Hewitson, 1850
+* ''[[Corades pax]]'' Watkins, 1939
+---- 
+=== Referencias ===
+* Ferrer-Paris, José R.; Paul Rodríguez, Jon; Y. Sánchez-Mercado, Ada; A. Rodríguez, Gustavo (2014): Informe de resultados de muestreos de NeoMapas a nivel nacional 2001 a 2010. figshare. doi:[https://dx.doi.org/10.6084/m9.figshare.1094280 10.6084/m9.figshare.1094280]. 
+* J. R. Álvarez Sierra and J. R. Álvarez Corral. ''Mariposas diurnasde Venezuela. Introducción a su conocimiento''. Caracas: Editorial Arte,1984.
+* B. D'Abrera. ''Butterflies of the Neotropical Region. Part VNymphalidae (Conc.) \& Satyridae''. Victoria. Australia: Hill HousePublishers, 1988, p. 877.
+* A. M. Orellana B. “Mariposas de los páramos de la Sierra Nevada ySierra de La Culata (Cordillera de Mérida, Venezuela)”. In: ''Memoriasdel IV Simposio Internacional de Desarrollo Sustentable de Los Andes,la estrategia andina para el siglo XXI''. Ed. by R. Andresse and M.Monasterio. ICAE - ULA, 2004, pp. 57-71.
+* T. W. Pyrcz and Á. L. Viloria. “Erebiine and pronophilinebutterflies of the Serran\'\ia del Tam\'a, Venezuela-Colombia border(Lepidoptera: Nymphalidae: Satyrinae)”. In: ''Tropical Lepidoptera''15.1-2 (2007), pp. 18-52.
+* T. Raymond. ''Mariposas de Venezuela''. Ediciones Corpoven, 1982.
+* A. L. Viloria. “Estado actual del conocimiento taxonómico de lasmariposas (Lepidoptera: Rhopalocera) de Venezuela”. In: ''PrIBES 2000''.Ed. by F. M. Piera, J. Morrone and A. Melic. Vol. 1. 2000. Chap. Estadoactual del conocimiento taxon\'omico de las mariposas(Lepidoptera:Rhopalocera) de Venezuela, pp. 261-274.
+* A. L. Viloria. “Taxonom\'\ia y distribuci\'on de los Satyridae(Lepidoptera: Rhopalocera) en la Sierra de Perij\'a, fronteracolombo-venezolana”. MA Thesis. xxxviii + 296 pp.. La Universidad delZulia, 1990.
+* A. L. Viloria and J. A. Camacho. “Three new pronophilinebutterflies from the Serran\'\ia del Turimiquire, eastern Venezuela,and type designation for Corades enyo enyo Hewitson (Lepidoptera:Nymphalidae, Satyrinae)”. In: ''Fragmenta Entomologica'' 31.1 (1999), pp.173-188.
+ {{Ficha de taxón
+  | name = Corades
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Corades''
+}}
+
+Género de mariposas de la familia Nymphalidae con 19 especies a nivel global y 658 especies en Venezuela.
+
+=== Especies === 
+---- 
+* ''[[Corades chelonis]]'' Hewitson, 1863
+* ''[[Corades chirone]]'' Hewitson, 1863
+* ''[[Corades cistene]]'' Hewitson, 1863
+* ''[[Corades cybele]]'' Butler, 1866
+* ''[[Corades dymantis]]'' Thieme, 1907
+* ''[[Corades enyo]]'' Hewitson, [1849]
+* ''[[Corades medeba]]'' Hewitson, 1850
+* ''[[Corades pannonia]]'' Hewitson, 1850
+* ''[[Corades pax]]'' Watkins, 1939
+---- 
+=== Referencias ===
+* Ferrer-Paris, José R.; Paul Rodríguez, Jon; Y. Sánchez-Mercado, Ada; A. Rodríguez, Gustavo (2014): Informe de resultados de muestreos de NeoMapas a nivel nacional 2001 a 2010. figshare. doi:[https://dx.doi.org/10.6084/m9.figshare.1094280 10.6084/m9.figshare.1094280]. 
+* J. R. Álvarez Sierra and J. R. Álvarez Corral. ''Mariposas diurnasde Venezuela. Introducción a su conocimiento''. Caracas: Editorial Arte,1984.
+* B. D'Abrera. ''Butterflies of the Neotropical Region. Part VNymphalidae (Conc.) \& Satyridae''. Victoria. Australia: Hill HousePublishers, 1988, p. 877.
+* A. M. Orellana B. “Mariposas de los páramos de la Sierra Nevada ySierra de La Culata (Cordillera de Mérida, Venezuela)”. In: ''Memoriasdel IV Simposio Internacional de Desarrollo Sustentable de Los Andes,la estrategia andina para el siglo XXI''. Ed. by R. Andresse and M.Monasterio. ICAE - ULA, 2004, pp. 57-71.
+* T. W. Pyrcz and Á. L. Viloria. “Erebiine and pronophilinebutterflies of the Serran\'\ia del Tam\'a, Venezuela-Colombia border(Lepidoptera: Nymphalidae: Satyrinae)”. In: ''Tropical Lepidoptera''15.1-2 (2007), pp. 18-52.
+* T. Raymond. ''Mariposas de Venezuela''. Ediciones Corpoven, 1982.
+* A. L. Viloria. “Estado actual del conocimiento taxonómico de lasmariposas (Lepidoptera: Rhopalocera) de Venezuela”. In: ''PrIBES 2000''.Ed. by F. M. Piera, J. Morrone and A. Melic. Vol. 1. 2000. Chap. Estadoactual del conocimiento taxon\'omico de las mariposas(Lepidoptera:Rhopalocera) de Venezuela, pp. 261-274.
+* A. L. Viloria. “Taxonom\'\ia y distribuci\'on de los Satyridae(Lepidoptera: Rhopalocera) en la Sierra de Perij\'a, fronteracolombo-venezolana”. MA Thesis. xxxviii + 296 pp.. La Universidad delZulia, 1990.
+* A. L. Viloria and J. A. Camacho. “Three new pronophilinebutterflies from the Serran\'\ia del Turimiquire, eastern Venezuela,and type designation for Corades enyo enyo Hewitson (Lepidoptera:Nymphalidae, Satyrinae)”. In: ''Fragmenta Entomologica'' 31.1 (1999), pp.173-188.
+ {{Ficha de taxón
+  | name = Corades
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Corades''
+}}
+
+Género de mariposas de la familia Nymphalidae con 19 especies a nivel global y 658 especies en Venezuela.
+
+=== Especies === 
+---- 
+* ''[[Corades chelonis]]'' Hewitson, 1863
+* ''[[Corades chirone]]'' Hewitson, 1863
+* ''[[Corades cistene]]'' Hewitson, 1863
+* ''[[Corades cybele]]'' Butler, 1866
+* ''[[Corades dymantis]]'' Thieme, 1907
+* ''[[Corades enyo]]'' Hewitson, [1849]
+* ''[[Corades medeba]]'' Hewitson, 1850
+* ''[[Corades pannonia]]'' Hewitson, 1850
+* ''[[Corades pax]]'' Watkins, 1939
+---- 
+=== Referencias ===
+* Ferrer-Paris, José R.; Paul Rodríguez, Jon; Y. Sánchez-Mercado, Ada; A. Rodríguez, Gustavo (2014): Informe de resultados de muestreos de NeoMapas a nivel nacional 2001 a 2010. figshare. doi:[https://dx.doi.org/10.6084/m9.figshare.1094280 10.6084/m9.figshare.1094280]. 
+* J. R. Álvarez Sierra and J. R. Álvarez Corral. ''Mariposas diurnasde Venezuela. Introducción a su conocimiento''. Caracas: Editorial Arte,1984.
+* B. D'Abrera. ''Butterflies of the Neotropical Region. Part VNymphalidae (Conc.) \& Satyridae''. Victoria. Australia: Hill HousePublishers, 1988, p. 877.
+* A. M. Orellana B. “Mariposas de los páramos de la Sierra Nevada ySierra de La Culata (Cordillera de Mérida, Venezuela)”. In: ''Memoriasdel IV Simposio Internacional de Desarrollo Sustentable de Los Andes,la estrategia andina para el siglo XXI''. Ed. by R. Andresse and M.Monasterio. ICAE - ULA, 2004, pp. 57-71.
+* T. W. Pyrcz and Á. L. Viloria. “Erebiine and pronophilinebutterflies of the Serran\'\ia del Tam\'a, Venezuela-Colombia border(Lepidoptera: Nymphalidae: Satyrinae)”. In: ''Tropical Lepidoptera''15.1-2 (2007), pp. 18-52.
+* T. Raymond. ''Mariposas de Venezuela''. Ediciones Corpoven, 1982.
+* A. L. Viloria. “Estado actual del conocimiento taxonómico de lasmariposas (Lepidoptera: Rhopalocera) de Venezuela”. In: ''PrIBES 2000''.Ed. by F. M. Piera, J. Morrone and A. Melic. Vol. 1. 2000. Chap. Estadoactual del conocimiento taxon\'omico de las mariposas(Lepidoptera:Rhopalocera) de Venezuela, pp. 261-274.
+* A. L. Viloria. “Taxonom\'\ia y distribuci\'on de los Satyridae(Lepidoptera: Rhopalocera) en la Sierra de Perij\'a, fronteracolombo-venezolana”. MA Thesis. xxxviii + 296 pp.. La Universidad delZulia, 1990.
+* A. L. Viloria and J. A. Camacho. “Three new pronophilinebutterflies from the Serran\'\ia del Turimiquire, eastern Venezuela,and type designation for Corades enyo enyo Hewitson (Lepidoptera:Nymphalidae, Satyrinae)”. In: ''Fragmenta Entomologica'' 31.1 (1999), pp.173-188.
+ {{Ficha de taxón
+  | name = Corades
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Corades''
+}}
+
+Género de mariposas de la familia Nymphalidae con 19 especies a nivel global y 658 especies en Venezuela.
+
+=== Especies === 
+---- 
+* ''[[Corades chelonis]]'' Hewitson, 1863
+* ''[[Corades chirone]]'' Hewitson, 1863
+* ''[[Corades cistene]]'' Hewitson, 1863
+* ''[[Corades cybele]]'' Butler, 1866
+* ''[[Corades dymantis]]'' Thieme, 1907
+* ''[[Corades enyo]]'' Hewitson, [1849]
+* ''[[Corades medeba]]'' Hewitson, 1850
+* ''[[Corades pannonia]]'' Hewitson, 1850
+* ''[[Corades pax]]'' Watkins, 1939
+---- 
+=== Referencias ===
+* Ferrer-Paris, José R.; Paul Rodríguez, Jon; Y. Sánchez-Mercado, Ada; A. Rodríguez, Gustavo (2014): Informe de resultados de muestreos de NeoMapas a nivel nacional 2001 a 2010. figshare. doi:[https://dx.doi.org/10.6084/m9.figshare.1094280 10.6084/m9.figshare.1094280]. 
+* J. R. Álvarez Sierra and J. R. Álvarez Corral. ''Mariposas diurnasde Venezuela. Introducción a su conocimiento''. Caracas: Editorial Arte,1984.
+* B. D'Abrera. ''Butterflies of the Neotropical Region. Part VNymphalidae (Conc.) \& Satyridae''. Victoria. Australia: Hill HousePublishers, 1988, p. 877.
+* A. M. Orellana B. “Mariposas de los páramos de la Sierra Nevada ySierra de La Culata (Cordillera de Mérida, Venezuela)”. In: ''Memoriasdel IV Simposio Internacional de Desarrollo Sustentable de Los Andes,la estrategia andina para el siglo XXI''. Ed. by R. Andresse and M.Monasterio. ICAE - ULA, 2004, pp. 57-71.
+* T. W. Pyrcz and Á. L. Viloria. “Erebiine and pronophilinebutterflies of the Serran\'\ia del Tam\'a, Venezuela-Colombia border(Lepidoptera: Nymphalidae: Satyrinae)”. In: ''Tropical Lepidoptera''15.1-2 (2007), pp. 18-52.
+* T. Raymond. ''Mariposas de Venezuela''. Ediciones Corpoven, 1982.
+* A. L. Viloria. “Estado actual del conocimiento taxonómico de lasmariposas (Lepidoptera: Rhopalocera) de Venezuela”. In: ''PrIBES 2000''.Ed. by F. M. Piera, J. Morrone and A. Melic. Vol. 1. 2000. Chap. Estadoactual del conocimiento taxon\'omico de las mariposas(Lepidoptera:Rhopalocera) de Venezuela, pp. 261-274.
+* A. L. Viloria. “Taxonom\'\ia y distribuci\'on de los Satyridae(Lepidoptera: Rhopalocera) en la Sierra de Perij\'a, fronteracolombo-venezolana”. MA Thesis. xxxviii + 296 pp.. La Universidad delZulia, 1990.
+* A. L. Viloria and J. A. Camacho. “Three new pronophilinebutterflies from the Serran\'\ia del Turimiquire, eastern Venezuela,and type designation for Corades enyo enyo Hewitson (Lepidoptera:Nymphalidae, Satyrinae)”. In: ''Fragmenta Entomologica'' 31.1 (1999), pp.173-188.
+ {{Ficha de taxón
+  | name = Corades
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Corades''
+}}
+
+Género de mariposas de la familia Nymphalidae con 19 especies a nivel global y 658 especies en Venezuela.
+
+=== Especies === 
+---- 
+* ''[[Corades chelonis]]'' Hewitson, 1863
+* ''[[Corades chirone]]'' Hewitson, 1863
+* ''[[Corades cistene]]'' Hewitson, 1863
+* ''[[Corades cybele]]'' Butler, 1866
+* ''[[Corades dymantis]]'' Thieme, 1907
+* ''[[Corades enyo]]'' Hewitson, [1849]
+* ''[[Corades medeba]]'' Hewitson, 1850
+* ''[[Corades pannonia]]'' Hewitson, 1850
+* ''[[Corades pax]]'' Watkins, 1939
+---- 
+=== Referencias ===
+* Ferrer-Paris, José R.; Paul Rodríguez, Jon; Y. Sánchez-Mercado, Ada; A. Rodríguez, Gustavo (2014): Informe de resultados de muestreos de NeoMapas a nivel nacional 2001 a 2010. figshare. doi:[https://dx.doi.org/10.6084/m9.figshare.1094280 10.6084/m9.figshare.1094280]. 
+* J. R. Álvarez Sierra and J. R. Álvarez Corral. ''Mariposas diurnasde Venezuela. Introducción a su conocimiento''. Caracas: Editorial Arte,1984.
+* B. D'Abrera. ''Butterflies of the Neotropical Region. Part VNymphalidae (Conc.) \& Satyridae''. Victoria. Australia: Hill HousePublishers, 1988, p. 877.
+* A. M. Orellana B. “Mariposas de los páramos de la Sierra Nevada ySierra de La Culata (Cordillera de Mérida, Venezuela)”. In: ''Memoriasdel IV Simposio Internacional de Desarrollo Sustentable de Los Andes,la estrategia andina para el siglo XXI''. Ed. by R. Andresse and M.Monasterio. ICAE - ULA, 2004, pp. 57-71.
+* T. W. Pyrcz and Á. L. Viloria. “Erebiine and pronophilinebutterflies of the Serran\'\ia del Tam\'a, Venezuela-Colombia border(Lepidoptera: Nymphalidae: Satyrinae)”. In: ''Tropical Lepidoptera''15.1-2 (2007), pp. 18-52.
+* T. Raymond. ''Mariposas de Venezuela''. Ediciones Corpoven, 1982.
+* A. L. Viloria. “Estado actual del conocimiento taxonómico de lasmariposas (Lepidoptera: Rhopalocera) de Venezuela”. In: ''PrIBES 2000''.Ed. by F. M. Piera, J. Morrone and A. Melic. Vol. 1. 2000. Chap. Estadoactual del conocimiento taxon\'omico de las mariposas(Lepidoptera:Rhopalocera) de Venezuela, pp. 261-274.
+* A. L. Viloria. “Taxonom\'\ia y distribuci\'on de los Satyridae(Lepidoptera: Rhopalocera) en la Sierra de Perij\'a, fronteracolombo-venezolana”. MA Thesis. xxxviii + 296 pp.. La Universidad delZulia, 1990.
+* A. L. Viloria and J. A. Camacho. “Three new pronophilinebutterflies from the Serran\'\ia del Turimiquire, eastern Venezuela,and type designation for Corades enyo enyo Hewitson (Lepidoptera:Nymphalidae, Satyrinae)”. In: ''Fragmenta Entomologica'' 31.1 (1999), pp.173-188.
+ {{Ficha de taxón
+  | name = Corades
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Corades''
+}}
+
+Género de mariposas de la familia Nymphalidae con 19 especies a nivel global y 658 especies en Venezuela.
+
+=== Especies === 
+---- 
+* ''[[Corades chelonis]]'' Hewitson, 1863
+* ''[[Corades chirone]]'' Hewitson, 1863
+* ''[[Corades cistene]]'' Hewitson, 1863
+* ''[[Corades cybele]]'' Butler, 1866
+* ''[[Corades dymantis]]'' Thieme, 1907
+* ''[[Corades enyo]]'' Hewitson, [1849]
+* ''[[Corades medeba]]'' Hewitson, 1850
+* ''[[Corades pannonia]]'' Hewitson, 1850
+* ''[[Corades pax]]'' Watkins, 1939
+---- 
+=== Referencias ===
+* Ferrer-Paris, José R.; Paul Rodríguez, Jon; Y. Sánchez-Mercado, Ada; A. Rodríguez, Gustavo (2014): Informe de resultados de muestreos de NeoMapas a nivel nacional 2001 a 2010. figshare. doi:[https://dx.doi.org/10.6084/m9.figshare.1094280 10.6084/m9.figshare.1094280]. 
+* J. R. Álvarez Sierra and J. R. Álvarez Corral. ''Mariposas diurnasde Venezuela. Introducción a su conocimiento''. Caracas: Editorial Arte,1984.
+* B. D'Abrera. ''Butterflies of the Neotropical Region. Part VNymphalidae (Conc.) \& Satyridae''. Victoria. Australia: Hill HousePublishers, 1988, p. 877.
+* A. M. Orellana B. “Mariposas de los páramos de la Sierra Nevada ySierra de La Culata (Cordillera de Mérida, Venezuela)”. In: ''Memoriasdel IV Simposio Internacional de Desarrollo Sustentable de Los Andes,la estrategia andina para el siglo XXI''. Ed. by R. Andresse and M.Monasterio. ICAE - ULA, 2004, pp. 57-71.
+* T. W. Pyrcz and Á. L. Viloria. “Erebiine and pronophilinebutterflies of the Serran\'\ia del Tam\'a, Venezuela-Colombia border(Lepidoptera: Nymphalidae: Satyrinae)”. In: ''Tropical Lepidoptera''15.1-2 (2007), pp. 18-52.
+* T. Raymond. ''Mariposas de Venezuela''. Ediciones Corpoven, 1982.
+* A. L. Viloria. “Estado actual del conocimiento taxonómico de lasmariposas (Lepidoptera: Rhopalocera) de Venezuela”. In: ''PrIBES 2000''.Ed. by F. M. Piera, J. Morrone and A. Melic. Vol. 1. 2000. Chap. Estadoactual del conocimiento taxon\'omico de las mariposas(Lepidoptera:Rhopalocera) de Venezuela, pp. 261-274.
+* A. L. Viloria. “Taxonom\'\ia y distribuci\'on de los Satyridae(Lepidoptera: Rhopalocera) en la Sierra de Perij\'a, fronteracolombo-venezolana”. MA Thesis. xxxviii + 296 pp.. La Universidad delZulia, 1990.
+* A. L. Viloria and J. A. Camacho. “Three new pronophilinebutterflies from the Serran\'\ia del Turimiquire, eastern Venezuela,and type designation for Corades enyo enyo Hewitson (Lepidoptera:Nymphalidae, Satyrinae)”. In: ''Fragmenta Entomologica'' 31.1 (1999), pp.173-188.
+ {{Ficha de taxón
+  | name = Corades
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Corades''
+}}
+
+Género de mariposas de la familia Nymphalidae con 19 especies a nivel global y 658 especies en Venezuela.
+
+=== Especies === 
+---- 
+* ''[[Corades chelonis]]'' Hewitson, 1863
+* ''[[Corades chirone]]'' Hewitson, 1863
+* ''[[Corades cistene]]'' Hewitson, 1863
+* ''[[Corades cybele]]'' Butler, 1866
+* ''[[Corades dymantis]]'' Thieme, 1907
+* ''[[Corades enyo]]'' Hewitson, [1849]
+* ''[[Corades medeba]]'' Hewitson, 1850
+* ''[[Corades pannonia]]'' Hewitson, 1850
+* ''[[Corades pax]]'' Watkins, 1939
+---- 
+=== Referencias ===
+* Ferrer-Paris, José R.; Paul Rodríguez, Jon; Y. Sánchez-Mercado, Ada; A. Rodríguez, Gustavo (2014): Informe de resultados de muestreos de NeoMapas a nivel nacional 2001 a 2010. figshare. doi:[https://dx.doi.org/10.6084/m9.figshare.1094280 10.6084/m9.figshare.1094280]. 
+* J. R. Álvarez Sierra and J. R. Álvarez Corral. ''Mariposas diurnasde Venezuela. Introducción a su conocimiento''. Caracas: Editorial Arte,1984.
+* B. D'Abrera. ''Butterflies of the Neotropical Region. Part VNymphalidae (Conc.) \& Satyridae''. Victoria. Australia: Hill HousePublishers, 1988, p. 877.
+* A. M. Orellana B. “Mariposas de los páramos de la Sierra Nevada ySierra de La Culata (Cordillera de Mérida, Venezuela)”. In: ''Memoriasdel IV Simposio Internacional de Desarrollo Sustentable de Los Andes,la estrategia andina para el siglo XXI''. Ed. by R. Andresse and M.Monasterio. ICAE - ULA, 2004, pp. 57-71.
+* T. W. Pyrcz and Á. L. Viloria. “Erebiine and pronophilinebutterflies of the Serran\'\ia del Tam\'a, Venezuela-Colombia border(Lepidoptera: Nymphalidae: Satyrinae)”. In: ''Tropical Lepidoptera''15.1-2 (2007), pp. 18-52.
+* T. Raymond. ''Mariposas de Venezuela''. Ediciones Corpoven, 1982.
+* A. L. Viloria. “Estado actual del conocimiento taxonómico de lasmariposas (Lepidoptera: Rhopalocera) de Venezuela”. In: ''PrIBES 2000''.Ed. by F. M. Piera, J. Morrone and A. Melic. Vol. 1. 2000. Chap. Estadoactual del conocimiento taxon\'omico de las mariposas(Lepidoptera:Rhopalocera) de Venezuela, pp. 261-274.
+* A. L. Viloria. “Taxonom\'\ia y distribuci\'on de los Satyridae(Lepidoptera: Rhopalocera) en la Sierra de Perij\'a, fronteracolombo-venezolana”. MA Thesis. xxxviii + 296 pp.. La Universidad delZulia, 1990.
+* A. L. Viloria and J. A. Camacho. “Three new pronophilinebutterflies from the Serran\'\ia del Turimiquire, eastern Venezuela,and type designation for Corades enyo enyo Hewitson (Lepidoptera:Nymphalidae, Satyrinae)”. In: ''Fragmenta Entomologica'' 31.1 (1999), pp.173-188.
+ {{Ficha de taxón
+  | name = Corades
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Corades''
+}}
+
+Género de mariposas de la familia Nymphalidae con 19 especies a nivel global y 658 especies en Venezuela.
+
+=== Especies === 
+---- 
+* ''[[Corades chelonis]]'' Hewitson, 1863
+* ''[[Corades chirone]]'' Hewitson, 1863
+* ''[[Corades cistene]]'' Hewitson, 1863
+* ''[[Corades cybele]]'' Butler, 1866
+* ''[[Corades dymantis]]'' Thieme, 1907
+* ''[[Corades enyo]]'' Hewitson, [1849]
+* ''[[Corades medeba]]'' Hewitson, 1850
+* ''[[Corades pannonia]]'' Hewitson, 1850
+* ''[[Corades pax]]'' Watkins, 1939
+---- 
+=== Referencias ===
+* Ferrer-Paris, José R.; Paul Rodríguez, Jon; Y. Sánchez-Mercado, Ada; A. Rodríguez, Gustavo (2014): Informe de resultados de muestreos de NeoMapas a nivel nacional 2001 a 2010. figshare. doi:[https://dx.doi.org/10.6084/m9.figshare.1094280 10.6084/m9.figshare.1094280]. 
+* J. R. Álvarez Sierra and J. R. Álvarez Corral. ''Mariposas diurnasde Venezuela. Introducción a su conocimiento''. Caracas: Editorial Arte,1984.
+* B. D'Abrera. ''Butterflies of the Neotropical Region. Part VNymphalidae (Conc.) \& Satyridae''. Victoria. Australia: Hill HousePublishers, 1988, p. 877.
+* A. M. Orellana B. “Mariposas de los páramos de la Sierra Nevada ySierra de La Culata (Cordillera de Mérida, Venezuela)”. In: ''Memoriasdel IV Simposio Internacional de Desarrollo Sustentable de Los Andes,la estrategia andina para el siglo XXI''. Ed. by R. Andresse and M.Monasterio. ICAE - ULA, 2004, pp. 57-71.
+* T. W. Pyrcz and Á. L. Viloria. “Erebiine and pronophilinebutterflies of the Serran\'\ia del Tam\'a, Venezuela-Colombia border(Lepidoptera: Nymphalidae: Satyrinae)”. In: ''Tropical Lepidoptera''15.1-2 (2007), pp. 18-52.
+* T. Raymond. ''Mariposas de Venezuela''. Ediciones Corpoven, 1982.
+* A. L. Viloria. “Estado actual del conocimiento taxonómico de lasmariposas (Lepidoptera: Rhopalocera) de Venezuela”. In: ''PrIBES 2000''.Ed. by F. M. Piera, J. Morrone and A. Melic. Vol. 1. 2000. Chap. Estadoactual del conocimiento taxon\'omico de las mariposas(Lepidoptera:Rhopalocera) de Venezuela, pp. 261-274.
+* A. L. Viloria. “Taxonom\'\ia y distribuci\'on de los Satyridae(Lepidoptera: Rhopalocera) en la Sierra de Perij\'a, fronteracolombo-venezolana”. MA Thesis. xxxviii + 296 pp.. La Universidad delZulia, 1990.
+* A. L. Viloria and J. A. Camacho. “Three new pronophilinebutterflies from the Serran\'\ia del Turimiquire, eastern Venezuela,and type designation for Corades enyo enyo Hewitson (Lepidoptera:Nymphalidae, Satyrinae)”. In: ''Fragmenta Entomologica'' 31.1 (1999), pp.173-188.
+ {{Ficha de taxón
+  | name = Corades
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Corades''
+}}
+
+Género de mariposas de la familia Nymphalidae con 19 especies a nivel global y 658 especies en Venezuela.
+
+=== Especies === 
+---- 
+* ''[[Corades chelonis]]'' Hewitson, 1863
+* ''[[Corades chirone]]'' Hewitson, 1863
+* ''[[Corades cistene]]'' Hewitson, 1863
+* ''[[Corades cybele]]'' Butler, 1866
+* ''[[Corades dymantis]]'' Thieme, 1907
+* ''[[Corades enyo]]'' Hewitson, [1849]
+* ''[[Corades medeba]]'' Hewitson, 1850
+* ''[[Corades pannonia]]'' Hewitson, 1850
+* ''[[Corades pax]]'' Watkins, 1939
+---- 
+=== Referencias ===
+* Ferrer-Paris, José R.; Paul Rodríguez, Jon; Y. Sánchez-Mercado, Ada; A. Rodríguez, Gustavo (2014): Informe de resultados de muestreos de NeoMapas a nivel nacional 2001 a 2010. figshare. doi:[https://dx.doi.org/10.6084/m9.figshare.1094280 10.6084/m9.figshare.1094280]. 
+* J. R. Álvarez Sierra and J. R. Álvarez Corral. ''Mariposas diurnasde Venezuela. Introducción a su conocimiento''. Caracas: Editorial Arte,1984.
+* B. D'Abrera. ''Butterflies of the Neotropical Region. Part VNymphalidae (Conc.) \& Satyridae''. Victoria. Australia: Hill HousePublishers, 1988, p. 877.
+* A. M. Orellana B. “Mariposas de los páramos de la Sierra Nevada ySierra de La Culata (Cordillera de Mérida, Venezuela)”. In: ''Memoriasdel IV Simposio Internacional de Desarrollo Sustentable de Los Andes,la estrategia andina para el siglo XXI''. Ed. by R. Andresse and M.Monasterio. ICAE - ULA, 2004, pp. 57-71.
+* T. W. Pyrcz and Á. L. Viloria. “Erebiine and pronophilinebutterflies of the Serran\'\ia del Tam\'a, Venezuela-Colombia border(Lepidoptera: Nymphalidae: Satyrinae)”. In: ''Tropical Lepidoptera''15.1-2 (2007), pp. 18-52.
+* T. Raymond. ''Mariposas de Venezuela''. Ediciones Corpoven, 1982.
+* A. L. Viloria. “Estado actual del conocimiento taxonómico de lasmariposas (Lepidoptera: Rhopalocera) de Venezuela”. In: ''PrIBES 2000''.Ed. by F. M. Piera, J. Morrone and A. Melic. Vol. 1. 2000. Chap. Estadoactual del conocimiento taxon\'omico de las mariposas(Lepidoptera:Rhopalocera) de Venezuela, pp. 261-274.
+* A. L. Viloria. “Taxonom\'\ia y distribuci\'on de los Satyridae(Lepidoptera: Rhopalocera) en la Sierra de Perij\'a, fronteracolombo-venezolana”. MA Thesis. xxxviii + 296 pp.. La Universidad delZulia, 1990.
+* A. L. Viloria and J. A. Camacho. “Three new pronophilinebutterflies from the Serran\'\ia del Turimiquire, eastern Venezuela,and type designation for Corades enyo enyo Hewitson (Lepidoptera:Nymphalidae, Satyrinae)”. In: ''Fragmenta Entomologica'' 31.1 (1999), pp.173-188.
+ {{Ficha de taxón
+  | name = Corades
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Corades''
+}}
+
+Género de mariposas de la familia Nymphalidae con 19 especies a nivel global y 658 especies en Venezuela.
+
+=== Especies === 
+---- 
+* ''[[Corades chelonis]]'' Hewitson, 1863
+* ''[[Corades chirone]]'' Hewitson, 1863
+* ''[[Corades cistene]]'' Hewitson, 1863
+* ''[[Corades cybele]]'' Butler, 1866
+* ''[[Corades dymantis]]'' Thieme, 1907
+* ''[[Corades enyo]]'' Hewitson, [1849]
+* ''[[Corades medeba]]'' Hewitson, 1850
+* ''[[Corades pannonia]]'' Hewitson, 1850
+* ''[[Corades pax]]'' Watkins, 1939
+---- 
+=== Referencias ===
+* Ferrer-Paris, José R.; Paul Rodríguez, Jon; Y. Sánchez-Mercado, Ada; A. Rodríguez, Gustavo (2014): Informe de resultados de muestreos de NeoMapas a nivel nacional 2001 a 2010. figshare. doi:[https://dx.doi.org/10.6084/m9.figshare.1094280 10.6084/m9.figshare.1094280]. 
+* J. R. Álvarez Sierra and J. R. Álvarez Corral. ''Mariposas diurnasde Venezuela. Introducción a su conocimiento''. Caracas: Editorial Arte,1984.
+* B. D'Abrera. ''Butterflies of the Neotropical Region. Part VNymphalidae (Conc.) \& Satyridae''. Victoria. Australia: Hill HousePublishers, 1988, p. 877.
+* A. M. Orellana B. “Mariposas de los páramos de la Sierra Nevada ySierra de La Culata (Cordillera de Mérida, Venezuela)”. In: ''Memoriasdel IV Simposio Internacional de Desarrollo Sustentable de Los Andes,la estrategia andina para el siglo XXI''. Ed. by R. Andresse and M.Monasterio. ICAE - ULA, 2004, pp. 57-71.
+* T. W. Pyrcz and Á. L. Viloria. “Erebiine and pronophilinebutterflies of the Serran\'\ia del Tam\'a, Venezuela-Colombia border(Lepidoptera: Nymphalidae: Satyrinae)”. In: ''Tropical Lepidoptera''15.1-2 (2007), pp. 18-52.
+* T. Raymond. ''Mariposas de Venezuela''. Ediciones Corpoven, 1982.
+* A. L. Viloria. “Estado actual del conocimiento taxonómico de lasmariposas (Lepidoptera: Rhopalocera) de Venezuela”. In: ''PrIBES 2000''.Ed. by F. M. Piera, J. Morrone and A. Melic. Vol. 1. 2000. Chap. Estadoactual del conocimiento taxon\'omico de las mariposas(Lepidoptera:Rhopalocera) de Venezuela, pp. 261-274.
+* A. L. Viloria. “Taxonom\'\ia y distribuci\'on de los Satyridae(Lepidoptera: Rhopalocera) en la Sierra de Perij\'a, fronteracolombo-venezolana”. MA Thesis. xxxviii + 296 pp.. La Universidad delZulia, 1990.
+* A. L. Viloria and J. A. Camacho. “Three new pronophilinebutterflies from the Serran\'\ia del Turimiquire, eastern Venezuela,and type designation for Corades enyo enyo Hewitson (Lepidoptera:Nymphalidae, Satyrinae)”. In: ''Fragmenta Entomologica'' 31.1 (1999), pp.173-188.
+ {{Ficha de taxón
+  | name = Corades
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Corades''
+}}
+
+Género de mariposas de la familia Nymphalidae con 19 especies a nivel global y 658 especies en Venezuela.
+
+=== Especies === 
+---- 
+* ''[[Corades chelonis]]'' Hewitson, 1863
+* ''[[Corades chirone]]'' Hewitson, 1863
+* ''[[Corades cistene]]'' Hewitson, 1863
+* ''[[Corades cybele]]'' Butler, 1866
+* ''[[Corades dymantis]]'' Thieme, 1907
+* ''[[Corades enyo]]'' Hewitson, [1849]
+* ''[[Corades medeba]]'' Hewitson, 1850
+* ''[[Corades pannonia]]'' Hewitson, 1850
+* ''[[Corades pax]]'' Watkins, 1939
+---- 
+=== Referencias ===
+* Ferrer-Paris, José R.; Paul Rodríguez, Jon; Y. Sánchez-Mercado, Ada; A. Rodríguez, Gustavo (2014): Informe de resultados de muestreos de NeoMapas a nivel nacional 2001 a 2010. figshare. doi:[https://dx.doi.org/10.6084/m9.figshare.1094280 10.6084/m9.figshare.1094280]. 
+* J. R. Álvarez Sierra and J. R. Álvarez Corral. ''Mariposas diurnasde Venezuela. Introducción a su conocimiento''. Caracas: Editorial Arte,1984.
+* B. D'Abrera. ''Butterflies of the Neotropical Region. Part VNymphalidae (Conc.) \& Satyridae''. Victoria. Australia: Hill HousePublishers, 1988, p. 877.
+* A. M. Orellana B. “Mariposas de los páramos de la Sierra Nevada ySierra de La Culata (Cordillera de Mérida, Venezuela)”. In: ''Memoriasdel IV Simposio Internacional de Desarrollo Sustentable de Los Andes,la estrategia andina para el siglo XXI''. Ed. by R. Andresse and M.Monasterio. ICAE - ULA, 2004, pp. 57-71.
+* T. W. Pyrcz and Á. L. Viloria. “Erebiine and pronophilinebutterflies of the Serran\'\ia del Tam\'a, Venezuela-Colombia border(Lepidoptera: Nymphalidae: Satyrinae)”. In: ''Tropical Lepidoptera''15.1-2 (2007), pp. 18-52.
+* T. Raymond. ''Mariposas de Venezuela''. Ediciones Corpoven, 1982.
+* A. L. Viloria. “Estado actual del conocimiento taxonómico de lasmariposas (Lepidoptera: Rhopalocera) de Venezuela”. In: ''PrIBES 2000''.Ed. by F. M. Piera, J. Morrone and A. Melic. Vol. 1. 2000. Chap. Estadoactual del conocimiento taxon\'omico de las mariposas(Lepidoptera:Rhopalocera) de Venezuela, pp. 261-274.
+* A. L. Viloria. “Taxonom\'\ia y distribuci\'on de los Satyridae(Lepidoptera: Rhopalocera) en la Sierra de Perij\'a, fronteracolombo-venezolana”. MA Thesis. xxxviii + 296 pp.. La Universidad delZulia, 1990.
+* A. L. Viloria and J. A. Camacho. “Three new pronophilinebutterflies from the Serran\'\ia del Turimiquire, eastern Venezuela,and type designation for Corades enyo enyo Hewitson (Lepidoptera:Nymphalidae, Satyrinae)”. In: ''Fragmenta Entomologica'' 31.1 (1999), pp.173-188.
+ {{Ficha de taxón
+  | name = Corades
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Corades''
+}}
+
+Género de mariposas de la familia Nymphalidae con 19 especies a nivel global y 658 especies en Venezuela.
+
+=== Especies === 
+---- 
+* ''[[Corades chelonis]]'' Hewitson, 1863
+* ''[[Corades chirone]]'' Hewitson, 1863
+* ''[[Corades cistene]]'' Hewitson, 1863
+* ''[[Corades cybele]]'' Butler, 1866
+* ''[[Corades dymantis]]'' Thieme, 1907
+* ''[[Corades enyo]]'' Hewitson, [1849]
+* ''[[Corades medeba]]'' Hewitson, 1850
+* ''[[Corades pannonia]]'' Hewitson, 1850
+* ''[[Corades pax]]'' Watkins, 1939
+---- 
+=== Referencias ===
+* Ferrer-Paris, José R.; Paul Rodríguez, Jon; Y. Sánchez-Mercado, Ada; A. Rodríguez, Gustavo (2014): Informe de resultados de muestreos de NeoMapas a nivel nacional 2001 a 2010. figshare. doi:[https://dx.doi.org/10.6084/m9.figshare.1094280 10.6084/m9.figshare.1094280]. 
+* J. R. Álvarez Sierra and J. R. Álvarez Corral. ''Mariposas diurnasde Venezuela. Introducción a su conocimiento''. Caracas: Editorial Arte,1984.
+* B. D'Abrera. ''Butterflies of the Neotropical Region. Part VNymphalidae (Conc.) \& Satyridae''. Victoria. Australia: Hill HousePublishers, 1988, p. 877.
+* A. M. Orellana B. “Mariposas de los páramos de la Sierra Nevada ySierra de La Culata (Cordillera de Mérida, Venezuela)”. In: ''Memoriasdel IV Simposio Internacional de Desarrollo Sustentable de Los Andes,la estrategia andina para el siglo XXI''. Ed. by R. Andresse and M.Monasterio. ICAE - ULA, 2004, pp. 57-71.
+* T. W. Pyrcz and Á. L. Viloria. “Erebiine and pronophilinebutterflies of the Serran\'\ia del Tam\'a, Venezuela-Colombia border(Lepidoptera: Nymphalidae: Satyrinae)”. In: ''Tropical Lepidoptera''15.1-2 (2007), pp. 18-52.
+* T. Raymond. ''Mariposas de Venezuela''. Ediciones Corpoven, 1982.
+* A. L. Viloria. “Estado actual del conocimiento taxonómico de lasmariposas (Lepidoptera: Rhopalocera) de Venezuela”. In: ''PrIBES 2000''.Ed. by F. M. Piera, J. Morrone and A. Melic. Vol. 1. 2000. Chap. Estadoactual del conocimiento taxon\'omico de las mariposas(Lepidoptera:Rhopalocera) de Venezuela, pp. 261-274.
+* A. L. Viloria. “Taxonom\'\ia y distribuci\'on de los Satyridae(Lepidoptera: Rhopalocera) en la Sierra de Perij\'a, fronteracolombo-venezolana”. MA Thesis. xxxviii + 296 pp.. La Universidad delZulia, 1990.
+* A. L. Viloria and J. A. Camacho. “Three new pronophilinebutterflies from the Serran\'\ia del Turimiquire, eastern Venezuela,and type designation for Corades enyo enyo Hewitson (Lepidoptera:Nymphalidae, Satyrinae)”. In: ''Fragmenta Entomologica'' 31.1 (1999), pp.173-188.
+ {{Ficha de taxón
+  | name = Corades
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Corades''
+}}
+
+Género de mariposas de la familia Nymphalidae con 19 especies a nivel global y 658 especies en Venezuela.
+
+=== Especies === 
+---- 
+* ''[[Corades chelonis]]'' Hewitson, 1863
+* ''[[Corades chirone]]'' Hewitson, 1863
+* ''[[Corades cistene]]'' Hewitson, 1863
+* ''[[Corades cybele]]'' Butler, 1866
+* ''[[Corades dymantis]]'' Thieme, 1907
+* ''[[Corades enyo]]'' Hewitson, [1849]
+* ''[[Corades medeba]]'' Hewitson, 1850
+* ''[[Corades pannonia]]'' Hewitson, 1850
+* ''[[Corades pax]]'' Watkins, 1939
+---- 
+=== Referencias ===
+* Ferrer-Paris, José R.; Paul Rodríguez, Jon; Y. Sánchez-Mercado, Ada; A. Rodríguez, Gustavo (2014): Informe de resultados de muestreos de NeoMapas a nivel nacional 2001 a 2010. figshare. doi:[https://dx.doi.org/10.6084/m9.figshare.1094280 10.6084/m9.figshare.1094280]. 
+* J. R. Álvarez Sierra and J. R. Álvarez Corral. ''Mariposas diurnasde Venezuela. Introducción a su conocimiento''. Caracas: Editorial Arte,1984.
+* B. D'Abrera. ''Butterflies of the Neotropical Region. Part VNymphalidae (Conc.) \& Satyridae''. Victoria. Australia: Hill HousePublishers, 1988, p. 877.
+* A. M. Orellana B. “Mariposas de los páramos de la Sierra Nevada ySierra de La Culata (Cordillera de Mérida, Venezuela)”. In: ''Memoriasdel IV Simposio Internacional de Desarrollo Sustentable de Los Andes,la estrategia andina para el siglo XXI''. Ed. by R. Andresse and M.Monasterio. ICAE - ULA, 2004, pp. 57-71.
+* T. W. Pyrcz and Á. L. Viloria. “Erebiine and pronophilinebutterflies of the Serran\'\ia del Tam\'a, Venezuela-Colombia border(Lepidoptera: Nymphalidae: Satyrinae)”. In: ''Tropical Lepidoptera''15.1-2 (2007), pp. 18-52.
+* T. Raymond. ''Mariposas de Venezuela''. Ediciones Corpoven, 1982.
+* A. L. Viloria. “Estado actual del conocimiento taxonómico de lasmariposas (Lepidoptera: Rhopalocera) de Venezuela”. In: ''PrIBES 2000''.Ed. by F. M. Piera, J. Morrone and A. Melic. Vol. 1. 2000. Chap. Estadoactual del conocimiento taxon\'omico de las mariposas(Lepidoptera:Rhopalocera) de Venezuela, pp. 261-274.
+* A. L. Viloria. “Taxonom\'\ia y distribuci\'on de los Satyridae(Lepidoptera: Rhopalocera) en la Sierra de Perij\'a, fronteracolombo-venezolana”. MA Thesis. xxxviii + 296 pp.. La Universidad delZulia, 1990.
+* A. L. Viloria and J. A. Camacho. “Three new pronophilinebutterflies from the Serran\'\ia del Turimiquire, eastern Venezuela,and type designation for Corades enyo enyo Hewitson (Lepidoptera:Nymphalidae, Satyrinae)”. In: ''Fragmenta Entomologica'' 31.1 (1999), pp.173-188.
+ {{Ficha de taxón
+  | name = Corades
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Corades''
+}}
+
+Género de mariposas de la familia Nymphalidae con 19 especies a nivel global y 658 especies en Venezuela.
+
+=== Especies === 
+---- 
+* ''[[Corades chelonis]]'' Hewitson, 1863
+* ''[[Corades chirone]]'' Hewitson, 1863
+* ''[[Corades cistene]]'' Hewitson, 1863
+* ''[[Corades cybele]]'' Butler, 1866
+* ''[[Corades dymantis]]'' Thieme, 1907
+* ''[[Corades enyo]]'' Hewitson, [1849]
+* ''[[Corades medeba]]'' Hewitson, 1850
+* ''[[Corades pannonia]]'' Hewitson, 1850
+* ''[[Corades pax]]'' Watkins, 1939
+---- 
+=== Referencias ===
+* Ferrer-Paris, José R.; Paul Rodríguez, Jon; Y. Sánchez-Mercado, Ada; A. Rodríguez, Gustavo (2014): Informe de resultados de muestreos de NeoMapas a nivel nacional 2001 a 2010. figshare. doi:[https://dx.doi.org/10.6084/m9.figshare.1094280 10.6084/m9.figshare.1094280]. 
+* J. R. Álvarez Sierra and J. R. Álvarez Corral. ''Mariposas diurnasde Venezuela. Introducción a su conocimiento''. Caracas: Editorial Arte,1984.
+* B. D'Abrera. ''Butterflies of the Neotropical Region. Part VNymphalidae (Conc.) \& Satyridae''. Victoria. Australia: Hill HousePublishers, 1988, p. 877.
+* A. M. Orellana B. “Mariposas de los páramos de la Sierra Nevada ySierra de La Culata (Cordillera de Mérida, Venezuela)”. In: ''Memoriasdel IV Simposio Internacional de Desarrollo Sustentable de Los Andes,la estrategia andina para el siglo XXI''. Ed. by R. Andresse and M.Monasterio. ICAE - ULA, 2004, pp. 57-71.
+* T. W. Pyrcz and Á. L. Viloria. “Erebiine and pronophilinebutterflies of the Serran\'\ia del Tam\'a, Venezuela-Colombia border(Lepidoptera: Nymphalidae: Satyrinae)”. In: ''Tropical Lepidoptera''15.1-2 (2007), pp. 18-52.
+* T. Raymond. ''Mariposas de Venezuela''. Ediciones Corpoven, 1982.
+* A. L. Viloria. “Estado actual del conocimiento taxonómico de lasmariposas (Lepidoptera: Rhopalocera) de Venezuela”. In: ''PrIBES 2000''.Ed. by F. M. Piera, J. Morrone and A. Melic. Vol. 1. 2000. Chap. Estadoactual del conocimiento taxon\'omico de las mariposas(Lepidoptera:Rhopalocera) de Venezuela, pp. 261-274.
+* A. L. Viloria. “Taxonom\'\ia y distribuci\'on de los Satyridae(Lepidoptera: Rhopalocera) en la Sierra de Perij\'a, fronteracolombo-venezolana”. MA Thesis. xxxviii + 296 pp.. La Universidad delZulia, 1990.
+* A. L. Viloria and J. A. Camacho. “Three new pronophilinebutterflies from the Serran\'\ia del Turimiquire, eastern Venezuela,and type designation for Corades enyo enyo Hewitson (Lepidoptera:Nymphalidae, Satyrinae)”. In: ''Fragmenta Entomologica'' 31.1 (1999), pp.173-188.
+ {{Ficha de taxón
+  | name = Corades
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Corades''
+}}
+
+Género de mariposas de la familia Nymphalidae con 19 especies a nivel global y 658 especies en Venezuela.
+
+=== Especies === 
+---- 
+* ''[[Corades chelonis]]'' Hewitson, 1863
+* ''[[Corades chirone]]'' Hewitson, 1863
+* ''[[Corades cistene]]'' Hewitson, 1863
+* ''[[Corades cybele]]'' Butler, 1866
+* ''[[Corades dymantis]]'' Thieme, 1907
+* ''[[Corades enyo]]'' Hewitson, [1849]
+* ''[[Corades medeba]]'' Hewitson, 1850
+* ''[[Corades pannonia]]'' Hewitson, 1850
+* ''[[Corades pax]]'' Watkins, 1939
+---- 
+=== Referencias ===
+* Ferrer-Paris, José R.; Paul Rodríguez, Jon; Y. Sánchez-Mercado, Ada; A. Rodríguez, Gustavo (2014): Informe de resultados de muestreos de NeoMapas a nivel nacional 2001 a 2010. figshare. doi:[https://dx.doi.org/10.6084/m9.figshare.1094280 10.6084/m9.figshare.1094280]. 
+* J. R. Álvarez Sierra and J. R. Álvarez Corral. ''Mariposas diurnasde Venezuela. Introducción a su conocimiento''. Caracas: Editorial Arte,1984.
+* B. D'Abrera. ''Butterflies of the Neotropical Region. Part VNymphalidae (Conc.) \& Satyridae''. Victoria. Australia: Hill HousePublishers, 1988, p. 877.
+* A. M. Orellana B. “Mariposas de los páramos de la Sierra Nevada ySierra de La Culata (Cordillera de Mérida, Venezuela)”. In: ''Memoriasdel IV Simposio Internacional de Desarrollo Sustentable de Los Andes,la estrategia andina para el siglo XXI''. Ed. by R. Andresse and M.Monasterio. ICAE - ULA, 2004, pp. 57-71.
+* T. W. Pyrcz and Á. L. Viloria. “Erebiine and pronophilinebutterflies of the Serran\'\ia del Tam\'a, Venezuela-Colombia border(Lepidoptera: Nymphalidae: Satyrinae)”. In: ''Tropical Lepidoptera''15.1-2 (2007), pp. 18-52.
+* T. Raymond. ''Mariposas de Venezuela''. Ediciones Corpoven, 1982.
+* A. L. Viloria. “Estado actual del conocimiento taxonómico de lasmariposas (Lepidoptera: Rhopalocera) de Venezuela”. In: ''PrIBES 2000''.Ed. by F. M. Piera, J. Morrone and A. Melic. Vol. 1. 2000. Chap. Estadoactual del conocimiento taxon\'omico de las mariposas(Lepidoptera:Rhopalocera) de Venezuela, pp. 261-274.
+* A. L. Viloria. “Taxonom\'\ia y distribuci\'on de los Satyridae(Lepidoptera: Rhopalocera) en la Sierra de Perij\'a, fronteracolombo-venezolana”. MA Thesis. xxxviii + 296 pp.. La Universidad delZulia, 1990.
+* A. L. Viloria and J. A. Camacho. “Three new pronophilinebutterflies from the Serran\'\ia del Turimiquire, eastern Venezuela,and type designation for Corades enyo enyo Hewitson (Lepidoptera:Nymphalidae, Satyrinae)”. In: ''Fragmenta Entomologica'' 31.1 (1999), pp.173-188.
+ {{Ficha de taxón
+  | name = Corades
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Corades''
+}}
+
+Género de mariposas de la familia Nymphalidae con 19 especies a nivel global y 658 especies en Venezuela.
+
+=== Especies === 
+---- 
+* ''[[Corades chelonis]]'' Hewitson, 1863
+* ''[[Corades chirone]]'' Hewitson, 1863
+* ''[[Corades cistene]]'' Hewitson, 1863
+* ''[[Corades cybele]]'' Butler, 1866
+* ''[[Corades dymantis]]'' Thieme, 1907
+* ''[[Corades enyo]]'' Hewitson, [1849]
+* ''[[Corades medeba]]'' Hewitson, 1850
+* ''[[Corades pannonia]]'' Hewitson, 1850
+* ''[[Corades pax]]'' Watkins, 1939
+---- 
+=== Referencias ===
+* Ferrer-Paris, José R.; Paul Rodríguez, Jon; Y. Sánchez-Mercado, Ada; A. Rodríguez, Gustavo (2014): Informe de resultados de muestreos de NeoMapas a nivel nacional 2001 a 2010. figshare. doi:[https://dx.doi.org/10.6084/m9.figshare.1094280 10.6084/m9.figshare.1094280]. 
+* J. R. Álvarez Sierra and J. R. Álvarez Corral. ''Mariposas diurnasde Venezuela. Introducción a su conocimiento''. Caracas: Editorial Arte,1984.
+* B. D'Abrera. ''Butterflies of the Neotropical Region. Part VNymphalidae (Conc.) \& Satyridae''. Victoria. Australia: Hill HousePublishers, 1988, p. 877.
+* A. M. Orellana B. “Mariposas de los páramos de la Sierra Nevada ySierra de La Culata (Cordillera de Mérida, Venezuela)”. In: ''Memoriasdel IV Simposio Internacional de Desarrollo Sustentable de Los Andes,la estrategia andina para el siglo XXI''. Ed. by R. Andresse and M.Monasterio. ICAE - ULA, 2004, pp. 57-71.
+* T. W. Pyrcz and Á. L. Viloria. “Erebiine and pronophilinebutterflies of the Serran\'\ia del Tam\'a, Venezuela-Colombia border(Lepidoptera: Nymphalidae: Satyrinae)”. In: ''Tropical Lepidoptera''15.1-2 (2007), pp. 18-52.
+* T. Raymond. ''Mariposas de Venezuela''. Ediciones Corpoven, 1982.
+* A. L. Viloria. “Estado actual del conocimiento taxonómico de lasmariposas (Lepidoptera: Rhopalocera) de Venezuela”. In: ''PrIBES 2000''.Ed. by F. M. Piera, J. Morrone and A. Melic. Vol. 1. 2000. Chap. Estadoactual del conocimiento taxon\'omico de las mariposas(Lepidoptera:Rhopalocera) de Venezuela, pp. 261-274.
+* A. L. Viloria. “Taxonom\'\ia y distribuci\'on de los Satyridae(Lepidoptera: Rhopalocera) en la Sierra de Perij\'a, fronteracolombo-venezolana”. MA Thesis. xxxviii + 296 pp.. La Universidad delZulia, 1990.
+* A. L. Viloria and J. A. Camacho. “Three new pronophilinebutterflies from the Serran\'\ia del Turimiquire, eastern Venezuela,and type designation for Corades enyo enyo Hewitson (Lepidoptera:Nymphalidae, Satyrinae)”. In: ''Fragmenta Entomologica'' 31.1 (1999), pp.173-188.
+ {{Ficha de taxón
+  | name = Corades
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Corades''
+}}
+
+Género de mariposas de la familia Nymphalidae con 19 especies a nivel global y 658 especies en Venezuela.
+
+=== Especies === 
+---- 
+* ''[[Corades chelonis]]'' Hewitson, 1863
+* ''[[Corades chirone]]'' Hewitson, 1863
+* ''[[Corades cistene]]'' Hewitson, 1863
+* ''[[Corades cybele]]'' Butler, 1866
+* ''[[Corades dymantis]]'' Thieme, 1907
+* ''[[Corades enyo]]'' Hewitson, [1849]
+* ''[[Corades medeba]]'' Hewitson, 1850
+* ''[[Corades pannonia]]'' Hewitson, 1850
+* ''[[Corades pax]]'' Watkins, 1939
+---- 
+=== Referencias ===
+* Ferrer-Paris, José R.; Paul Rodríguez, Jon; Y. Sánchez-Mercado, Ada; A. Rodríguez, Gustavo (2014): Informe de resultados de muestreos de NeoMapas a nivel nacional 2001 a 2010. figshare. doi:[https://dx.doi.org/10.6084/m9.figshare.1094280 10.6084/m9.figshare.1094280]. 
+* J. R. Álvarez Sierra and J. R. Álvarez Corral. ''Mariposas diurnasde Venezuela. Introducción a su conocimiento''. Caracas: Editorial Arte,1984.
+* B. D'Abrera. ''Butterflies of the Neotropical Region. Part VNymphalidae (Conc.) \& Satyridae''. Victoria. Australia: Hill HousePublishers, 1988, p. 877.
+* A. M. Orellana B. “Mariposas de los páramos de la Sierra Nevada ySierra de La Culata (Cordillera de Mérida, Venezuela)”. In: ''Memoriasdel IV Simposio Internacional de Desarrollo Sustentable de Los Andes,la estrategia andina para el siglo XXI''. Ed. by R. Andresse and M.Monasterio. ICAE - ULA, 2004, pp. 57-71.
+* T. W. Pyrcz and Á. L. Viloria. “Erebiine and pronophilinebutterflies of the Serran\'\ia del Tam\'a, Venezuela-Colombia border(Lepidoptera: Nymphalidae: Satyrinae)”. In: ''Tropical Lepidoptera''15.1-2 (2007), pp. 18-52.
+* T. Raymond. ''Mariposas de Venezuela''. Ediciones Corpoven, 1982.
+* A. L. Viloria. “Estado actual del conocimiento taxonómico de lasmariposas (Lepidoptera: Rhopalocera) de Venezuela”. In: ''PrIBES 2000''.Ed. by F. M. Piera, J. Morrone and A. Melic. Vol. 1. 2000. Chap. Estadoactual del conocimiento taxon\'omico de las mariposas(Lepidoptera:Rhopalocera) de Venezuela, pp. 261-274.
+* A. L. Viloria. “Taxonom\'\ia y distribuci\'on de los Satyridae(Lepidoptera: Rhopalocera) en la Sierra de Perij\'a, fronteracolombo-venezolana”. MA Thesis. xxxviii + 296 pp.. La Universidad delZulia, 1990.
+* A. L. Viloria and J. A. Camacho. “Three new pronophilinebutterflies from the Serran\'\ia del Turimiquire, eastern Venezuela,and type designation for Corades enyo enyo Hewitson (Lepidoptera:Nymphalidae, Satyrinae)”. In: ''Fragmenta Entomologica'' 31.1 (1999), pp.173-188.
+ {{Ficha de taxón
+  | name = Corades
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Corades''
+}}
+
+Género de mariposas de la familia Nymphalidae con 19 especies a nivel global y 658 especies en Venezuela.
+
+=== Especies === 
+---- 
+* ''[[Corades chelonis]]'' Hewitson, 1863
+* ''[[Corades chirone]]'' Hewitson, 1863
+* ''[[Corades cistene]]'' Hewitson, 1863
+* ''[[Corades cybele]]'' Butler, 1866
+* ''[[Corades dymantis]]'' Thieme, 1907
+* ''[[Corades enyo]]'' Hewitson, [1849]
+* ''[[Corades medeba]]'' Hewitson, 1850
+* ''[[Corades pannonia]]'' Hewitson, 1850
+* ''[[Corades pax]]'' Watkins, 1939
+---- 
+=== Referencias ===
+* Ferrer-Paris, José R.; Paul Rodríguez, Jon; Y. Sánchez-Mercado, Ada; A. Rodríguez, Gustavo (2014): Informe de resultados de muestreos de NeoMapas a nivel nacional 2001 a 2010. figshare. doi:[https://dx.doi.org/10.6084/m9.figshare.1094280 10.6084/m9.figshare.1094280]. 
+* J. R. Álvarez Sierra and J. R. Álvarez Corral. ''Mariposas diurnasde Venezuela. Introducción a su conocimiento''. Caracas: Editorial Arte,1984.
+* B. D'Abrera. ''Butterflies of the Neotropical Region. Part VNymphalidae (Conc.) \& Satyridae''. Victoria. Australia: Hill HousePublishers, 1988, p. 877.
+* A. M. Orellana B. “Mariposas de los páramos de la Sierra Nevada ySierra de La Culata (Cordillera de Mérida, Venezuela)”. In: ''Memoriasdel IV Simposio Internacional de Desarrollo Sustentable de Los Andes,la estrategia andina para el siglo XXI''. Ed. by R. Andresse and M.Monasterio. ICAE - ULA, 2004, pp. 57-71.
+* T. W. Pyrcz and Á. L. Viloria. “Erebiine and pronophilinebutterflies of the Serran\'\ia del Tam\'a, Venezuela-Colombia border(Lepidoptera: Nymphalidae: Satyrinae)”. In: ''Tropical Lepidoptera''15.1-2 (2007), pp. 18-52.
+* T. Raymond. ''Mariposas de Venezuela''. Ediciones Corpoven, 1982.
+* A. L. Viloria. “Estado actual del conocimiento taxonómico de lasmariposas (Lepidoptera: Rhopalocera) de Venezuela”. In: ''PrIBES 2000''.Ed. by F. M. Piera, J. Morrone and A. Melic. Vol. 1. 2000. Chap. Estadoactual del conocimiento taxon\'omico de las mariposas(Lepidoptera:Rhopalocera) de Venezuela, pp. 261-274.
+* A. L. Viloria. “Taxonom\'\ia y distribuci\'on de los Satyridae(Lepidoptera: Rhopalocera) en la Sierra de Perij\'a, fronteracolombo-venezolana”. MA Thesis. xxxviii + 296 pp.. La Universidad delZulia, 1990.
+* A. L. Viloria and J. A. Camacho. “Three new pronophilinebutterflies from the Serran\'\ia del Turimiquire, eastern Venezuela,and type designation for Corades enyo enyo Hewitson (Lepidoptera:Nymphalidae, Satyrinae)”. In: ''Fragmenta Entomologica'' 31.1 (1999), pp.173-188.
+ {{Ficha de taxón
+  | name = Corades
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Corades''
+}}
+
+Género de mariposas de la familia Nymphalidae con 19 especies a nivel global y 658 especies en Venezuela.
+
+=== Especies === 
+---- 
+* ''[[Corades chelonis]]'' Hewitson, 1863
+* ''[[Corades chirone]]'' Hewitson, 1863
+* ''[[Corades cistene]]'' Hewitson, 1863
+* ''[[Corades cybele]]'' Butler, 1866
+* ''[[Corades dymantis]]'' Thieme, 1907
+* ''[[Corades enyo]]'' Hewitson, [1849]
+* ''[[Corades medeba]]'' Hewitson, 1850
+* ''[[Corades pannonia]]'' Hewitson, 1850
+* ''[[Corades pax]]'' Watkins, 1939
+---- 
+=== Referencias ===
+* Ferrer-Paris, José R.; Paul Rodríguez, Jon; Y. Sánchez-Mercado, Ada; A. Rodríguez, Gustavo (2014): Informe de resultados de muestreos de NeoMapas a nivel nacional 2001 a 2010. figshare. doi:[https://dx.doi.org/10.6084/m9.figshare.1094280 10.6084/m9.figshare.1094280]. 
+* J. R. Álvarez Sierra and J. R. Álvarez Corral. ''Mariposas diurnasde Venezuela. Introducción a su conocimiento''. Caracas: Editorial Arte,1984.
+* B. D'Abrera. ''Butterflies of the Neotropical Region. Part VNymphalidae (Conc.) \& Satyridae''. Victoria. Australia: Hill HousePublishers, 1988, p. 877.
+* A. M. Orellana B. “Mariposas de los páramos de la Sierra Nevada ySierra de La Culata (Cordillera de Mérida, Venezuela)”. In: ''Memoriasdel IV Simposio Internacional de Desarrollo Sustentable de Los Andes,la estrategia andina para el siglo XXI''. Ed. by R. Andresse and M.Monasterio. ICAE - ULA, 2004, pp. 57-71.
+* T. W. Pyrcz and Á. L. Viloria. “Erebiine and pronophilinebutterflies of the Serran\'\ia del Tam\'a, Venezuela-Colombia border(Lepidoptera: Nymphalidae: Satyrinae)”. In: ''Tropical Lepidoptera''15.1-2 (2007), pp. 18-52.
+* T. Raymond. ''Mariposas de Venezuela''. Ediciones Corpoven, 1982.
+* A. L. Viloria. “Estado actual del conocimiento taxonómico de lasmariposas (Lepidoptera: Rhopalocera) de Venezuela”. In: ''PrIBES 2000''.Ed. by F. M. Piera, J. Morrone and A. Melic. Vol. 1. 2000. Chap. Estadoactual del conocimiento taxon\'omico de las mariposas(Lepidoptera:Rhopalocera) de Venezuela, pp. 261-274.
+* A. L. Viloria. “Taxonom\'\ia y distribuci\'on de los Satyridae(Lepidoptera: Rhopalocera) en la Sierra de Perij\'a, fronteracolombo-venezolana”. MA Thesis. xxxviii + 296 pp.. La Universidad delZulia, 1990.
+* A. L. Viloria and J. A. Camacho. “Three new pronophilinebutterflies from the Serran\'\ia del Turimiquire, eastern Venezuela,and type designation for Corades enyo enyo Hewitson (Lepidoptera:Nymphalidae, Satyrinae)”. In: ''Fragmenta Entomologica'' 31.1 (1999), pp.173-188.
+ {{Ficha de taxón
+  | name = Corades
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Corades''
+}}
+
+Género de mariposas de la familia Nymphalidae con 19 especies a nivel global y 658 especies en Venezuela.
+
+=== Especies === 
+---- 
+* ''[[Corades chelonis]]'' Hewitson, 1863
+* ''[[Corades chirone]]'' Hewitson, 1863
+* ''[[Corades cistene]]'' Hewitson, 1863
+* ''[[Corades cybele]]'' Butler, 1866
+* ''[[Corades dymantis]]'' Thieme, 1907
+* ''[[Corades enyo]]'' Hewitson, [1849]
+* ''[[Corades medeba]]'' Hewitson, 1850
+* ''[[Corades pannonia]]'' Hewitson, 1850
+* ''[[Corades pax]]'' Watkins, 1939
+---- 
+=== Referencias ===
+* Ferrer-Paris, José R.; Paul Rodríguez, Jon; Y. Sánchez-Mercado, Ada; A. Rodríguez, Gustavo (2014): Informe de resultados de muestreos de NeoMapas a nivel nacional 2001 a 2010. figshare. doi:[https://dx.doi.org/10.6084/m9.figshare.1094280 10.6084/m9.figshare.1094280]. 
+* J. R. Álvarez Sierra and J. R. Álvarez Corral. ''Mariposas diurnasde Venezuela. Introducción a su conocimiento''. Caracas: Editorial Arte,1984.
+* B. D'Abrera. ''Butterflies of the Neotropical Region. Part VNymphalidae (Conc.) \& Satyridae''. Victoria. Australia: Hill HousePublishers, 1988, p. 877.
+* A. M. Orellana B. “Mariposas de los páramos de la Sierra Nevada ySierra de La Culata (Cordillera de Mérida, Venezuela)”. In: ''Memoriasdel IV Simposio Internacional de Desarrollo Sustentable de Los Andes,la estrategia andina para el siglo XXI''. Ed. by R. Andresse and M.Monasterio. ICAE - ULA, 2004, pp. 57-71.
+* T. W. Pyrcz and Á. L. Viloria. “Erebiine and pronophilinebutterflies of the Serran\'\ia del Tam\'a, Venezuela-Colombia border(Lepidoptera: Nymphalidae: Satyrinae)”. In: ''Tropical Lepidoptera''15.1-2 (2007), pp. 18-52.
+* T. Raymond. ''Mariposas de Venezuela''. Ediciones Corpoven, 1982.
+* A. L. Viloria. “Estado actual del conocimiento taxonómico de lasmariposas (Lepidoptera: Rhopalocera) de Venezuela”. In: ''PrIBES 2000''.Ed. by F. M. Piera, J. Morrone and A. Melic. Vol. 1. 2000. Chap. Estadoactual del conocimiento taxon\'omico de las mariposas(Lepidoptera:Rhopalocera) de Venezuela, pp. 261-274.
+* A. L. Viloria. “Taxonom\'\ia y distribuci\'on de los Satyridae(Lepidoptera: Rhopalocera) en la Sierra de Perij\'a, fronteracolombo-venezolana”. MA Thesis. xxxviii + 296 pp.. La Universidad delZulia, 1990.
+* A. L. Viloria and J. A. Camacho. “Three new pronophilinebutterflies from the Serran\'\ia del Turimiquire, eastern Venezuela,and type designation for Corades enyo enyo Hewitson (Lepidoptera:Nymphalidae, Satyrinae)”. In: ''Fragmenta Entomologica'' 31.1 (1999), pp.173-188.
+ {{Ficha de taxón
+  | name = Corades
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Corades''
+}}
+
+Género de mariposas de la familia Nymphalidae con 19 especies a nivel global y 658 especies en Venezuela.
+
+=== Especies === 
+---- 
+* ''[[Corades chelonis]]'' Hewitson, 1863
+* ''[[Corades chirone]]'' Hewitson, 1863
+* ''[[Corades cistene]]'' Hewitson, 1863
+* ''[[Corades cybele]]'' Butler, 1866
+* ''[[Corades dymantis]]'' Thieme, 1907
+* ''[[Corades enyo]]'' Hewitson, [1849]
+* ''[[Corades medeba]]'' Hewitson, 1850
+* ''[[Corades pannonia]]'' Hewitson, 1850
+* ''[[Corades pax]]'' Watkins, 1939
+---- 
+=== Referencias ===
+* Ferrer-Paris, José R.; Paul Rodríguez, Jon; Y. Sánchez-Mercado, Ada; A. Rodríguez, Gustavo (2014): Informe de resultados de muestreos de NeoMapas a nivel nacional 2001 a 2010. figshare. doi:[https://dx.doi.org/10.6084/m9.figshare.1094280 10.6084/m9.figshare.1094280]. 
+* J. R. Álvarez Sierra and J. R. Álvarez Corral. ''Mariposas diurnasde Venezuela. Introducción a su conocimiento''. Caracas: Editorial Arte,1984.
+* B. D'Abrera. ''Butterflies of the Neotropical Region. Part VNymphalidae (Conc.) \& Satyridae''. Victoria. Australia: Hill HousePublishers, 1988, p. 877.
+* A. M. Orellana B. “Mariposas de los páramos de la Sierra Nevada ySierra de La Culata (Cordillera de Mérida, Venezuela)”. In: ''Memoriasdel IV Simposio Internacional de Desarrollo Sustentable de Los Andes,la estrategia andina para el siglo XXI''. Ed. by R. Andresse and M.Monasterio. ICAE - ULA, 2004, pp. 57-71.
+* T. W. Pyrcz and Á. L. Viloria. “Erebiine and pronophilinebutterflies of the Serran\'\ia del Tam\'a, Venezuela-Colombia border(Lepidoptera: Nymphalidae: Satyrinae)”. In: ''Tropical Lepidoptera''15.1-2 (2007), pp. 18-52.
+* T. Raymond. ''Mariposas de Venezuela''. Ediciones Corpoven, 1982.
+* A. L. Viloria. “Estado actual del conocimiento taxonómico de lasmariposas (Lepidoptera: Rhopalocera) de Venezuela”. In: ''PrIBES 2000''.Ed. by F. M. Piera, J. Morrone and A. Melic. Vol. 1. 2000. Chap. Estadoactual del conocimiento taxon\'omico de las mariposas(Lepidoptera:Rhopalocera) de Venezuela, pp. 261-274.
+* A. L. Viloria. “Taxonom\'\ia y distribuci\'on de los Satyridae(Lepidoptera: Rhopalocera) en la Sierra de Perij\'a, fronteracolombo-venezolana”. MA Thesis. xxxviii + 296 pp.. La Universidad delZulia, 1990.
+* A. L. Viloria and J. A. Camacho. “Three new pronophilinebutterflies from the Serran\'\ia del Turimiquire, eastern Venezuela,and type designation for Corades enyo enyo Hewitson (Lepidoptera:Nymphalidae, Satyrinae)”. In: ''Fragmenta Entomologica'' 31.1 (1999), pp.173-188.
+ {{Ficha de taxón
+  | name = Corades
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Corades''
+}}
+
+Género de mariposas de la familia Nymphalidae con 19 especies a nivel global y 658 especies en Venezuela.
+
+=== Especies === 
+---- 
+* ''[[Corades chelonis]]'' Hewitson, 1863
+* ''[[Corades chirone]]'' Hewitson, 1863
+* ''[[Corades cistene]]'' Hewitson, 1863
+* ''[[Corades cybele]]'' Butler, 1866
+* ''[[Corades dymantis]]'' Thieme, 1907
+* ''[[Corades enyo]]'' Hewitson, [1849]
+* ''[[Corades medeba]]'' Hewitson, 1850
+* ''[[Corades pannonia]]'' Hewitson, 1850
+* ''[[Corades pax]]'' Watkins, 1939
+---- 
+=== Referencias ===
+* Ferrer-Paris, José R.; Paul Rodríguez, Jon; Y. Sánchez-Mercado, Ada; A. Rodríguez, Gustavo (2014): Informe de resultados de muestreos de NeoMapas a nivel nacional 2001 a 2010. figshare. doi:[https://dx.doi.org/10.6084/m9.figshare.1094280 10.6084/m9.figshare.1094280]. 
+* J. R. Álvarez Sierra and J. R. Álvarez Corral. ''Mariposas diurnasde Venezuela. Introducción a su conocimiento''. Caracas: Editorial Arte,1984.
+* B. D'Abrera. ''Butterflies of the Neotropical Region. Part VNymphalidae (Conc.) \& Satyridae''. Victoria. Australia: Hill HousePublishers, 1988, p. 877.
+* A. M. Orellana B. “Mariposas de los páramos de la Sierra Nevada ySierra de La Culata (Cordillera de Mérida, Venezuela)”. In: ''Memoriasdel IV Simposio Internacional de Desarrollo Sustentable de Los Andes,la estrategia andina para el siglo XXI''. Ed. by R. Andresse and M.Monasterio. ICAE - ULA, 2004, pp. 57-71.
+* T. W. Pyrcz and Á. L. Viloria. “Erebiine and pronophilinebutterflies of the Serran\'\ia del Tam\'a, Venezuela-Colombia border(Lepidoptera: Nymphalidae: Satyrinae)”. In: ''Tropical Lepidoptera''15.1-2 (2007), pp. 18-52.
+* T. Raymond. ''Mariposas de Venezuela''. Ediciones Corpoven, 1982.
+* A. L. Viloria. “Estado actual del conocimiento taxonómico de lasmariposas (Lepidoptera: Rhopalocera) de Venezuela”. In: ''PrIBES 2000''.Ed. by F. M. Piera, J. Morrone and A. Melic. Vol. 1. 2000. Chap. Estadoactual del conocimiento taxon\'omico de las mariposas(Lepidoptera:Rhopalocera) de Venezuela, pp. 261-274.
+* A. L. Viloria. “Taxonom\'\ia y distribuci\'on de los Satyridae(Lepidoptera: Rhopalocera) en la Sierra de Perij\'a, fronteracolombo-venezolana”. MA Thesis. xxxviii + 296 pp.. La Universidad delZulia, 1990.
+* A. L. Viloria and J. A. Camacho. “Three new pronophilinebutterflies from the Serran\'\ia del Turimiquire, eastern Venezuela,and type designation for Corades enyo enyo Hewitson (Lepidoptera:Nymphalidae, Satyrinae)”. In: ''Fragmenta Entomologica'' 31.1 (1999), pp.173-188.
+ {{Ficha de taxón
+  | name = Corades
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Corades''
+}}
+
+Género de mariposas de la familia Nymphalidae con 19 especies a nivel global y 658 especies en Venezuela.
+
+=== Especies === 
+---- 
+* ''[[Corades chelonis]]'' Hewitson, 1863
+* ''[[Corades chirone]]'' Hewitson, 1863
+* ''[[Corades cistene]]'' Hewitson, 1863
+* ''[[Corades cybele]]'' Butler, 1866
+* ''[[Corades dymantis]]'' Thieme, 1907
+* ''[[Corades enyo]]'' Hewitson, [1849]
+* ''[[Corades medeba]]'' Hewitson, 1850
+* ''[[Corades pannonia]]'' Hewitson, 1850
+* ''[[Corades pax]]'' Watkins, 1939
+---- 
+=== Referencias ===
+* Ferrer-Paris, José R.; Paul Rodríguez, Jon; Y. Sánchez-Mercado, Ada; A. Rodríguez, Gustavo (2014): Informe de resultados de muestreos de NeoMapas a nivel nacional 2001 a 2010. figshare. doi:[https://dx.doi.org/10.6084/m9.figshare.1094280 10.6084/m9.figshare.1094280]. 
+* J. R. Álvarez Sierra and J. R. Álvarez Corral. ''Mariposas diurnasde Venezuela. Introducción a su conocimiento''. Caracas: Editorial Arte,1984.
+* B. D'Abrera. ''Butterflies of the Neotropical Region. Part VNymphalidae (Conc.) \& Satyridae''. Victoria. Australia: Hill HousePublishers, 1988, p. 877.
+* A. M. Orellana B. “Mariposas de los páramos de la Sierra Nevada ySierra de La Culata (Cordillera de Mérida, Venezuela)”. In: ''Memoriasdel IV Simposio Internacional de Desarrollo Sustentable de Los Andes,la estrategia andina para el siglo XXI''. Ed. by R. Andresse and M.Monasterio. ICAE - ULA, 2004, pp. 57-71.
+* T. W. Pyrcz and Á. L. Viloria. “Erebiine and pronophilinebutterflies of the Serran\'\ia del Tam\'a, Venezuela-Colombia border(Lepidoptera: Nymphalidae: Satyrinae)”. In: ''Tropical Lepidoptera''15.1-2 (2007), pp. 18-52.
+* T. Raymond. ''Mariposas de Venezuela''. Ediciones Corpoven, 1982.
+* A. L. Viloria. “Estado actual del conocimiento taxonómico de lasmariposas (Lepidoptera: Rhopalocera) de Venezuela”. In: ''PrIBES 2000''.Ed. by F. M. Piera, J. Morrone and A. Melic. Vol. 1. 2000. Chap. Estadoactual del conocimiento taxon\'omico de las mariposas(Lepidoptera:Rhopalocera) de Venezuela, pp. 261-274.
+* A. L. Viloria. “Taxonom\'\ia y distribuci\'on de los Satyridae(Lepidoptera: Rhopalocera) en la Sierra de Perij\'a, fronteracolombo-venezolana”. MA Thesis. xxxviii + 296 pp.. La Universidad delZulia, 1990.
+* A. L. Viloria and J. A. Camacho. “Three new pronophilinebutterflies from the Serran\'\ia del Turimiquire, eastern Venezuela,and type designation for Corades enyo enyo Hewitson (Lepidoptera:Nymphalidae, Satyrinae)”. In: ''Fragmenta Entomologica'' 31.1 (1999), pp.173-188.
+ {{Ficha de taxón
+  | name = Corades
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Corades''
+}}
+
+Género de mariposas de la familia Nymphalidae con 19 especies a nivel global y 658 especies en Venezuela.
+
+=== Especies === 
+---- 
+* ''[[Corades chelonis]]'' Hewitson, 1863
+* ''[[Corades chirone]]'' Hewitson, 1863
+* ''[[Corades cistene]]'' Hewitson, 1863
+* ''[[Corades cybele]]'' Butler, 1866
+* ''[[Corades dymantis]]'' Thieme, 1907
+* ''[[Corades enyo]]'' Hewitson, [1849]
+* ''[[Corades medeba]]'' Hewitson, 1850
+* ''[[Corades pannonia]]'' Hewitson, 1850
+* ''[[Corades pax]]'' Watkins, 1939
+---- 
+=== Referencias ===
+* Ferrer-Paris, José R.; Paul Rodríguez, Jon; Y. Sánchez-Mercado, Ada; A. Rodríguez, Gustavo (2014): Informe de resultados de muestreos de NeoMapas a nivel nacional 2001 a 2010. figshare. doi:[https://dx.doi.org/10.6084/m9.figshare.1094280 10.6084/m9.figshare.1094280]. 
+* J. R. Álvarez Sierra and J. R. Álvarez Corral. ''Mariposas diurnasde Venezuela. Introducción a su conocimiento''. Caracas: Editorial Arte,1984.
+* B. D'Abrera. ''Butterflies of the Neotropical Region. Part VNymphalidae (Conc.) \& Satyridae''. Victoria. Australia: Hill HousePublishers, 1988, p. 877.
+* A. M. Orellana B. “Mariposas de los páramos de la Sierra Nevada ySierra de La Culata (Cordillera de Mérida, Venezuela)”. In: ''Memoriasdel IV Simposio Internacional de Desarrollo Sustentable de Los Andes,la estrategia andina para el siglo XXI''. Ed. by R. Andresse and M.Monasterio. ICAE - ULA, 2004, pp. 57-71.
+* T. W. Pyrcz and Á. L. Viloria. “Erebiine and pronophilinebutterflies of the Serran\'\ia del Tam\'a, Venezuela-Colombia border(Lepidoptera: Nymphalidae: Satyrinae)”. In: ''Tropical Lepidoptera''15.1-2 (2007), pp. 18-52.
+* T. Raymond. ''Mariposas de Venezuela''. Ediciones Corpoven, 1982.
+* A. L. Viloria. “Estado actual del conocimiento taxonómico de lasmariposas (Lepidoptera: Rhopalocera) de Venezuela”. In: ''PrIBES 2000''.Ed. by F. M. Piera, J. Morrone and A. Melic. Vol. 1. 2000. Chap. Estadoactual del conocimiento taxon\'omico de las mariposas(Lepidoptera:Rhopalocera) de Venezuela, pp. 261-274.
+* A. L. Viloria. “Taxonom\'\ia y distribuci\'on de los Satyridae(Lepidoptera: Rhopalocera) en la Sierra de Perij\'a, fronteracolombo-venezolana”. MA Thesis. xxxviii + 296 pp.. La Universidad delZulia, 1990.
+* A. L. Viloria and J. A. Camacho. “Three new pronophilinebutterflies from the Serran\'\ia del Turimiquire, eastern Venezuela,and type designation for Corades enyo enyo Hewitson (Lepidoptera:Nymphalidae, Satyrinae)”. In: ''Fragmenta Entomologica'' 31.1 (1999), pp.173-188.
+ {{Ficha de taxón
+  | name = Corades
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Corades''
+}}
+
+Género de mariposas de la familia Nymphalidae con 19 especies a nivel global y 658 especies en Venezuela.
+
+=== Especies === 
+---- 
+* ''[[Corades chelonis]]'' Hewitson, 1863
+* ''[[Corades chirone]]'' Hewitson, 1863
+* ''[[Corades cistene]]'' Hewitson, 1863
+* ''[[Corades cybele]]'' Butler, 1866
+* ''[[Corades dymantis]]'' Thieme, 1907
+* ''[[Corades enyo]]'' Hewitson, [1849]
+* ''[[Corades medeba]]'' Hewitson, 1850
+* ''[[Corades pannonia]]'' Hewitson, 1850
+* ''[[Corades pax]]'' Watkins, 1939
+---- 
+=== Referencias ===
+* Ferrer-Paris, José R.; Paul Rodríguez, Jon; Y. Sánchez-Mercado, Ada; A. Rodríguez, Gustavo (2014): Informe de resultados de muestreos de NeoMapas a nivel nacional 2001 a 2010. figshare. doi:[https://dx.doi.org/10.6084/m9.figshare.1094280 10.6084/m9.figshare.1094280]. 
+* J. R. Álvarez Sierra and J. R. Álvarez Corral. ''Mariposas diurnasde Venezuela. Introducción a su conocimiento''. Caracas: Editorial Arte,1984.
+* B. D'Abrera. ''Butterflies of the Neotropical Region. Part VNymphalidae (Conc.) \& Satyridae''. Victoria. Australia: Hill HousePublishers, 1988, p. 877.
+* A. M. Orellana B. “Mariposas de los páramos de la Sierra Nevada ySierra de La Culata (Cordillera de Mérida, Venezuela)”. In: ''Memoriasdel IV Simposio Internacional de Desarrollo Sustentable de Los Andes,la estrategia andina para el siglo XXI''. Ed. by R. Andresse and M.Monasterio. ICAE - ULA, 2004, pp. 57-71.
+* T. W. Pyrcz and Á. L. Viloria. “Erebiine and pronophilinebutterflies of the Serran\'\ia del Tam\'a, Venezuela-Colombia border(Lepidoptera: Nymphalidae: Satyrinae)”. In: ''Tropical Lepidoptera''15.1-2 (2007), pp. 18-52.
+* T. Raymond. ''Mariposas de Venezuela''. Ediciones Corpoven, 1982.
+* A. L. Viloria. “Estado actual del conocimiento taxonómico de lasmariposas (Lepidoptera: Rhopalocera) de Venezuela”. In: ''PrIBES 2000''.Ed. by F. M. Piera, J. Morrone and A. Melic. Vol. 1. 2000. Chap. Estadoactual del conocimiento taxon\'omico de las mariposas(Lepidoptera:Rhopalocera) de Venezuela, pp. 261-274.
+* A. L. Viloria. “Taxonom\'\ia y distribuci\'on de los Satyridae(Lepidoptera: Rhopalocera) en la Sierra de Perij\'a, fronteracolombo-venezolana”. MA Thesis. xxxviii + 296 pp.. La Universidad delZulia, 1990.
+* A. L. Viloria and J. A. Camacho. “Three new pronophilinebutterflies from the Serran\'\ia del Turimiquire, eastern Venezuela,and type designation for Corades enyo enyo Hewitson (Lepidoptera:Nymphalidae, Satyrinae)”. In: ''Fragmenta Entomologica'' 31.1 (1999), pp.173-188.
+ {{Ficha de taxón
+  | name = Corades
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Corades''
+}}
+
+Género de mariposas de la familia Nymphalidae con 19 especies a nivel global y 658 especies en Venezuela.
+
+=== Especies === 
+---- 
+* ''[[Corades chelonis]]'' Hewitson, 1863
+* ''[[Corades chirone]]'' Hewitson, 1863
+* ''[[Corades cistene]]'' Hewitson, 1863
+* ''[[Corades cybele]]'' Butler, 1866
+* ''[[Corades dymantis]]'' Thieme, 1907
+* ''[[Corades enyo]]'' Hewitson, [1849]
+* ''[[Corades medeba]]'' Hewitson, 1850
+* ''[[Corades pannonia]]'' Hewitson, 1850
+* ''[[Corades pax]]'' Watkins, 1939
+---- 
+=== Referencias ===
+* Ferrer-Paris, José R.; Paul Rodríguez, Jon; Y. Sánchez-Mercado, Ada; A. Rodríguez, Gustavo (2014): Informe de resultados de muestreos de NeoMapas a nivel nacional 2001 a 2010. figshare. doi:[https://dx.doi.org/10.6084/m9.figshare.1094280 10.6084/m9.figshare.1094280]. 
+* J. R. Álvarez Sierra and J. R. Álvarez Corral. ''Mariposas diurnasde Venezuela. Introducción a su conocimiento''. Caracas: Editorial Arte,1984.
+* B. D'Abrera. ''Butterflies of the Neotropical Region. Part VNymphalidae (Conc.) \& Satyridae''. Victoria. Australia: Hill HousePublishers, 1988, p. 877.
+* A. M. Orellana B. “Mariposas de los páramos de la Sierra Nevada ySierra de La Culata (Cordillera de Mérida, Venezuela)”. In: ''Memoriasdel IV Simposio Internacional de Desarrollo Sustentable de Los Andes,la estrategia andina para el siglo XXI''. Ed. by R. Andresse and M.Monasterio. ICAE - ULA, 2004, pp. 57-71.
+* T. W. Pyrcz and Á. L. Viloria. “Erebiine and pronophilinebutterflies of the Serran\'\ia del Tam\'a, Venezuela-Colombia border(Lepidoptera: Nymphalidae: Satyrinae)”. In: ''Tropical Lepidoptera''15.1-2 (2007), pp. 18-52.
+* T. Raymond. ''Mariposas de Venezuela''. Ediciones Corpoven, 1982.
+* A. L. Viloria. “Estado actual del conocimiento taxonómico de lasmariposas (Lepidoptera: Rhopalocera) de Venezuela”. In: ''PrIBES 2000''.Ed. by F. M. Piera, J. Morrone and A. Melic. Vol. 1. 2000. Chap. Estadoactual del conocimiento taxon\'omico de las mariposas(Lepidoptera:Rhopalocera) de Venezuela, pp. 261-274.
+* A. L. Viloria. “Taxonom\'\ia y distribuci\'on de los Satyridae(Lepidoptera: Rhopalocera) en la Sierra de Perij\'a, fronteracolombo-venezolana”. MA Thesis. xxxviii + 296 pp.. La Universidad delZulia, 1990.
+* A. L. Viloria and J. A. Camacho. “Three new pronophilinebutterflies from the Serran\'\ia del Turimiquire, eastern Venezuela,and type designation for Corades enyo enyo Hewitson (Lepidoptera:Nymphalidae, Satyrinae)”. In: ''Fragmenta Entomologica'' 31.1 (1999), pp.173-188.
+ {{Ficha de taxón
+  | name = Corades
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Corades''
+}}
+
+Género de mariposas de la familia Nymphalidae con 19 especies a nivel global y 658 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Corades chelonis]]'' Hewitson, 1863

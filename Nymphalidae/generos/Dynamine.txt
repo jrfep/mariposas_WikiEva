@@ -7,6 +7,41 @@
   | familia = [[Nymphalidae]]
   | genus = ''Dynamine''
 }}
+
+Género de mariposas de la familia Nymphalidae con 39 especies a nivel global y 658 especies en Venezuela.
+
+=== Especies === 
+---- 
+* ''[[Dynamine aerata]]'' (Butler, 1877)
+* ''[[Dynamine agacles]]'' (Dalman, 1823)
+* ''[[Dynamine agatha]]'' (Oberthür, 1916)
+* ''[[Dynamine anubis]]'' (Hewitson, 1859)
+* ''[[Dynamine arene]]'' Hübner, [1823]
+* ''[[Dynamine artemisia]]'' (Fabricius, 1793)
+* ''[[Dynamine athemon]]'' (Linnaeus, 1758)
+* ''[[Dynamine paulina]]'' (Bates, 1865)
+* ''[[Dynamine postverta]]'' (Cramer, 1779)
+* ''[[Dynamine racidula]]'' (Hewitson, 1852)
+* ''[[Dynamine setabis]]'' (Doubleday, 1849)
+* ''[[Dynamine sosthenes]]'' (Hewitson, 1869)
+* ''[[Dynamine theseus]]'' (Felder & Felder, 1861)
+* ''[[Dynamine tithia]]'' (Hübner, 1823)
+---- 
+=== Referencias ===
+* Ferrer-Paris, José R.; Paul Rodríguez, Jon; Y. Sánchez-Mercado, Ada; A. Rodríguez, Gustavo (2014): Informe de resultados de muestreos de NeoMapas a nivel nacional 2001 a 2010. figshare. doi:[https://dx.doi.org/10.6084/m9.figshare.1094280 10.6084/m9.figshare.1094280]. 
+* W. T. M. Forbes. “Note on the butterflies of Venezuelan Guiana”.In: ''Boletin de Entomologia Venezolana'' 1.2 (1942), pp. 25-36.
+ {{Ficha de taxón
+  | name = Dynamine
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Dynamine''
+}}
+
+Género de mariposas de la familia Nymphalidae con 39 especies a nivel global y 658 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Dynamine aerata]]'' (Butler, 1877)

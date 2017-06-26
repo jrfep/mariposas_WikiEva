@@ -7,6 +7,9 @@
   | familia = [[Riodinidae]]
   | genus = ''Mesene''
 }}
+
+Género de mariposas de la familia Riodinidae con 27 especies a nivel global y 148 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Mesene celetes]]'' Bates, 1868
@@ -17,4 +20,4 @@
 * ''[[Mesene silaris]]'' Godman & Salvin, 1878
 ---- 
 === Referencias ===
-list()
+

@@ -7,9 +7,12 @@
   | familia = [[Lycaenidae]]
   | genus = ''Siderus''
 }}
+
+Género de mariposas de la familia Lycaenidae con 8 especies a nivel global y 137 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Siderus leucophaeus]]'' (Hübner, [1813])
 ---- 
 === Referencias ===
-list()
+

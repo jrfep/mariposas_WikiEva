@@ -7,9 +7,12 @@
   | familia = [[Riodinidae]]
   | genus = ''Perophthalma''
 }}
+
+Género de mariposas de la familia Riodinidae con 3 especies a nivel global y 148 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Perophthalma tullius]]'' (Fabricius, 1787)
 ---- 
 === Referencias ===
-list()
+

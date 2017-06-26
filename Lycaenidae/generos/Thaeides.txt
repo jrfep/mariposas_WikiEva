@@ -7,9 +7,12 @@
   | familia = [[Lycaenidae]]
   | genus = ''Thaeides''
 }}
+
+Género de mariposas de la familia Lycaenidae con 5 especies a nivel global y 137 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Thaeides pyrczi]]'' (Johnson, Le Crom & Constantino, 1997)
 ---- 
 === Referencias ===
-list()
+

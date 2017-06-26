@@ -7,10 +7,13 @@
   | familia = [[Lycaenidae]]
   | genus = ''Michaelus''
 }}
+
+Género de mariposas de la familia Lycaenidae con 5 especies a nivel global y 137 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Michaelus ira]]'' (Hewitson, 1867)
 * ''[[Michaelus thordesa]]'' (Hewitson, 1867)
 ---- 
 === Referencias ===
-list()
+

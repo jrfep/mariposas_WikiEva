@@ -7,9 +7,12 @@
   | familia = [[Riodinidae]]
   | genus = ''Ancyluris''
 }}
+
+Género de mariposas de la familia Riodinidae con 15 especies a nivel global y 148 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Ancyluris colubra]]'' (Saunders, 1859)
 ---- 
 === Referencias ===
-list()
+

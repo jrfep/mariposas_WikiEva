@@ -7,6 +7,9 @@
   | familia = [[Riodinidae]]
   | genus = ''Eurybia''
 }}
+
+Género de mariposas de la familia Riodinidae con 21 especies a nivel global y 148 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Eurybia caerulescens]]'' Druce, 1904
@@ -14,4 +17,4 @@
 * ''[[Eurybia nicaeus]]'' (Fabricius, 1775)
 ---- 
 === Referencias ===
-list()
+

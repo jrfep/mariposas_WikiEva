@@ -7,7 +7,353 @@
   | familia = [[Pieridae]]
   | genus = ''Cunizza''
 }}
-Género de Mariposas de la familia Pieridae con 1 especies a nivel global y 122 especies en Venezuela.
+
+Género de mariposas de la familia Pieridae con 1 especies a nivel global y 122 especies en Venezuela.
+
+=== Especies === 
+---- 
+* ''[[Cunizza hirlanda]]'' (Stoll, 1790)
+---- 
+=== Referencias ===
+* Ferrer-Paris, José R. (2008): Patrones de distribución y abundancia en mariposas piérides (Lepidoptera: Pieridae) a diferentes escalas geográficas]. Tesis Doctoral, Centro de Estudios Avanzados, Intituto Venezolano de Investigaciones Científicas. Altos de Pipe, Venezuela. doi:[http://dx.doi.org/10.6084/m9.figshare.1094411 10.6084/m9.figshare.1094411]
+* Ferrer-Paris, José R.; Jon Paul Rodríguez; Tatjana Good; Ada Y. Sánchez-Mercado; Kathryn M. Rodríguez-Clark; Gustavo A. Rodríguez; A. Solis (2013): Systematic, large-scale national biodiversity surveys: NeoMaps as a model for tropical regions. Diversity and Distributions 19(2): 215-231 doi:[http://dx.doi.org/10.1111/ddi.12012 10.1111/ddi.12012]. 
+* J. Gonzáles, A. Orellana and G. Lamas. “Adiciones, rectificacionesy actualizaciones a "Mariposas de Venezuela" por Théophile Raymond. IV.Pieridae y Hesperiidae (Lepidoptera)”. In: ''Entomotropica'' 20.3 (2005),pp. 265-269.
+* T. Raymond. ''Mariposas de Venezuela''. Ediciones Corpoven, 1982.
+* F. Rey. ''Distribución geográfica de Pieridae (Insecta: Lepidoptera)del estado Táchira''. publicado en linea, última visita en Agosto 2007.1999. <URL:http://www.unet.edu.ve/~frey/varios/entomologia/mariposas/mar/>.
+* M. F. Sandoval, A. Fernandez-Badillo and J. M. González. “Mariposas(Insecta: Lepidoptera) del Parque Henri Pittier, Venezuela: Lista,distribución y algunas notas sobre su historia natural”. In: ''Alcance''70 (2007), pp. 1-140.
+ {{Ficha de taxón
+  | name = Cunizza
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Pieridae]]
+  | genus = ''Cunizza''
+}}
+
+Género de mariposas de la familia Pieridae con 1 especies a nivel global y 122 especies en Venezuela.
+
+=== Especies === 
+---- 
+* ''[[Cunizza hirlanda]]'' (Stoll, 1790)
+---- 
+=== Referencias ===
+* Ferrer-Paris, José R. (2008): Patrones de distribución y abundancia en mariposas piérides (Lepidoptera: Pieridae) a diferentes escalas geográficas]. Tesis Doctoral, Centro de Estudios Avanzados, Intituto Venezolano de Investigaciones Científicas. Altos de Pipe, Venezuela. doi:[http://dx.doi.org/10.6084/m9.figshare.1094411 10.6084/m9.figshare.1094411]
+* Ferrer-Paris, José R.; Jon Paul Rodríguez; Tatjana Good; Ada Y. Sánchez-Mercado; Kathryn M. Rodríguez-Clark; Gustavo A. Rodríguez; A. Solis (2013): Systematic, large-scale national biodiversity surveys: NeoMaps as a model for tropical regions. Diversity and Distributions 19(2): 215-231 doi:[http://dx.doi.org/10.1111/ddi.12012 10.1111/ddi.12012]. 
+* J. Gonzáles, A. Orellana and G. Lamas. “Adiciones, rectificacionesy actualizaciones a "Mariposas de Venezuela" por Théophile Raymond. IV.Pieridae y Hesperiidae (Lepidoptera)”. In: ''Entomotropica'' 20.3 (2005),pp. 265-269.
+* T. Raymond. ''Mariposas de Venezuela''. Ediciones Corpoven, 1982.
+* F. Rey. ''Distribución geográfica de Pieridae (Insecta: Lepidoptera)del estado Táchira''. publicado en linea, última visita en Agosto 2007.1999. <URL:http://www.unet.edu.ve/~frey/varios/entomologia/mariposas/mar/>.
+* M. F. Sandoval, A. Fernandez-Badillo and J. M. González. “Mariposas(Insecta: Lepidoptera) del Parque Henri Pittier, Venezuela: Lista,distribución y algunas notas sobre su historia natural”. In: ''Alcance''70 (2007), pp. 1-140.
+ {{Ficha de taxón
+  | name = Cunizza
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Pieridae]]
+  | genus = ''Cunizza''
+}}
+
+Género de mariposas de la familia Pieridae con 1 especies a nivel global y 122 especies en Venezuela.
+
+=== Especies === 
+---- 
+* ''[[Cunizza hirlanda]]'' (Stoll, 1790)
+---- 
+=== Referencias ===
+* Ferrer-Paris, José R. (2008): Patrones de distribución y abundancia en mariposas piérides (Lepidoptera: Pieridae) a diferentes escalas geográficas]. Tesis Doctoral, Centro de Estudios Avanzados, Intituto Venezolano de Investigaciones Científicas. Altos de Pipe, Venezuela. doi:[http://dx.doi.org/10.6084/m9.figshare.1094411 10.6084/m9.figshare.1094411]
+* Ferrer-Paris, José R.; Jon Paul Rodríguez; Tatjana Good; Ada Y. Sánchez-Mercado; Kathryn M. Rodríguez-Clark; Gustavo A. Rodríguez; A. Solis (2013): Systematic, large-scale national biodiversity surveys: NeoMaps as a model for tropical regions. Diversity and Distributions 19(2): 215-231 doi:[http://dx.doi.org/10.1111/ddi.12012 10.1111/ddi.12012]. 
+* J. Gonzáles, A. Orellana and G. Lamas. “Adiciones, rectificacionesy actualizaciones a "Mariposas de Venezuela" por Théophile Raymond. IV.Pieridae y Hesperiidae (Lepidoptera)”. In: ''Entomotropica'' 20.3 (2005),pp. 265-269.
+* T. Raymond. ''Mariposas de Venezuela''. Ediciones Corpoven, 1982.
+* F. Rey. ''Distribución geográfica de Pieridae (Insecta: Lepidoptera)del estado Táchira''. publicado en linea, última visita en Agosto 2007.1999. <URL:http://www.unet.edu.ve/~frey/varios/entomologia/mariposas/mar/>.
+* M. F. Sandoval, A. Fernandez-Badillo and J. M. González. “Mariposas(Insecta: Lepidoptera) del Parque Henri Pittier, Venezuela: Lista,distribución y algunas notas sobre su historia natural”. In: ''Alcance''70 (2007), pp. 1-140.
+ {{Ficha de taxón
+  | name = Cunizza
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Pieridae]]
+  | genus = ''Cunizza''
+}}
+
+Género de mariposas de la familia Pieridae con 1 especies a nivel global y 122 especies en Venezuela.
+
+=== Especies === 
+---- 
+* ''[[Cunizza hirlanda]]'' (Stoll, 1790)
+---- 
+=== Referencias ===
+* Ferrer-Paris, José R. (2008): Patrones de distribución y abundancia en mariposas piérides (Lepidoptera: Pieridae) a diferentes escalas geográficas]. Tesis Doctoral, Centro de Estudios Avanzados, Intituto Venezolano de Investigaciones Científicas. Altos de Pipe, Venezuela. doi:[http://dx.doi.org/10.6084/m9.figshare.1094411 10.6084/m9.figshare.1094411]
+* Ferrer-Paris, José R.; Jon Paul Rodríguez; Tatjana Good; Ada Y. Sánchez-Mercado; Kathryn M. Rodríguez-Clark; Gustavo A. Rodríguez; A. Solis (2013): Systematic, large-scale national biodiversity surveys: NeoMaps as a model for tropical regions. Diversity and Distributions 19(2): 215-231 doi:[http://dx.doi.org/10.1111/ddi.12012 10.1111/ddi.12012]. 
+* J. Gonzáles, A. Orellana and G. Lamas. “Adiciones, rectificacionesy actualizaciones a "Mariposas de Venezuela" por Théophile Raymond. IV.Pieridae y Hesperiidae (Lepidoptera)”. In: ''Entomotropica'' 20.3 (2005),pp. 265-269.
+* T. Raymond. ''Mariposas de Venezuela''. Ediciones Corpoven, 1982.
+* F. Rey. ''Distribución geográfica de Pieridae (Insecta: Lepidoptera)del estado Táchira''. publicado en linea, última visita en Agosto 2007.1999. <URL:http://www.unet.edu.ve/~frey/varios/entomologia/mariposas/mar/>.
+* M. F. Sandoval, A. Fernandez-Badillo and J. M. González. “Mariposas(Insecta: Lepidoptera) del Parque Henri Pittier, Venezuela: Lista,distribución y algunas notas sobre su historia natural”. In: ''Alcance''70 (2007), pp. 1-140.
+ {{Ficha de taxón
+  | name = Cunizza
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Pieridae]]
+  | genus = ''Cunizza''
+}}
+
+Género de mariposas de la familia Pieridae con 1 especies a nivel global y 122 especies en Venezuela.
+
+=== Especies === 
+---- 
+* ''[[Cunizza hirlanda]]'' (Stoll, 1790)
+---- 
+=== Referencias ===
+* Ferrer-Paris, José R. (2008): Patrones de distribución y abundancia en mariposas piérides (Lepidoptera: Pieridae) a diferentes escalas geográficas]. Tesis Doctoral, Centro de Estudios Avanzados, Intituto Venezolano de Investigaciones Científicas. Altos de Pipe, Venezuela. doi:[http://dx.doi.org/10.6084/m9.figshare.1094411 10.6084/m9.figshare.1094411]
+* Ferrer-Paris, José R.; Jon Paul Rodríguez; Tatjana Good; Ada Y. Sánchez-Mercado; Kathryn M. Rodríguez-Clark; Gustavo A. Rodríguez; A. Solis (2013): Systematic, large-scale national biodiversity surveys: NeoMaps as a model for tropical regions. Diversity and Distributions 19(2): 215-231 doi:[http://dx.doi.org/10.1111/ddi.12012 10.1111/ddi.12012]. 
+* J. Gonzáles, A. Orellana and G. Lamas. “Adiciones, rectificacionesy actualizaciones a "Mariposas de Venezuela" por Théophile Raymond. IV.Pieridae y Hesperiidae (Lepidoptera)”. In: ''Entomotropica'' 20.3 (2005),pp. 265-269.
+* T. Raymond. ''Mariposas de Venezuela''. Ediciones Corpoven, 1982.
+* F. Rey. ''Distribución geográfica de Pieridae (Insecta: Lepidoptera)del estado Táchira''. publicado en linea, última visita en Agosto 2007.1999. <URL:http://www.unet.edu.ve/~frey/varios/entomologia/mariposas/mar/>.
+* M. F. Sandoval, A. Fernandez-Badillo and J. M. González. “Mariposas(Insecta: Lepidoptera) del Parque Henri Pittier, Venezuela: Lista,distribución y algunas notas sobre su historia natural”. In: ''Alcance''70 (2007), pp. 1-140.
+ {{Ficha de taxón
+  | name = Cunizza
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Pieridae]]
+  | genus = ''Cunizza''
+}}
+
+Género de mariposas de la familia Pieridae con 1 especies a nivel global y 122 especies en Venezuela.
+
+=== Especies === 
+---- 
+* ''[[Cunizza hirlanda]]'' (Stoll, 1790)
+---- 
+=== Referencias ===
+* Ferrer-Paris, José R. (2008): Patrones de distribución y abundancia en mariposas piérides (Lepidoptera: Pieridae) a diferentes escalas geográficas]. Tesis Doctoral, Centro de Estudios Avanzados, Intituto Venezolano de Investigaciones Científicas. Altos de Pipe, Venezuela. doi:[http://dx.doi.org/10.6084/m9.figshare.1094411 10.6084/m9.figshare.1094411]
+* Ferrer-Paris, José R.; Jon Paul Rodríguez; Tatjana Good; Ada Y. Sánchez-Mercado; Kathryn M. Rodríguez-Clark; Gustavo A. Rodríguez; A. Solis (2013): Systematic, large-scale national biodiversity surveys: NeoMaps as a model for tropical regions. Diversity and Distributions 19(2): 215-231 doi:[http://dx.doi.org/10.1111/ddi.12012 10.1111/ddi.12012]. 
+* J. Gonzáles, A. Orellana and G. Lamas. “Adiciones, rectificacionesy actualizaciones a "Mariposas de Venezuela" por Théophile Raymond. IV.Pieridae y Hesperiidae (Lepidoptera)”. In: ''Entomotropica'' 20.3 (2005),pp. 265-269.
+* T. Raymond. ''Mariposas de Venezuela''. Ediciones Corpoven, 1982.
+* F. Rey. ''Distribución geográfica de Pieridae (Insecta: Lepidoptera)del estado Táchira''. publicado en linea, última visita en Agosto 2007.1999. <URL:http://www.unet.edu.ve/~frey/varios/entomologia/mariposas/mar/>.
+* M. F. Sandoval, A. Fernandez-Badillo and J. M. González. “Mariposas(Insecta: Lepidoptera) del Parque Henri Pittier, Venezuela: Lista,distribución y algunas notas sobre su historia natural”. In: ''Alcance''70 (2007), pp. 1-140.
+ {{Ficha de taxón
+  | name = Cunizza
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Pieridae]]
+  | genus = ''Cunizza''
+}}
+
+Género de mariposas de la familia Pieridae con 1 especies a nivel global y 122 especies en Venezuela.
+
+=== Especies === 
+---- 
+* ''[[Cunizza hirlanda]]'' (Stoll, 1790)
+---- 
+=== Referencias ===
+* Ferrer-Paris, José R. (2008): Patrones de distribución y abundancia en mariposas piérides (Lepidoptera: Pieridae) a diferentes escalas geográficas]. Tesis Doctoral, Centro de Estudios Avanzados, Intituto Venezolano de Investigaciones Científicas. Altos de Pipe, Venezuela. doi:[http://dx.doi.org/10.6084/m9.figshare.1094411 10.6084/m9.figshare.1094411]
+* Ferrer-Paris, José R.; Jon Paul Rodríguez; Tatjana Good; Ada Y. Sánchez-Mercado; Kathryn M. Rodríguez-Clark; Gustavo A. Rodríguez; A. Solis (2013): Systematic, large-scale national biodiversity surveys: NeoMaps as a model for tropical regions. Diversity and Distributions 19(2): 215-231 doi:[http://dx.doi.org/10.1111/ddi.12012 10.1111/ddi.12012]. 
+* J. Gonzáles, A. Orellana and G. Lamas. “Adiciones, rectificacionesy actualizaciones a "Mariposas de Venezuela" por Théophile Raymond. IV.Pieridae y Hesperiidae (Lepidoptera)”. In: ''Entomotropica'' 20.3 (2005),pp. 265-269.
+* T. Raymond. ''Mariposas de Venezuela''. Ediciones Corpoven, 1982.
+* F. Rey. ''Distribución geográfica de Pieridae (Insecta: Lepidoptera)del estado Táchira''. publicado en linea, última visita en Agosto 2007.1999. <URL:http://www.unet.edu.ve/~frey/varios/entomologia/mariposas/mar/>.
+* M. F. Sandoval, A. Fernandez-Badillo and J. M. González. “Mariposas(Insecta: Lepidoptera) del Parque Henri Pittier, Venezuela: Lista,distribución y algunas notas sobre su historia natural”. In: ''Alcance''70 (2007), pp. 1-140.
+ {{Ficha de taxón
+  | name = Cunizza
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Pieridae]]
+  | genus = ''Cunizza''
+}}
+
+Género de mariposas de la familia Pieridae con 1 especies a nivel global y 122 especies en Venezuela.
+
+=== Especies === 
+---- 
+* ''[[Cunizza hirlanda]]'' (Stoll, 1790)
+---- 
+=== Referencias ===
+* Ferrer-Paris, José R. (2008): Patrones de distribución y abundancia en mariposas piérides (Lepidoptera: Pieridae) a diferentes escalas geográficas]. Tesis Doctoral, Centro de Estudios Avanzados, Intituto Venezolano de Investigaciones Científicas. Altos de Pipe, Venezuela. doi:[http://dx.doi.org/10.6084/m9.figshare.1094411 10.6084/m9.figshare.1094411]
+* Ferrer-Paris, José R.; Jon Paul Rodríguez; Tatjana Good; Ada Y. Sánchez-Mercado; Kathryn M. Rodríguez-Clark; Gustavo A. Rodríguez; A. Solis (2013): Systematic, large-scale national biodiversity surveys: NeoMaps as a model for tropical regions. Diversity and Distributions 19(2): 215-231 doi:[http://dx.doi.org/10.1111/ddi.12012 10.1111/ddi.12012]. 
+* J. Gonzáles, A. Orellana and G. Lamas. “Adiciones, rectificacionesy actualizaciones a "Mariposas de Venezuela" por Théophile Raymond. IV.Pieridae y Hesperiidae (Lepidoptera)”. In: ''Entomotropica'' 20.3 (2005),pp. 265-269.
+* T. Raymond. ''Mariposas de Venezuela''. Ediciones Corpoven, 1982.
+* F. Rey. ''Distribución geográfica de Pieridae (Insecta: Lepidoptera)del estado Táchira''. publicado en linea, última visita en Agosto 2007.1999. <URL:http://www.unet.edu.ve/~frey/varios/entomologia/mariposas/mar/>.
+* M. F. Sandoval, A. Fernandez-Badillo and J. M. González. “Mariposas(Insecta: Lepidoptera) del Parque Henri Pittier, Venezuela: Lista,distribución y algunas notas sobre su historia natural”. In: ''Alcance''70 (2007), pp. 1-140.
+ {{Ficha de taxón
+  | name = Cunizza
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Pieridae]]
+  | genus = ''Cunizza''
+}}
+
+Género de mariposas de la familia Pieridae con 1 especies a nivel global y 122 especies en Venezuela.
+
+=== Especies === 
+---- 
+* ''[[Cunizza hirlanda]]'' (Stoll, 1790)
+---- 
+=== Referencias ===
+* Ferrer-Paris, José R. (2008): Patrones de distribución y abundancia en mariposas piérides (Lepidoptera: Pieridae) a diferentes escalas geográficas]. Tesis Doctoral, Centro de Estudios Avanzados, Intituto Venezolano de Investigaciones Científicas. Altos de Pipe, Venezuela. doi:[http://dx.doi.org/10.6084/m9.figshare.1094411 10.6084/m9.figshare.1094411]
+* Ferrer-Paris, José R.; Jon Paul Rodríguez; Tatjana Good; Ada Y. Sánchez-Mercado; Kathryn M. Rodríguez-Clark; Gustavo A. Rodríguez; A. Solis (2013): Systematic, large-scale national biodiversity surveys: NeoMaps as a model for tropical regions. Diversity and Distributions 19(2): 215-231 doi:[http://dx.doi.org/10.1111/ddi.12012 10.1111/ddi.12012]. 
+* J. Gonzáles, A. Orellana and G. Lamas. “Adiciones, rectificacionesy actualizaciones a "Mariposas de Venezuela" por Théophile Raymond. IV.Pieridae y Hesperiidae (Lepidoptera)”. In: ''Entomotropica'' 20.3 (2005),pp. 265-269.
+* T. Raymond. ''Mariposas de Venezuela''. Ediciones Corpoven, 1982.
+* F. Rey. ''Distribución geográfica de Pieridae (Insecta: Lepidoptera)del estado Táchira''. publicado en linea, última visita en Agosto 2007.1999. <URL:http://www.unet.edu.ve/~frey/varios/entomologia/mariposas/mar/>.
+* M. F. Sandoval, A. Fernandez-Badillo and J. M. González. “Mariposas(Insecta: Lepidoptera) del Parque Henri Pittier, Venezuela: Lista,distribución y algunas notas sobre su historia natural”. In: ''Alcance''70 (2007), pp. 1-140.
+ {{Ficha de taxón
+  | name = Cunizza
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Pieridae]]
+  | genus = ''Cunizza''
+}}
+
+Género de mariposas de la familia Pieridae con 1 especies a nivel global y 122 especies en Venezuela.
+
+=== Especies === 
+---- 
+* ''[[Cunizza hirlanda]]'' (Stoll, 1790)
+---- 
+=== Referencias ===
+* Ferrer-Paris, José R. (2008): Patrones de distribución y abundancia en mariposas piérides (Lepidoptera: Pieridae) a diferentes escalas geográficas]. Tesis Doctoral, Centro de Estudios Avanzados, Intituto Venezolano de Investigaciones Científicas. Altos de Pipe, Venezuela. doi:[http://dx.doi.org/10.6084/m9.figshare.1094411 10.6084/m9.figshare.1094411]
+* Ferrer-Paris, José R.; Jon Paul Rodríguez; Tatjana Good; Ada Y. Sánchez-Mercado; Kathryn M. Rodríguez-Clark; Gustavo A. Rodríguez; A. Solis (2013): Systematic, large-scale national biodiversity surveys: NeoMaps as a model for tropical regions. Diversity and Distributions 19(2): 215-231 doi:[http://dx.doi.org/10.1111/ddi.12012 10.1111/ddi.12012]. 
+* J. Gonzáles, A. Orellana and G. Lamas. “Adiciones, rectificacionesy actualizaciones a "Mariposas de Venezuela" por Théophile Raymond. IV.Pieridae y Hesperiidae (Lepidoptera)”. In: ''Entomotropica'' 20.3 (2005),pp. 265-269.
+* T. Raymond. ''Mariposas de Venezuela''. Ediciones Corpoven, 1982.
+* F. Rey. ''Distribución geográfica de Pieridae (Insecta: Lepidoptera)del estado Táchira''. publicado en linea, última visita en Agosto 2007.1999. <URL:http://www.unet.edu.ve/~frey/varios/entomologia/mariposas/mar/>.
+* M. F. Sandoval, A. Fernandez-Badillo and J. M. González. “Mariposas(Insecta: Lepidoptera) del Parque Henri Pittier, Venezuela: Lista,distribución y algunas notas sobre su historia natural”. In: ''Alcance''70 (2007), pp. 1-140.
+ {{Ficha de taxón
+  | name = Cunizza
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Pieridae]]
+  | genus = ''Cunizza''
+}}
+
+Género de mariposas de la familia Pieridae con 1 especies a nivel global y 122 especies en Venezuela.
+
+=== Especies === 
+---- 
+* ''[[Cunizza hirlanda]]'' (Stoll, 1790)
+---- 
+=== Referencias ===
+* Ferrer-Paris, José R. (2008): Patrones de distribución y abundancia en mariposas piérides (Lepidoptera: Pieridae) a diferentes escalas geográficas]. Tesis Doctoral, Centro de Estudios Avanzados, Intituto Venezolano de Investigaciones Científicas. Altos de Pipe, Venezuela. doi:[http://dx.doi.org/10.6084/m9.figshare.1094411 10.6084/m9.figshare.1094411]
+* Ferrer-Paris, José R.; Jon Paul Rodríguez; Tatjana Good; Ada Y. Sánchez-Mercado; Kathryn M. Rodríguez-Clark; Gustavo A. Rodríguez; A. Solis (2013): Systematic, large-scale national biodiversity surveys: NeoMaps as a model for tropical regions. Diversity and Distributions 19(2): 215-231 doi:[http://dx.doi.org/10.1111/ddi.12012 10.1111/ddi.12012]. 
+* J. Gonzáles, A. Orellana and G. Lamas. “Adiciones, rectificacionesy actualizaciones a "Mariposas de Venezuela" por Théophile Raymond. IV.Pieridae y Hesperiidae (Lepidoptera)”. In: ''Entomotropica'' 20.3 (2005),pp. 265-269.
+* T. Raymond. ''Mariposas de Venezuela''. Ediciones Corpoven, 1982.
+* F. Rey. ''Distribución geográfica de Pieridae (Insecta: Lepidoptera)del estado Táchira''. publicado en linea, última visita en Agosto 2007.1999. <URL:http://www.unet.edu.ve/~frey/varios/entomologia/mariposas/mar/>.
+* M. F. Sandoval, A. Fernandez-Badillo and J. M. González. “Mariposas(Insecta: Lepidoptera) del Parque Henri Pittier, Venezuela: Lista,distribución y algunas notas sobre su historia natural”. In: ''Alcance''70 (2007), pp. 1-140.
+ {{Ficha de taxón
+  | name = Cunizza
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Pieridae]]
+  | genus = ''Cunizza''
+}}
+
+Género de mariposas de la familia Pieridae con 1 especies a nivel global y 122 especies en Venezuela.
+
+=== Especies === 
+---- 
+* ''[[Cunizza hirlanda]]'' (Stoll, 1790)
+---- 
+=== Referencias ===
+* Ferrer-Paris, José R. (2008): Patrones de distribución y abundancia en mariposas piérides (Lepidoptera: Pieridae) a diferentes escalas geográficas]. Tesis Doctoral, Centro de Estudios Avanzados, Intituto Venezolano de Investigaciones Científicas. Altos de Pipe, Venezuela. doi:[http://dx.doi.org/10.6084/m9.figshare.1094411 10.6084/m9.figshare.1094411]
+* Ferrer-Paris, José R.; Jon Paul Rodríguez; Tatjana Good; Ada Y. Sánchez-Mercado; Kathryn M. Rodríguez-Clark; Gustavo A. Rodríguez; A. Solis (2013): Systematic, large-scale national biodiversity surveys: NeoMaps as a model for tropical regions. Diversity and Distributions 19(2): 215-231 doi:[http://dx.doi.org/10.1111/ddi.12012 10.1111/ddi.12012]. 
+* J. Gonzáles, A. Orellana and G. Lamas. “Adiciones, rectificacionesy actualizaciones a "Mariposas de Venezuela" por Théophile Raymond. IV.Pieridae y Hesperiidae (Lepidoptera)”. In: ''Entomotropica'' 20.3 (2005),pp. 265-269.
+* T. Raymond. ''Mariposas de Venezuela''. Ediciones Corpoven, 1982.
+* F. Rey. ''Distribución geográfica de Pieridae (Insecta: Lepidoptera)del estado Táchira''. publicado en linea, última visita en Agosto 2007.1999. <URL:http://www.unet.edu.ve/~frey/varios/entomologia/mariposas/mar/>.
+* M. F. Sandoval, A. Fernandez-Badillo and J. M. González. “Mariposas(Insecta: Lepidoptera) del Parque Henri Pittier, Venezuela: Lista,distribución y algunas notas sobre su historia natural”. In: ''Alcance''70 (2007), pp. 1-140.
+ {{Ficha de taxón
+  | name = Cunizza
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Pieridae]]
+  | genus = ''Cunizza''
+}}
+
+Género de mariposas de la familia Pieridae con 1 especies a nivel global y 122 especies en Venezuela.
+
+=== Especies === 
+---- 
+* ''[[Cunizza hirlanda]]'' (Stoll, 1790)
+---- 
+=== Referencias ===
+* Ferrer-Paris, José R. (2008): Patrones de distribución y abundancia en mariposas piérides (Lepidoptera: Pieridae) a diferentes escalas geográficas]. Tesis Doctoral, Centro de Estudios Avanzados, Intituto Venezolano de Investigaciones Científicas. Altos de Pipe, Venezuela. doi:[http://dx.doi.org/10.6084/m9.figshare.1094411 10.6084/m9.figshare.1094411]
+* Ferrer-Paris, José R.; Jon Paul Rodríguez; Tatjana Good; Ada Y. Sánchez-Mercado; Kathryn M. Rodríguez-Clark; Gustavo A. Rodríguez; A. Solis (2013): Systematic, large-scale national biodiversity surveys: NeoMaps as a model for tropical regions. Diversity and Distributions 19(2): 215-231 doi:[http://dx.doi.org/10.1111/ddi.12012 10.1111/ddi.12012]. 
+* J. Gonzáles, A. Orellana and G. Lamas. “Adiciones, rectificacionesy actualizaciones a "Mariposas de Venezuela" por Théophile Raymond. IV.Pieridae y Hesperiidae (Lepidoptera)”. In: ''Entomotropica'' 20.3 (2005),pp. 265-269.
+* T. Raymond. ''Mariposas de Venezuela''. Ediciones Corpoven, 1982.
+* F. Rey. ''Distribución geográfica de Pieridae (Insecta: Lepidoptera)del estado Táchira''. publicado en linea, última visita en Agosto 2007.1999. <URL:http://www.unet.edu.ve/~frey/varios/entomologia/mariposas/mar/>.
+* M. F. Sandoval, A. Fernandez-Badillo and J. M. González. “Mariposas(Insecta: Lepidoptera) del Parque Henri Pittier, Venezuela: Lista,distribución y algunas notas sobre su historia natural”. In: ''Alcance''70 (2007), pp. 1-140.
+ {{Ficha de taxón
+  | name = Cunizza
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Pieridae]]
+  | genus = ''Cunizza''
+}}
+
+Género de mariposas de la familia Pieridae con 1 especies a nivel global y 122 especies en Venezuela.
+
+=== Especies === 
+---- 
+* ''[[Cunizza hirlanda]]'' (Stoll, 1790)
+---- 
+=== Referencias ===
+* Ferrer-Paris, José R. (2008): Patrones de distribución y abundancia en mariposas piérides (Lepidoptera: Pieridae) a diferentes escalas geográficas]. Tesis Doctoral, Centro de Estudios Avanzados, Intituto Venezolano de Investigaciones Científicas. Altos de Pipe, Venezuela. doi:[http://dx.doi.org/10.6084/m9.figshare.1094411 10.6084/m9.figshare.1094411]
+* Ferrer-Paris, José R.; Jon Paul Rodríguez; Tatjana Good; Ada Y. Sánchez-Mercado; Kathryn M. Rodríguez-Clark; Gustavo A. Rodríguez; A. Solis (2013): Systematic, large-scale national biodiversity surveys: NeoMaps as a model for tropical regions. Diversity and Distributions 19(2): 215-231 doi:[http://dx.doi.org/10.1111/ddi.12012 10.1111/ddi.12012]. 
+* J. Gonzáles, A. Orellana and G. Lamas. “Adiciones, rectificacionesy actualizaciones a "Mariposas de Venezuela" por Théophile Raymond. IV.Pieridae y Hesperiidae (Lepidoptera)”. In: ''Entomotropica'' 20.3 (2005),pp. 265-269.
+* T. Raymond. ''Mariposas de Venezuela''. Ediciones Corpoven, 1982.
+* F. Rey. ''Distribución geográfica de Pieridae (Insecta: Lepidoptera)del estado Táchira''. publicado en linea, última visita en Agosto 2007.1999. <URL:http://www.unet.edu.ve/~frey/varios/entomologia/mariposas/mar/>.
+* M. F. Sandoval, A. Fernandez-Badillo and J. M. González. “Mariposas(Insecta: Lepidoptera) del Parque Henri Pittier, Venezuela: Lista,distribución y algunas notas sobre su historia natural”. In: ''Alcance''70 (2007), pp. 1-140.
+ {{Ficha de taxón
+  | name = Cunizza
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Pieridae]]
+  | genus = ''Cunizza''
+}}
+
+Género de mariposas de la familia Pieridae con 1 especies a nivel global y 122 especies en Venezuela.
+
+=== Especies === 
+---- 
+* ''[[Cunizza hirlanda]]'' (Stoll, 1790)
+---- 
+=== Referencias ===
+* Ferrer-Paris, José R. (2008): Patrones de distribución y abundancia en mariposas piérides (Lepidoptera: Pieridae) a diferentes escalas geográficas]. Tesis Doctoral, Centro de Estudios Avanzados, Intituto Venezolano de Investigaciones Científicas. Altos de Pipe, Venezuela. doi:[http://dx.doi.org/10.6084/m9.figshare.1094411 10.6084/m9.figshare.1094411]
+* Ferrer-Paris, José R.; Jon Paul Rodríguez; Tatjana Good; Ada Y. Sánchez-Mercado; Kathryn M. Rodríguez-Clark; Gustavo A. Rodríguez; A. Solis (2013): Systematic, large-scale national biodiversity surveys: NeoMaps as a model for tropical regions. Diversity and Distributions 19(2): 215-231 doi:[http://dx.doi.org/10.1111/ddi.12012 10.1111/ddi.12012]. 
+* J. Gonzáles, A. Orellana and G. Lamas. “Adiciones, rectificacionesy actualizaciones a "Mariposas de Venezuela" por Théophile Raymond. IV.Pieridae y Hesperiidae (Lepidoptera)”. In: ''Entomotropica'' 20.3 (2005),pp. 265-269.
+* T. Raymond. ''Mariposas de Venezuela''. Ediciones Corpoven, 1982.
+* F. Rey. ''Distribución geográfica de Pieridae (Insecta: Lepidoptera)del estado Táchira''. publicado en linea, última visita en Agosto 2007.1999. <URL:http://www.unet.edu.ve/~frey/varios/entomologia/mariposas/mar/>.
+* M. F. Sandoval, A. Fernandez-Badillo and J. M. González. “Mariposas(Insecta: Lepidoptera) del Parque Henri Pittier, Venezuela: Lista,distribución y algunas notas sobre su historia natural”. In: ''Alcance''70 (2007), pp. 1-140.
+ {{Ficha de taxón
+  | name = Cunizza
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Pieridae]]
+  | genus = ''Cunizza''
+}}
+
+Género de mariposas de la familia Pieridae con 1 especies a nivel global y 122 especies en Venezuela.
 
 === Especies === 
 ---- 

@@ -7,6 +7,9 @@
   | familia = [[Lycaenidae]]
   | genus = ''Janthecla''
 }}
+
+Género de mariposas de la familia Lycaenidae con 10 especies a nivel global y 137 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Janthecla janthina]]'' (Hewitson, 1867)
@@ -15,4 +18,4 @@
 * ''[[Janthecla sista]]'' (Hewitson, 1867)
 ---- 
 === Referencias ===
-list()
+* Robbins & Venables (1991) SYNOPSIS OF A NEW NEOTROPICAL HAIRSTREAK GENUS, JANTHECLA, AND DESCRIPTION OF A NEW SPECIES (LYCAENIDAE). Journal of the Lepidopterists' Society 45(1): 11-33

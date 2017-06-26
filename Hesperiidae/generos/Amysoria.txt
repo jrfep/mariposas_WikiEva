@@ -7,7 +7,46 @@
   | familia = [[Hesperiidae]]
   | genus = ''Amysoria''
 }}
-Género de Mariposas de la familia Hesperiidae con 1 especies a nivel global y 320 especies en Venezuela.
+
+Género de mariposas de la familia Hesperiidae con 1 especies a nivel global y 320 especies en Venezuela.
+
+=== Especies === 
+---- 
+* ''[[Amysoria galgala]]'' (Hewitson, 1866)
+---- 
+=== Referencias ===
+* Ferrer-Paris, José R.; Paul Rodríguez, Jon; Y. Sánchez-Mercado, Ada; A. Rodríguez, Gustavo (2014): Informe de resultados de muestreos de NeoMapas a nivel nacional 2001 a 2010. figshare. doi:[https://dx.doi.org/10.6084/m9.figshare.1094280 10.6084/m9.figshare.1094280]. 
+* A. Orellana. “Contribución al conocimiento de los PyrrhopyginaeºdeVenezuela (Insecta: Lepidoptera: Hesperiidae)”. MA Thesis. Facultad deAgronomia, Universidad Central de Venezuela, 2006.
+ {{Ficha de taxón
+  | name = Amysoria
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Amysoria''
+}}
+
+Género de mariposas de la familia Hesperiidae con 1 especies a nivel global y 320 especies en Venezuela.
+
+=== Especies === 
+---- 
+* ''[[Amysoria galgala]]'' (Hewitson, 1866)
+---- 
+=== Referencias ===
+* Ferrer-Paris, José R.; Paul Rodríguez, Jon; Y. Sánchez-Mercado, Ada; A. Rodríguez, Gustavo (2014): Informe de resultados de muestreos de NeoMapas a nivel nacional 2001 a 2010. figshare. doi:[https://dx.doi.org/10.6084/m9.figshare.1094280 10.6084/m9.figshare.1094280]. 
+* A. Orellana. “Contribución al conocimiento de los PyrrhopyginaeºdeVenezuela (Insecta: Lepidoptera: Hesperiidae)”. MA Thesis. Facultad deAgronomia, Universidad Central de Venezuela, 2006.
+ {{Ficha de taxón
+  | name = Amysoria
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Hesperiidae]]
+  | genus = ''Amysoria''
+}}
+
+Género de mariposas de la familia Hesperiidae con 1 especies a nivel global y 320 especies en Venezuela.
 
 === Especies === 
 ---- 

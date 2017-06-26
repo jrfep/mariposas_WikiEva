@@ -7,9 +7,12 @@
   | familia = [[Lycaenidae]]
   | genus = ''Mithras''
 }}
+
+Género de mariposas de la familia Lycaenidae con 9 especies a nivel global y 137 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Mithras elis]]'' (Cramer, 1779)
 ---- 
 === Referencias ===
-list()
+

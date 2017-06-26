@@ -7,9 +7,12 @@
   | familia = [[Lycaenidae]]
   | genus = ''Timaeta''
 }}
+
+Género de mariposas de la familia Lycaenidae con 7 especies a nivel global y 137 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Timaeta balzabamba]]'' (Goodson, 1945)
 ---- 
 === Referencias ===
-list()
+

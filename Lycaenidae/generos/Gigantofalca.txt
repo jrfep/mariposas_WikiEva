@@ -7,9 +7,12 @@
   | familia = [[Lycaenidae]]
   | genus = ''Gigantofalca''
 }}
+
+Género de mariposas de la familia Lycaenidae con 0 especies a nivel global y 137 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Gigantofalca duida]]'' Johnson, 1991
 ---- 
 === Referencias ===
-list()
+

@@ -7,6 +7,9 @@
   | familia = [[Riodinidae]]
   | genus = ''Lasaia''
 }}
+
+Género de mariposas de la familia Riodinidae con 14 especies a nivel global y 148 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Lasaia agesilas]]'' (Latreille, [1809])
@@ -15,4 +18,4 @@
 * ''[[Lasaia pseudomeris]]'' Clench, 1972
 ---- 
 === Referencias ===
-list()
+

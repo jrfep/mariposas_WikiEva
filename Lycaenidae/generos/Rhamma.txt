@@ -7,10 +7,13 @@
   | familia = [[Lycaenidae]]
   | genus = ''Rhamma''
 }}
+
+Género de mariposas de la familia Lycaenidae con 27 especies a nivel global y 137 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Rhamma arria]]'' (Hewitson, 1870)
 * ''[[Rhamma commodus]]'' (Felder & Felder, 1865)
 ---- 
 === Referencias ===
-list()
+

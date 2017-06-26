@@ -7,9 +7,12 @@
   | familia = [[Lycaenidae]]
   | genus = ''Phothecla''
 }}
+
+Género de mariposas de la familia Lycaenidae con 2 especies a nivel global y 137 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Phothecla photismos]]'' (Druce, 1907)
 ---- 
 === Referencias ===
-list()
+

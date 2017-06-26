@@ -7,6 +7,9 @@
   | familia = [[Riodinidae]]
   | genus = ''Alesa''
 }}
+
+Género de mariposas de la familia Riodinidae con 8 especies a nivel global y 148 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Alesa amesis]]'' (Cramer, 1777)
@@ -14,4 +17,4 @@
 * ''[[Alesa telephae]]'' (Boisduval, 1836)
 ---- 
 === Referencias ===
-list()
+

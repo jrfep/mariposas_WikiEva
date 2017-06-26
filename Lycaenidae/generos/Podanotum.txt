@@ -7,9 +7,12 @@
   | familia = [[Lycaenidae]]
   | genus = ''Podanotum''
 }}
+
+Género de mariposas de la familia Lycaenidae con 8 especies a nivel global y 137 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Podanotum andrewneildi]]'' Bálint, 2001
 ---- 
 === Referencias ===
-list()
+

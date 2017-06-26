@@ -7,9 +7,12 @@
   | familia = [[Riodinidae]]
   | genus = ''Syrmatia''
 }}
+
+Género de mariposas de la familia Riodinidae con 4 especies a nivel global y 148 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Syrmatia nyx]]'' (Hübner, [1817])
 ---- 
 === Referencias ===
-list()
+

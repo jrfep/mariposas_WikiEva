@@ -7,9 +7,12 @@
   | familia = [[Nymphalidae]]
   | genus = ''Podotricha''
 }}
+
+Género de mariposas de la familia Nymphalidae con 2 especies a nivel global y 658 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Podotricha judith]]'' (Guérin-Méneville, [1844])
 ---- 
 === Referencias ===
-list()
+

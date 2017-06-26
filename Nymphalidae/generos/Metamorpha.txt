@@ -7,9 +7,12 @@
   | familia = [[Nymphalidae]]
   | genus = ''Metamorpha''
 }}
+
+Género de mariposas de la familia Nymphalidae con 1 especies a nivel global y 658 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Metamorpha elissa]]'' Hübner, [1819]
 ---- 
 === Referencias ===
-list()
+

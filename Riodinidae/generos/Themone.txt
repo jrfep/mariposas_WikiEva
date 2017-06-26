@@ -7,9 +7,12 @@
   | familia = [[Riodinidae]]
   | genus = ''Themone''
 }}
+
+Género de mariposas de la familia Riodinidae con 2 especies a nivel global y 148 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Themone pais]]'' (Hübner, [1820])
 ---- 
 === Referencias ===
-list()
+

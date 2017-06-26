@@ -7,9 +7,12 @@
   | familia = [[Riodinidae]]
   | genus = ''Amarynthis''
 }}
+
+Género de mariposas de la familia Riodinidae con 1 especies a nivel global y 148 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Amarynthis meneria]]'' (Cramer, 1776)
 ---- 
 === Referencias ===
-list()
+

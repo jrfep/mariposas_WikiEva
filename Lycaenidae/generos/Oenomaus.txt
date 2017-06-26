@@ -7,6 +7,9 @@
   | familia = [[Lycaenidae]]
   | genus = ''Oenomaus''
 }}
+
+Género de mariposas de la familia Lycaenidae con 7 especies a nivel global y 137 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Oenomaus atena]]'' (Hewitson, 1867)
@@ -17,4 +20,4 @@
 * ''[[Oenomaus melleus]]'' (Druce, 1907)
 ---- 
 === Referencias ===
-list()
+

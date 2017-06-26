@@ -7,6 +7,9 @@
   | familia = [[Nymphalidae]]
   | genus = ''Eresia''
 }}
+
+Género de mariposas de la familia Nymphalidae con 20 especies a nivel global y 658 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Eresia carme]]'' Doubleday, [1847]

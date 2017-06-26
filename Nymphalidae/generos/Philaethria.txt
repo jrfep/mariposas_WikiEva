@@ -7,6 +7,328 @@
   | familia = [[Nymphalidae]]
   | genus = ''Philaethria''
 }}
+
+Género de mariposas de la familia Nymphalidae con 7 especies a nivel global y 658 especies en Venezuela.
+
+=== Especies === 
+---- 
+* ''[[Philaethria andrei]]'' Brévignon, 2002
+* ''[[Philaethria browni]]'' Constantino & Salazar 2010
+* ''[[Philaethria dido]]'' (Linnaeus, 1763)
+* ''[[Philaethria neildi]]'' Constantino & Salazar, 2010
+* ''[[Philaethria ostara]]'' (Röber, 1906)
+* ''[[Philaethria pygmalion]]'' (Fruhstorfer, 1912)
+* ''[[Philaethria romeroi]]'' Constantino & Salazar 2010
+* ''[[Philaethria wernickei]]'' (Röber, 1906)
+---- 
+=== Referencias ===
+* Ferrer-Paris, José R.; Paul Rodríguez, Jon; Y. Sánchez-Mercado, Ada; A. Rodríguez, Gustavo (2014): Informe de resultados de muestreos de NeoMapas a nivel nacional 2001 a 2010. figshare. doi:[https://dx.doi.org/10.6084/m9.figshare.1094280 10.6084/m9.figshare.1094280]. 
+* J. R. Álvarez Sierra and J. R. Álvarez Corral. ''Mariposas diurnasde Venezuela. Introducción a su conocimiento''. Caracas: Editorial Arte,1984.
+* K. S. Brown jr. and F. Fernández Yepez. “Los Heliconiini(Lepidoptera, Nymphalidae) de Venezuela”. In: ''Bolet\'\in deEntomolog\'\ia Venezolana'' 3.4 (1984), pp. 29-73.
+* W. T. M. Forbes. “Note on the butterflies of Venezuelan Guiana”.In: ''Boletin de Entomologia Venezolana'' 1.2 (1942), pp. 25-36.
+* T. Raymond. ''Mariposas de Venezuela''. Ediciones Corpoven, 1982.
+ {{Ficha de taxón
+  | name = Philaethria
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Philaethria''
+}}
+
+Género de mariposas de la familia Nymphalidae con 7 especies a nivel global y 658 especies en Venezuela.
+
+=== Especies === 
+---- 
+* ''[[Philaethria andrei]]'' Brévignon, 2002
+* ''[[Philaethria browni]]'' Constantino & Salazar 2010
+* ''[[Philaethria dido]]'' (Linnaeus, 1763)
+* ''[[Philaethria neildi]]'' Constantino & Salazar, 2010
+* ''[[Philaethria ostara]]'' (Röber, 1906)
+* ''[[Philaethria pygmalion]]'' (Fruhstorfer, 1912)
+* ''[[Philaethria romeroi]]'' Constantino & Salazar 2010
+* ''[[Philaethria wernickei]]'' (Röber, 1906)
+---- 
+=== Referencias ===
+* Ferrer-Paris, José R.; Paul Rodríguez, Jon; Y. Sánchez-Mercado, Ada; A. Rodríguez, Gustavo (2014): Informe de resultados de muestreos de NeoMapas a nivel nacional 2001 a 2010. figshare. doi:[https://dx.doi.org/10.6084/m9.figshare.1094280 10.6084/m9.figshare.1094280]. 
+* J. R. Álvarez Sierra and J. R. Álvarez Corral. ''Mariposas diurnasde Venezuela. Introducción a su conocimiento''. Caracas: Editorial Arte,1984.
+* K. S. Brown jr. and F. Fernández Yepez. “Los Heliconiini(Lepidoptera, Nymphalidae) de Venezuela”. In: ''Bolet\'\in deEntomolog\'\ia Venezolana'' 3.4 (1984), pp. 29-73.
+* W. T. M. Forbes. “Note on the butterflies of Venezuelan Guiana”.In: ''Boletin de Entomologia Venezolana'' 1.2 (1942), pp. 25-36.
+* T. Raymond. ''Mariposas de Venezuela''. Ediciones Corpoven, 1982.
+ {{Ficha de taxón
+  | name = Philaethria
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Philaethria''
+}}
+
+Género de mariposas de la familia Nymphalidae con 7 especies a nivel global y 658 especies en Venezuela.
+
+=== Especies === 
+---- 
+* ''[[Philaethria andrei]]'' Brévignon, 2002
+* ''[[Philaethria browni]]'' Constantino & Salazar 2010
+* ''[[Philaethria dido]]'' (Linnaeus, 1763)
+* ''[[Philaethria neildi]]'' Constantino & Salazar, 2010
+* ''[[Philaethria ostara]]'' (Röber, 1906)
+* ''[[Philaethria pygmalion]]'' (Fruhstorfer, 1912)
+* ''[[Philaethria romeroi]]'' Constantino & Salazar 2010
+* ''[[Philaethria wernickei]]'' (Röber, 1906)
+---- 
+=== Referencias ===
+* Ferrer-Paris, José R.; Paul Rodríguez, Jon; Y. Sánchez-Mercado, Ada; A. Rodríguez, Gustavo (2014): Informe de resultados de muestreos de NeoMapas a nivel nacional 2001 a 2010. figshare. doi:[https://dx.doi.org/10.6084/m9.figshare.1094280 10.6084/m9.figshare.1094280]. 
+* J. R. Álvarez Sierra and J. R. Álvarez Corral. ''Mariposas diurnasde Venezuela. Introducción a su conocimiento''. Caracas: Editorial Arte,1984.
+* K. S. Brown jr. and F. Fernández Yepez. “Los Heliconiini(Lepidoptera, Nymphalidae) de Venezuela”. In: ''Bolet\'\in deEntomolog\'\ia Venezolana'' 3.4 (1984), pp. 29-73.
+* W. T. M. Forbes. “Note on the butterflies of Venezuelan Guiana”.In: ''Boletin de Entomologia Venezolana'' 1.2 (1942), pp. 25-36.
+* T. Raymond. ''Mariposas de Venezuela''. Ediciones Corpoven, 1982.
+ {{Ficha de taxón
+  | name = Philaethria
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Philaethria''
+}}
+
+Género de mariposas de la familia Nymphalidae con 7 especies a nivel global y 658 especies en Venezuela.
+
+=== Especies === 
+---- 
+* ''[[Philaethria andrei]]'' Brévignon, 2002
+* ''[[Philaethria browni]]'' Constantino & Salazar 2010
+* ''[[Philaethria dido]]'' (Linnaeus, 1763)
+* ''[[Philaethria neildi]]'' Constantino & Salazar, 2010
+* ''[[Philaethria ostara]]'' (Röber, 1906)
+* ''[[Philaethria pygmalion]]'' (Fruhstorfer, 1912)
+* ''[[Philaethria romeroi]]'' Constantino & Salazar 2010
+* ''[[Philaethria wernickei]]'' (Röber, 1906)
+---- 
+=== Referencias ===
+* Ferrer-Paris, José R.; Paul Rodríguez, Jon; Y. Sánchez-Mercado, Ada; A. Rodríguez, Gustavo (2014): Informe de resultados de muestreos de NeoMapas a nivel nacional 2001 a 2010. figshare. doi:[https://dx.doi.org/10.6084/m9.figshare.1094280 10.6084/m9.figshare.1094280]. 
+* J. R. Álvarez Sierra and J. R. Álvarez Corral. ''Mariposas diurnasde Venezuela. Introducción a su conocimiento''. Caracas: Editorial Arte,1984.
+* K. S. Brown jr. and F. Fernández Yepez. “Los Heliconiini(Lepidoptera, Nymphalidae) de Venezuela”. In: ''Bolet\'\in deEntomolog\'\ia Venezolana'' 3.4 (1984), pp. 29-73.
+* W. T. M. Forbes. “Note on the butterflies of Venezuelan Guiana”.In: ''Boletin de Entomologia Venezolana'' 1.2 (1942), pp. 25-36.
+* T. Raymond. ''Mariposas de Venezuela''. Ediciones Corpoven, 1982.
+ {{Ficha de taxón
+  | name = Philaethria
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Philaethria''
+}}
+
+Género de mariposas de la familia Nymphalidae con 7 especies a nivel global y 658 especies en Venezuela.
+
+=== Especies === 
+---- 
+* ''[[Philaethria andrei]]'' Brévignon, 2002
+* ''[[Philaethria browni]]'' Constantino & Salazar 2010
+* ''[[Philaethria dido]]'' (Linnaeus, 1763)
+* ''[[Philaethria neildi]]'' Constantino & Salazar, 2010
+* ''[[Philaethria ostara]]'' (Röber, 1906)
+* ''[[Philaethria pygmalion]]'' (Fruhstorfer, 1912)
+* ''[[Philaethria romeroi]]'' Constantino & Salazar 2010
+* ''[[Philaethria wernickei]]'' (Röber, 1906)
+---- 
+=== Referencias ===
+* Ferrer-Paris, José R.; Paul Rodríguez, Jon; Y. Sánchez-Mercado, Ada; A. Rodríguez, Gustavo (2014): Informe de resultados de muestreos de NeoMapas a nivel nacional 2001 a 2010. figshare. doi:[https://dx.doi.org/10.6084/m9.figshare.1094280 10.6084/m9.figshare.1094280]. 
+* J. R. Álvarez Sierra and J. R. Álvarez Corral. ''Mariposas diurnasde Venezuela. Introducción a su conocimiento''. Caracas: Editorial Arte,1984.
+* K. S. Brown jr. and F. Fernández Yepez. “Los Heliconiini(Lepidoptera, Nymphalidae) de Venezuela”. In: ''Bolet\'\in deEntomolog\'\ia Venezolana'' 3.4 (1984), pp. 29-73.
+* W. T. M. Forbes. “Note on the butterflies of Venezuelan Guiana”.In: ''Boletin de Entomologia Venezolana'' 1.2 (1942), pp. 25-36.
+* T. Raymond. ''Mariposas de Venezuela''. Ediciones Corpoven, 1982.
+ {{Ficha de taxón
+  | name = Philaethria
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Philaethria''
+}}
+
+Género de mariposas de la familia Nymphalidae con 7 especies a nivel global y 658 especies en Venezuela.
+
+=== Especies === 
+---- 
+* ''[[Philaethria andrei]]'' Brévignon, 2002
+* ''[[Philaethria browni]]'' Constantino & Salazar 2010
+* ''[[Philaethria dido]]'' (Linnaeus, 1763)
+* ''[[Philaethria neildi]]'' Constantino & Salazar, 2010
+* ''[[Philaethria ostara]]'' (Röber, 1906)
+* ''[[Philaethria pygmalion]]'' (Fruhstorfer, 1912)
+* ''[[Philaethria romeroi]]'' Constantino & Salazar 2010
+* ''[[Philaethria wernickei]]'' (Röber, 1906)
+---- 
+=== Referencias ===
+* Ferrer-Paris, José R.; Paul Rodríguez, Jon; Y. Sánchez-Mercado, Ada; A. Rodríguez, Gustavo (2014): Informe de resultados de muestreos de NeoMapas a nivel nacional 2001 a 2010. figshare. doi:[https://dx.doi.org/10.6084/m9.figshare.1094280 10.6084/m9.figshare.1094280]. 
+* J. R. Álvarez Sierra and J. R. Álvarez Corral. ''Mariposas diurnasde Venezuela. Introducción a su conocimiento''. Caracas: Editorial Arte,1984.
+* K. S. Brown jr. and F. Fernández Yepez. “Los Heliconiini(Lepidoptera, Nymphalidae) de Venezuela”. In: ''Bolet\'\in deEntomolog\'\ia Venezolana'' 3.4 (1984), pp. 29-73.
+* W. T. M. Forbes. “Note on the butterflies of Venezuelan Guiana”.In: ''Boletin de Entomologia Venezolana'' 1.2 (1942), pp. 25-36.
+* T. Raymond. ''Mariposas de Venezuela''. Ediciones Corpoven, 1982.
+ {{Ficha de taxón
+  | name = Philaethria
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Philaethria''
+}}
+
+Género de mariposas de la familia Nymphalidae con 7 especies a nivel global y 658 especies en Venezuela.
+
+=== Especies === 
+---- 
+* ''[[Philaethria andrei]]'' Brévignon, 2002
+* ''[[Philaethria browni]]'' Constantino & Salazar 2010
+* ''[[Philaethria dido]]'' (Linnaeus, 1763)
+* ''[[Philaethria neildi]]'' Constantino & Salazar, 2010
+* ''[[Philaethria ostara]]'' (Röber, 1906)
+* ''[[Philaethria pygmalion]]'' (Fruhstorfer, 1912)
+* ''[[Philaethria romeroi]]'' Constantino & Salazar 2010
+* ''[[Philaethria wernickei]]'' (Röber, 1906)
+---- 
+=== Referencias ===
+* Ferrer-Paris, José R.; Paul Rodríguez, Jon; Y. Sánchez-Mercado, Ada; A. Rodríguez, Gustavo (2014): Informe de resultados de muestreos de NeoMapas a nivel nacional 2001 a 2010. figshare. doi:[https://dx.doi.org/10.6084/m9.figshare.1094280 10.6084/m9.figshare.1094280]. 
+* J. R. Álvarez Sierra and J. R. Álvarez Corral. ''Mariposas diurnasde Venezuela. Introducción a su conocimiento''. Caracas: Editorial Arte,1984.
+* K. S. Brown jr. and F. Fernández Yepez. “Los Heliconiini(Lepidoptera, Nymphalidae) de Venezuela”. In: ''Bolet\'\in deEntomolog\'\ia Venezolana'' 3.4 (1984), pp. 29-73.
+* W. T. M. Forbes. “Note on the butterflies of Venezuelan Guiana”.In: ''Boletin de Entomologia Venezolana'' 1.2 (1942), pp. 25-36.
+* T. Raymond. ''Mariposas de Venezuela''. Ediciones Corpoven, 1982.
+ {{Ficha de taxón
+  | name = Philaethria
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Philaethria''
+}}
+
+Género de mariposas de la familia Nymphalidae con 7 especies a nivel global y 658 especies en Venezuela.
+
+=== Especies === 
+---- 
+* ''[[Philaethria andrei]]'' Brévignon, 2002
+* ''[[Philaethria browni]]'' Constantino & Salazar 2010
+* ''[[Philaethria dido]]'' (Linnaeus, 1763)
+* ''[[Philaethria neildi]]'' Constantino & Salazar, 2010
+* ''[[Philaethria ostara]]'' (Röber, 1906)
+* ''[[Philaethria pygmalion]]'' (Fruhstorfer, 1912)
+* ''[[Philaethria romeroi]]'' Constantino & Salazar 2010
+* ''[[Philaethria wernickei]]'' (Röber, 1906)
+---- 
+=== Referencias ===
+* Ferrer-Paris, José R.; Paul Rodríguez, Jon; Y. Sánchez-Mercado, Ada; A. Rodríguez, Gustavo (2014): Informe de resultados de muestreos de NeoMapas a nivel nacional 2001 a 2010. figshare. doi:[https://dx.doi.org/10.6084/m9.figshare.1094280 10.6084/m9.figshare.1094280]. 
+* J. R. Álvarez Sierra and J. R. Álvarez Corral. ''Mariposas diurnasde Venezuela. Introducción a su conocimiento''. Caracas: Editorial Arte,1984.
+* K. S. Brown jr. and F. Fernández Yepez. “Los Heliconiini(Lepidoptera, Nymphalidae) de Venezuela”. In: ''Bolet\'\in deEntomolog\'\ia Venezolana'' 3.4 (1984), pp. 29-73.
+* W. T. M. Forbes. “Note on the butterflies of Venezuelan Guiana”.In: ''Boletin de Entomologia Venezolana'' 1.2 (1942), pp. 25-36.
+* T. Raymond. ''Mariposas de Venezuela''. Ediciones Corpoven, 1982.
+ {{Ficha de taxón
+  | name = Philaethria
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Philaethria''
+}}
+
+Género de mariposas de la familia Nymphalidae con 7 especies a nivel global y 658 especies en Venezuela.
+
+=== Especies === 
+---- 
+* ''[[Philaethria andrei]]'' Brévignon, 2002
+* ''[[Philaethria browni]]'' Constantino & Salazar 2010
+* ''[[Philaethria dido]]'' (Linnaeus, 1763)
+* ''[[Philaethria neildi]]'' Constantino & Salazar, 2010
+* ''[[Philaethria ostara]]'' (Röber, 1906)
+* ''[[Philaethria pygmalion]]'' (Fruhstorfer, 1912)
+* ''[[Philaethria romeroi]]'' Constantino & Salazar 2010
+* ''[[Philaethria wernickei]]'' (Röber, 1906)
+---- 
+=== Referencias ===
+* Ferrer-Paris, José R.; Paul Rodríguez, Jon; Y. Sánchez-Mercado, Ada; A. Rodríguez, Gustavo (2014): Informe de resultados de muestreos de NeoMapas a nivel nacional 2001 a 2010. figshare. doi:[https://dx.doi.org/10.6084/m9.figshare.1094280 10.6084/m9.figshare.1094280]. 
+* J. R. Álvarez Sierra and J. R. Álvarez Corral. ''Mariposas diurnasde Venezuela. Introducción a su conocimiento''. Caracas: Editorial Arte,1984.
+* K. S. Brown jr. and F. Fernández Yepez. “Los Heliconiini(Lepidoptera, Nymphalidae) de Venezuela”. In: ''Bolet\'\in deEntomolog\'\ia Venezolana'' 3.4 (1984), pp. 29-73.
+* W. T. M. Forbes. “Note on the butterflies of Venezuelan Guiana”.In: ''Boletin de Entomologia Venezolana'' 1.2 (1942), pp. 25-36.
+* T. Raymond. ''Mariposas de Venezuela''. Ediciones Corpoven, 1982.
+ {{Ficha de taxón
+  | name = Philaethria
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Philaethria''
+}}
+
+Género de mariposas de la familia Nymphalidae con 7 especies a nivel global y 658 especies en Venezuela.
+
+=== Especies === 
+---- 
+* ''[[Philaethria andrei]]'' Brévignon, 2002
+* ''[[Philaethria browni]]'' Constantino & Salazar 2010
+* ''[[Philaethria dido]]'' (Linnaeus, 1763)
+* ''[[Philaethria neildi]]'' Constantino & Salazar, 2010
+* ''[[Philaethria ostara]]'' (Röber, 1906)
+* ''[[Philaethria pygmalion]]'' (Fruhstorfer, 1912)
+* ''[[Philaethria romeroi]]'' Constantino & Salazar 2010
+* ''[[Philaethria wernickei]]'' (Röber, 1906)
+---- 
+=== Referencias ===
+* Ferrer-Paris, José R.; Paul Rodríguez, Jon; Y. Sánchez-Mercado, Ada; A. Rodríguez, Gustavo (2014): Informe de resultados de muestreos de NeoMapas a nivel nacional 2001 a 2010. figshare. doi:[https://dx.doi.org/10.6084/m9.figshare.1094280 10.6084/m9.figshare.1094280]. 
+* J. R. Álvarez Sierra and J. R. Álvarez Corral. ''Mariposas diurnasde Venezuela. Introducción a su conocimiento''. Caracas: Editorial Arte,1984.
+* K. S. Brown jr. and F. Fernández Yepez. “Los Heliconiini(Lepidoptera, Nymphalidae) de Venezuela”. In: ''Bolet\'\in deEntomolog\'\ia Venezolana'' 3.4 (1984), pp. 29-73.
+* W. T. M. Forbes. “Note on the butterflies of Venezuelan Guiana”.In: ''Boletin de Entomologia Venezolana'' 1.2 (1942), pp. 25-36.
+* T. Raymond. ''Mariposas de Venezuela''. Ediciones Corpoven, 1982.
+ {{Ficha de taxón
+  | name = Philaethria
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Philaethria''
+}}
+
+Género de mariposas de la familia Nymphalidae con 7 especies a nivel global y 658 especies en Venezuela.
+
+=== Especies === 
+---- 
+* ''[[Philaethria andrei]]'' Brévignon, 2002
+* ''[[Philaethria browni]]'' Constantino & Salazar 2010
+* ''[[Philaethria dido]]'' (Linnaeus, 1763)
+* ''[[Philaethria neildi]]'' Constantino & Salazar, 2010
+* ''[[Philaethria ostara]]'' (Röber, 1906)
+* ''[[Philaethria pygmalion]]'' (Fruhstorfer, 1912)
+* ''[[Philaethria romeroi]]'' Constantino & Salazar 2010
+* ''[[Philaethria wernickei]]'' (Röber, 1906)
+---- 
+=== Referencias ===
+* Ferrer-Paris, José R.; Paul Rodríguez, Jon; Y. Sánchez-Mercado, Ada; A. Rodríguez, Gustavo (2014): Informe de resultados de muestreos de NeoMapas a nivel nacional 2001 a 2010. figshare. doi:[https://dx.doi.org/10.6084/m9.figshare.1094280 10.6084/m9.figshare.1094280]. 
+* J. R. Álvarez Sierra and J. R. Álvarez Corral. ''Mariposas diurnasde Venezuela. Introducción a su conocimiento''. Caracas: Editorial Arte,1984.
+* K. S. Brown jr. and F. Fernández Yepez. “Los Heliconiini(Lepidoptera, Nymphalidae) de Venezuela”. In: ''Bolet\'\in deEntomolog\'\ia Venezolana'' 3.4 (1984), pp. 29-73.
+* W. T. M. Forbes. “Note on the butterflies of Venezuelan Guiana”.In: ''Boletin de Entomologia Venezolana'' 1.2 (1942), pp. 25-36.
+* T. Raymond. ''Mariposas de Venezuela''. Ediciones Corpoven, 1982.
+ {{Ficha de taxón
+  | name = Philaethria
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Philaethria''
+}}
+
+Género de mariposas de la familia Nymphalidae con 7 especies a nivel global y 658 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Philaethria andrei]]'' Brévignon, 2002

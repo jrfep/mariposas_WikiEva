@@ -7,7 +7,65 @@
   | familia = [[Nymphalidae]]
   | genus = ''Ianussiusa''
 }}
-Género de Mariposas de la familia Nymphalidae con 1 especies a nivel global y 658 especies en Venezuela.
+
+Género de mariposas de la familia Nymphalidae con 1 especies a nivel global y 658 especies en Venezuela.
+
+=== Especies === 
+---- 
+* ''[[Ianussiusa maso]]'' (Godman, 1905)
+---- 
+=== Referencias ===
+
+* T. W. Pyrcz and Á. L. Viloria. “Erebiine and pronophilinebutterflies of the Serran\'\ia del Tam\'a, Venezuela-Colombia border(Lepidoptera: Nymphalidae: Satyrinae)”. In: ''Tropical Lepidoptera''15.1-2 (2007), pp. 18-52.
+ {{Ficha de taxón
+  | name = Ianussiusa
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Ianussiusa''
+}}
+
+Género de mariposas de la familia Nymphalidae con 1 especies a nivel global y 658 especies en Venezuela.
+
+=== Especies === 
+---- 
+* ''[[Ianussiusa maso]]'' (Godman, 1905)
+---- 
+=== Referencias ===
+
+* T. W. Pyrcz and Á. L. Viloria. “Erebiine and pronophilinebutterflies of the Serran\'\ia del Tam\'a, Venezuela-Colombia border(Lepidoptera: Nymphalidae: Satyrinae)”. In: ''Tropical Lepidoptera''15.1-2 (2007), pp. 18-52.
+ {{Ficha de taxón
+  | name = Ianussiusa
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Ianussiusa''
+}}
+
+Género de mariposas de la familia Nymphalidae con 1 especies a nivel global y 658 especies en Venezuela.
+
+=== Especies === 
+---- 
+* ''[[Ianussiusa maso]]'' (Godman, 1905)
+---- 
+=== Referencias ===
+
+* T. W. Pyrcz and Á. L. Viloria. “Erebiine and pronophilinebutterflies of the Serran\'\ia del Tam\'a, Venezuela-Colombia border(Lepidoptera: Nymphalidae: Satyrinae)”. In: ''Tropical Lepidoptera''15.1-2 (2007), pp. 18-52.
+ {{Ficha de taxón
+  | name = Ianussiusa
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Ianussiusa''
+}}
+
+Género de mariposas de la familia Nymphalidae con 1 especies a nivel global y 658 especies en Venezuela.
 
 === Especies === 
 ---- 

@@ -7,6 +7,9 @@
   | familia = [[Lycaenidae]]
   | genus = ''Ministrymon''
 }}
+
+Género de mariposas de la familia Lycaenidae con 19 especies a nivel global y 137 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Ministrymon albimimicus]]'' (Johnson, 1986)
@@ -18,4 +21,4 @@
 * ''[[Ministrymon janevicroy]]'' Glassberg, 2013
 ---- 
 === Referencias ===
-list()
+

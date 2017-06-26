@@ -7,6 +7,9 @@
   | familia = [[Lycaenidae]]
   | genus = ''Theritas''
 }}
+
+Género de mariposas de la familia Lycaenidae con 25 especies a nivel global y 137 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Theritas arene]]'' (Goodson, 1945)
@@ -16,4 +19,4 @@
 * ''[[Theritas viresco]]'' (Druce, 1907)
 ---- 
 === Referencias ===
-list()
+

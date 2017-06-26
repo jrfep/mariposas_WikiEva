@@ -7,9 +7,12 @@
   | familia = [[Riodinidae]]
   | genus = ''Amphiselenis''
 }}
+
+Género de mariposas de la familia Riodinidae con 1 especies a nivel global y 148 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Amphiselenis chama]]'' (Staudinger, [1887])
 ---- 
 === Referencias ===
-list()
+

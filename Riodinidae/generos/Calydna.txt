@@ -7,6 +7,9 @@
   | familia = [[Riodinidae]]
   | genus = ''Calydna''
 }}
+
+Género de mariposas de la familia Riodinidae con 20 especies a nivel global y 148 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Calydna caieta]]'' Hewitson, 1854
@@ -14,4 +17,4 @@
 * ''[[Calydna venusta]]'' Godman & Salvin, 1886
 ---- 
 === Referencias ===
-list()
+

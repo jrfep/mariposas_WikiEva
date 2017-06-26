@@ -7,9 +7,12 @@
   | familia = [[Nymphalidae]]
   | genus = ''Catoblepia''
 }}
+
+Género de mariposas de la familia Nymphalidae con 8 especies a nivel global y 658 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Catoblepia berecynthia]]'' (Cramer, 1777)
 ---- 
 === Referencias ===
-list()
+

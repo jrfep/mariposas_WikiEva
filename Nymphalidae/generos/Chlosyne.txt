@@ -7,6 +7,9 @@
   | familia = [[Nymphalidae]]
   | genus = ''Chlosyne''
 }}
+
+Género de mariposas de la familia Nymphalidae con 26 especies a nivel global y 658 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Chlosyne erodyle]]'' (Bates, 1864)

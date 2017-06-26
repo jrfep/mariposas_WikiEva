@@ -7,11 +7,12 @@
   | familia = [[Hesperiidae]]
   | genus = ''Gunayan''
 }}
-Género de Mariposas de la familia Hesperiidae con 3 especies a nivel global y 320 especies en Venezuela.
+
+Género de mariposas de la familia Hesperiidae con 3 especies a nivel global y 320 especies en Venezuela.
 
 === Especies === 
 ---- 
 * ''[[Gunayan rhacia]]'' (Hewitson, [1875])
 ---- 
 === Referencias ===
-* Mielke (2002) Pyrrhopyginae: gêneros novos e revalidados (Lepidoptera, Hesperiidae). Rev. Bras. Zool. 19(1):217-228list()
+* Mielke (2002) Pyrrhopyginae: gêneros novos e revalidados (Lepidoptera, Hesperiidae). Rev. Bras. Zool. 19(1):217-228

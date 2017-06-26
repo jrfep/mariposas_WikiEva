@@ -7,10 +7,13 @@
   | familia = [[Lycaenidae]]
   | genus = ''Olynthus''
 }}
+
+Género de mariposas de la familia Lycaenidae con 14 especies a nivel global y 137 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Olynthus essus]]'' (Herrich-Schäffer, [1853])
 * ''[[Olynthus narbal]]'' (Stoll, 1790)
 ---- 
 === Referencias ===
-list()
+

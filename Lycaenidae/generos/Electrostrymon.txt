@@ -7,9 +7,12 @@
   | familia = [[Lycaenidae]]
   | genus = ''Electrostrymon''
 }}
+
+Género de mariposas de la familia Lycaenidae con 10 especies a nivel global y 137 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Electrostrymon sangala]]'' (Hewitson, 1868)
 ---- 
 === Referencias ===
-list()
+

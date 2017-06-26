@@ -7,9 +7,12 @@
   | familia = [[Riodinidae]]
   | genus = ''Synargis''
 }}
+
+Género de mariposas de la familia Riodinidae con 23 especies a nivel global y 148 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Synargis pittheus]]'' (Hoffmannsegg, 1818)
 ---- 
 === Referencias ===
-list()
+

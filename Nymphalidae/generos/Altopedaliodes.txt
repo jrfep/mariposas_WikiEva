@@ -7,9 +7,12 @@
   | familia = [[Nymphalidae]]
   | genus = ''Altopedaliodes''
 }}
+
+Género de mariposas de la familia Nymphalidae con 9 especies a nivel global y 658 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Altopedaliodes tamaensis]]'' Viloria & Pyrcz, 2007
 ---- 
 === Referencias ===
-list()
+

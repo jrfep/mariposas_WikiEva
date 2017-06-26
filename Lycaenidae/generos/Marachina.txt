@@ -7,9 +7,12 @@
   | familia = [[Lycaenidae]]
   | genus = ''Marachina''
 }}
+
+Género de mariposas de la familia Lycaenidae con 3 especies a nivel global y 137 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Marachina fidelia]]'' (Hewitson, 1874)
 ---- 
 === Referencias ===
-list()
+

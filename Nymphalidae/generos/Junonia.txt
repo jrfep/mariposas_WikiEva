@@ -7,6 +7,9 @@
   | familia = [[Nymphalidae]]
   | genus = ''Junonia''
 }}
+
+Género de mariposas de la familia Nymphalidae con 38 especies a nivel global y 658 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Junonia evarete]]'' (Cramer, 1779)

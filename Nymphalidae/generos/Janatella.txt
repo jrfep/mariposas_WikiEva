@@ -7,6 +7,9 @@
   | familia = [[Nymphalidae]]
   | genus = ''Janatella''
 }}
+
+Género de mariposas de la familia Nymphalidae con 3 especies a nivel global y 658 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Janatella leucodesma]]'' (Felder & Felder, 1861)

@@ -7,7 +7,8 @@
   | familia = [[Hedylidae]]
   | genus = ''Macrosoma''
 }}
-Género de Mariposas de la familia Hedylidae con 34 especies a nivel global y 3 especies en Venezuela.
+
+Género de mariposas de la familia Hedylidae con 34 especies a nivel global y 3 especies en Venezuela.
 
 === Especies === 
 ---- 
@@ -18,4 +19,4 @@ Género de Mariposas de la familia Hedylidae con 34 especies a nivel global y 3 
 === Referencias ===
 * Prout (1910) Lepidoptera Heterocera Fam. Geometridae. En: Whytman, Genera Insectorum. Fasc. 54. Bruselas, Bélgica
 * Cock (2014) An updated and annotated checklist of the Hedylidae and Hesperiidae (Lepidoptera) of Trinidad, West Indies. Insecta Mundi 0393: 1–40
-* Scoble (1990) A catalogue of the Hedylidae (Lepidoptera: Hedyloidea), with description of two new species. Entomologica Scandinavica 21: 113-119list()
+* Scoble (1990) A catalogue of the Hedylidae (Lepidoptera: Hedyloidea), with description of two new species. Entomologica Scandinavica 21: 113-119

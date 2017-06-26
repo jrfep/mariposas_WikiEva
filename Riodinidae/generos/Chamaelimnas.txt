@@ -7,9 +7,12 @@
   | familia = [[Riodinidae]]
   | genus = ''Chamaelimnas''
 }}
+
+Género de mariposas de la familia Riodinidae con 6 especies a nivel global y 148 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Chamaelimnas cercides]]'' Hewitson, 1871
 ---- 
 === Referencias ===
-list()
+

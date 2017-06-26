@@ -7,6 +7,9 @@
   | familia = [[Lycaenidae]]
   | genus = ''Brangas''
 }}
+
+Género de mariposas de la familia Lycaenidae con 11 especies a nivel global y 137 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Brangas caranus]]'' (Stoll, 1780)

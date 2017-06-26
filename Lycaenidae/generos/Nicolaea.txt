@@ -7,10 +7,13 @@
   | familia = [[Lycaenidae]]
   | genus = ''Nicolaea''
 }}
+
+Género de mariposas de la familia Lycaenidae con 26 especies a nivel global y 137 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Nicolaea bagrada]]'' (Hewitson, 1868)
 * ''[[Nicolaea fabulla]]'' (Hewitson, 1868)
 ---- 
 === Referencias ===
-list()
+

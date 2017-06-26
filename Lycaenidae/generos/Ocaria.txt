@@ -7,6 +7,9 @@
   | familia = [[Lycaenidae]]
   | genus = ''Ocaria''
 }}
+
+Género de mariposas de la familia Lycaenidae con 13 especies a nivel global y 137 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Ocaria aholiba]]'' (Hewitson, 1867)
@@ -14,4 +17,4 @@
 * ''[[Ocaria elisa]]'' Bálint & Costa, 2012
 ---- 
 === Referencias ===
-list()
+

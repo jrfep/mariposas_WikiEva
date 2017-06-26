@@ -7,6 +7,9 @@
   | familia = [[Riodinidae]]
   | genus = ''Mesosemia''
 }}
+
+Género de mariposas de la familia Riodinidae con 122 especies a nivel global y 148 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Mesosemia hesperina]]'' Butler, 1874
@@ -14,4 +17,4 @@
 * ''[[Mesosemia telegone]]'' (Boisduval, 1836)
 ---- 
 === Referencias ===
-list()
+

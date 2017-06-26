@@ -7,9 +7,12 @@
   | familia = [[Riodinidae]]
   | genus = ''Xenandra''
 }}
+
+Género de mariposas de la familia Riodinidae con 9 especies a nivel global y 148 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Xenandra heliodes]]'' Felder & Felder, 1865
 ---- 
 === Referencias ===
-list()
+

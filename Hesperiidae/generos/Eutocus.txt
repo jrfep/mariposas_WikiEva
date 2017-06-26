@@ -7,11 +7,12 @@
   | familia = [[Hesperiidae]]
   | genus = ''Eutocus''
 }}
-Género de Mariposas de la familia Hesperiidae con 8 especies a nivel global y 320 especies en Venezuela.
+
+Género de mariposas de la familia Hesperiidae con 8 especies a nivel global y 320 especies en Venezuela.
 
 === Especies === 
 ---- 
 * ''[[Eutocus paulo]]'' Bell, 1932
 ---- 
 === Referencias ===
-list()
+

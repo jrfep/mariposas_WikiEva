@@ -7,11 +7,12 @@
   | familia = [[Hesperiidae]]
   | genus = ''Gorgopas''
 }}
-Género de Mariposas de la familia Hesperiidae con 5 especies a nivel global y 320 especies en Venezuela.
+
+Género de mariposas de la familia Hesperiidae con 5 especies a nivel global y 320 especies en Venezuela.
 
 === Especies === 
 ---- 
 * ''[[Gorgopas chlorocephala]]'' (Herrich-Schäffer, 1870)
 ---- 
 === Referencias ===
-list()
+

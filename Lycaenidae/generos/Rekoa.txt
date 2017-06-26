@@ -7,6 +7,9 @@
   | familia = [[Lycaenidae]]
   | genus = ''Rekoa''
 }}
+
+Género de mariposas de la familia Lycaenidae con 7 especies a nivel global y 137 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Rekoa marius]]'' (Lucas, 1857)
@@ -15,4 +18,4 @@
 * ''[[Rekoa stagira]]'' (Hewitson, 1867)
 ---- 
 === Referencias ===
-list()
+

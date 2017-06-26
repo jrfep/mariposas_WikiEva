@@ -7,9 +7,12 @@
   | familia = [[Nymphalidae]]
   | genus = ''Pycina''
 }}
+
+Género de mariposas de la familia Nymphalidae con 1 especies a nivel global y 658 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Pycina zamba]]'' Doubleday, [1849]
 ---- 
 === Referencias ===
-list()
+

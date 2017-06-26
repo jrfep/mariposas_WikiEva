@@ -7,6 +7,9 @@
   | familia = [[Lycaenidae]]
   | genus = ''Contrafacia''
 }}
+
+Género de mariposas de la familia Lycaenidae con 6 especies a nivel global y 137 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Contrafacia ahola]]'' (Hewitson, 1867)
@@ -14,4 +17,6 @@
 * ''[[Contrafacia marmoris]]'' (Druce, 1907)
 ---- 
 === Referencias ===
-list()
+* Druce (1907) On Neotropical Lycaenidae with descriptions of new species. Proceedings of the zoological Society of London. 1907(3): 566–632. pls 31-36.
+* Johnson (1990) The New Hairsteak Butterfly Genus Orcya, a Revision of the Neotropical 'Thecla' orcynia Assemblage (Lepidoptera: Lycaenidae). Journal of The New York Entomological Society 98:50—87
+* Johnson (1989) A Revisionary Study of the Neotropical Hairstreak Butterfly Genus Noreena and Its New Sister Genus Contrafacia (Lepidoptera: Lycaenidae). Journal of The New York Entomological Society 97:11—46

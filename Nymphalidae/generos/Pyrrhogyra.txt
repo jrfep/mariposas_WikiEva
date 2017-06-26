@@ -7,6 +7,9 @@
   | familia = [[Nymphalidae]]
   | genus = ''Pyrrhogyra''
 }}
+
+Género de mariposas de la familia Nymphalidae con 6 especies a nivel global y 658 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Pyrrhogyra amphiro]]'' Bates, 1865

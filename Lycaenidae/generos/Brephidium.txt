@@ -7,9 +7,12 @@
   | familia = [[Lycaenidae]]
   | genus = ''Brephidium''
 }}
+
+Género de mariposas de la familia Lycaenidae con 3 especies a nivel global y 137 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Brephidium exilis]]'' (Boisduval, 1852)
 ---- 
 === Referencias ===
-list()
+

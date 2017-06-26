@@ -7,6 +7,9 @@
   | familia = [[Nymphalidae]]
   | genus = ''Tegosa''
 }}
+
+Género de mariposas de la familia Nymphalidae con 14 especies a nivel global y 658 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Tegosa anieta]]'' (Hewitson, 1864)

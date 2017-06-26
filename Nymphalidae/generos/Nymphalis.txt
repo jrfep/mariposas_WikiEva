@@ -7,9 +7,12 @@
   | familia = [[Nymphalidae]]
   | genus = ''Nymphalis''
 }}
+
+Género de mariposas de la familia Nymphalidae con 28 especies a nivel global y 658 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Nymphalis antiopa]]'' (Linnaeus, 1758)
 ---- 
 === Referencias ===
-list()
+

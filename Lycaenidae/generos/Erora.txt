@@ -7,6 +7,9 @@
   | familia = [[Lycaenidae]]
   | genus = ''Erora''
 }}
+
+Género de mariposas de la familia Lycaenidae con 21 especies a nivel global y 137 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Erora biblia]]'' (Hewitson, 1868)
@@ -14,4 +17,4 @@
 * ''[[Erora lorina]]'' (Hewitson, 1874)
 ---- 
 === Referencias ===
-list()
+* Hewitson (1862) Illustrations of diurnal Lepidoptera, Lycænidæ. Taylor and Francis. London, UK

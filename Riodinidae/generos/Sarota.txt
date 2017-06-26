@@ -7,6 +7,9 @@
   | familia = [[Riodinidae]]
   | genus = ''Sarota''
 }}
+
+Género de mariposas de la familia Riodinidae con 18 especies a nivel global y 148 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Sarota acanthoides]]'' (Herrich-Schäffer, [1853])
@@ -18,4 +21,4 @@
 * ''[[Sarota neglecta]]'' Stichel, 1910
 ---- 
 === Referencias ===
-list()
+

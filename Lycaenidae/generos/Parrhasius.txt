@@ -7,10 +7,13 @@
   | familia = [[Lycaenidae]]
   | genus = ''Parrhasius''
 }}
+
+Género de mariposas de la familia Lycaenidae con 6 especies a nivel global y 137 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Parrhasius orgia]]'' (Hewitson, 1867)
 * ''[[Parrhasius selika]]'' (Hewitson, 1874)
 ---- 
 === Referencias ===
-list()
+

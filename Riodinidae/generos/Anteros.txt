@@ -7,10 +7,13 @@
   | familia = [[Riodinidae]]
   | genus = ''Anteros''
 }}
+
+Género de mariposas de la familia Riodinidae con 16 especies a nivel global y 148 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Anteros carausius]]'' Westwood, 1851
 * ''[[Anteros kupris]]'' Hewitson, 1875
 ---- 
 === Referencias ===
-list()
+

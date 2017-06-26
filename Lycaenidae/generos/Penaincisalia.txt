@@ -7,9 +7,12 @@
   | familia = [[Lycaenidae]]
   | genus = ''Penaincisalia''
 }}
+
+Género de mariposas de la familia Lycaenidae con 33 especies a nivel global y 137 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Penaincisalia loxurina]]'' (Felder & Felder, 1865)
 ---- 
 === Referencias ===
-list()
+

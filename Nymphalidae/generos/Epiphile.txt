@@ -7,6 +7,9 @@
   | familia = [[Nymphalidae]]
   | genus = ''Epiphile''
 }}
+
+Género de mariposas de la familia Nymphalidae con 15 especies a nivel global y 658 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Epiphile boliviana]]'' Röber, 1914
@@ -17,4 +20,4 @@
 * ''[[Epiphile latifasciata]]'' Röber, 1914
 ---- 
 === Referencias ===
-list()
+

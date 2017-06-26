@@ -7,6 +7,9 @@
   | familia = [[Lycaenidae]]
   | genus = ''Lamprospilus''
 }}
+
+Género de mariposas de la familia Lycaenidae con 26 especies a nivel global y 137 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Lamprospilus badaca]]'' (Hewitson, 1868)
@@ -15,4 +18,4 @@
 * ''[[Lamprospilus nicetus]]'' (Felder & Felder, 1865)
 ---- 
 === Referencias ===
-list()
+

@@ -7,7 +7,8 @@
   | familia = [[Pieridae]]
   | genus = ''Nathalis''
 }}
-Género de Mariposas de la familia Pieridae con 2 especies a nivel global y 122 especies en Venezuela.
+
+Género de mariposas de la familia Pieridae con 2 especies a nivel global y 122 especies en Venezuela.
 
 === Especies === 
 ---- 
@@ -16,4 +17,4 @@ Género de Mariposas de la familia Pieridae con 2 especies a nivel global y 122 
 ---- 
 === Referencias ===
 * Ferrer-Paris, José R. (2008): Patrones de distribución y abundancia en mariposas piérides (Lepidoptera: Pieridae) a diferentes escalas geográficas]. Tesis Doctoral, Centro de Estudios Avanzados, Intituto Venezolano de Investigaciones Científicas. Altos de Pipe, Venezuela. doi:[http://dx.doi.org/10.6084/m9.figshare.1094411 10.6084/m9.figshare.1094411]
-* Ferrer-Paris, José R.; Jon Paul Rodríguez; Tatjana Good; Ada Y. Sánchez-Mercado; Kathryn M. Rodríguez-Clark; Gustavo A. Rodríguez; A. Solis (2013): Systematic, large-scale national biodiversity surveys: NeoMaps as a model for tropical regions. Diversity and Distributions 19(2): 215-231 doi:[http://dx.doi.org/10.1111/ddi.12012 10.1111/ddi.12012]. list()
+* Ferrer-Paris, José R.; Jon Paul Rodríguez; Tatjana Good; Ada Y. Sánchez-Mercado; Kathryn M. Rodríguez-Clark; Gustavo A. Rodríguez; A. Solis (2013): Systematic, large-scale national biodiversity surveys: NeoMaps as a model for tropical regions. Diversity and Distributions 19(2): 215-231 doi:[http://dx.doi.org/10.1111/ddi.12012 10.1111/ddi.12012]. 

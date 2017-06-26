@@ -7,6 +7,9 @@
   | familia = [[Nymphalidae]]
   | genus = ''Protopedaliodes''
 }}
+
+Género de mariposas de la familia Nymphalidae con 3 especies a nivel global y 658 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Protopedaliodes kukenani]]'' Viloria & Pyrcz, 1994
@@ -14,4 +17,4 @@
 * ''[[Protopedaliodes ridouti]]'' Viloria & Pyrcz, 2000
 ---- 
 === Referencias ===
-list()
+

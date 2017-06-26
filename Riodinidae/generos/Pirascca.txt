@@ -7,9 +7,12 @@
   | familia = [[Riodinidae]]
   | genus = ''Pirascca''
 }}
+
+Género de mariposas de la familia Riodinidae con 13 especies a nivel global y 148 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Pirascca suapure]]'' (Weeks, 1906)
 ---- 
 === Referencias ===
-list()
+

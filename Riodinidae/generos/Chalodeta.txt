@@ -7,9 +7,12 @@
   | familia = [[Riodinidae]]
   | genus = ''Chalodeta''
 }}
+
+Género de mariposas de la familia Riodinidae con 8 especies a nivel global y 148 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Chalodeta chitinosa]]'' Hall, 2002
 ---- 
 === Referencias ===
-list()
+

@@ -7,10 +7,13 @@
   | familia = [[Riodinidae]]
   | genus = ''Ithomeis''
 }}
+
+Género de mariposas de la familia Riodinidae con 1 especies a nivel global y 148 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Ithomeis aurantiaca]]'' Bates, 1862
 * ''[[Ithomeis eulema]]'' Hewitson, 1870
 ---- 
 === Referencias ===
-list()
+

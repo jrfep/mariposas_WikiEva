@@ -7,9 +7,12 @@
   | familia = [[Nymphalidae]]
   | genus = ''Corderopedaliodes''
 }}
+
+Género de mariposas de la familia Nymphalidae con 3 especies a nivel global y 658 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Corderopedaliodes corderoi]]'' (Dognin, 1893)
 ---- 
 === Referencias ===
-list()
+

@@ -7,7 +7,65 @@
   | familia = [[Nymphalidae]]
   | genus = ''Cyllopsis''
 }}
-Género de Mariposas de la familia Nymphalidae con 29 especies a nivel global y 658 especies en Venezuela.
+
+Género de mariposas de la familia Nymphalidae con 29 especies a nivel global y 658 especies en Venezuela.
+
+=== Especies === 
+---- 
+* ''[[Cyllopsis jacquelineae]]'' Miller, 1974
+---- 
+=== Referencias ===
+
+* T. Pyrcz. “A new genus, Tamania, and a new species, Tamaniajacquelinae, from the Tamá range, Venezuela Colombia border, and somethoughts on the diagnosis of the tribe Pronophilini (Nymphalidae:Satyrinae)”. In: ''Lambillionea'' 95.4 (1995), pp. 519-525.
+ {{Ficha de taxón
+  | name = Cyllopsis
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Cyllopsis''
+}}
+
+Género de mariposas de la familia Nymphalidae con 29 especies a nivel global y 658 especies en Venezuela.
+
+=== Especies === 
+---- 
+* ''[[Cyllopsis jacquelineae]]'' Miller, 1974
+---- 
+=== Referencias ===
+
+* T. Pyrcz. “A new genus, Tamania, and a new species, Tamaniajacquelinae, from the Tamá range, Venezuela Colombia border, and somethoughts on the diagnosis of the tribe Pronophilini (Nymphalidae:Satyrinae)”. In: ''Lambillionea'' 95.4 (1995), pp. 519-525.
+ {{Ficha de taxón
+  | name = Cyllopsis
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Cyllopsis''
+}}
+
+Género de mariposas de la familia Nymphalidae con 29 especies a nivel global y 658 especies en Venezuela.
+
+=== Especies === 
+---- 
+* ''[[Cyllopsis jacquelineae]]'' Miller, 1974
+---- 
+=== Referencias ===
+
+* T. Pyrcz. “A new genus, Tamania, and a new species, Tamaniajacquelinae, from the Tamá range, Venezuela Colombia border, and somethoughts on the diagnosis of the tribe Pronophilini (Nymphalidae:Satyrinae)”. In: ''Lambillionea'' 95.4 (1995), pp. 519-525.
+ {{Ficha de taxón
+  | name = Cyllopsis
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Cyllopsis''
+}}
+
+Género de mariposas de la familia Nymphalidae con 29 especies a nivel global y 658 especies en Venezuela.
 
 === Especies === 
 ---- 

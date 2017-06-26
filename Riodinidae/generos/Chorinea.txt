@@ -7,9 +7,12 @@
   | familia = [[Riodinidae]]
   | genus = ''Chorinea''
 }}
+
+Género de mariposas de la familia Riodinidae con 8 especies a nivel global y 148 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Chorinea octauius]]'' (Fabricius, 1787)
 ---- 
 === Referencias ===
-list()
+

@@ -7,7 +7,8 @@
   | familia = [[Hesperiidae]]
   | genus = ''Telemiades''
 }}
-Género de Mariposas de la familia Hesperiidae con 18 especies a nivel global y 320 especies en Venezuela.
+
+Género de mariposas de la familia Hesperiidae con 18 especies a nivel global y 320 especies en Venezuela.
 
 === Especies === 
 ---- 
@@ -17,4 +18,4 @@ Género de Mariposas de la familia Hesperiidae con 18 especies a nivel global y 
 * ''[[Telemiades sila]]'' Evans, 1953
 ---- 
 === Referencias ===
-list()
+

@@ -7,10 +7,13 @@
   | familia = [[Nymphalidae]]
   | genus = ''Castilia''
 }}
+
+Género de mariposas de la familia Nymphalidae con 13 especies a nivel global y 658 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Castilia eranites]]'' (Hewitson, 1857)
 * ''[[Castilia ofella]]'' (Hewitson, [1864])
 ---- 
 === Referencias ===
-list()
+

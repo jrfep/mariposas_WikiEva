@@ -7,6 +7,9 @@
   | familia = [[Nymphalidae]]
   | genus = ''Caligo''
 }}
+
+Género de mariposas de la familia Nymphalidae con 21 especies a nivel global y 658 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Caligo atreus]]'' (Kollar, 1850)

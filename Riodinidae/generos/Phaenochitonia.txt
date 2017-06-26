@@ -7,9 +7,12 @@
   | familia = [[Riodinidae]]
   | genus = ''Phaenochitonia''
 }}
+
+Género de mariposas de la familia Riodinidae con 6 especies a nivel global y 148 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Phaenochitonia gallardi]]'' Hall & Willmott, 1996
 ---- 
 === Referencias ===
-list()
+

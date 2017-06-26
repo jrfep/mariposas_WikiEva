@@ -7,6 +7,9 @@
   | familia = [[Lycaenidae]]
   | genus = ''Strymon''
 }}
+
+Género de mariposas de la familia Lycaenidae con 53 especies a nivel global y 137 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Strymon albata]]'' (Felder & Felder, 1865)

@@ -7,9 +7,12 @@
   | familia = [[Nymphalidae]]
   | genus = ''Tigridia''
 }}
+
+Género de mariposas de la familia Nymphalidae con 1 especies a nivel global y 658 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Tigridia acesta]]'' (Linnaeus, 1758)
 ---- 
 === Referencias ===
-list()
+

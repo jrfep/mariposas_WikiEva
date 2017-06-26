@@ -7,7 +7,100 @@
   | familia = [[Nymphalidae]]
   | genus = ''Pagyris''
 }}
-Género de Mariposas de la familia Nymphalidae con 3 especies a nivel global y 658 especies en Venezuela.
+
+Género de mariposas de la familia Nymphalidae con 3 especies a nivel global y 658 especies en Venezuela.
+
+=== Especies === 
+---- 
+* ''[[Pagyris cymothoe]]'' (Hewitson, [1855])
+* ''[[Pagyris priscilla]]'' Lamas, 1986
+* ''[[Pagyris renelichyi]]'' Neild, 2008
+* ''[[Pagyris ulla]]'' (Hewitson, [1857])
+---- 
+=== Referencias ===
+* Ferrer-Paris, José R.; Paul Rodríguez, Jon; Y. Sánchez-Mercado, Ada; A. Rodríguez, Gustavo (2014): Informe de resultados de muestreos de NeoMapas a nivel nacional 2001 a 2010. figshare. doi:[https://dx.doi.org/10.6084/m9.figshare.1094280 10.6084/m9.figshare.1094280]. 
+* J. R. Álvarez Sierra and J. R. Álvarez Corral. ''Mariposas diurnasde Venezuela. Introducción a su conocimiento''. Caracas: Editorial Arte,1984.
+* T. Raymond. ''Mariposas de Venezuela''. Ediciones Corpoven, 1982.
+ {{Ficha de taxón
+  | name = Pagyris
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Pagyris''
+}}
+
+Género de mariposas de la familia Nymphalidae con 3 especies a nivel global y 658 especies en Venezuela.
+
+=== Especies === 
+---- 
+* ''[[Pagyris cymothoe]]'' (Hewitson, [1855])
+* ''[[Pagyris priscilla]]'' Lamas, 1986
+* ''[[Pagyris renelichyi]]'' Neild, 2008
+* ''[[Pagyris ulla]]'' (Hewitson, [1857])
+---- 
+=== Referencias ===
+* Ferrer-Paris, José R.; Paul Rodríguez, Jon; Y. Sánchez-Mercado, Ada; A. Rodríguez, Gustavo (2014): Informe de resultados de muestreos de NeoMapas a nivel nacional 2001 a 2010. figshare. doi:[https://dx.doi.org/10.6084/m9.figshare.1094280 10.6084/m9.figshare.1094280]. 
+* J. R. Álvarez Sierra and J. R. Álvarez Corral. ''Mariposas diurnasde Venezuela. Introducción a su conocimiento''. Caracas: Editorial Arte,1984.
+* T. Raymond. ''Mariposas de Venezuela''. Ediciones Corpoven, 1982.
+ {{Ficha de taxón
+  | name = Pagyris
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Pagyris''
+}}
+
+Género de mariposas de la familia Nymphalidae con 3 especies a nivel global y 658 especies en Venezuela.
+
+=== Especies === 
+---- 
+* ''[[Pagyris cymothoe]]'' (Hewitson, [1855])
+* ''[[Pagyris priscilla]]'' Lamas, 1986
+* ''[[Pagyris renelichyi]]'' Neild, 2008
+* ''[[Pagyris ulla]]'' (Hewitson, [1857])
+---- 
+=== Referencias ===
+* Ferrer-Paris, José R.; Paul Rodríguez, Jon; Y. Sánchez-Mercado, Ada; A. Rodríguez, Gustavo (2014): Informe de resultados de muestreos de NeoMapas a nivel nacional 2001 a 2010. figshare. doi:[https://dx.doi.org/10.6084/m9.figshare.1094280 10.6084/m9.figshare.1094280]. 
+* J. R. Álvarez Sierra and J. R. Álvarez Corral. ''Mariposas diurnasde Venezuela. Introducción a su conocimiento''. Caracas: Editorial Arte,1984.
+* T. Raymond. ''Mariposas de Venezuela''. Ediciones Corpoven, 1982.
+ {{Ficha de taxón
+  | name = Pagyris
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Pagyris''
+}}
+
+Género de mariposas de la familia Nymphalidae con 3 especies a nivel global y 658 especies en Venezuela.
+
+=== Especies === 
+---- 
+* ''[[Pagyris cymothoe]]'' (Hewitson, [1855])
+* ''[[Pagyris priscilla]]'' Lamas, 1986
+* ''[[Pagyris renelichyi]]'' Neild, 2008
+* ''[[Pagyris ulla]]'' (Hewitson, [1857])
+---- 
+=== Referencias ===
+* Ferrer-Paris, José R.; Paul Rodríguez, Jon; Y. Sánchez-Mercado, Ada; A. Rodríguez, Gustavo (2014): Informe de resultados de muestreos de NeoMapas a nivel nacional 2001 a 2010. figshare. doi:[https://dx.doi.org/10.6084/m9.figshare.1094280 10.6084/m9.figshare.1094280]. 
+* J. R. Álvarez Sierra and J. R. Álvarez Corral. ''Mariposas diurnasde Venezuela. Introducción a su conocimiento''. Caracas: Editorial Arte,1984.
+* T. Raymond. ''Mariposas de Venezuela''. Ediciones Corpoven, 1982.
+ {{Ficha de taxón
+  | name = Pagyris
+  | regnum = [[Animalia]]
+  | phylum = [[Arthropoda]]
+  | classis = [[Insecta]]
+  | ordo = [[Lepidoptera]]
+  | familia = [[Nymphalidae]]
+  | genus = ''Pagyris''
+}}
+
+Género de mariposas de la familia Nymphalidae con 3 especies a nivel global y 658 especies en Venezuela.
 
 === Especies === 
 ---- 

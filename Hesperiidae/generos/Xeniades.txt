@@ -7,11 +7,12 @@
   | familia = [[Hesperiidae]]
   | genus = ''Xeniades''
 }}
-Género de Mariposas de la familia Hesperiidae con 4 especies a nivel global y 320 especies en Venezuela.
+
+Género de mariposas de la familia Hesperiidae con 4 especies a nivel global y 320 especies en Venezuela.
 
 === Especies === 
 ---- 
 * ''[[Xeniades chalestra]]'' (Hewitson, 1866)
 ---- 
 === Referencias ===
-list()
+

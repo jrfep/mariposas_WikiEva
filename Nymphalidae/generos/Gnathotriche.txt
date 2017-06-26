@@ -7,9 +7,12 @@
   | familia = [[Nymphalidae]]
   | genus = ''Gnathotriche''
 }}
+
+Género de mariposas de la familia Nymphalidae con 2 especies a nivel global y 658 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Gnathotriche exclamationis]]'' (Kollar, 1850)
 ---- 
 === Referencias ===
-list()
+

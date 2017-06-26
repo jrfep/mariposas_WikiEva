@@ -7,10 +7,13 @@
   | familia = [[Riodinidae]]
   | genus = ''Adelotypa''
 }}
+
+Género de mariposas de la familia Riodinidae con 10 especies a nivel global y 148 especies en Venezuela.
+
 === Especies === 
 ---- 
 * ''[[Adelotypa glauca]]'' (Godman & Salvin, 1886)
 * ''[[Adelotypa penthea]]'' (Cramer, 1777)
 ---- 
 === Referencias ===
-list()
+
