@@ -1,0 +1,47 @@
+{{Ficha de taxón 
+  | name = Eutocus paulo
+  | status = DD
+  | image = Image_placeholder.svg 
+  | image_width = 240 px 
+  | regnum = [[Animalia]] 
+  | phylum = [[Arthropoda]] 
+  | classis = [[Insecta]] 
+  | ordo = [[Lepidoptera]] 
+  | familia = [[Hesperiidae]] 
+  | genus = ''[[Eutocus]]'' 
+  | species = ''Eutocus paulo'' 
+  | binomial = ''Eutocus paulo'' 
+  | binomial_authority = ''Bell, 1932''   
+  | range_map = Map_placeholder.svg 
+  | range_map_width = 240 px 
+  | range_map_caption = Mapa de distribución de Eutocus paulo
+}} 
+=== Taxonomía === 
+Pertenece a la subfamilia Hesperiinae. Única especie del género [[Eutocus]] presente en Venezuela, otras 7 especies conocidas a nivel mundial. Especie descrita a principios del siglo XX.
+==== Nombres comunes ====
+
+==== Notas taxonómicas ====
+
+==== Sinónimos ====
+
+=== Descripción ===
+Para esta especie hay información disponible en , .
+=== Distribución === 
+Especie presente en Venezuela, distribución no precisada.
+=== Situación === 
+La información disponible es insuficiente para la evaluación de la situación de esta especie.
+
+* ''''Lista Roja Venezuela'''' 1995 No evaluado
+* ''''Lista Roja Venezuela'''' 2003 No evaluado
+* ''''Lista Roja Venezuela'''' 2008 No evaluado
+=== Amenazas === 
+
+=== Conservación === 
+
+
+=== Editores y Colaboradores === 
+[[Usuario:Jrfep|J.R. Ferrer Paris]]
+
+=== Referencias ===
+* Costa, Viloria, Huber, Attal, Orellana (2013) Lepidoptera del Pantepui. Parte I: Endemismo y caracterización biogeográfica. Entomotropica 28(3): 193-217 [NA]
+list()

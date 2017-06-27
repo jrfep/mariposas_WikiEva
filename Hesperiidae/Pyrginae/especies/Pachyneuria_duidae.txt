@@ -1,0 +1,48 @@
+{{Ficha de taxón 
+  | name = Pachyneuria duidae
+  | status = NE
+  | image = Image_placeholder.svg 
+  | image_width = 240 px 
+  | regnum = [[Animalia]] 
+  | phylum = [[Arthropoda]] 
+  | classis = [[Insecta]] 
+  | ordo = [[Lepidoptera]] 
+  | familia = [[Hesperiidae]] 
+  | genus = ''[[Pachyneuria]]'' 
+  | species = ''Pachyneuria duidae'' 
+  | binomial = ''Pachyneuria duidae'' 
+  | binomial_authority = ''(Bell, 1932)''   
+  | range_map = Map_placeholder.svg 
+  | range_map_width = 240 px 
+  | range_map_caption = Mapa de distribución de Pachyneuria duidae
+}} 
+=== Taxonomía === 
+El género [[Pachyneuria]] pertenece a la subfamilia Pyrginae y está representado en Venezuela por 3 especies, y un total de 11 especies a nivel mundial. Especie descrita a principios del siglo XX.
+==== Nombres comunes ====
+
+==== Notas taxonómicas ====
+
+==== Sinónimos ====
+
+=== Descripción ===
+Para esta especie hay información disponible en , .
+=== Distribución === 
+Especie presente en Venezuela, distribución no precisada.
+=== Situación === 
+Esta especie requiere una evaluación más detallada para determinar su situación actual
+
+* ''''Lista Roja Venezuela'''' 1995 No evaluado
+* ''''Lista Roja Venezuela'''' 2003 No evaluado
+* ''''Lista Roja Venezuela'''' 2008 No evaluado
+=== Amenazas === 
+
+=== Conservación === 
+
+
+=== Editores y Colaboradores === 
+[[Usuario:Jrfep|J.R. Ferrer Paris]]
+
+=== Referencias ===
+* Costa, Viloria, Huber, Attal, Orellana (2013) Lepidoptera del Pantepui. Parte I: Endemismo y caracterización biogeográfica. Entomotropica 28(3): 193-217 [NA]
+* Encyclopedia of Life, [http://eol.org/pages/184895/overview Taxon page for Pachyneuria duidae]
+list()

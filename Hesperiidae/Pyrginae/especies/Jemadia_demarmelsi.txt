@@ -1,0 +1,47 @@
+{{Ficha de taxón 
+  | name = Jemadia demarmelsi
+  | status = EN
+  | image = Image_placeholder.svg 
+  | image_width = 240 px 
+  | regnum = [[Animalia]] 
+  | phylum = [[Arthropoda]] 
+  | classis = [[Insecta]] 
+  | ordo = [[Lepidoptera]] 
+  | familia = [[Hesperiidae]] 
+  | genus = ''[[Jemadia]]'' 
+  | species = ''Jemadia demarmelsi'' 
+  | binomial = ''Jemadia demarmelsi'' 
+  | binomial_authority = ''Orellana, 2008''   
+  | range_map = Map_placeholder.svg 
+  | range_map_width = 240 px 
+  | range_map_caption = Mapa de distribución de Jemadia demarmelsi
+}} 
+=== Taxonomía === 
+El género [[Jemadia]] pertenece a la subfamilia Pyrginae y está representado en Venezuela por 8 especies, y un total de 11 especies a nivel mundial.
+==== Nombres comunes ====
+
+==== Notas taxonómicas ====
+
+==== Sinónimos ====
+
+=== Descripción ===
+Para esta especie hay información disponible en , .
+=== Distribución === 
+Especie endémica de la región de Auyan Tepui, con una extensión de la distribución menor a 3100 km2 y un área ocupada estimada en 132 +/- 6 km2.
+=== Situación === 
+Mariposa de distribución restringida, amenazada por la fragmentación y deterioro de su hábitat según el criterio B de la IUCN.
+
+* ''''Lista Roja Venezuela'''' 1995 No evaluado
+* ''''Lista Roja Venezuela'''' 2003 No evaluado
+* ''''Lista Roja Venezuela'''' 2008 No evaluado
+=== Amenazas === 
+
+=== Conservación === 
+
+
+=== Editores y Colaboradores === 
+[[Usuario:Jrfep|J.R. Ferrer Paris]]
+
+=== Referencias ===
+* Costa, Viloria, Huber, Attal, Orellana (2013) Lepidoptera del Pantepui. Parte I: Endemismo y caracterización biogeográfica. Entomotropica 28(3): 193-217 [NA]
+list()

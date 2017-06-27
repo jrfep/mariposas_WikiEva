@@ -1,0 +1,47 @@
+{{Ficha de taxón 
+  | name = Thespieus duidensis
+  | status = NT
+  | image = Image_placeholder.svg 
+  | image_width = 240 px 
+  | regnum = [[Animalia]] 
+  | phylum = [[Arthropoda]] 
+  | classis = [[Insecta]] 
+  | ordo = [[Lepidoptera]] 
+  | familia = [[Hesperiidae]] 
+  | genus = ''[[Thespieus]]'' 
+  | species = ''Thespieus duidensis'' 
+  | binomial = ''Thespieus duidensis'' 
+  | binomial_authority = ''Bell, 1932''   
+  | range_map = Map_placeholder.svg 
+  | range_map_width = 240 px 
+  | range_map_caption = Mapa de distribución de Thespieus duidensis
+}} 
+=== Taxonomía === 
+El género [[Thespieus]] pertenece a la subfamilia Hesperiinae y está representado en Venezuela por 4 especies, y un total de 32 especies a nivel mundial. Especie descrita a principios del siglo XX.
+==== Nombres comunes ====
+
+==== Notas taxonómicas ====
+
+==== Sinónimos ====
+
+=== Descripción ===
+Para esta especie hay información disponible en , .
+=== Distribución === 
+Especie endémica de la región de Duida/Marahuaka, con una extensión de la distribución menor a 1700 km2 y un área ocupada estimada en 49 +/- 7 km2.
+=== Situación === 
+Mariposa de distribución restringida, actualmente no cumple con los criterios de una especie amenazada, pero podría llegar a estarlo en un futuro. Se requiere un seguimiento constante de su situación.
+
+* ''''Lista Roja Venezuela'''' 1995 No evaluado
+* ''''Lista Roja Venezuela'''' 2003 No evaluado
+* ''''Lista Roja Venezuela'''' 2008 No evaluado
+=== Amenazas === 
+
+=== Conservación === 
+
+
+=== Editores y Colaboradores === 
+[[Usuario:Jrfep|J.R. Ferrer Paris]]
+
+=== Referencias ===
+* Costa, Viloria, Huber, Attal, Orellana (2013) Lepidoptera del Pantepui. Parte I: Endemismo y caracterización biogeográfica. Entomotropica 28(3): 193-217 [NA]
+list()
