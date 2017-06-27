@@ -1,0 +1,48 @@
+{{Ficha de taxón 
+  | name = Melinaea lilis
+  | status = NE
+  | image = Image_placeholder.svg 
+  | image_width = 240 px 
+  | regnum = [[Animalia]] 
+  | phylum = [[Arthropoda]] 
+  | classis = [[Insecta]] 
+  | ordo = [[Lepidoptera]] 
+  | familia = [[Nymphalidae]] 
+  | genus = ''[[Melinaea]]'' 
+  | species = ''Melinaea lilis'' 
+  | binomial = ''Melinaea lilis'' 
+  | binomial_authority = ''(Doubleday, 1847)''   
+  | range_map = Map_placeholder.svg 
+  | range_map_width = 240 px 
+  | range_map_caption = Mapa de distribución de Melinaea lilis
+}} 
+=== Taxonomía === 
+El género [[Melinaea]] pertenece a la subfamilia Danainae y está representado en Venezuela por 6 especies, y un total de 11 especies a nivel mundial. Especie descrita en el siglo XIX.
+==== Nombres comunes ====
+
+==== Notas taxonómicas ====
+
+==== Sinónimos ====
+
+=== Descripción ===
+Para esta especie hay información disponible en Biodiversity Heritage Library ([http://www.biodiversitylibrary.org BHL]), Wikipedia ([http://www.wikipedia.org]), Global Biodiversity Information Facility ([http://www.gbif.org GBIF]).
+=== Distribución === 
+Especie presente en Venezuela, distribución no precisada.
+=== Situación === 
+Esta especie requiere una evaluación más detallada para determinar su situación actual
+
+* ''''Lista Roja Venezuela'''' 1995 No evaluado
+* ''''Lista Roja Venezuela'''' 2003 No evaluado
+* ''''Lista Roja Venezuela'''' 2008 No evaluado
+=== Amenazas === 
+
+=== Conservación === 
+
+
+=== Editores y Colaboradores === 
+[[Usuario:Jrfep|J.R. Ferrer Paris]]
+
+=== Referencias ===
+* Costa, Viloria, Huber, Attal, Orellana (2013) Lepidoptera del Pantepui. Parte I: Endemismo y caracterización biogeográfica. Entomotropica 28(3): 193-217 [NA]
+* Encyclopedia of Life, [http://eol.org/pages/155553/overview Taxon page for Melinaea lilis]
+* T. Raymond. ''Mariposas de Venezuela''. Ediciones Corpoven, 1982.
