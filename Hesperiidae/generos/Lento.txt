@@ -18,23 +18,3 @@ Género de mariposas de la familia Hesperiidae con 19 especies a nivel global y 
 === Referencias ===
 
 * U. Eitschberger and T. Racheli. “Catasticta studies (Lepidoptera:Pieridae)”. In: ''Neue Entomologiste Nachrichten'' 41 (1998), pp. 5-94.
- {{Ficha de taxón
-  | name = Lento
-  | regnum = [[Animalia]]
-  | phylum = [[Arthropoda]]
-  | classis = [[Insecta]]
-  | ordo = [[Lepidoptera]]
-  | familia = [[Hesperiidae]]
-  | genus = ''Lento''
-}}
-
-Género de mariposas de la familia Hesperiidae con 19 especies a nivel global y 320 especies en Venezuela.
-
-=== Especies === 
----- 
-* ''[[Lento hermione]]'' (Schaus, 1913)
-* ''[[Lento xanthina]]'' (Mabille, 1891)
----- 
-=== Referencias ===
-
-* U. Eitschberger and T. Racheli. “Catasticta studies (Lepidoptera:Pieridae)”. In: ''Neue Entomologiste Nachrichten'' 41 (1998), pp. 5-94.
