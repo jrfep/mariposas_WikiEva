@@ -1,0 +1,50 @@
+{{Ficha de taxón 
+  | name = Catasticta sisamnus
+  | status = NE
+  | image = Image_placeholder.svg 
+  | image_width = 240 px 
+  | regnum = [[Animalia]] 
+  | phylum = [[Arthropoda]] 
+  | classis = [[Insecta]] 
+  | ordo = [[Lepidoptera]] 
+  | familia = [[Pieridae]] 
+  | genus = ''[[Catasticta]]'' 
+  | species = ''Catasticta sisamnus'' 
+  | binomial = ''Catasticta sisamnus'' 
+  | binomial_authority = ''(Fabricius, 1793)''   
+  | range_map = Map_placeholder.svg 
+  | range_map_width = 240 px 
+  | range_map_caption = Mapa de distribución de Catasticta sisamnus
+}} 
+=== Taxonomía === 
+El género [[Catasticta]] pertenece a la subfamilia Pierinae y está representado en Venezuela por 23 especies, y un total de 96 especies a nivel mundial. Especie descrita a principios del siglo XX.
+==== Nombres comunes ====
+
+==== Notas taxonómicas ====
+
+==== Sinónimos ====
+
+=== Descripción ===
+Para esta especie hay información disponible en , .
+=== Distribución === 
+Especie presente en Venezuela, distribución no precisada.
+=== Situación === 
+Esta especie requiere una evaluación más detallada para determinar su situación actual
+
+* ''''Lista Roja Venezuela'''' 1995 No evaluado
+* ''''Lista Roja Venezuela'''' 2003 No evaluado
+* ''''Lista Roja Venezuela'''' 2008 No evaluado
+=== Amenazas === 
+
+=== Conservación === 
+
+
+=== Editores y Colaboradores === 
+[[Usuario:Jrfep|J.R. Ferrer Paris]]
+
+=== Referencias ===
+* Costa, Viloria, Huber, Attal, Orellana (2013) Lepidoptera del Pantepui. Parte I: Endemismo y caracterización biogeográfica. Entomotropica 28(3): 193-217 [NA]
+* Ferrer-Paris, José R.; Jon Paul Rodríguez; Tatjana Good; Ada Y. Sánchez-Mercado; Kathryn M. Rodríguez-Clark; Gustavo A. Rodríguez; A. Solis (2013): Systematic, large-scale national biodiversity surveys: NeoMaps as a model for tropical regions. Diversity and Distributions 19(2): 215-231 doi:[http://dx.doi.org/10.1111/ddi.12012 10.1111/ddi.12012]. 
+* Encyclopedia of Life, [http://eol.org/pages/175288/overview Taxon page for Catasticta sisamnus]
+* U. Eitschberger and T. Racheli. “Catasticta studies (Lepidoptera:Pieridae)”. In: ''Neue Entomologiste Nachrichten'' 41 (1998), pp. 5-94.
+* F. Rey. ''Distribución geográfica de Pieridae (Insecta: Lepidoptera)del estado Táchira''. publicado en linea, última visita en Agosto 2007.1999. <URL:http://www.unet.edu.ve/~frey/varios/entomologia/mariposas/mar/>.

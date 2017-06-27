@@ -1,0 +1,50 @@
+{{Ficha de taxón 
+  | name = Pereute lindemannae
+  | status = NE
+  | image = Image_placeholder.svg 
+  | image_width = 240 px 
+  | regnum = [[Animalia]] 
+  | phylum = [[Arthropoda]] 
+  | classis = [[Insecta]] 
+  | ordo = [[Lepidoptera]] 
+  | familia = [[Pieridae]] 
+  | genus = ''[[Pereute]]'' 
+  | species = ''Pereute lindemannae'' 
+  | binomial = ''Pereute lindemannae'' 
+  | binomial_authority = ''Reissinger, 1970''   
+  | range_map = Map_placeholder.svg 
+  | range_map_width = 240 px 
+  | range_map_caption = Mapa de distribución de Pereute lindemannae
+}} 
+=== Taxonomía === 
+El género [[Pereute]] pertenece a la subfamilia Pierinae y está representado en Venezuela por 5 especies, y un total de 9 especies a nivel mundial.
+==== Nombres comunes ====
+
+==== Notas taxonómicas ====
+
+==== Sinónimos ====
+
+=== Descripción ===
+Para esta especie hay información disponible en Biodiversity Heritage Library ([http://www.biodiversitylibrary.org BHL]), .
+=== Distribución === 
+Especie presente en Venezuela, distribución no precisada.
+=== Situación === 
+Esta especie requiere una evaluación más detallada para determinar su situación actual
+
+* ''''Lista Roja Venezuela'''' 1995 No evaluado
+* ''''Lista Roja Venezuela'''' 2003 No evaluado
+* ''''Lista Roja Venezuela'''' 2008 No evaluado
+=== Amenazas === 
+
+=== Conservación === 
+
+
+=== Editores y Colaboradores === 
+[[Usuario:Jrfep|J.R. Ferrer Paris]]
+
+=== Referencias ===
+* Costa, Viloria, Huber, Attal, Orellana (2013) Lepidoptera del Pantepui. Parte I: Endemismo y caracterización biogeográfica. Entomotropica 28(3): 193-217 [NA]
+* Costa, Viloria, Huber, Attal, Orellana (2013) Lepidoptera del Pantepui. Parte I: Endemismo y caracterización biogeográfica. Entomotropica 28(3): 193-217 [NA]
+* Costa, Viloria, Huber, Attal, Orellana (2013) Lepidoptera del Pantepui. Parte I: Endemismo y caracterización biogeográfica. Entomotropica 28(3): 193-217 [NA]
+* Encyclopedia of Life, [http://eol.org/pages/178991/overview Taxon page for Pereute lindemannae]
+* J. De Marmels, J. A. Clavijo and M. E. Chac\'\in. “Two newsubspecies of ''Pereute lindemannae'' and one of ''Pseudopieris viridula''from Pantepui, Venezuela (Pieridae)”. In: ''Journal of theLepidopterists\'~Society'' 57.2 (jun. 2003), pp. 86-91.

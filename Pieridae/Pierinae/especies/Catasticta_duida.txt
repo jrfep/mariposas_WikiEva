@@ -1,0 +1,49 @@
+{{Ficha de taxón 
+  | name = Catasticta duida
+  | status = NT
+  | image = Image_placeholder.svg 
+  | image_width = 240 px 
+  | regnum = [[Animalia]] 
+  | phylum = [[Arthropoda]] 
+  | classis = [[Insecta]] 
+  | ordo = [[Lepidoptera]] 
+  | familia = [[Pieridae]] 
+  | genus = ''[[Catasticta]]'' 
+  | species = ''Catasticta duida'' 
+  | binomial = ''Catasticta duida'' 
+  | binomial_authority = ''Brown, 1932''   
+  | range_map = Map_placeholder.svg 
+  | range_map_width = 240 px 
+  | range_map_caption = Mapa de distribución de Catasticta duida
+}} 
+=== Taxonomía === 
+El género [[Catasticta]] pertenece a la subfamilia Pierinae y está representado en Venezuela por 23 especies, y un total de 96 especies a nivel mundial. Especie descrita a principios del siglo XX.
+==== Nombres comunes ====
+
+==== Notas taxonómicas ====
+
+==== Sinónimos ====
+
+=== Descripción ===
+Para esta especie hay información disponible en Wikipedia ([http://www.wikipedia.org]), Global Biodiversity Information Facility ([http://www.gbif.org GBIF]).
+=== Distribución === 
+Especie endémica de la región de Pantepui, con una extensión de la distribución menor a 382800 km2 y un área ocupada estimada en 616 +/- 54 km2.
+=== Situación === 
+Mariposa de distribución restringida, actualmente no cumple con los criterios de una especie amenazada, pero podría llegar a estarlo en un futuro. Se requiere un seguimiento constante de su situación.
+
+* ''''Lista Roja Venezuela'''' 1995 No evaluado
+* ''''Lista Roja Venezuela'''' 2003 No evaluado
+* ''''Lista Roja Venezuela'''' 2008 No evaluado
+=== Amenazas === 
+
+=== Conservación === 
+
+
+=== Editores y Colaboradores === 
+[[Usuario:Jrfep|J.R. Ferrer Paris]]
+
+=== Referencias ===
+* Costa, Viloria, Huber, Attal, Orellana (2013) Lepidoptera del Pantepui. Parte I: Endemismo y caracterización biogeográfica. Entomotropica 28(3): 193-217 [NA]
+
+* F. M. Brown. “Pieridae from the regions of Mt. Duida and Mt.Roraima”. In: ''American Museum Novitates'' 572 (1932), pp. 1-7.
+* U. Eitschberger and T. Racheli. “Catasticta studies (Lepidoptera:Pieridae)”. In: ''Neue Entomologiste Nachrichten'' 41 (1998), pp. 5-94.
